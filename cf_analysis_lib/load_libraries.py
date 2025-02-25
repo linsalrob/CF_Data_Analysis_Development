@@ -57,4 +57,8 @@ except ImportError:
 
 from adjustText import adjust_text
 
+# ignore adjustText warnings in this block
+warnings.filterwarnings("ignore", category=UserWarning, module='adjustText')
 
+replace_index = re.compile(r'^\d+\s+')
+replace_nonword = re.compile(r'\W+')
