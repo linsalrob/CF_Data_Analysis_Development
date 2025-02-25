@@ -11,9 +11,10 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor, RandomForestClassifier, GradientBoostingClassifier, GradientBoostingRegressor
 from sklearn.metrics import mean_squared_error
 
-def gb_classifier(X, y, n_estimators=10000):
+def gb_classifier_model(X, y, n_estimators=10000):
     """
-    Run a classifier for categorical data and return the mean squared error and the feature importances
+    Build a classifier and return the model. 
+    This is abstracted so we can access it directly
     """
 
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
@@ -46,12 +47,21 @@ def gb_classifier(X, y, n_estimators=10000):
     # Feature importance
     feature_importances = pd.DataFrame(model.feature_importances_, index=X.columns, columns=['importance'])
     feature_importances_sorted = feature_importances.sort_values(by='importance', ascending=False)
+    return model, mse, feature_importances_sorted
+
+
+def gb_classifier(X, y, n_estimators=10000):
+    """
+    Run a classifier for categorical data and return the mean squared error and the feature importances
+    """
+
+    model, mse, feature_importances_sorted = gb_classifier_model(X, y, n_estimators)
     return mse, feature_importances_sorted
 
 
-def gb_regressor(X, y, n_estimators=10000):
+def gb_regressor_model(X, y, n_estimators=10000):
     """
-    Run a regressor for continuous data and return the mean squared error and the feature importances
+    Abstract out the regression so we can access the model
     """
 
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
@@ -68,6 +78,14 @@ def gb_regressor(X, y, n_estimators=10000):
     # Feature importance
     feature_importances = pd.DataFrame(model.feature_importances_, index=X.columns, columns=['importance'])
     feature_importances_sorted = feature_importances.sort_values(by='importance', ascending=False)
+    return model, mse, feature_importances_sorted
+
+
+def gb_regressor(X, y, n_estimators=10000):
+    """
+    Run a regressor for continuous data and return the mean squared error and the feature importances
+    """
+    model, mse, feature_importances_sorted = gb_regressor_model(X, y, n_estimators)
     return mse, feature_importances_sorted
 
 
