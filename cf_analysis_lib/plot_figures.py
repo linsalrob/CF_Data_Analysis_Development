@@ -85,6 +85,29 @@ def plot_top_features(merged_df, top_features, top_feature_counts, intcol, intco
     plt.tight_layout(rect=[0, 0, 1, 0.9])
     plt.show()
 
+def plot_one_top_feature(merged_df, tfdf, intcol, intcol_title, custom_labels=None):
+
+    n = 20
+    topN = list(tfdf[:n].index) + [intcol]
+    fig, axes = plt.subplots(figsize=(10, 6), nrows=1, ncols=2, sharey='row', sharex='col')
+    plot_feature_importance(axes[0], tfdf[:n][::-1], "")
+    plot_feature_abundance(axes[1], merged_df[topN][::-1], intcol, intcol_title)
+
+    if not custom_labels:
+        custom_labels = {0: 'No', 1: 'Yes'}
+
+    handles, labels = axes[1].get_legend_handles_labels()  # Get one set of handles and labels
+    updated_labels = [custom_labels[float(label)] for label in labels]
+
+    for ax in axes.flat:
+        if ax.get_legend() is not None:  # Check if legend exists
+            ax.get_legend().remove()
+
+    plt.xticks(rotation=90)
+    fig.legend(handles, updated_labels, loc='upper center', ncol=2, title=intcol_title)
+    plt.tight_layout(rect=[0, 0, 1, 0.9])
+    plt.show()
+
 
 def plot_pca(ax, df, metadata, cluster_assignments, interesting_cluster, intcol):
     pca = PCA(n_components=2)
