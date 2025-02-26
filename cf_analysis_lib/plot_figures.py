@@ -9,6 +9,7 @@ import pandas as pd
 import seaborn as sns
 
 from sklearn.preprocessing import MinMaxScaler, OrdinalEncoder
+from sklearn.metrics import mean_squared_error, roc_curve, auc
 
 from itertools import cycle
 from sklearn.decomposition import PCA
@@ -196,3 +197,48 @@ def create_custom_labels(metadata, intcol, merged_df, custom_labels=None):
         return None, None
 
     return categorical_data, custom_labels
+
+
+def plot_roc_curves(model, X, y, importances, met='classifier', intcol_title=""):
+    """
+    Plot the ROC curves for the model
+    :param model: The machine learning model, hopefully a classifier
+    :param X: The merged dataframe, X = merged_df.drop(intcol, axis=1)
+    :param y: The truth, y = merged_df[intcol]
+    :param importances: The feature importances, feature_importances_sorted
+    :param met: classifier or regressor
+    :param intcol_title: the display title of the interesting column
+    :return: A matplotlib plot
+    """
+
+    plt.figure()
+
+    y_proba = model.predict_proba(X)[:, 1]
+
+    fpr, tpr, thresholds = roc_curve(y, y_proba)
+    roc_auc = auc(fpr, tpr)
+
+    plt.plot(fpr, tpr, lw=2, label=f'Overall {met} (all data)\n(area = {roc_auc:.2f})')
+
+    n = 5
+    for clust in importances[:n].index:
+        y_scores = X[clust]
+
+        # Compute ROC curve and AUC
+        fpr, tpr, thresholds = roc_curve(y, y_scores)
+        roc_auc = auc(fpr, tpr)
+        if roc_auc < 0.5:
+            y_scores = -y_scores
+            fpr, tpr, thresholds = roc_curve(y, y_scores)
+            roc_auc = auc(fpr, tpr)
+
+        plt.plot(fpr, tpr, lw=1, label=f'{clust} (area = {roc_auc:.2f})', linestyle='-.')
+
+    plt.plot([0, 1], [0, 1], color='grey', lw=0.5, linestyle='--', alpha=0.5)
+    plt.xlabel('False Positive Rate')
+    plt.xlim(0, 1)
+    plt.ylim(0, 1)
+    plt.ylabel('True Positive Rate')
+    plt.title(f'Predicting {intcol_title}')
+    plt.legend(loc="lower right")
+    return plt

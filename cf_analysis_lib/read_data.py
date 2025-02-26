@@ -10,7 +10,6 @@ import os
 import sys
 import pandas as pd
 from sklearn.impute import SimpleImputer
-
 from .metadata_data import metadata_definitions
 
 corrections = {
@@ -100,17 +99,18 @@ def read_metadata(datadir, sequence_type, categorise=False, verbose=False):
     # imputer = SimpleImputer(strategy='most_frequent')
     # mean_imputer = SimpleImputer(strategy='mean')
     if categorise:
-        if verbose:
-            print(f"Converting {c} to category. Make sure to dropna(axis=1)", file=sys.stderr)
         # convert the metadata to categories!
         mdx_types = metadata_definitions()
         for c in metadata.columns:
             if c in mdx_types and mdx_types[c] == 'Categorical':
+                if verbose:
+                    print(f"Converting {c} to category. Make sure to dropna(axis=1)", file=sys.stderr)
                 metadata[c] = metadata[c].astype('category')
             elif c in mdx_types and mdx_types[c] == 'Date':
                 metadata[c] = pd.to_datetime(metadata[c])
 
     return metadata
+
 
 def read_subsystems(subsystems_file, sequence_type):
     """
@@ -125,6 +125,7 @@ def read_subsystems(subsystems_file, sequence_type):
         df = pd.read_csv(subsystems_file, sep='\t', index_col=0)
     df = df.rename(columns=corrections[sequence_type.lower()])
     return df
+
 
 def sorted_presence_absence(df1, df2, minrowsum=0, asc_sort=False):
     """
@@ -147,7 +148,7 @@ def sorted_presence_absence(df1, df2, minrowsum=0, asc_sort=False):
     # combine the two matrices and sort them
     both = df1_presence.add(df2_presence, fill_value=0)
     sboth = both.loc[both.sum(axis=1).sort_values(ascending=asc_sort).index]
-    sboth = sboth.sort_index(axis=1) # sort by column names
+    sboth = sboth.sort_index(axis=1)  # sort by column names
 
     return sboth
 
