@@ -4,6 +4,7 @@ Random Forests and Gradient Boosted Random Forests for classification and regres
 This was cut from the GBRF jupyter notebook so we can use it elsewhere.
 
 """
+import sys
 
 import pandas as pd
 
@@ -63,6 +64,9 @@ def gb_classifier_model(X, y, n_estimators=100):
 
     model.fit(X_train, y_train)
 
+    if model.n_estimators_ < n_estimators:
+        print(f"WARNING: Early stopping after only {model.n_estimators_} estimators were built to avoid overfitting", file=sys.stderr)
+
     # Make predictions on the test set
     y_pred = model.predict(X_test)
 
@@ -98,6 +102,10 @@ def gb_regressor_model(X, y, n_estimators=100):
         n_iter_no_change=10,
     )
     model.fit(X_train, y_train)
+
+    if model.n_estimators_ < n_estimators:
+        print(f"WARNING: Early stopping after only {model.n_estimators_} estimators were built to avoid overfitting",
+              file=sys.stderr)
 
     # Make predictions on the test set
     y_pred = model.predict(X_test)
