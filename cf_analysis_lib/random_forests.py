@@ -32,7 +32,7 @@ def get_appropriate_n_estimators(X, y):
     # Get the optimal number of trees
     return model.n_estimators_
 
-def gb_classifier_model(X, y, n_estimators=10):
+def gb_classifier_model(X, y, n_estimators=100):
     """
     Build a classifier and return the model. 
     This is abstracted so we can access it directly
@@ -42,9 +42,11 @@ def gb_classifier_model(X, y, n_estimators=10):
 
     model = GradientBoostingClassifier(
         max_features="sqrt",
+        validation_fraction = 0.2,
+        n_iter_no_change = 10,
         n_estimators=n_estimators,
         learning_rate=0.005,
-        min_samples_leaf=10,
+        min_samples_leaf=5,
         max_depth=5
     )
 
@@ -55,6 +57,8 @@ def gb_classifier_model(X, y, n_estimators=10):
     max_features='sqrt',    # random subset of features at each split
     min_samples_leaf=5,     # minimum samples per leaf
     random_state=42         # for reproducibility
+    n_iter_no_change=10,    # early stopping after 10 iterations without improvement
+    validation_fraction=0.2 # use 20% of the training data as hold-out for early stopping
     """
 
     model.fit(X_train, y_train)
@@ -71,7 +75,7 @@ def gb_classifier_model(X, y, n_estimators=10):
     return model, mse, feature_importances_sorted
 
 
-def gb_classifier(X, y, n_estimators=10):
+def gb_classifier(X, y, n_estimators=100):
     """
     Run a classifier for categorical data and return the mean squared error and the feature importances
     """
@@ -80,14 +84,19 @@ def gb_classifier(X, y, n_estimators=10):
     return mse, feature_importances_sorted
 
 
-def gb_regressor_model(X, y, n_estimators=10):
+def gb_regressor_model(X, y, n_estimators=100):
     """
     Abstract out the regression so we can access the model
     """
 
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-    model = GradientBoostingRegressor(max_features="sqrt", n_estimators=n_estimators)
+    model = GradientBoostingRegressor(
+        max_features="sqrt",
+        n_estimators=n_estimators,
+        validation_fraction=0.2,
+        n_iter_no_change=10,
+    )
     model.fit(X_train, y_train)
 
     # Make predictions on the test set
