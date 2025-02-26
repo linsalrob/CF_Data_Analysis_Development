@@ -11,7 +11,28 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor, RandomForestClassifier, GradientBoostingClassifier, GradientBoostingRegressor
 from sklearn.metrics import mean_squared_error
 
-def gb_classifier_model(X, y, n_estimators=10000):
+
+def get_appropriate_n_estimators(X, y):
+    """
+    Get the appropriate number of estimators for the model
+    :param X: the features
+    :param y: the target
+    :return: the optimal number of estimators for this model
+    """
+    # Split dataset
+    X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=0.2, stratify=y, random_state=42)
+
+    # Initialize model with early stopping
+    model = GradientBoostingClassifier(n_estimators=100, validation_fraction=0.2,
+                                       n_iter_no_change=10, random_state=42)
+
+    # Fit model (automatically stops when validation loss stops improving)
+    model.fit(X_train, y_train)
+
+    # Get the optimal number of trees
+    return model.n_estimators_
+
+def gb_classifier_model(X, y, n_estimators=10):
     """
     Build a classifier and return the model. 
     This is abstracted so we can access it directly
@@ -50,7 +71,7 @@ def gb_classifier_model(X, y, n_estimators=10000):
     return model, mse, feature_importances_sorted
 
 
-def gb_classifier(X, y, n_estimators=10000):
+def gb_classifier(X, y, n_estimators=10):
     """
     Run a classifier for categorical data and return the mean squared error and the feature importances
     """
@@ -59,7 +80,7 @@ def gb_classifier(X, y, n_estimators=10000):
     return mse, feature_importances_sorted
 
 
-def gb_regressor_model(X, y, n_estimators=10000):
+def gb_regressor_model(X, y, n_estimators=10):
     """
     Abstract out the regression so we can access the model
     """
@@ -81,7 +102,7 @@ def gb_regressor_model(X, y, n_estimators=10000):
     return model, mse, feature_importances_sorted
 
 
-def gb_regressor(X, y, n_estimators=10000):
+def gb_regressor(X, y, n_estimators=10):
     """
     Run a regressor for continuous data and return the mean squared error and the feature importances
     """
