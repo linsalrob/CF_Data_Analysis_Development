@@ -18,6 +18,6 @@ __all__ = ['read_taxonomy', 'read_metadata', 'corrections', 'read_subsystems',
            'random_forest_classifier', 'random_forest_regression', 'gb_classifier', 'gb_regressor', 'plot_top_features',
            'gb_classifier_model', 'gb_regressor_model',
            'plot_pca', 'plot_feature_importance', 'plot_feature_abundance', 'plot_top_features', 'plot_abundance_stripplot',
-           'plot_one_top_feature', 'plot_roc_curves'
+           'plot_one_top_feature', 'plot_roc_curves',
            'pd2docx', 'create_custom_labels'
         ]
