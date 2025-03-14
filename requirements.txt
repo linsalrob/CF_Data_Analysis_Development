@@ -1,9 +1,11 @@
 adjustText
+community
 fastcluster
 python-louvain
 jupyter
 matplotlib
 natsort
+networkx
 numpy
 pandas
 python-docx
