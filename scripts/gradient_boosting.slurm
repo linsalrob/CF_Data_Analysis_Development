@@ -30,4 +30,6 @@ python /home/edwa0468/GitHubs/CF_Data_Analysis/scripts/gradient_boosting.py \
 				--taxa $TAXA \
 				--verbose \
 				--datadir '../..' \
-				--printall
+				--printall \
+				--skipto 'Pancreatic insufficiency (PI)' \
+				--force
