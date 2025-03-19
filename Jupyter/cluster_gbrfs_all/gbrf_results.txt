@@ -1,0 +1,2669 @@
+Predictor	Feature	Importance
+Mean squared error for Best FEV1 using regressor is 232.64659806630627
+Features appearing at least once
+Best FEV1	Cluster 591	0.06971492049753088
+Best FEV1	Cluster 163	0.06333143524890114
+Best FEV1	Cluster 756	0.05058118211669748
+Best FEV1	Cluster 1328	0.037652494456401946
+Best FEV1	Cluster 688	0.031403255684650834
+Best FEV1	Cluster 1448	0.024732121064898503
+Best FEV1	Cluster 224	0.021994440854866334
+Best FEV1	Cluster 1323	0.021441443292442217
+Best FEV1	Cluster 847	0.02107555733459429
+Best FEV1	Cluster 1084	0.018549821259454174
+Best FEV1	Cluster 1423	0.01640378017640441
+Best FEV1	Cluster 233	0.016010510571516805
+Best FEV1	Cluster 1481	0.014954441666615092
+Best FEV1	Cluster 1479	0.014754835171562867
+Best FEV1	Cluster 18	0.014009938851906415
+Best FEV1	Cluster 245	0.013048580947543312
+Best FEV1	Cluster 678	0.012385583112991618
+Best FEV1	Cluster 1052	0.011210483678468202
+Best FEV1	Cluster 447	0.011038002030824933
+Best FEV1	Cluster 960	0.010872036494434526
+
+Mean squared error for FEV1/best FEV1 using regressor is 0.006609571688725636
+Features appearing at least once
+FEV1/best FEV1	Cluster 544	0.043497165556858265
+FEV1/best FEV1	Cluster 574	0.04103037825429309
+FEV1/best FEV1	Cluster 585	0.03471427412487684
+FEV1/best FEV1	Cluster 565	0.02961632172715629
+FEV1/best FEV1	Cluster 76	0.02769399883104181
+FEV1/best FEV1	Cluster 975	0.027560559232898133
+FEV1/best FEV1	Cluster 836	0.023730063346219653
+FEV1/best FEV1	Cluster 712	0.022411086398954214
+FEV1/best FEV1	Cluster 816	0.022199007619836224
+FEV1/best FEV1	Cluster 353	0.01913894907204019
+FEV1/best FEV1	Cluster 1019	0.016271287416993435
+FEV1/best FEV1	Cluster 537	0.015757330275753996
+FEV1/best FEV1	Cluster 1243	0.015616074547296892
+FEV1/best FEV1	Cluster 862	0.014424243329593153
+FEV1/best FEV1	Cluster 491	0.014364467739081063
+FEV1/best FEV1	Cluster 1253	0.014022292870202497
+FEV1/best FEV1	Cluster 649	0.013528539684294547
+FEV1/best FEV1	Cluster 1207	0.012157002164733255
+FEV1/best FEV1	Cluster 1296	0.011786270467783824
+FEV1/best FEV1	Cluster 1283	0.011774156704389513
+
+Mean squared error for FEV1_RATIO_SCORE using classifier is 0.76
+Features appearing at least once
+FEV1_RATIO_SCORE	Cluster 992	0.010118930646883373
+FEV1_RATIO_SCORE	Cluster 1020	0.007899126883525414
+FEV1_RATIO_SCORE	Cluster 916	0.007565729287352214
+FEV1_RATIO_SCORE	Cluster 1021	0.006439666953522358
+FEV1_RATIO_SCORE	Cluster 1262	0.006353450474911095
+FEV1_RATIO_SCORE	Cluster 657	0.006201811000937229
+FEV1_RATIO_SCORE	Cluster 690	0.005477516273624118
+FEV1_RATIO_SCORE	Cluster 902	0.0053305081937244396
+FEV1_RATIO_SCORE	Cluster 1065	0.00529209963085071
+FEV1_RATIO_SCORE	Cluster 677	0.005208327068899743
+FEV1_RATIO_SCORE	Cluster 1272	0.005151172037756263
+FEV1_RATIO_SCORE	Cluster 648	0.0048679147059775075
+FEV1_RATIO_SCORE	Cluster 31	0.004813540570915431
+FEV1_RATIO_SCORE	Cluster 805	0.004685979521718044
+FEV1_RATIO_SCORE	Cluster 1254	0.004538703835733508
+FEV1_RATIO_SCORE	Cluster 146	0.004393508307182009
+FEV1_RATIO_SCORE	Cluster 950	0.004240615568419896
+FEV1_RATIO_SCORE	Cluster 1136	0.004158890032646207
+FEV1_RATIO_SCORE	Cluster 1104	0.00409016273398573
+FEV1_RATIO_SCORE	Cluster 565	0.004009033973263103
+
+Mean squared error for FEV1_Obstruction_Rank using classifier is 0.12
+Features appearing at least once
+FEV1_Obstruction_Rank	Cluster 1262	0.03869515458929158
+FEV1_Obstruction_Rank	Cluster 1080	0.02674166132522076
+FEV1_Obstruction_Rank	Cluster 1021	0.022136202176611008
+FEV1_Obstruction_Rank	Cluster 1268	0.018009927677132664
+FEV1_Obstruction_Rank	Cluster 755	0.016171711517487922
+FEV1_Obstruction_Rank	Cluster 1277	0.01612571542444678
+FEV1_Obstruction_Rank	Cluster 901	0.015053456155396373
+FEV1_Obstruction_Rank	Cluster 1178	0.014888179249578854
+FEV1_Obstruction_Rank	Cluster 1409	0.014328402404570064
+FEV1_Obstruction_Rank	Cluster 648	0.012719717099969337
+FEV1_Obstruction_Rank	Cluster 699	0.012458743840055337
+FEV1_Obstruction_Rank	Cluster 1120	0.011373651022441849
+FEV1_Obstruction_Rank	Cluster 550	0.011134704175903483
+FEV1_Obstruction_Rank	Cluster 1318	0.010669895534612263
+FEV1_Obstruction_Rank	Cluster 321	0.010578254091026324
+FEV1_Obstruction_Rank	Cluster 403	0.010441495037134095
+FEV1_Obstruction_Rank	Cluster 632	0.010234354678067189
+FEV1_Obstruction_Rank	Cluster 1267	0.010084920840206034
+FEV1_Obstruction_Rank	Cluster 1225	0.0098501418482636
+FEV1_Obstruction_Rank	Cluster 870	0.009819132549849448
+
+Mean squared error for Cystic Fibrosis related diabetes (CFRD) using classifier is 0.15384615384615385
+Features appearing at least once
+Cystic Fibrosis related diabetes (CFRD)	Cluster 148	0.012393913307970492
+Cystic Fibrosis related diabetes (CFRD)	Cluster 208	0.00925494459181514
+Cystic Fibrosis related diabetes (CFRD)	Cluster 49	0.008459858245661804
+Cystic Fibrosis related diabetes (CFRD)	Cluster 1460	0.00772297347979202
+Cystic Fibrosis related diabetes (CFRD)	Cluster 364	0.00730973528052196
+Cystic Fibrosis related diabetes (CFRD)	Cluster 614	0.006967789610852142
+Cystic Fibrosis related diabetes (CFRD)	Cluster 1120	0.006932364889565313
+Cystic Fibrosis related diabetes (CFRD)	Cluster 300	0.006854197577318362
+Cystic Fibrosis related diabetes (CFRD)	Cluster 918	0.006757754653734654
+Cystic Fibrosis related diabetes (CFRD)	Cluster 1149	0.006612025871714118
+Cystic Fibrosis related diabetes (CFRD)	Cluster 35	0.006559746688387435
+Cystic Fibrosis related diabetes (CFRD)	Cluster 327	0.006507692422577743
+Cystic Fibrosis related diabetes (CFRD)	Cluster 332	0.006485299121262462
+Cystic Fibrosis related diabetes (CFRD)	Cluster 353	0.006069695114573369
+Cystic Fibrosis related diabetes (CFRD)	Cluster 666	0.00595021793847456
+Cystic Fibrosis related diabetes (CFRD)	Cluster 1414	0.005804159650249257
+Cystic Fibrosis related diabetes (CFRD)	Cluster 855	0.005407682793620983
+Cystic Fibrosis related diabetes (CFRD)	Cluster 1100	0.005294341076144247
+Cystic Fibrosis related diabetes (CFRD)	Cluster 1119	0.005270711530064809
+Cystic Fibrosis related diabetes (CFRD)	Cluster 338	0.005227533001473101
+
+Mean squared error for Pancreatic insufficiency (PI) using classifier is 0.0
+Features appearing at least once
+Pancreatic insufficiency (PI)	Cluster 1201	0.0320395267109169
+Pancreatic insufficiency (PI)	Cluster 909	0.026786705933392243
+Pancreatic insufficiency (PI)	Cluster 257	0.024090472081730246
+Pancreatic insufficiency (PI)	Cluster 819	0.02351329031347498
+Pancreatic insufficiency (PI)	Cluster 1189	0.022369061355576595
+Pancreatic insufficiency (PI)	Cluster 1207	0.021657057638014707
+Pancreatic insufficiency (PI)	Cluster 1486	0.02163095028530425
+Pancreatic insufficiency (PI)	Cluster 668	0.020590501378593383
+Pancreatic insufficiency (PI)	Cluster 1443	0.019407693582735506
+Pancreatic insufficiency (PI)	Cluster 1457	0.018422337186213108
+Pancreatic insufficiency (PI)	Cluster 430	0.017997928283562097
+Pancreatic insufficiency (PI)	Cluster 1466	0.017528726550293226
+Pancreatic insufficiency (PI)	Cluster 1206	0.01620652351343316
+Pancreatic insufficiency (PI)	Cluster 48	0.015942730585867412
+Pancreatic insufficiency (PI)	Cluster 301	0.015194557110418543
+Pancreatic insufficiency (PI)	Cluster 1382	0.01475426762153589
+Pancreatic insufficiency (PI)	Cluster 556	0.013884628112867024
+Pancreatic insufficiency (PI)	Cluster 1001	0.013813489382524347
+Pancreatic insufficiency (PI)	Cluster 1209	0.013458136854378308
+Pancreatic insufficiency (PI)	Cluster 729	0.013453088118062772
+
+Mean squared error for CFLD using classifier is 0.7083333333333334
+Features appearing at least once
+CFLD	Cluster 1418	0.016290428925830786
+CFLD	Cluster 719	0.01565403921423116
+CFLD	Cluster 1448	0.014178540485691985
+CFLD	Cluster 1224	0.013922961126435224
+CFLD	Cluster 845	0.013857517727849772
+CFLD	Cluster 722	0.013087153220539249
+CFLD	Cluster 415	0.012923019975637405
+CFLD	Cluster 299	0.012842183079568026
+CFLD	Cluster 335	0.01163501275091991
+CFLD	Cluster 1237	0.010604134871752558
+CFLD	Cluster 698	0.010506170227102126
+CFLD	Cluster 1420	0.009416375703443173
+CFLD	Cluster 679	0.009109383222511756
+CFLD	Cluster 1417	0.009103542108082086
+CFLD	Cluster 527	0.009061062517136755
+CFLD	Cluster 14	0.008426442816607921
+CFLD	Cluster 1323	0.008284188496351723
+CFLD	Cluster 495	0.008043288316089903
+CFLD	Cluster 470	0.007917492754766208
+CFLD	Cluster 723	0.007624212993915746
+
+Mean squared error for CS_mucoid using classifier is 0.11538461538461539
+Features appearing at least once
+CS_mucoid	Cluster 2	0.041602510914214706
+CS_mucoid	Cluster 3	0.027476836858475996
+CS_mucoid	Cluster 25	0.024539539850850042
+CS_mucoid	Cluster 16	0.018960485617727854
+CS_mucoid	Cluster 4	0.01729817805319072
+CS_mucoid	Cluster 38	0.016853747191623757
+CS_mucoid	Cluster 9	0.0146972857208387
+CS_mucoid	Cluster 732	0.014676929685199293
+CS_mucoid	Cluster 1	0.01444030028673984
+CS_mucoid	Cluster 950	0.013531150231161797
+CS_mucoid	Cluster 12	0.011987851216575517
+CS_mucoid	Cluster 37	0.010982685918253602
+CS_mucoid	Cluster 20	0.010765285926592117
+CS_mucoid	Cluster 5	0.009502142070433072
+CS_mucoid	Cluster 840	0.008952850047883872
+CS_mucoid	Cluster 833	0.008645136226715743
+CS_mucoid	Cluster 741	0.008395347269129638
+CS_mucoid	Cluster 35	0.008230036267611087
+CS_mucoid	Cluster 82	0.008074217331757822
+CS_mucoid	Cluster 62	0.008051508384936444
+
+Mean squared error for CS_non-mucoid using classifier is 0.07692307692307693
+Features appearing at least once
+CS_non-mucoid	Cluster 964	0.03449346801557571
+CS_non-mucoid	Cluster 1220	0.024095078536581355
+CS_non-mucoid	Cluster 1235	0.019566201717447027
+CS_non-mucoid	Cluster 923	0.019152965930762537
+CS_non-mucoid	Cluster 344	0.01877817728449455
+CS_non-mucoid	Cluster 255	0.01699660183247544
+CS_non-mucoid	Cluster 1258	0.014496030040837129
+CS_non-mucoid	Cluster 242	0.01313092818154382
+CS_non-mucoid	Cluster 820	0.01232303984617925
+CS_non-mucoid	Cluster 1248	0.012203681534729878
+CS_non-mucoid	Cluster 855	0.011968818251503668
+CS_non-mucoid	Cluster 763	0.011693298545092457
+CS_non-mucoid	Cluster 1400	0.011638291128759507
+CS_non-mucoid	Cluster 1171	0.010700852723106325
+CS_non-mucoid	Cluster 992	0.00956145217032671
+CS_non-mucoid	Cluster 856	0.008232313997183835
+CS_non-mucoid	Cluster 453	0.008120688228389185
+CS_non-mucoid	Cluster 616	0.00811689558218214
+CS_non-mucoid	Cluster 75	0.007722355724702437
+CS_non-mucoid	Cluster 900	0.007675070161092443
+
+Mean squared error for CS_Pseudomonas aeruginosa using classifier is 0.15384615384615385
+Features appearing at least once
+CS_Pseudomonas aeruginosa	Cluster 3	0.021426227863296947
+CS_Pseudomonas aeruginosa	Cluster 76	0.017697816618252715
+CS_Pseudomonas aeruginosa	Cluster 840	0.01711023427200893
+CS_Pseudomonas aeruginosa	Cluster 2	0.015813581361003658
+CS_Pseudomonas aeruginosa	Cluster 9	0.014334568789787592
+CS_Pseudomonas aeruginosa	Cluster 950	0.013619238211225997
+CS_Pseudomonas aeruginosa	Cluster 1062	0.013376368827697008
+CS_Pseudomonas aeruginosa	Cluster 800	0.012409829532506331
+CS_Pseudomonas aeruginosa	Cluster 37	0.011597576079961699
+CS_Pseudomonas aeruginosa	Cluster 43	0.010963376928356442
+CS_Pseudomonas aeruginosa	Cluster 736	0.010730729657373308
+CS_Pseudomonas aeruginosa	Cluster 5	0.010614039291832486
+CS_Pseudomonas aeruginosa	Cluster 964	0.010457243733617467
+CS_Pseudomonas aeruginosa	Cluster 14	0.010054988841203646
+CS_Pseudomonas aeruginosa	Cluster 255	0.009588086117346684
+CS_Pseudomonas aeruginosa	Cluster 963	0.0095460511457702
+CS_Pseudomonas aeruginosa	Cluster 584	0.009424350005036953
+CS_Pseudomonas aeruginosa	Cluster 4	0.009284474881309002
+CS_Pseudomonas aeruginosa	Cluster 78	0.008904282706405288
+CS_Pseudomonas aeruginosa	Cluster 42	0.008595954581822005
+
+Mean squared error for CS_Oral flora using classifier is 0.34615384615384615
+Features appearing at least once
+CS_Oral flora	Cluster 1323	0.018263428482196604
+CS_Oral flora	Cluster 164	0.018181759824978324
+CS_Oral flora	Cluster 836	0.017055103660460716
+CS_Oral flora	Cluster 352	0.016167727285165082
+CS_Oral flora	Cluster 1480	0.014828164239446587
+CS_Oral flora	Cluster 127	0.012407642955401813
+CS_Oral flora	Cluster 1123	0.012375789141031808
+CS_Oral flora	Cluster 916	0.012232713818988866
+CS_Oral flora	Cluster 806	0.011987792582740119
+CS_Oral flora	Cluster 913	0.010584372987832451
+CS_Oral flora	Cluster 332	0.010366553017554575
+CS_Oral flora	Cluster 1149	0.010340144163270752
+CS_Oral flora	Cluster 184	0.009850137430961194
+CS_Oral flora	Cluster 479	0.009624007599590478
+CS_Oral flora	Cluster 1396	0.009240718837717538
+CS_Oral flora	Cluster 28	0.008915887716546667
+CS_Oral flora	Cluster 1150	0.008892882265461501
+CS_Oral flora	Cluster 61	0.00825104218805735
+CS_Oral flora	Cluster 799	0.00813199166423441
+CS_Oral flora	Cluster 49	0.007935538016139325
+
+Mean squared error for CS_Stenophotomonas maltophilia using classifier is 0.07692307692307693
+Features appearing at least once
+CS_Stenophotomonas maltophilia	Cluster 918	0.023778094972535843
+CS_Stenophotomonas maltophilia	Cluster 1404	0.023199311300296163
+CS_Stenophotomonas maltophilia	Cluster 307	0.022194759093026303
+CS_Stenophotomonas maltophilia	Cluster 827	0.02035606394734247
+CS_Stenophotomonas maltophilia	Cluster 1327	0.01886409965342214
+CS_Stenophotomonas maltophilia	Cluster 71	0.01864929631278615
+CS_Stenophotomonas maltophilia	Cluster 299	0.01802065224377245
+CS_Stenophotomonas maltophilia	Cluster 973	0.017988706860846495
+CS_Stenophotomonas maltophilia	Cluster 932	0.01715107222125723
+CS_Stenophotomonas maltophilia	Cluster 447	0.016273250406824955
+CS_Stenophotomonas maltophilia	Cluster 947	0.016085055859511442
+CS_Stenophotomonas maltophilia	Cluster 280	0.015550020740758551
+CS_Stenophotomonas maltophilia	Cluster 1010	0.013893149565363482
+CS_Stenophotomonas maltophilia	Cluster 290	0.013718821388140887
+CS_Stenophotomonas maltophilia	Cluster 983	0.013339826311316853
+CS_Stenophotomonas maltophilia	Cluster 822	0.012135611962148466
+CS_Stenophotomonas maltophilia	Cluster 1184	0.011742813263982941
+CS_Stenophotomonas maltophilia	Cluster 99	0.010518300984335932
+CS_Stenophotomonas maltophilia	Cluster 353	0.0104608057838108
+CS_Stenophotomonas maltophilia	Cluster 250	0.00963155583455057
+
+Mean squared error for CS_Aspergillus fumigatus using classifier is 0.15384615384615385
+Features appearing at least once
+CS_Aspergillus fumigatus	Cluster 1161	0.01682587298855131
+CS_Aspergillus fumigatus	Cluster 367	0.015464337674319113
+CS_Aspergillus fumigatus	Cluster 1018	0.015139528379480738
+CS_Aspergillus fumigatus	Cluster 1093	0.014508735323315019
+CS_Aspergillus fumigatus	Cluster 521	0.012272267877283055
+CS_Aspergillus fumigatus	Cluster 68	0.010403897481463704
+CS_Aspergillus fumigatus	Cluster 1036	0.010115957697218979
+CS_Aspergillus fumigatus	Cluster 338	0.010092064878864439
+CS_Aspergillus fumigatus	Cluster 1251	0.010001512250310806
+CS_Aspergillus fumigatus	Cluster 169	0.009972142203640804
+CS_Aspergillus fumigatus	Cluster 637	0.009951289535080635
+CS_Aspergillus fumigatus	Cluster 1127	0.009443873800597866
+CS_Aspergillus fumigatus	Cluster 1091	0.008997358317691445
+CS_Aspergillus fumigatus	Cluster 131	0.008887837743550057
+CS_Aspergillus fumigatus	Cluster 1258	0.008618600421457581
+CS_Aspergillus fumigatus	Cluster 996	0.008249391071523837
+CS_Aspergillus fumigatus	Cluster 947	0.00808255213744121
+CS_Aspergillus fumigatus	Cluster 1009	0.007977713649014862
+CS_Aspergillus fumigatus	Cluster 1024	0.007673833683934691
+CS_Aspergillus fumigatus	Cluster 175	0.0073520232998913115
+
+Mean squared error for CS_Aspergillus flavus using classifier is 0.0
+Features appearing at least once
+CS_Aspergillus flavus	Cluster 1451	0.03817392338680753
+CS_Aspergillus flavus	Cluster 700	0.03367461600424988
+CS_Aspergillus flavus	Cluster 1202	0.032132445713231206
+CS_Aspergillus flavus	Cluster 1280	0.031696757706220414
+CS_Aspergillus flavus	Cluster 1209	0.02927209593068624
+CS_Aspergillus flavus	Cluster 454	0.02650170488270645
+CS_Aspergillus flavus	Cluster 1140	0.02601394303260502
+CS_Aspergillus flavus	Cluster 1182	0.025852995905318598
+CS_Aspergillus flavus	Cluster 1460	0.02510005635295479
+CS_Aspergillus flavus	Cluster 1337	0.024442062557743637
+CS_Aspergillus flavus	Cluster 125	0.024231468737776846
+CS_Aspergillus flavus	Cluster 587	0.02418646992442232
+CS_Aspergillus flavus	Cluster 1459	0.02351930774969523
+CS_Aspergillus flavus	Cluster 1439	0.020874122265962244
+CS_Aspergillus flavus	Cluster 1334	0.02028551557181413
+CS_Aspergillus flavus	Cluster 681	0.01910433443079176
+CS_Aspergillus flavus	Cluster 1197	0.01868655482323985
+CS_Aspergillus flavus	Cluster 696	0.01806240449712776
+CS_Aspergillus flavus	Cluster 132	0.017430801503024066
+CS_Aspergillus flavus	Cluster 1145	0.0174012546565857
+
+Mean squared error for CS_Candida albicans using classifier is 0.3076923076923077
+Features appearing at least once
+CS_Candida albicans	Cluster 625	0.017747317157181985
+CS_Candida albicans	Cluster 22	0.01638749378514903
+CS_Candida albicans	Cluster 800	0.01630395848014538
+CS_Candida albicans	Cluster 16	0.01387863462165408
+CS_Candida albicans	Cluster 84	0.013376405756775567
+CS_Candida albicans	Cluster 801	0.013271319901489597
+CS_Candida albicans	Cluster 763	0.013246077851826474
+CS_Candida albicans	Cluster 842	0.012907277610363525
+CS_Candida albicans	Cluster 627	0.011500122321967697
+CS_Candida albicans	Cluster 32	0.011185148230855943
+CS_Candida albicans	Cluster 839	0.011051744275475823
+CS_Candida albicans	Cluster 15	0.010508001875390477
+CS_Candida albicans	Cluster 1329	0.01035293341764548
+CS_Candida albicans	Cluster 175	0.010135714215499402
+CS_Candida albicans	Cluster 122	0.009743084897996277
+CS_Candida albicans	Cluster 1328	0.009522460417242869
+CS_Candida albicans	Cluster 65	0.009333861022478915
+CS_Candida albicans	Cluster 420	0.008454736410287846
+CS_Candida albicans	Cluster 597	0.007096677464412133
+CS_Candida albicans	Cluster 794	0.006883507013904086
+
+Mean squared error for CS_Mycobacteroides abscessus using classifier is 0.038461538461538464
+Features appearing at least once
+CS_Mycobacteroides abscessus	Cluster 1187	0.04169179761174297
+CS_Mycobacteroides abscessus	Cluster 1178	0.026349157363436137
+CS_Mycobacteroides abscessus	Cluster 925	0.024343850509054195
+CS_Mycobacteroides abscessus	Cluster 957	0.023613762638874686
+CS_Mycobacteroides abscessus	Cluster 1186	0.023248983652021726
+CS_Mycobacteroides abscessus	Cluster 1308	0.021227402957230055
+CS_Mycobacteroides abscessus	Cluster 1495	0.02074602201093893
+CS_Mycobacteroides abscessus	Cluster 933	0.01881146508435848
+CS_Mycobacteroides abscessus	Cluster 1129	0.017730165149722775
+CS_Mycobacteroides abscessus	Cluster 343	0.01769214867202442
+CS_Mycobacteroides abscessus	Cluster 909	0.01751787131854363
+CS_Mycobacteroides abscessus	Cluster 1057	0.017441582161858146
+CS_Mycobacteroides abscessus	Cluster 978	0.01681715189306906
+CS_Mycobacteroides abscessus	Cluster 1202	0.016621689792559395
+CS_Mycobacteroides abscessus	Cluster 712	0.016229064937314717
+CS_Mycobacteroides abscessus	Cluster 1384	0.016193301540351927
+CS_Mycobacteroides abscessus	Cluster 926	0.015785974339187
+CS_Mycobacteroides abscessus	Cluster 879	0.01385931166032274
+CS_Mycobacteroides abscessus	Cluster 535	0.01356441436092486
+CS_Mycobacteroides abscessus	Cluster 1235	0.01343000650805933
+
+Mean squared error for CS_Mycobacterium intracellulare using classifier is 0.0
+Features appearing at least once
+CS_Mycobacterium intracellulare	Cluster 981	0.028879754446815814
+CS_Mycobacterium intracellulare	Cluster 971	0.02478001722748445
+CS_Mycobacterium intracellulare	Cluster 1149	0.02141445273906951
+CS_Mycobacterium intracellulare	Cluster 59	0.021395106239562426
+CS_Mycobacterium intracellulare	Cluster 1068	0.01992592625937917
+CS_Mycobacterium intracellulare	Cluster 1218	0.019916254537215114
+CS_Mycobacterium intracellulare	Cluster 984	0.019600831512584002
+CS_Mycobacterium intracellulare	Cluster 957	0.019593154808418372
+CS_Mycobacterium intracellulare	Cluster 1041	0.019353378058297586
+CS_Mycobacterium intracellulare	Cluster 654	0.01893996771788412
+CS_Mycobacterium intracellulare	Cluster 1020	0.018833024156809732
+CS_Mycobacterium intracellulare	Cluster 1156	0.01814138655667935
+CS_Mycobacterium intracellulare	Cluster 892	0.01753905483654622
+CS_Mycobacterium intracellulare	Cluster 185	0.017212208475693647
+CS_Mycobacterium intracellulare	Cluster 492	0.017205425120258456
+CS_Mycobacterium intracellulare	Cluster 1205	0.016454030015177847
+CS_Mycobacterium intracellulare	Cluster 292	0.015475126441015234
+CS_Mycobacterium intracellulare	Cluster 1046	0.014459071008065648
+CS_Mycobacterium intracellulare	Cluster 88	0.013269618819970259
+CS_Mycobacterium intracellulare	Cluster 1267	0.013166535606373288
+
+Mean squared error for CS_Staphylococcus  aureus using classifier is 0.15384615384615385
+Features appearing at least once
+CS_Staphylococcus  aureus	Cluster 159	0.018893850820502323
+CS_Staphylococcus  aureus	Cluster 461	0.016973491487030506
+CS_Staphylococcus  aureus	Cluster 470	0.015492177446613522
+CS_Staphylococcus  aureus	Cluster 897	0.014754138098659306
+CS_Staphylococcus  aureus	Cluster 495	0.014710375059650798
+CS_Staphylococcus  aureus	Cluster 62	0.014203707860380126
+CS_Staphylococcus  aureus	Cluster 1355	0.013837992052780796
+CS_Staphylococcus  aureus	Cluster 885	0.013746328698770946
+CS_Staphylococcus  aureus	Cluster 158	0.013743368671183837
+CS_Staphylococcus  aureus	Cluster 953	0.012127557957627558
+CS_Staphylococcus  aureus	Cluster 924	0.010495392920449457
+CS_Staphylococcus  aureus	Cluster 433	0.010046543776188736
+CS_Staphylococcus  aureus	Cluster 146	0.009426815756880657
+CS_Staphylococcus  aureus	Cluster 896	0.00925746586825168
+CS_Staphylococcus  aureus	Cluster 905	0.0087066874419447
+CS_Staphylococcus  aureus	Cluster 147	0.008586452223037961
+CS_Staphylococcus  aureus	Cluster 1383	0.007921178372772916
+CS_Staphylococcus  aureus	Cluster 939	0.007858335821221795
+CS_Staphylococcus  aureus	Cluster 1368	0.0077387747849715005
+CS_Staphylococcus  aureus	Cluster 1125	0.007620836762375231
+
+Mean squared error for CS_Inquilinus limosus using classifier is 0.0
+Features appearing at least once
+CS_Inquilinus limosus	Cluster 970	0.028455645559336183
+CS_Inquilinus limosus	Cluster 73	0.025309972157859132
+CS_Inquilinus limosus	Cluster 923	0.020108147844791306
+CS_Inquilinus limosus	Cluster 870	0.01975878739993921
+CS_Inquilinus limosus	Cluster 1479	0.019730262414846506
+CS_Inquilinus limosus	Cluster 911	0.0197263369408019
+CS_Inquilinus limosus	Cluster 933	0.018695914682234614
+CS_Inquilinus limosus	Cluster 299	0.018534043909626447
+CS_Inquilinus limosus	Cluster 733	0.018091111376301806
+CS_Inquilinus limosus	Cluster 1156	0.018030385572038458
+CS_Inquilinus limosus	Cluster 841	0.01595591570191514
+CS_Inquilinus limosus	Cluster 811	0.015590251756779857
+CS_Inquilinus limosus	Cluster 1222	0.015519731039614201
+CS_Inquilinus limosus	Cluster 340	0.01533262953126581
+CS_Inquilinus limosus	Cluster 1345	0.015294392994948423
+CS_Inquilinus limosus	Cluster 321	0.014808364901969654
+CS_Inquilinus limosus	Cluster 852	0.014745398792459397
+CS_Inquilinus limosus	Cluster 952	0.014590045687880016
+CS_Inquilinus limosus	Cluster 412	0.01432257401381975
+CS_Inquilinus limosus	Cluster 113	0.01380539127470913
+
+Mean squared error for CS_Achromobacter xylosoxidans using classifier is 0.0
+Features appearing at least once
+CS_Achromobacter xylosoxidans	Cluster 1323	0.0384452931005373
+CS_Achromobacter xylosoxidans	Cluster 139	0.03092355778163589
+CS_Achromobacter xylosoxidans	Cluster 316	0.029666416758735208
+CS_Achromobacter xylosoxidans	Cluster 995	0.029272124157155136
+CS_Achromobacter xylosoxidans	Cluster 358	0.02818333662251588
+CS_Achromobacter xylosoxidans	Cluster 681	0.02784336858794253
+CS_Achromobacter xylosoxidans	Cluster 824	0.02707223795848869
+CS_Achromobacter xylosoxidans	Cluster 835	0.026965502932788748
+CS_Achromobacter xylosoxidans	Cluster 1432	0.025321129360119703
+CS_Achromobacter xylosoxidans	Cluster 1201	0.02435671577598913
+CS_Achromobacter xylosoxidans	Cluster 1056	0.024099313670165035
+CS_Achromobacter xylosoxidans	Cluster 417	0.023522511476033243
+CS_Achromobacter xylosoxidans	Cluster 1324	0.023374134602456385
+CS_Achromobacter xylosoxidans	Cluster 1322	0.02206552073464135
+CS_Achromobacter xylosoxidans	Cluster 1260	0.02140996077655911
+CS_Achromobacter xylosoxidans	Cluster 259	0.021408124342547123
+CS_Achromobacter xylosoxidans	Cluster 1037	0.01983826868565187
+CS_Achromobacter xylosoxidans	Cluster 1063	0.01969109131559296
+CS_Achromobacter xylosoxidans	Cluster 317	0.0190976070005105
+CS_Achromobacter xylosoxidans	Cluster 1016	0.016583956257569032
+
+Mean squared error for CS_Burkholderia cepacia using classifier is 0.0
+Features appearing at least once
+CS_Burkholderia cepacia	Cluster 1310	0.03108675566117761
+CS_Burkholderia cepacia	Cluster 365	0.02679239115783158
+CS_Burkholderia cepacia	Cluster 1053	0.02668739344204375
+CS_Burkholderia cepacia	Cluster 1212	0.023564308555354775
+CS_Burkholderia cepacia	Cluster 323	0.02028861288862233
+CS_Burkholderia cepacia	Cluster 749	0.019962509480605968
+CS_Burkholderia cepacia	Cluster 461	0.0193755578473496
+CS_Burkholderia cepacia	Cluster 1364	0.018676567174041127
+CS_Burkholderia cepacia	Cluster 955	0.01819822779220189
+CS_Burkholderia cepacia	Cluster 906	0.01729751385557292
+CS_Burkholderia cepacia	Cluster 290	0.016811457791145876
+CS_Burkholderia cepacia	Cluster 1172	0.01637028477697254
+CS_Burkholderia cepacia	Cluster 1370	0.016061304751336845
+CS_Burkholderia cepacia	Cluster 225	0.015585567901282805
+CS_Burkholderia cepacia	Cluster 338	0.015340821199551938
+CS_Burkholderia cepacia	Cluster 460	0.013862077123187124
+CS_Burkholderia cepacia	Cluster 52	0.01377428305939702
+CS_Burkholderia cepacia	Cluster 311	0.013505287746716978
+CS_Burkholderia cepacia	Cluster 836	0.013487176890039495
+CS_Burkholderia cepacia	Cluster 465	0.01338476552039973
+
+Mean squared error for CS_Mycolicibacter terrae using classifier is 0.0
+Features appearing at least once
+CS_Mycolicibacter terrae	Cluster 314	0.031217382751972177
+CS_Mycolicibacter terrae	Cluster 839	0.026306081553983486
+CS_Mycolicibacter terrae	Cluster 1129	0.025325525188601674
+CS_Mycolicibacter terrae	Cluster 123	0.0203952811368064
+CS_Mycolicibacter terrae	Cluster 906	0.018936692368349092
+CS_Mycolicibacter terrae	Cluster 354	0.017174439850874718
+CS_Mycolicibacter terrae	Cluster 362	0.017119060975393147
+CS_Mycolicibacter terrae	Cluster 747	0.016624236941021383
+CS_Mycolicibacter terrae	Cluster 282	0.015499683204700345
+CS_Mycolicibacter terrae	Cluster 1386	0.01537472423919788
+CS_Mycolicibacter terrae	Cluster 899	0.01530077199438081
+CS_Mycolicibacter terrae	Cluster 320	0.015041950588578702
+CS_Mycolicibacter terrae	Cluster 1123	0.014614495843096027
+CS_Mycolicibacter terrae	Cluster 1172	0.01458678046663423
+CS_Mycolicibacter terrae	Cluster 827	0.014550449657576897
+CS_Mycolicibacter terrae	Cluster 859	0.014055809168555812
+CS_Mycolicibacter terrae	Cluster 91	0.014007938893486983
+CS_Mycolicibacter terrae	Cluster 838	0.013391309790887629
+CS_Mycolicibacter terrae	Cluster 817	0.012995070650035573
+CS_Mycolicibacter terrae	Cluster 73	0.012553499208433612
+
+Mean squared error for CS_Aspergillus nidulans using classifier is 0.0
+Features appearing at least once
+CS_Aspergillus nidulans	Cluster 1368	0.03018716040189126
+CS_Aspergillus nidulans	Cluster 1126	0.02878737729257873
+CS_Aspergillus nidulans	Cluster 312	0.027161096138655475
+CS_Aspergillus nidulans	Cluster 852	0.026000266730754035
+CS_Aspergillus nidulans	Cluster 1379	0.024300337831535235
+CS_Aspergillus nidulans	Cluster 906	0.02344917771955868
+CS_Aspergillus nidulans	Cluster 477	0.023310096187050308
+CS_Aspergillus nidulans	Cluster 1365	0.021864778175124406
+CS_Aspergillus nidulans	Cluster 1125	0.021248990184760935
+CS_Aspergillus nidulans	Cluster 482	0.020542795051689714
+CS_Aspergillus nidulans	Cluster 1257	0.019298234398630258
+CS_Aspergillus nidulans	Cluster 605	0.018728772229446057
+CS_Aspergillus nidulans	Cluster 27	0.017627083247749527
+CS_Aspergillus nidulans	Cluster 22	0.017444394918818842
+CS_Aspergillus nidulans	Cluster 1072	0.01710256590685803
+CS_Aspergillus nidulans	Cluster 100	0.01698190694352409
+CS_Aspergillus nidulans	Cluster 749	0.01542374593601556
+CS_Aspergillus nidulans	Cluster 761	0.01531095534313085
+CS_Aspergillus nidulans	Cluster 1393	0.014861670211130797
+CS_Aspergillus nidulans	Cluster 745	0.013168933298060296
+
+Mean squared error for CS_MAC_(Smear negative) using classifier is 0.0
+Features appearing at least once
+CS_MAC_(Smear negative)	Cluster 49	0.032064746501993015
+CS_MAC_(Smear negative)	Cluster 1135	0.03029731580477899
+CS_MAC_(Smear negative)	Cluster 898	0.030175925519588094
+CS_MAC_(Smear negative)	Cluster 477	0.02959137616194859
+CS_MAC_(Smear negative)	Cluster 1126	0.02872064741814616
+CS_MAC_(Smear negative)	Cluster 932	0.028452621736501295
+CS_MAC_(Smear negative)	Cluster 543	0.02613616852078604
+CS_MAC_(Smear negative)	Cluster 841	0.02562416236759153
+CS_MAC_(Smear negative)	Cluster 1138	0.02562391717583792
+CS_MAC_(Smear negative)	Cluster 939	0.024797792989010525
+CS_MAC_(Smear negative)	Cluster 878	0.024206519154297952
+CS_MAC_(Smear negative)	Cluster 1368	0.022823288480291012
+CS_MAC_(Smear negative)	Cluster 516	0.022708973250901605
+CS_MAC_(Smear negative)	Cluster 482	0.021778207377843393
+CS_MAC_(Smear negative)	Cluster 1131	0.02119757956682152
+CS_MAC_(Smear negative)	Cluster 1137	0.02030778941390274
+CS_MAC_(Smear negative)	Cluster 885	0.019470844353386512
+CS_MAC_(Smear negative)	Cluster 1130	0.019224894278418902
+CS_MAC_(Smear negative)	Cluster 1379	0.017798716337220487
+CS_MAC_(Smear negative)	Cluster 1008	0.017330059165439896
+
+Mean squared error for CS_Penicillium using classifier is 0.0
+Features appearing at least once
+CS_Penicillium	Cluster 1244	0.039895946110879245
+CS_Penicillium	Cluster 30	0.030544915851712748
+CS_Penicillium	Cluster 28	0.02371547658050938
+CS_Penicillium	Cluster 88	0.023666307607752995
+CS_Penicillium	Cluster 22	0.02286562692350397
+CS_Penicillium	Cluster 347	0.02057070977251983
+CS_Penicillium	Cluster 1294	0.0187304362430823
+CS_Penicillium	Cluster 1411	0.018634445900638223
+CS_Penicillium	Cluster 100	0.018003054024853252
+CS_Penicillium	Cluster 114	0.015785744944390997
+CS_Penicillium	Cluster 646	0.012873750247872644
+CS_Penicillium	Cluster 610	0.012377375980997661
+CS_Penicillium	Cluster 863	0.011934245411106008
+CS_Penicillium	Cluster 767	0.011694953280424891
+CS_Penicillium	Cluster 1100	0.01114499875231886
+CS_Penicillium	Cluster 732	0.01105924896367874
+CS_Penicillium	Cluster 305	0.01095005036531403
+CS_Penicillium	Cluster 1259	0.010776313125778463
+CS_Penicillium	Cluster 1078	0.010411094711796338
+CS_Penicillium	Cluster 977	0.010338862278379237
+
+Mean squared error for CS_Lomentospora prolificans using classifier is 0.0
+Features appearing at least once
+CS_Lomentospora prolificans	Cluster 160	0.03581341525340923
+CS_Lomentospora prolificans	Cluster 308	0.029500348597829875
+CS_Lomentospora prolificans	Cluster 1319	0.02829813703261207
+CS_Lomentospora prolificans	Cluster 972	0.027781027611095598
+CS_Lomentospora prolificans	Cluster 445	0.023192808684293673
+CS_Lomentospora prolificans	Cluster 299	0.02164820545785687
+CS_Lomentospora prolificans	Cluster 826	0.02050499842638116
+CS_Lomentospora prolificans	Cluster 1490	0.020130428478809727
+CS_Lomentospora prolificans	Cluster 237	0.019861949149195084
+CS_Lomentospora prolificans	Cluster 1151	0.01926086298636368
+CS_Lomentospora prolificans	Cluster 767	0.01924592536063575
+CS_Lomentospora prolificans	Cluster 509	0.01895709987304551
+CS_Lomentospora prolificans	Cluster 915	0.018906816142668398
+CS_Lomentospora prolificans	Cluster 78	0.0185340851492727
+CS_Lomentospora prolificans	Cluster 951	0.018358834939224026
+CS_Lomentospora prolificans	Cluster 949	0.018135746673883794
+CS_Lomentospora prolificans	Cluster 926	0.01800326794296738
+CS_Lomentospora prolificans	Cluster 860	0.017555582660020864
+CS_Lomentospora prolificans	Cluster 350	0.017490233869614628
+CS_Lomentospora prolificans	Cluster 1334	0.016854150130536615
+
+Mean squared error for CS_Acremonium species using classifier is 0.0
+Features appearing at least once
+CS_Acremonium species	Cluster 793	0.02977494102835615
+CS_Acremonium species	Cluster 1040	0.02790911559673888
+CS_Acremonium species	Cluster 748	0.027465644494220707
+CS_Acremonium species	Cluster 869	0.026185922001359843
+CS_Acremonium species	Cluster 332	0.02525335648813923
+CS_Acremonium species	Cluster 289	0.025246906759145985
+CS_Acremonium species	Cluster 1374	0.02349826875048794
+CS_Acremonium species	Cluster 1186	0.0225623683424327
+CS_Acremonium species	Cluster 240	0.021780417008333813
+CS_Acremonium species	Cluster 1437	0.02151852775197077
+CS_Acremonium species	Cluster 918	0.021484108947669417
+CS_Acremonium species	Cluster 363	0.021455503068741093
+CS_Acremonium species	Cluster 932	0.021096527906519478
+CS_Acremonium species	Cluster 73	0.0174704292452268
+CS_Acremonium species	Cluster 1268	0.01738076829540913
+CS_Acremonium species	Cluster 249	0.016538969882484104
+CS_Acremonium species	Cluster 282	0.015750711332682257
+CS_Acremonium species	Cluster 963	0.015715651884875576
+CS_Acremonium species	Cluster 296	0.015493099156060924
+CS_Acremonium species	Cluster 1183	0.014814028180439039
+
+Mean squared error for CS_MDR_Pseudomonas aeruginosa using classifier is 0.15384615384615385
+Features appearing at least once
+CS_MDR_Pseudomonas aeruginosa	Cluster 950	0.029173139132222775
+CS_MDR_Pseudomonas aeruginosa	Cluster 459	0.027344591689670395
+CS_MDR_Pseudomonas aeruginosa	Cluster 1281	0.020172702155110647
+CS_MDR_Pseudomonas aeruginosa	Cluster 3	0.018992526765723605
+CS_MDR_Pseudomonas aeruginosa	Cluster 355	0.01639590834589811
+CS_MDR_Pseudomonas aeruginosa	Cluster 1223	0.016349340559806247
+CS_MDR_Pseudomonas aeruginosa	Cluster 1003	0.015148247807386198
+CS_MDR_Pseudomonas aeruginosa	Cluster 979	0.013766623582000715
+CS_MDR_Pseudomonas aeruginosa	Cluster 960	0.0129672143549068
+CS_MDR_Pseudomonas aeruginosa	Cluster 741	0.012530583327539025
+CS_MDR_Pseudomonas aeruginosa	Cluster 1463	0.011543134561856974
+CS_MDR_Pseudomonas aeruginosa	Cluster 2	0.010739502904716867
+CS_MDR_Pseudomonas aeruginosa	Cluster 1224	0.01019383289660384
+CS_MDR_Pseudomonas aeruginosa	Cluster 1231	0.010136345132266425
+CS_MDR_Pseudomonas aeruginosa	Cluster 438	0.009889595036655987
+CS_MDR_Pseudomonas aeruginosa	Cluster 416	0.009873372890369336
+CS_MDR_Pseudomonas aeruginosa	Cluster 1148	0.008965108886146895
+CS_MDR_Pseudomonas aeruginosa	Cluster 599	0.008835719759554005
+CS_MDR_Pseudomonas aeruginosa	Cluster 140	0.008671970439437996
+CS_MDR_Pseudomonas aeruginosa	Cluster 1000	0.008651742654682899
+
+Mean squared error for CS_Haemophilus influenzae using classifier is 0.0
+Features appearing at least once
+CS_Haemophilus influenzae	Cluster 1172	0.030800709993930697
+CS_Haemophilus influenzae	Cluster 953	0.030259881570096705
+CS_Haemophilus influenzae	Cluster 309	0.030219773177562175
+CS_Haemophilus influenzae	Cluster 312	0.028915493442953036
+CS_Haemophilus influenzae	Cluster 980	0.027838600508807036
+CS_Haemophilus influenzae	Cluster 937	0.027710079324458525
+CS_Haemophilus influenzae	Cluster 49	0.02621617611198652
+CS_Haemophilus influenzae	Cluster 315	0.025938790560821077
+CS_Haemophilus influenzae	Cluster 735	0.02570676947921321
+CS_Haemophilus influenzae	Cluster 287	0.0257059222045765
+CS_Haemophilus influenzae	Cluster 432	0.021134491020615934
+CS_Haemophilus influenzae	Cluster 939	0.020295583264340597
+CS_Haemophilus influenzae	Cluster 1167	0.018163202085415053
+CS_Haemophilus influenzae	Cluster 471	0.017614254378949073
+CS_Haemophilus influenzae	Cluster 1253	0.017298704445581927
+CS_Haemophilus influenzae	Cluster 1015	0.017077260468980185
+CS_Haemophilus influenzae	Cluster 890	0.016892950565922337
+CS_Haemophilus influenzae	Cluster 1153	0.016342098229022807
+CS_Haemophilus influenzae	Cluster 1057	0.016096657571052553
+CS_Haemophilus influenzae	Cluster 1128	0.015233159091592804
+
+Mean squared error for CS_Scedosporium apiospermum.1 using regressor is 0.0006213506144966692
+Features appearing at least once
+CS_Scedosporium apiospermum.1	Cluster 1263	0.19000000002012324
+CS_Scedosporium apiospermum.1	Cluster 222	0.1539000000001066
+CS_Scedosporium apiospermum.1	Cluster 273	0.12472240839304614
+CS_Scedosporium apiospermum.1	Cluster 438	0.1009891988534899
+CS_Scedosporium apiospermum.1	Cluster 439	0.08188520036935225
+CS_Scedosporium apiospermum.1	Cluster 1493	0.06624890361900125
+CS_Scedosporium apiospermum.1	Cluster 693	0.05371310391771121
+CS_Scedosporium apiospermum.1	Cluster 452	0.04346590566442671
+CS_Scedosporium apiospermum.1	Cluster 112	0.035219107283654766
+CS_Scedosporium apiospermum.1	Cluster 384	0.028518041127713143
+CS_Scedosporium apiospermum.1	Cluster 161	0.023099613313447644
+CS_Scedosporium apiospermum.1	Cluster 146	0.018710861459948998
+CS_Scedosporium apiospermum.1	Cluster 541	0.01557083079656096
+CS_Scedosporium apiospermum.1	Cluster 155	0.015155624184606063
+CS_Scedosporium apiospermum.1	Cluster 666	0.012276055589530911
+CS_Scedosporium apiospermum.1	Cluster 671	0.008054623831051766
+CS_Scedosporium apiospermum.1	Cluster 670	0.0065239992585559
+CS_Scedosporium apiospermum.1	Cluster 207	0.004280395915760735
+CS_Scedosporium apiospermum.1	Cluster 163	0.003467120700658621
+CS_Scedosporium apiospermum.1	Cluster 110	0.0028083677589277336
+
+Mean squared error for P12M_0_Nothing using classifier is 0.04
+Features appearing at least once
+P12M_0_Nothing	Cluster 1326	0.03278753752511846
+P12M_0_Nothing	Cluster 1402	0.03004218047575836
+P12M_0_Nothing	Cluster 11	0.01854195564007245
+P12M_0_Nothing	Cluster 911	0.017889370182135274
+P12M_0_Nothing	Cluster 801	0.01582386802128814
+P12M_0_Nothing	Cluster 706	0.015531190600272506
+P12M_0_Nothing	Cluster 673	0.015470662960476323
+P12M_0_Nothing	Cluster 1480	0.01483257568525719
+P12M_0_Nothing	Cluster 1041	0.014463878345698476
+P12M_0_Nothing	Cluster 43	0.01390438311329171
+P12M_0_Nothing	Cluster 906	0.012930917638110582
+P12M_0_Nothing	Cluster 244	0.012820207582167715
+P12M_0_Nothing	Cluster 652	0.011142098621815413
+P12M_0_Nothing	Cluster 1005	0.010767811016955939
+P12M_0_Nothing	Cluster 16	0.01076576955512407
+P12M_0_Nothing	Cluster 93	0.01074553466068023
+P12M_0_Nothing	Cluster 1150	0.010307662013746175
+P12M_0_Nothing	Cluster 620	0.009758474069519303
+P12M_0_Nothing	Cluster 1121	0.00957698776464252
+P12M_0_Nothing	Cluster 9	0.009473282983504607
+
+Mean squared error for P12M_1_Staphylococcus aureus using classifier is 0.32
+Features appearing at least once
+P12M_1_Staphylococcus aureus	Cluster 833	0.01607112584880763
+P12M_1_Staphylococcus aureus	Cluster 1003	0.015774044439318124
+P12M_1_Staphylococcus aureus	Cluster 1074	0.015359936448393403
+P12M_1_Staphylococcus aureus	Cluster 329	0.012711125902951906
+P12M_1_Staphylococcus aureus	Cluster 433	0.011876164770833286
+P12M_1_Staphylococcus aureus	Cluster 89	0.011193794980185905
+P12M_1_Staphylococcus aureus	Cluster 4	0.009663086860607253
+P12M_1_Staphylococcus aureus	Cluster 320	0.009075440485732776
+P12M_1_Staphylococcus aureus	Cluster 756	0.008774627238180968
+P12M_1_Staphylococcus aureus	Cluster 11	0.008304784796924525
+P12M_1_Staphylococcus aureus	Cluster 16	0.008104888550809774
+P12M_1_Staphylococcus aureus	Cluster 1059	0.007891793251883905
+P12M_1_Staphylococcus aureus	Cluster 93	0.007877679532969108
+P12M_1_Staphylococcus aureus	Cluster 738	0.007870510393846945
+P12M_1_Staphylococcus aureus	Cluster 57	0.007826632970776353
+P12M_1_Staphylococcus aureus	Cluster 871	0.007468958243150566
+P12M_1_Staphylococcus aureus	Cluster 1262	0.007158103538009862
+P12M_1_Staphylococcus aureus	Cluster 801	0.007067918808315628
+P12M_1_Staphylococcus aureus	Cluster 547	0.006929502250686676
+P12M_1_Staphylococcus aureus	Cluster 1257	0.00665055931299347
+
+Mean squared error for P12M_2_Pseudomonas aeruginosa using classifier is 0.16
+Features appearing at least once
+P12M_2_Pseudomonas aeruginosa	Cluster 1243	0.020341697592286722
+P12M_2_Pseudomonas aeruginosa	Cluster 1249	0.017736144751677937
+P12M_2_Pseudomonas aeruginosa	Cluster 400	0.015157910601381745
+P12M_2_Pseudomonas aeruginosa	Cluster 153	0.013321033869774174
+P12M_2_Pseudomonas aeruginosa	Cluster 736	0.01282277914914569
+P12M_2_Pseudomonas aeruginosa	Cluster 61	0.011848523200741335
+P12M_2_Pseudomonas aeruginosa	Cluster 66	0.01120284487513398
+P12M_2_Pseudomonas aeruginosa	Cluster 964	0.009302004036938306
+P12M_2_Pseudomonas aeruginosa	Cluster 925	0.00910953907557598
+P12M_2_Pseudomonas aeruginosa	Cluster 604	0.008800878815433304
+P12M_2_Pseudomonas aeruginosa	Cluster 245	0.00876949319570292
+P12M_2_Pseudomonas aeruginosa	Cluster 564	0.00828586008901831
+P12M_2_Pseudomonas aeruginosa	Cluster 1316	0.007680113354146034
+P12M_2_Pseudomonas aeruginosa	Cluster 1225	0.007369528067025308
+P12M_2_Pseudomonas aeruginosa	Cluster 443	0.007235032938949548
+P12M_2_Pseudomonas aeruginosa	Cluster 1255	0.007132045993849597
+P12M_2_Pseudomonas aeruginosa	Cluster 1436	0.006827997679741748
+P12M_2_Pseudomonas aeruginosa	Cluster 771	0.006376321104791461
+P12M_2_Pseudomonas aeruginosa	Cluster 859	0.006233598731786748
+P12M_2_Pseudomonas aeruginosa	Cluster 1257	0.006225807642634794
+
+Mean squared error for P12M_3_Stenotrophomonas maltophilia using classifier is 0.04
+Features appearing at least once
+P12M_3_Stenotrophomonas maltophilia	Cluster 1206	0.02253510291840819
+P12M_3_Stenotrophomonas maltophilia	Cluster 1143	0.022320113596726247
+P12M_3_Stenotrophomonas maltophilia	Cluster 1303	0.02046844357886548
+P12M_3_Stenotrophomonas maltophilia	Cluster 975	0.015953537452705144
+P12M_3_Stenotrophomonas maltophilia	Cluster 931	0.014226164872136661
+P12M_3_Stenotrophomonas maltophilia	Cluster 1197	0.014161426839840945
+P12M_3_Stenotrophomonas maltophilia	Cluster 1211	0.012089571032857741
+P12M_3_Stenotrophomonas maltophilia	Cluster 1203	0.011426452729644926
+P12M_3_Stenotrophomonas maltophilia	Cluster 126	0.010422350445030346
+P12M_3_Stenotrophomonas maltophilia	Cluster 1318	0.010343806111474072
+P12M_3_Stenotrophomonas maltophilia	Cluster 1376	0.009961408106402237
+P12M_3_Stenotrophomonas maltophilia	Cluster 947	0.00970780191626051
+P12M_3_Stenotrophomonas maltophilia	Cluster 950	0.009488504354497645
+P12M_3_Stenotrophomonas maltophilia	Cluster 1205	0.009123698013838244
+P12M_3_Stenotrophomonas maltophilia	Cluster 1291	0.008733857668758185
+P12M_3_Stenotrophomonas maltophilia	Cluster 954	0.008508537756675726
+P12M_3_Stenotrophomonas maltophilia	Cluster 343	0.00833995127831677
+P12M_3_Stenotrophomonas maltophilia	Cluster 1457	0.007963174560393183
+P12M_3_Stenotrophomonas maltophilia	Cluster 1375	0.0073553415937584405
+P12M_3_Stenotrophomonas maltophilia	Cluster 1443	0.0067767837186199316
+
+Mean squared error for P12M_4_Rapid NTM using classifier is 0.2
+Features appearing at least once
+P12M_4_Rapid NTM	Cluster 170	0.021884996445614424
+P12M_4_Rapid NTM	Cluster 879	0.021431750867440116
+P12M_4_Rapid NTM	Cluster 83	0.020189994886507988
+P12M_4_Rapid NTM	Cluster 583	0.01822625421036884
+P12M_4_Rapid NTM	Cluster 982	0.014927082352737767
+P12M_4_Rapid NTM	Cluster 464	0.01415384702830956
+P12M_4_Rapid NTM	Cluster 861	0.01394163895703246
+P12M_4_Rapid NTM	Cluster 754	0.012457166169006335
+P12M_4_Rapid NTM	Cluster 851	0.012434183640366827
+P12M_4_Rapid NTM	Cluster 306	0.011476685613984634
+P12M_4_Rapid NTM	Cluster 586	0.01123224305396295
+P12M_4_Rapid NTM	Cluster 957	0.010979424575585898
+P12M_4_Rapid NTM	Cluster 979	0.010546899333815897
+P12M_4_Rapid NTM	Cluster 816	0.010427410229877403
+P12M_4_Rapid NTM	Cluster 23	0.010167048963933884
+P12M_4_Rapid NTM	Cluster 751	0.010049963430416522
+P12M_4_Rapid NTM	Cluster 343	0.010003165394803679
+P12M_4_Rapid NTM	Cluster 559	0.009715812856624166
+P12M_4_Rapid NTM	Cluster 1453	0.009427045354665823
+P12M_4_Rapid NTM	Cluster 978	0.009307856152884337
+
+Mean squared error for P12M_5_Slow NTM using classifier is 0.04
+Features appearing at least once
+P12M_5_Slow NTM	Cluster 1324	0.03253110345042352
+P12M_5_Slow NTM	Cluster 17	0.025935230821527957
+P12M_5_Slow NTM	Cluster 913	0.023113190478561637
+P12M_5_Slow NTM	Cluster 1300	0.01957080861298761
+P12M_5_Slow NTM	Cluster 1322	0.018691960608928863
+P12M_5_Slow NTM	Cluster 1301	0.017193887042400786
+P12M_5_Slow NTM	Cluster 256	0.01684172870012604
+P12M_5_Slow NTM	Cluster 1323	0.015071095948832266
+P12M_5_Slow NTM	Cluster 1090	0.014707872861938162
+P12M_5_Slow NTM	Cluster 1331	0.01455962363588857
+P12M_5_Slow NTM	Cluster 1158	0.014406145778596537
+P12M_5_Slow NTM	Cluster 525	0.014151483449304886
+P12M_5_Slow NTM	Cluster 337	0.012572094833047798
+P12M_5_Slow NTM	Cluster 543	0.012305616455156182
+P12M_5_Slow NTM	Cluster 443	0.011966566088309058
+P12M_5_Slow NTM	Cluster 995	0.011507629736909305
+P12M_5_Slow NTM	Cluster 336	0.011495907337612667
+P12M_5_Slow NTM	Cluster 1086	0.011403571945787094
+P12M_5_Slow NTM	Cluster 250	0.010210131477710147
+P12M_5_Slow NTM	Cluster 1059	0.00985045586989348
+
+Mean squared error for P12M_6_Aspergillus using classifier is 0.2
+Features appearing at least once
+P12M_6_Aspergillus	Cluster 878	0.012952215707571864
+P12M_6_Aspergillus	Cluster 1091	0.012902930750278015
+P12M_6_Aspergillus	Cluster 875	0.01233827966674067
+P12M_6_Aspergillus	Cluster 324	0.011741372735516684
+P12M_6_Aspergillus	Cluster 890	0.010319204351665808
+P12M_6_Aspergillus	Cluster 339	0.010299375239342408
+P12M_6_Aspergillus	Cluster 274	0.010143632181812344
+P12M_6_Aspergillus	Cluster 1037	0.00995001967252843
+P12M_6_Aspergillus	Cluster 25	0.009839027630744113
+P12M_6_Aspergillus	Cluster 829	0.009261268564248375
+P12M_6_Aspergillus	Cluster 1064	0.0089796463985803
+P12M_6_Aspergillus	Cluster 1490	0.008789210043604171
+P12M_6_Aspergillus	Cluster 1153	0.008667617214197652
+P12M_6_Aspergillus	Cluster 602	0.007933745762448836
+P12M_6_Aspergillus	Cluster 459	0.007870075955112889
+P12M_6_Aspergillus	Cluster 728	0.007156455049904199
+P12M_6_Aspergillus	Cluster 1355	0.007111035456838098
+P12M_6_Aspergillus	Cluster 524	0.0070036366461776215
+P12M_6_Aspergillus	Cluster 1099	0.006783804340113867
+P12M_6_Aspergillus	Cluster 508	0.006342303492626388
+
+Mean squared error for P12M_7_Burkholderia cepacia using classifier is 0.04
+Features appearing at least once
+P12M_7_Burkholderia cepacia	Cluster 336	0.03999633794713246
+P12M_7_Burkholderia cepacia	Cluster 250	0.036716077429273276
+P12M_7_Burkholderia cepacia	Cluster 525	0.036550515711514714
+P12M_7_Burkholderia cepacia	Cluster 339	0.03218911308384035
+P12M_7_Burkholderia cepacia	Cluster 335	0.027739491337221655
+P12M_7_Burkholderia cepacia	Cluster 1470	0.025924045727707998
+P12M_7_Burkholderia cepacia	Cluster 256	0.025872585786548535
+P12M_7_Burkholderia cepacia	Cluster 302	0.025575482674539643
+P12M_7_Burkholderia cepacia	Cluster 1090	0.02542100804309661
+P12M_7_Burkholderia cepacia	Cluster 1331	0.024539013915953048
+P12M_7_Burkholderia cepacia	Cluster 1326	0.02268293105827121
+P12M_7_Burkholderia cepacia	Cluster 1091	0.022617522466426936
+P12M_7_Burkholderia cepacia	Cluster 995	0.022311027367537296
+P12M_7_Burkholderia cepacia	Cluster 1051	0.020118895700068595
+P12M_7_Burkholderia cepacia	Cluster 240	0.02006951467372683
+P12M_7_Burkholderia cepacia	Cluster 1367	0.02003886219572806
+P12M_7_Burkholderia cepacia	Cluster 303	0.020025723854704268
+P12M_7_Burkholderia cepacia	Cluster 1327	0.01959683328787702
+P12M_7_Burkholderia cepacia	Cluster 957	0.01954363001936158
+P12M_7_Burkholderia cepacia	Cluster 504	0.019425028011135444
+
+Mean squared error for P12M_8_Haemophilus influenza using classifier is 0.0
+Features appearing at least once
+P12M_8_Haemophilus influenza	Cluster 287	0.05206151809809841
+P12M_8_Haemophilus influenza	Cluster 294	0.03991185743008123
+P12M_8_Haemophilus influenza	Cluster 1253	0.027984836413394002
+P12M_8_Haemophilus influenza	Cluster 896	0.02414686312907929
+P12M_8_Haemophilus influenza	Cluster 972	0.02405805811127108
+P12M_8_Haemophilus influenza	Cluster 948	0.02347977098952636
+P12M_8_Haemophilus influenza	Cluster 934	0.01710197033868634
+P12M_8_Haemophilus influenza	Cluster 359	0.01618345412266726
+P12M_8_Haemophilus influenza	Cluster 1300	0.014641757239524478
+P12M_8_Haemophilus influenza	Cluster 1430	0.014402170087228633
+P12M_8_Haemophilus influenza	Cluster 1137	0.014158192977229315
+P12M_8_Haemophilus influenza	Cluster 803	0.013793142673129833
+P12M_8_Haemophilus influenza	Cluster 1383	0.013432718189170006
+P12M_8_Haemophilus influenza	Cluster 302	0.012793649519887675
+P12M_8_Haemophilus influenza	Cluster 1120	0.011831078755198747
+P12M_8_Haemophilus influenza	Cluster 989	0.011737339668986626
+P12M_8_Haemophilus influenza	Cluster 361	0.011422332449333068
+P12M_8_Haemophilus influenza	Cluster 627	0.011119034600555237
+P12M_8_Haemophilus influenza	Cluster 933	0.010769408140833589
+P12M_8_Haemophilus influenza	Cluster 889	0.010573414953751666
+
+Mean squared error for P12M_9_Streptococcus pneumoniae using classifier is 0.0
+Features appearing at least once
+P12M_9_Streptococcus pneumoniae	Cluster 1041	0.0667824001919067
+P12M_9_Streptococcus pneumoniae	Cluster 717	0.044459508644387524
+P12M_9_Streptococcus pneumoniae	Cluster 1145	0.04260652277528826
+P12M_9_Streptococcus pneumoniae	Cluster 422	0.03657117770018653
+P12M_9_Streptococcus pneumoniae	Cluster 872	0.03332106484182232
+P12M_9_Streptococcus pneumoniae	Cluster 877	0.03331273361969441
+P12M_9_Streptococcus pneumoniae	Cluster 80	0.03226507846874159
+P12M_9_Streptococcus pneumoniae	Cluster 1028	0.025425710881743214
+P12M_9_Streptococcus pneumoniae	Cluster 1281	0.025319128637238227
+P12M_9_Streptococcus pneumoniae	Cluster 590	0.024535244774700354
+P12M_9_Streptococcus pneumoniae	Cluster 279	0.02209347546117655
+P12M_9_Streptococcus pneumoniae	Cluster 959	0.02138891543188941
+P12M_9_Streptococcus pneumoniae	Cluster 1231	0.019225439754527993
+P12M_9_Streptococcus pneumoniae	Cluster 1398	0.019006670054835566
+P12M_9_Streptococcus pneumoniae	Cluster 290	0.01685137077421917
+P12M_9_Streptococcus pneumoniae	Cluster 245	0.016727241251070033
+P12M_9_Streptococcus pneumoniae	Cluster 23	0.015376320788078884
+P12M_9_Streptococcus pneumoniae	Cluster 688	0.013922646513253905
+P12M_9_Streptococcus pneumoniae	Cluster 850	0.0125915662037563
+P12M_9_Streptococcus pneumoniae	Cluster 587	0.01191075341772477
+
+Mean squared error for P12M_10_Achromobacter xylosoxidans using classifier is 0.04
+Features appearing at least once
+P12M_10_Achromobacter xylosoxidans	Cluster 240	0.02842909293422677
+P12M_10_Achromobacter xylosoxidans	Cluster 302	0.02749649869012639
+P12M_10_Achromobacter xylosoxidans	Cluster 291	0.02447057905060084
+P12M_10_Achromobacter xylosoxidans	Cluster 1090	0.023392814126057863
+P12M_10_Achromobacter xylosoxidans	Cluster 282	0.022530787198374445
+P12M_10_Achromobacter xylosoxidans	Cluster 337	0.02189456694964452
+P12M_10_Achromobacter xylosoxidans	Cluster 303	0.02157971475611548
+P12M_10_Achromobacter xylosoxidans	Cluster 236	0.016064552014549746
+P12M_10_Achromobacter xylosoxidans	Cluster 1091	0.01567802989253187
+P12M_10_Achromobacter xylosoxidans	Cluster 257	0.013620451708393204
+P12M_10_Achromobacter xylosoxidans	Cluster 1432	0.013342419745209756
+P12M_10_Achromobacter xylosoxidans	Cluster 256	0.013309936177977705
+P12M_10_Achromobacter xylosoxidans	Cluster 1149	0.013043848587777818
+P12M_10_Achromobacter xylosoxidans	Cluster 832	0.012973204381709217
+P12M_10_Achromobacter xylosoxidans	Cluster 332	0.012898162741955568
+P12M_10_Achromobacter xylosoxidans	Cluster 957	0.01266632542220398
+P12M_10_Achromobacter xylosoxidans	Cluster 358	0.01252623870002913
+P12M_10_Achromobacter xylosoxidans	Cluster 681	0.012293378285692649
+P12M_10_Achromobacter xylosoxidans	Cluster 1329	0.011671312894574086
+P12M_10_Achromobacter xylosoxidans	Cluster 317	0.011162067766309031
+
+Mean squared error for P12M_11_Serratia marcesens using classifier is 0.08
+Features appearing at least once
+P12M_11_Serratia marcesens	Cluster 336	0.04239386591481471
+P12M_11_Serratia marcesens	Cluster 726	0.041175175073089876
+P12M_11_Serratia marcesens	Cluster 1470	0.03415357056838575
+P12M_11_Serratia marcesens	Cluster 1090	0.029704522697809762
+P12M_11_Serratia marcesens	Cluster 198	0.0254194369082466
+P12M_11_Serratia marcesens	Cluster 250	0.025287728410188514
+P12M_11_Serratia marcesens	Cluster 317	0.02346570408730872
+P12M_11_Serratia marcesens	Cluster 995	0.022847668414021863
+P12M_11_Serratia marcesens	Cluster 957	0.020845587735632373
+P12M_11_Serratia marcesens	Cluster 1051	0.020654206126523418
+P12M_11_Serratia marcesens	Cluster 339	0.02032548439544543
+P12M_11_Serratia marcesens	Cluster 681	0.02018470301546282
+P12M_11_Serratia marcesens	Cluster 1314	0.01893469018341025
+P12M_11_Serratia marcesens	Cluster 1293	0.0185892047824748
+P12M_11_Serratia marcesens	Cluster 1016	0.016735969592674392
+P12M_11_Serratia marcesens	Cluster 332	0.015475015351657543
+P12M_11_Serratia marcesens	Cluster 303	0.015415428372519349
+P12M_11_Serratia marcesens	Cluster 800	0.01518191586392806
+P12M_11_Serratia marcesens	Cluster 1319	0.014611348506279504
+P12M_11_Serratia marcesens	Cluster 335	0.013386439910595474
+
+Mean squared error for P12M_12_Inquilinus limosus using classifier is 0.0
+Features appearing at least once
+P12M_12_Inquilinus limosus	Cluster 1479	0.03318481901842046
+P12M_12_Inquilinus limosus	Cluster 952	0.02553513599125746
+P12M_12_Inquilinus limosus	Cluster 981	0.025304422842419086
+P12M_12_Inquilinus limosus	Cluster 982	0.023686159127007198
+P12M_12_Inquilinus limosus	Cluster 1070	0.023143626426239645
+P12M_12_Inquilinus limosus	Cluster 1437	0.022358308745215206
+P12M_12_Inquilinus limosus	Cluster 1099	0.02159902090314908
+P12M_12_Inquilinus limosus	Cluster 1313	0.021488488791509993
+P12M_12_Inquilinus limosus	Cluster 975	0.021463259487470476
+P12M_12_Inquilinus limosus	Cluster 249	0.021450795773104155
+P12M_12_Inquilinus limosus	Cluster 1142	0.020380039768382097
+P12M_12_Inquilinus limosus	Cluster 923	0.02008513270201522
+P12M_12_Inquilinus limosus	Cluster 59	0.019626508551287513
+P12M_12_Inquilinus limosus	Cluster 1068	0.01878112780804457
+P12M_12_Inquilinus limosus	Cluster 951	0.018614190024459864
+P12M_12_Inquilinus limosus	Cluster 75	0.018611658707823938
+P12M_12_Inquilinus limosus	Cluster 1415	0.018576797039910886
+P12M_12_Inquilinus limosus	Cluster 304	0.017848832361605362
+P12M_12_Inquilinus limosus	Cluster 451	0.016575692541469303
+P12M_12_Inquilinus limosus	Cluster 974	0.015843555849117636
+
+Mean squared error for P12M_13_Scedosporum apiospermum using classifier is 0.0
+Features appearing at least once
+P12M_13_Scedosporum apiospermum	Cluster 402	0.03350327248477398
+P12M_13_Scedosporum apiospermum	Cluster 56	0.029117869087521956
+P12M_13_Scedosporum apiospermum	Cluster 315	0.020973021058277825
+P12M_13_Scedosporum apiospermum	Cluster 1068	0.02080082677385587
+P12M_13_Scedosporum apiospermum	Cluster 336	0.02049040393048873
+P12M_13_Scedosporum apiospermum	Cluster 1003	0.01993736074905783
+P12M_13_Scedosporum apiospermum	Cluster 443	0.019718903415903086
+P12M_13_Scedosporum apiospermum	Cluster 1004	0.019365900022298016
+P12M_13_Scedosporum apiospermum	Cluster 478	0.019227225932283057
+P12M_13_Scedosporum apiospermum	Cluster 494	0.018361518530744112
+P12M_13_Scedosporum apiospermum	Cluster 798	0.017450041979201854
+P12M_13_Scedosporum apiospermum	Cluster 603	0.01722094161687559
+P12M_13_Scedosporum apiospermum	Cluster 340	0.017212581115491846
+P12M_13_Scedosporum apiospermum	Cluster 1136	0.017178891642628202
+P12M_13_Scedosporum apiospermum	Cluster 450	0.015382613174136939
+P12M_13_Scedosporum apiospermum	Cluster 432	0.015088868604844525
+P12M_13_Scedosporum apiospermum	Cluster 941	0.01505827688785231
+P12M_13_Scedosporum apiospermum	Cluster 1064	0.014503673241503565
+P12M_13_Scedosporum apiospermum	Cluster 747	0.0138515681471254
+P12M_13_Scedosporum apiospermum	Cluster 1294	0.013572403307493965
+
+Mean squared error for P12M_14_Moraxella catarrhalis using classifier is 0.0
+Features appearing at least once
+P12M_14_Moraxella catarrhalis	Cluster 309	0.026651042767316592
+P12M_14_Moraxella catarrhalis	Cluster 245	0.023813791395408093
+P12M_14_Moraxella catarrhalis	Cluster 738	0.02086895583504551
+P12M_14_Moraxella catarrhalis	Cluster 926	0.020310237189395355
+P12M_14_Moraxella catarrhalis	Cluster 371	0.020082381914727054
+P12M_14_Moraxella catarrhalis	Cluster 366	0.019405154368606792
+P12M_14_Moraxella catarrhalis	Cluster 953	0.018095872494696092
+P12M_14_Moraxella catarrhalis	Cluster 1048	0.017059876968300112
+P12M_14_Moraxella catarrhalis	Cluster 1120	0.016265961168660272
+P12M_14_Moraxella catarrhalis	Cluster 630	0.01581579799625029
+P12M_14_Moraxella catarrhalis	Cluster 675	0.015676066675582967
+P12M_14_Moraxella catarrhalis	Cluster 919	0.01557652416183432
+P12M_14_Moraxella catarrhalis	Cluster 361	0.014832355692578226
+P12M_14_Moraxella catarrhalis	Cluster 972	0.014304553567898979
+P12M_14_Moraxella catarrhalis	Cluster 1182	0.014295679974898808
+P12M_14_Moraxella catarrhalis	Cluster 1089	0.013998542226810863
+P12M_14_Moraxella catarrhalis	Cluster 1000	0.012933556761219716
+P12M_14_Moraxella catarrhalis	Cluster 1379	0.012876573171901126
+P12M_14_Moraxella catarrhalis	Cluster 956	0.012810511932872935
+P12M_14_Moraxella catarrhalis	Cluster 1150	0.012554054648561686
+
+Mean squared error for Positive for PA within next 12 months using classifier is 1.6538461538461537
+Features appearing at least once
+Positive for PA within next 12 months	Cluster 1090	0.015114454288658048
+Positive for PA within next 12 months	Cluster 1062	0.011120273251796792
+Positive for PA within next 12 months	Cluster 1325	0.009111917295095927
+Positive for PA within next 12 months	Cluster 1404	0.008783960788664934
+Positive for PA within next 12 months	Cluster 5	0.008049391848718465
+Positive for PA within next 12 months	Cluster 302	0.007617802315780534
+Positive for PA within next 12 months	Cluster 164	0.006565273880018633
+Positive for PA within next 12 months	Cluster 76	0.006415672708860887
+Positive for PA within next 12 months	Cluster 249	0.0061705123855517316
+Positive for PA within next 12 months	Cluster 1490	0.006157887406908801
+Positive for PA within next 12 months	Cluster 1484	0.0056937497938794905
+Positive for PA within next 12 months	Cluster 347	0.005509043963130834
+Positive for PA within next 12 months	Cluster 167	0.0053963010545620554
+Positive for PA within next 12 months	Cluster 2	0.0052679093120683515
+Positive for PA within next 12 months	Cluster 339	0.005091479461008823
+Positive for PA within next 12 months	Cluster 300	0.005080541629703712
+Positive for PA within next 12 months	Cluster 3	0.005067080255198844
+Positive for PA within next 12 months	Cluster 1458	0.005054404824498249
+Positive for PA within next 12 months	Cluster 1405	0.005044326931758645
+Positive for PA within next 12 months	Cluster 907	0.0050128131503995536
+
+Mean squared error for N12M_Pseudomonas aeruginosa using classifier is 0.2727272727272727
+Features appearing at least once
+N12M_Pseudomonas aeruginosa	Cluster 304	0.023759268774437268
+N12M_Pseudomonas aeruginosa	Cluster 1142	0.018884257840587407
+N12M_Pseudomonas aeruginosa	Cluster 1157	0.017488162301901353
+N12M_Pseudomonas aeruginosa	Cluster 3	0.012774032466060205
+N12M_Pseudomonas aeruginosa	Cluster 983	0.011782438408305812
+N12M_Pseudomonas aeruginosa	Cluster 1192	0.011560690059881543
+N12M_Pseudomonas aeruginosa	Cluster 1067	0.011001325554447158
+N12M_Pseudomonas aeruginosa	Cluster 1439	0.01079796487198513
+N12M_Pseudomonas aeruginosa	Cluster 910	0.010441088556810852
+N12M_Pseudomonas aeruginosa	Cluster 1260	0.009985529910124158
+N12M_Pseudomonas aeruginosa	Cluster 1090	0.00988438307502315
+N12M_Pseudomonas aeruginosa	Cluster 14	0.009436075263891019
+N12M_Pseudomonas aeruginosa	Cluster 245	0.009387906084400708
+N12M_Pseudomonas aeruginosa	Cluster 163	0.008666983399003448
+N12M_Pseudomonas aeruginosa	Cluster 5	0.00833874762259662
+N12M_Pseudomonas aeruginosa	Cluster 1236	0.008326865097745582
+N12M_Pseudomonas aeruginosa	Cluster 58	0.00825286314959521
+N12M_Pseudomonas aeruginosa	Cluster 302	0.008071617987861927
+N12M_Pseudomonas aeruginosa	Cluster 451	0.008050816207292701
+N12M_Pseudomonas aeruginosa	Cluster 1175	0.007732491896345536
+
+Mean squared error for N12M_Pseudomonas aeruginosa (multi-resistant) using classifier is 0.2857142857142857
+Features appearing at least once
+N12M_Pseudomonas aeruginosa (multi-resistant)	Cluster 14	0.01815765780601011
+N12M_Pseudomonas aeruginosa (multi-resistant)	Cluster 1062	0.01728228409138498
+N12M_Pseudomonas aeruginosa (multi-resistant)	Cluster 1225	0.01683491369978357
+N12M_Pseudomonas aeruginosa (multi-resistant)	Cluster 21	0.016080118484410114
+N12M_Pseudomonas aeruginosa (multi-resistant)	Cluster 1072	0.013436772665518541
+N12M_Pseudomonas aeruginosa (multi-resistant)	Cluster 3	0.013099247466078615
+N12M_Pseudomonas aeruginosa (multi-resistant)	Cluster 1090	0.012508072187460674
+N12M_Pseudomonas aeruginosa (multi-resistant)	Cluster 840	0.012339056121354499
+N12M_Pseudomonas aeruginosa (multi-resistant)	Cluster 814	0.011879840212740468
+N12M_Pseudomonas aeruginosa (multi-resistant)	Cluster 1236	0.011169450004848374
+N12M_Pseudomonas aeruginosa (multi-resistant)	Cluster 336	0.010933001894655011
+N12M_Pseudomonas aeruginosa (multi-resistant)	Cluster 6	0.01067780822668033
+N12M_Pseudomonas aeruginosa (multi-resistant)	Cluster 338	0.009372122083636988
+N12M_Pseudomonas aeruginosa (multi-resistant)	Cluster 2	0.009101952676260931
+N12M_Pseudomonas aeruginosa (multi-resistant)	Cluster 9	0.009033462679775955
+N12M_Pseudomonas aeruginosa (multi-resistant)	Cluster 94	0.008958028053499033
+N12M_Pseudomonas aeruginosa (multi-resistant)	Cluster 5	0.008524779330082643
+N12M_Pseudomonas aeruginosa (multi-resistant)	Cluster 883	0.008358985365174538
+N12M_Pseudomonas aeruginosa (multi-resistant)	Cluster 1084	0.008125372780801117
+N12M_Pseudomonas aeruginosa (multi-resistant)	Cluster 965	0.007422993139490391
+
+Mean squared error for N12M_mucoid using classifier is 0.10526315789473684
+Features appearing at least once
+N12M_mucoid	Cluster 338	0.03202867702612136
+N12M_mucoid	Cluster 25	0.030711156193428606
+N12M_mucoid	Cluster 840	0.027981362254152854
+N12M_mucoid	Cluster 860	0.02422787506105947
+N12M_mucoid	Cluster 1225	0.021238422004546453
+N12M_mucoid	Cluster 1209	0.0202769964047577
+N12M_mucoid	Cluster 3	0.017182145351381725
+N12M_mucoid	Cluster 442	0.016802114293347048
+N12M_mucoid	Cluster 760	0.016641269872947367
+N12M_mucoid	Cluster 38	0.016161342152571437
+N12M_mucoid	Cluster 37	0.015769065834395652
+N12M_mucoid	Cluster 809	0.01350453151862901
+N12M_mucoid	Cluster 312	0.012253874781669574
+N12M_mucoid	Cluster 1175	0.011164853428117984
+N12M_mucoid	Cluster 2	0.010924619374511607
+N12M_mucoid	Cluster 801	0.01062054224831617
+N12M_mucoid	Cluster 1063	0.010409199596327946
+N12M_mucoid	Cluster 43	0.009741855465760226
+N12M_mucoid	Cluster 743	0.00964592712085258
+N12M_mucoid	Cluster 843	0.009639519829116223
+
+Mean squared error for N12M_non_mucoid using classifier is 0.11764705882352941
+Features appearing at least once
+N12M_non_mucoid	Cluster 1112	0.039575000668293205
+N12M_non_mucoid	Cluster 1212	0.026454812146696285
+N12M_non_mucoid	Cluster 681	0.022344031564801917
+N12M_non_mucoid	Cluster 168	0.017885951096048833
+N12M_non_mucoid	Cluster 136	0.017831493657544398
+N12M_non_mucoid	Cluster 478	0.017397257383580833
+N12M_non_mucoid	Cluster 919	0.016274891290226794
+N12M_non_mucoid	Cluster 67	0.016031628361308697
+N12M_non_mucoid	Cluster 1415	0.014462467951666204
+N12M_non_mucoid	Cluster 699	0.014168063098139115
+N12M_non_mucoid	Cluster 692	0.013921247215979728
+N12M_non_mucoid	Cluster 1168	0.012848374841495168
+N12M_non_mucoid	Cluster 960	0.012833239067876787
+N12M_non_mucoid	Cluster 157	0.012748211899217921
+N12M_non_mucoid	Cluster 145	0.012534508314150514
+N12M_non_mucoid	Cluster 144	0.012465290188435738
+N12M_non_mucoid	Cluster 1072	0.012342925594380624
+N12M_non_mucoid	Cluster 698	0.011249987170257578
+N12M_non_mucoid	Cluster 1388	0.011071634825355494
+N12M_non_mucoid	Cluster 1163	0.010728992326293827
+
+Mean squared error for N12M_MAC using classifier is 0.2777777777777778
+Features appearing at least once
+N12M_MAC	Cluster 837	0.028203211951952682
+N12M_MAC	Cluster 862	0.022016651540592007
+N12M_MAC	Cluster 547	0.020934527504847922
+N12M_MAC	Cluster 907	0.02042868753452205
+N12M_MAC	Cluster 894	0.019535368268800042
+N12M_MAC	Cluster 403	0.01947419804057196
+N12M_MAC	Cluster 838	0.018450669045933725
+N12M_MAC	Cluster 1255	0.016230817875114274
+N12M_MAC	Cluster 541	0.015185888681849093
+N12M_MAC	Cluster 780	0.014465182124886771
+N12M_MAC	Cluster 1215	0.01410259047698031
+N12M_MAC	Cluster 1453	0.013996573548229268
+N12M_MAC	Cluster 904	0.011499873014834263
+N12M_MAC	Cluster 628	0.011482452756408332
+N12M_MAC	Cluster 1136	0.011357490473260283
+N12M_MAC	Cluster 664	0.011230060111734134
+N12M_MAC	Cluster 296	0.010847510973154915
+N12M_MAC	Cluster 408	0.010144076479068419
+N12M_MAC	Cluster 603	0.010071325004622702
+N12M_MAC	Cluster 1400	0.009673957836889733
+
+Mean squared error for N12M_M intracellulare using classifier is 0.0
+Features appearing at least once
+N12M_M intracellulare	Cluster 1378	0.027493861275819518
+N12M_M intracellulare	Cluster 1041	0.025179618364836873
+N12M_M intracellulare	Cluster 1187	0.023051652976199273
+N12M_M intracellulare	Cluster 877	0.020803500526872548
+N12M_M intracellulare	Cluster 936	0.019511014402482957
+N12M_M intracellulare	Cluster 632	0.01861441400121608
+N12M_M intracellulare	Cluster 1145	0.018256532980763934
+N12M_M intracellulare	Cluster 930	0.018230901331170342
+N12M_M intracellulare	Cluster 306	0.018124999730783364
+N12M_M intracellulare	Cluster 1218	0.01803373444689565
+N12M_M intracellulare	Cluster 654	0.01725602870445528
+N12M_M intracellulare	Cluster 1128	0.016854969619085107
+N12M_M intracellulare	Cluster 820	0.01685132901832568
+N12M_M intracellulare	Cluster 1227	0.016595153851662346
+N12M_M intracellulare	Cluster 1153	0.015499953875151344
+N12M_M intracellulare	Cluster 981	0.01425892439512552
+N12M_M intracellulare	Cluster 1023	0.013966855321655074
+N12M_M intracellulare	Cluster 22	0.013529551219165534
+N12M_M intracellulare	Cluster 1266	0.013060970935814908
+N12M_M intracellulare	Cluster 1235	0.012676573935528495
+
+Mean squared error for N12M_Candida albicans using classifier is 0.21739130434782608
+Features appearing at least once
+N12M_Candida albicans	Cluster 299	0.017238348255324294
+N12M_Candida albicans	Cluster 1135	0.016233233625561345
+N12M_Candida albicans	Cluster 897	0.01582948143295493
+N12M_Candida albicans	Cluster 936	0.014478895765613913
+N12M_Candida albicans	Cluster 1053	0.014039860977102735
+N12M_Candida albicans	Cluster 888	0.013819395847126216
+N12M_Candida albicans	Cluster 1372	0.012898191767746588
+N12M_Candida albicans	Cluster 584	0.010722214497077723
+N12M_Candida albicans	Cluster 852	0.010708077501412106
+N12M_Candida albicans	Cluster 1023	0.010371472052646503
+N12M_Candida albicans	Cluster 319	0.010191350219292678
+N12M_Candida albicans	Cluster 1099	0.010084829738275191
+N12M_Candida albicans	Cluster 964	0.009873892516811143
+N12M_Candida albicans	Cluster 22	0.009782698710439124
+N12M_Candida albicans	Cluster 1072	0.009425568164307313
+N12M_Candida albicans	Cluster 1311	0.00925260656964556
+N12M_Candida albicans	Cluster 840	0.00900987443033987
+N12M_Candida albicans	Cluster 1163	0.008879559080804043
+N12M_Candida albicans	Cluster 1186	0.008699756238203729
+N12M_Candida albicans	Cluster 1379	0.008602906559665216
+
+Mean squared error for N12M_Achromobacter xylosoxidans using classifier is 0.11764705882352941
+Features appearing at least once
+N12M_Achromobacter xylosoxidans	Cluster 995	0.03248201130957644
+N12M_Achromobacter xylosoxidans	Cluster 317	0.0315562288270285
+N12M_Achromobacter xylosoxidans	Cluster 1201	0.03122040122845882
+N12M_Achromobacter xylosoxidans	Cluster 1143	0.028558625324024492
+N12M_Achromobacter xylosoxidans	Cluster 332	0.022850983294512628
+N12M_Achromobacter xylosoxidans	Cluster 1063	0.022540158575974144
+N12M_Achromobacter xylosoxidans	Cluster 681	0.022303348589824346
+N12M_Achromobacter xylosoxidans	Cluster 1056	0.02111413451109022
+N12M_Achromobacter xylosoxidans	Cluster 1033	0.020835389770579835
+N12M_Achromobacter xylosoxidans	Cluster 1432	0.02062711594131899
+N12M_Achromobacter xylosoxidans	Cluster 733	0.019844214313319675
+N12M_Achromobacter xylosoxidans	Cluster 1361	0.01881716817969096
+N12M_Achromobacter xylosoxidans	Cluster 245	0.018548394223793976
+N12M_Achromobacter xylosoxidans	Cluster 846	0.01824882297526044
+N12M_Achromobacter xylosoxidans	Cluster 1248	0.016123449365428543
+N12M_Achromobacter xylosoxidans	Cluster 417	0.015597257712972133
+N12M_Achromobacter xylosoxidans	Cluster 426	0.014692430814021069
+N12M_Achromobacter xylosoxidans	Cluster 556	0.014380792839279151
+N12M_Achromobacter xylosoxidans	Cluster 855	0.014044408454601356
+N12M_Achromobacter xylosoxidans	Cluster 1051	0.013487946438479672
+
+Mean squared error for N12M_Aspergillus fumigatus using classifier is 0.15789473684210525
+Features appearing at least once
+N12M_Aspergillus fumigatus	Cluster 940	0.027274062406279585
+N12M_Aspergillus fumigatus	Cluster 1360	0.02136712055312778
+N12M_Aspergillus fumigatus	Cluster 1135	0.018476359192698737
+N12M_Aspergillus fumigatus	Cluster 572	0.016075223788699564
+N12M_Aspergillus fumigatus	Cluster 1158	0.014700488352540848
+N12M_Aspergillus fumigatus	Cluster 851	0.01463093771209487
+N12M_Aspergillus fumigatus	Cluster 1367	0.013829287004069319
+N12M_Aspergillus fumigatus	Cluster 268	0.013049895273462012
+N12M_Aspergillus fumigatus	Cluster 1186	0.012934470581988903
+N12M_Aspergillus fumigatus	Cluster 592	0.011394366578253448
+N12M_Aspergillus fumigatus	Cluster 562	0.011019762193219288
+N12M_Aspergillus fumigatus	Cluster 284	0.010997287900650951
+N12M_Aspergillus fumigatus	Cluster 481	0.010913062065768888
+N12M_Aspergillus fumigatus	Cluster 286	0.010379020296902384
+N12M_Aspergillus fumigatus	Cluster 877	0.010370619679101935
+N12M_Aspergillus fumigatus	Cluster 272	0.0103119379869055
+N12M_Aspergillus fumigatus	Cluster 583	0.00984658659826483
+N12M_Aspergillus fumigatus	Cluster 497	0.0094984037355016
+N12M_Aspergillus fumigatus	Cluster 999	0.009397863264762859
+N12M_Aspergillus fumigatus	Cluster 377	0.008908011562506203
+
+Mean squared error for N12M_Stenotrophomonas maltophilia using classifier is 0.23529411764705882
+Features appearing at least once
+N12M_Stenotrophomonas maltophilia	Cluster 1063	0.02196493287256305
+N12M_Stenotrophomonas maltophilia	Cluster 1062	0.021235171009609918
+N12M_Stenotrophomonas maltophilia	Cluster 295	0.01924379764504232
+N12M_Stenotrophomonas maltophilia	Cluster 1208	0.018315047147944602
+N12M_Stenotrophomonas maltophilia	Cluster 872	0.017698090216983785
+N12M_Stenotrophomonas maltophilia	Cluster 297	0.017334224911064754
+N12M_Stenotrophomonas maltophilia	Cluster 1054	0.016286143705975926
+N12M_Stenotrophomonas maltophilia	Cluster 1375	0.015702771174205543
+N12M_Stenotrophomonas maltophilia	Cluster 1374	0.015092160281806403
+N12M_Stenotrophomonas maltophilia	Cluster 1100	0.014844465964653742
+N12M_Stenotrophomonas maltophilia	Cluster 487	0.013929754706357766
+N12M_Stenotrophomonas maltophilia	Cluster 1236	0.012985922996308023
+N12M_Stenotrophomonas maltophilia	Cluster 879	0.012883303698395935
+N12M_Stenotrophomonas maltophilia	Cluster 380	0.012659069568006
+N12M_Stenotrophomonas maltophilia	Cluster 326	0.011910208126002108
+N12M_Stenotrophomonas maltophilia	Cluster 1414	0.010907910602435678
+N12M_Stenotrophomonas maltophilia	Cluster 1124	0.009883122138879064
+N12M_Stenotrophomonas maltophilia	Cluster 799	0.009781949465771525
+N12M_Stenotrophomonas maltophilia	Cluster 889	0.00974687065103978
+N12M_Stenotrophomonas maltophilia	Cluster 1408	0.009296992032036995
+
+Mean squared error for N12M_Staphylococcus aureus using classifier is 0.3333333333333333
+Features appearing at least once
+N12M_Staphylococcus aureus	Cluster 479	0.023294646065370336
+N12M_Staphylococcus aureus	Cluster 291	0.020936817951750123
+N12M_Staphylococcus aureus	Cluster 165	0.019860975410108925
+N12M_Staphylococcus aureus	Cluster 747	0.01945237597360136
+N12M_Staphylococcus aureus	Cluster 736	0.01578061906862042
+N12M_Staphylococcus aureus	Cluster 1373	0.015595703093294612
+N12M_Staphylococcus aureus	Cluster 600	0.014604334799094678
+N12M_Staphylococcus aureus	Cluster 1120	0.014268204378409805
+N12M_Staphylococcus aureus	Cluster 871	0.014142772014786514
+N12M_Staphylococcus aureus	Cluster 69	0.013695139384557874
+N12M_Staphylococcus aureus	Cluster 968	0.013141912109014829
+N12M_Staphylococcus aureus	Cluster 713	0.013003168672252251
+N12M_Staphylococcus aureus	Cluster 623	0.012181641683292952
+N12M_Staphylococcus aureus	Cluster 95	0.012005188370114297
+N12M_Staphylococcus aureus	Cluster 305	0.011099645196817495
+N12M_Staphylococcus aureus	Cluster 1076	0.009818962214760276
+N12M_Staphylococcus aureus	Cluster 255	0.009403250369295301
+N12M_Staphylococcus aureus	Cluster 127	0.009131750641012406
+N12M_Staphylococcus aureus	Cluster 1371	0.009093461949687586
+N12M_Staphylococcus aureus	Cluster 152	0.009048766251208935
+
+Mean squared error for N12M_M gordonae using classifier is 0.2857142857142857
+Features appearing at least once
+N12M_M gordonae	Cluster 283	0.03492923658757373
+N12M_M gordonae	Cluster 614	0.03485126158067962
+N12M_M gordonae	Cluster 447	0.03432097406057685
+N12M_M gordonae	Cluster 600	0.03407786737260056
+N12M_M gordonae	Cluster 877	0.03152557406249372
+N12M_M gordonae	Cluster 633	0.030523930099397814
+N12M_M gordonae	Cluster 284	0.029633168370870773
+N12M_M gordonae	Cluster 25	0.026916503239540784
+N12M_M gordonae	Cluster 193	0.025334114538247725
+N12M_M gordonae	Cluster 5	0.025060004331512006
+N12M_M gordonae	Cluster 940	0.023649222394821354
+N12M_M gordonae	Cluster 1360	0.023195117879976634
+N12M_M gordonae	Cluster 805	0.022863386242020917
+N12M_M gordonae	Cluster 1018	0.022135892441127788
+N12M_M gordonae	Cluster 3	0.021010899502850684
+N12M_M gordonae	Cluster 572	0.020653097518437337
+N12M_M gordonae	Cluster 1383	0.020636460792051895
+N12M_M gordonae	Cluster 99	0.017228498268660478
+N12M_M gordonae	Cluster 1123	0.016534890930275773
+N12M_M gordonae	Cluster 75	0.016071563527172823
+
+Mean squared error for N12M_M chelonae using classifier is 0.0
+Features appearing at least once
+N12M_M chelonae	Cluster 1	0.0
+N12M_M chelonae	Cluster 998	0.0
+N12M_M chelonae	Cluster 1007	0.0
+N12M_M chelonae	Cluster 1006	0.0
+N12M_M chelonae	Cluster 1005	0.0
+N12M_M chelonae	Cluster 1004	0.0
+N12M_M chelonae	Cluster 1003	0.0
+N12M_M chelonae	Cluster 1002	0.0
+N12M_M chelonae	Cluster 1001	0.0
+N12M_M chelonae	Cluster 1000	0.0
+N12M_M chelonae	Cluster 999	0.0
+N12M_M chelonae	Cluster 997	0.0
+N12M_M chelonae	Cluster 986	0.0
+N12M_M chelonae	Cluster 996	0.0
+N12M_M chelonae	Cluster 995	0.0
+N12M_M chelonae	Cluster 994	0.0
+N12M_M chelonae	Cluster 993	0.0
+N12M_M chelonae	Cluster 992	0.0
+N12M_M chelonae	Cluster 991	0.0
+N12M_M chelonae	Cluster 990	0.0
+
+Mean squared error for O_Penicillium species using classifier is 0.07692307692307693
+Features appearing at least once
+O_Penicillium species	Cluster 576	0.026629329131387196
+O_Penicillium species	Cluster 238	0.019350539541357428
+O_Penicillium species	Cluster 1028	0.018764653432281952
+O_Penicillium species	Cluster 798	0.018615961309423824
+O_Penicillium species	Cluster 272	0.01760487339507108
+O_Penicillium species	Cluster 1327	0.01757146196635048
+O_Penicillium species	Cluster 987	0.017349242742248396
+O_Penicillium species	Cluster 759	0.015584333338656244
+O_Penicillium species	Cluster 583	0.015258670470239877
+O_Penicillium species	Cluster 267	0.015248793543906396
+O_Penicillium species	Cluster 456	0.014740919505567291
+O_Penicillium species	Cluster 826	0.014329847378692187
+O_Penicillium species	Cluster 478	0.01302936289426241
+O_Penicillium species	Cluster 1126	0.01291194377800318
+O_Penicillium species	Cluster 279	0.012003922409806385
+O_Penicillium species	Cluster 328	0.011314360537183477
+O_Penicillium species	Cluster 47	0.011289283236778138
+O_Penicillium species	Cluster 1002	0.010497977222465425
+O_Penicillium species	Cluster 1429	0.010276205696147688
+O_Penicillium species	Cluster 1372	0.010266831560697541
+
+Mean squared error for O_Enterobacter cloacae using classifier is 0.0
+Features appearing at least once
+O_Enterobacter cloacae	Cluster 895	0.031275864259296446
+O_Enterobacter cloacae	Cluster 430	0.031080093394079498
+O_Enterobacter cloacae	Cluster 195	0.030511717348016984
+O_Enterobacter cloacae	Cluster 112	0.026359737887970976
+O_Enterobacter cloacae	Cluster 1201	0.023978846235864156
+O_Enterobacter cloacae	Cluster 125	0.023720471512807855
+O_Enterobacter cloacae	Cluster 1221	0.022689237098023306
+O_Enterobacter cloacae	Cluster 1189	0.022318180135328707
+O_Enterobacter cloacae	Cluster 584	0.02050387644022407
+O_Enterobacter cloacae	Cluster 958	0.020416778737159674
+O_Enterobacter cloacae	Cluster 1471	0.019988840947905442
+O_Enterobacter cloacae	Cluster 894	0.019815371927179228
+O_Enterobacter cloacae	Cluster 47	0.019372272936946745
+O_Enterobacter cloacae	Cluster 1192	0.018839860377928577
+O_Enterobacter cloacae	Cluster 668	0.0182022078765608
+O_Enterobacter cloacae	Cluster 1209	0.017650051291122886
+O_Enterobacter cloacae	Cluster 272	0.01698138195148099
+O_Enterobacter cloacae	Cluster 267	0.016950935043948488
+O_Enterobacter cloacae	Cluster 1040	0.01694541181354651
+O_Enterobacter cloacae	Cluster 71	0.01623833240046919
+
+Mean squared error for O_Aspergillus Flavus using classifier is 0.07692307692307693
+Features appearing at least once
+O_Aspergillus Flavus	Cluster 59	0.029948262588748338
+O_Aspergillus Flavus	Cluster 1145	0.023292985582765813
+O_Aspergillus Flavus	Cluster 108	0.023171023385642416
+O_Aspergillus Flavus	Cluster 790	0.021563761025548207
+O_Aspergillus Flavus	Cluster 99	0.021338755728836922
+O_Aspergillus Flavus	Cluster 35	0.020477424120831457
+O_Aspergillus Flavus	Cluster 58	0.020442750448558835
+O_Aspergillus Flavus	Cluster 1028	0.019474076558127502
+O_Aspergillus Flavus	Cluster 699	0.016711722990937726
+O_Aspergillus Flavus	Cluster 972	0.014483986551035773
+O_Aspergillus Flavus	Cluster 304	0.01304311881429558
+O_Aspergillus Flavus	Cluster 371	0.012859291656805083
+O_Aspergillus Flavus	Cluster 909	0.012356611229385741
+O_Aspergillus Flavus	Cluster 1436	0.011639153548303813
+O_Aspergillus Flavus	Cluster 1262	0.011597592223764913
+O_Aspergillus Flavus	Cluster 744	0.01151662439383851
+O_Aspergillus Flavus	Cluster 852	0.010713669549348348
+O_Aspergillus Flavus	Cluster 1025	0.010302086568952774
+O_Aspergillus Flavus	Cluster 1192	0.010233660408247277
+O_Aspergillus Flavus	Cluster 1127	0.010145754179514847
+
+Mean squared error for O_Mycobacterium abscessus using classifier is 0.07692307692307693
+Features appearing at least once
+O_Mycobacterium abscessus	Cluster 340	0.0460396128595166
+O_Mycobacterium abscessus	Cluster 170	0.03551932009872216
+O_Mycobacterium abscessus	Cluster 944	0.03537135054260022
+O_Mycobacterium abscessus	Cluster 1103	0.03319862143335605
+O_Mycobacterium abscessus	Cluster 371	0.027826219715260385
+O_Mycobacterium abscessus	Cluster 920	0.02760184520302253
+O_Mycobacterium abscessus	Cluster 594	0.026029002440110294
+O_Mycobacterium abscessus	Cluster 231	0.02415633206810105
+O_Mycobacterium abscessus	Cluster 681	0.024118361758475128
+O_Mycobacterium abscessus	Cluster 1121	0.023038063570674977
+O_Mycobacterium abscessus	Cluster 1142	0.02215912675824583
+O_Mycobacterium abscessus	Cluster 638	0.02060681554996426
+O_Mycobacterium abscessus	Cluster 257	0.01785023617403628
+O_Mycobacterium abscessus	Cluster 219	0.015240120398523868
+O_Mycobacterium abscessus	Cluster 402	0.014164894942051509
+O_Mycobacterium abscessus	Cluster 216	0.013364743169222905
+O_Mycobacterium abscessus	Cluster 67	0.01334426778953414
+O_Mycobacterium abscessus	Cluster 672	0.012875462236257521
+O_Mycobacterium abscessus	Cluster 859	0.012642340793744275
+O_Mycobacterium abscessus	Cluster 312	0.012614112769220342
+
+Mean squared error for O_Cupriavidus gilardii using classifier is 0.07692307692307693
+Features appearing at least once
+O_Cupriavidus gilardii	Cluster 920	0.048023193532079636
+O_Cupriavidus gilardii	Cluster 152	0.043527501586778164
+O_Cupriavidus gilardii	Cluster 901	0.03873784921707547
+O_Cupriavidus gilardii	Cluster 837	0.03717197411540757
+O_Cupriavidus gilardii	Cluster 953	0.03691661641155264
+O_Cupriavidus gilardii	Cluster 1026	0.0298334483900658
+O_Cupriavidus gilardii	Cluster 462	0.02613515028644277
+O_Cupriavidus gilardii	Cluster 1207	0.02612065631686656
+O_Cupriavidus gilardii	Cluster 991	0.023574331403982615
+O_Cupriavidus gilardii	Cluster 892	0.02159243035942385
+O_Cupriavidus gilardii	Cluster 1135	0.021342867052950742
+O_Cupriavidus gilardii	Cluster 1048	0.020664299292999438
+O_Cupriavidus gilardii	Cluster 322	0.019975752829118832
+O_Cupriavidus gilardii	Cluster 944	0.01932874474638953
+O_Cupriavidus gilardii	Cluster 960	0.019023005459455386
+O_Cupriavidus gilardii	Cluster 957	0.01897506546273547
+O_Cupriavidus gilardii	Cluster 1103	0.018877999969240892
+O_Cupriavidus gilardii	Cluster 1335	0.01774577427336836
+O_Cupriavidus gilardii	Cluster 231	0.016743879539125133
+O_Cupriavidus gilardii	Cluster 371	0.015291180936224504
+
+Mean squared error for O_Mycobacterium intracellular using classifier is 0.0
+Features appearing at least once
+O_Mycobacterium intracellular	Cluster 1020	0.0255322652481274
+O_Mycobacterium intracellular	Cluster 798	0.02405746508053475
+O_Mycobacterium intracellular	Cluster 1417	0.022869719586295786
+O_Mycobacterium intracellular	Cluster 1049	0.022025483528290767
+O_Mycobacterium intracellular	Cluster 1056	0.02132903098950061
+O_Mycobacterium intracellular	Cluster 987	0.020575550458948464
+O_Mycobacterium intracellular	Cluster 877	0.019786672560539686
+O_Mycobacterium intracellular	Cluster 672	0.018848415316067478
+O_Mycobacterium intracellular	Cluster 1003	0.017562599379726127
+O_Mycobacterium intracellular	Cluster 1308	0.017044435532626547
+O_Mycobacterium intracellular	Cluster 1289	0.016861284962391497
+O_Mycobacterium intracellular	Cluster 347	0.016750105020786627
+O_Mycobacterium intracellular	Cluster 1445	0.015487871016211484
+O_Mycobacterium intracellular	Cluster 312	0.01532291485993328
+O_Mycobacterium intracellular	Cluster 988	0.015012409514089498
+O_Mycobacterium intracellular	Cluster 1431	0.014957254471652163
+O_Mycobacterium intracellular	Cluster 1228	0.014279482136459538
+O_Mycobacterium intracellular	Cluster 1165	0.01401739185409611
+O_Mycobacterium intracellular	Cluster 78	0.013343459875302456
+O_Mycobacterium intracellular	Cluster 1182	0.013018926677274108
+
+Mean squared error for O_Pseudomonas aeruginosa (multi-resistant) using classifier is 0.038461538461538464
+Features appearing at least once
+O_Pseudomonas aeruginosa (multi-resistant)	Cluster 544	0.03999786450744652
+O_Pseudomonas aeruginosa (multi-resistant)	Cluster 660	0.03827802343763006
+O_Pseudomonas aeruginosa (multi-resistant)	Cluster 938	0.026262575534543024
+O_Pseudomonas aeruginosa (multi-resistant)	Cluster 1141	0.02600845558712853
+O_Pseudomonas aeruginosa (multi-resistant)	Cluster 1241	0.025500432965893764
+O_Pseudomonas aeruginosa (multi-resistant)	Cluster 1223	0.020812764051109794
+O_Pseudomonas aeruginosa (multi-resistant)	Cluster 691	0.020017338395760746
+O_Pseudomonas aeruginosa (multi-resistant)	Cluster 1403	0.01853564647080497
+O_Pseudomonas aeruginosa (multi-resistant)	Cluster 321	0.017191191230569194
+O_Pseudomonas aeruginosa (multi-resistant)	Cluster 1395	0.01646997049110531
+O_Pseudomonas aeruginosa (multi-resistant)	Cluster 1172	0.016268404117782718
+O_Pseudomonas aeruginosa (multi-resistant)	Cluster 1214	0.016046017729379036
+O_Pseudomonas aeruginosa (multi-resistant)	Cluster 1247	0.015365895885060156
+O_Pseudomonas aeruginosa (multi-resistant)	Cluster 1255	0.012785590611452277
+O_Pseudomonas aeruginosa (multi-resistant)	Cluster 1266	0.012759890605275902
+O_Pseudomonas aeruginosa (multi-resistant)	Cluster 1251	0.012025791176113828
+O_Pseudomonas aeruginosa (multi-resistant)	Cluster 992	0.011563268004545433
+O_Pseudomonas aeruginosa (multi-resistant)	Cluster 1257	0.011462510438525352
+O_Pseudomonas aeruginosa (multi-resistant)	Cluster 1254	0.011133148086537087
+O_Pseudomonas aeruginosa (multi-resistant)	Cluster 1052	0.011100001463775244
+
+Mean squared error for O_Streptococcus pyogenes using classifier is 0.0
+Features appearing at least once
+O_Streptococcus pyogenes	Cluster 869	0.03634093442991636
+O_Streptococcus pyogenes	Cluster 866	0.030992568949512862
+O_Streptococcus pyogenes	Cluster 69	0.030408692192254744
+O_Streptococcus pyogenes	Cluster 289	0.029174440616970977
+O_Streptococcus pyogenes	Cluster 312	0.02730840568105585
+O_Streptococcus pyogenes	Cluster 478	0.024748877598917054
+O_Streptococcus pyogenes	Cluster 865	0.024108162042750125
+O_Streptococcus pyogenes	Cluster 442	0.022866773587786392
+O_Streptococcus pyogenes	Cluster 599	0.022497699434260072
+O_Streptococcus pyogenes	Cluster 803	0.021564349092220127
+O_Streptococcus pyogenes	Cluster 152	0.021286535466817993
+O_Streptococcus pyogenes	Cluster 99	0.02121752933851088
+O_Streptococcus pyogenes	Cluster 284	0.020597234558124993
+O_Streptococcus pyogenes	Cluster 688	0.019943946529294827
+O_Streptococcus pyogenes	Cluster 285	0.019672318614910103
+O_Streptococcus pyogenes	Cluster 764	0.019459180355340333
+O_Streptococcus pyogenes	Cluster 255	0.019069899431529383
+O_Streptococcus pyogenes	Cluster 293	0.018300094433850552
+O_Streptococcus pyogenes	Cluster 637	0.01818219165350582
+O_Streptococcus pyogenes	Cluster 670	0.015675257100162234
+
+Mean squared error for O_Pseudomonas aeruginosa (non-mucoid) using classifier is 0.038461538461538464
+Features appearing at least once
+O_Pseudomonas aeruginosa (non-mucoid)	Cluster 1223	0.03573932773950082
+O_Pseudomonas aeruginosa (non-mucoid)	Cluster 1251	0.0323029896030365
+O_Pseudomonas aeruginosa (non-mucoid)	Cluster 1249	0.02403673006988882
+O_Pseudomonas aeruginosa (non-mucoid)	Cluster 318	0.02288799640295943
+O_Pseudomonas aeruginosa (non-mucoid)	Cluster 617	0.022814157560533396
+O_Pseudomonas aeruginosa (non-mucoid)	Cluster 1067	0.021008476095422324
+O_Pseudomonas aeruginosa (non-mucoid)	Cluster 1172	0.01731370052160277
+O_Pseudomonas aeruginosa (non-mucoid)	Cluster 1257	0.0140515123969149
+O_Pseudomonas aeruginosa (non-mucoid)	Cluster 1255	0.012781650342079265
+O_Pseudomonas aeruginosa (non-mucoid)	Cluster 1258	0.011240106862801361
+O_Pseudomonas aeruginosa (non-mucoid)	Cluster 807	0.010566745545698118
+O_Pseudomonas aeruginosa (non-mucoid)	Cluster 1224	0.010056705790673897
+O_Pseudomonas aeruginosa (non-mucoid)	Cluster 909	0.010051006974179766
+O_Pseudomonas aeruginosa (non-mucoid)	Cluster 1266	0.009929018957341976
+O_Pseudomonas aeruginosa (non-mucoid)	Cluster 1220	0.009868587304496607
+O_Pseudomonas aeruginosa (non-mucoid)	Cluster 1307	0.00978976461585676
+O_Pseudomonas aeruginosa (non-mucoid)	Cluster 35	0.009778219879075557
+O_Pseudomonas aeruginosa (non-mucoid)	Cluster 157	0.009297009447206099
+O_Pseudomonas aeruginosa (non-mucoid)	Cluster 609	0.00920298724722883
+O_Pseudomonas aeruginosa (non-mucoid)	Cluster 1086	0.009049512697080441
+
+Mean squared error for O_Chryseobacterium indologenes using classifier is 0.0
+Features appearing at least once
+O_Chryseobacterium indologenes	Cluster 461	0.056017388417123844
+O_Chryseobacterium indologenes	Cluster 616	0.0415395892019938
+O_Chryseobacterium indologenes	Cluster 562	0.04015124647597249
+O_Chryseobacterium indologenes	Cluster 1120	0.03466240305712346
+O_Chryseobacterium indologenes	Cluster 649	0.032849922630529174
+O_Chryseobacterium indologenes	Cluster 503	0.032254336578602674
+O_Chryseobacterium indologenes	Cluster 513	0.030804532132645043
+O_Chryseobacterium indologenes	Cluster 748	0.028730447126505868
+O_Chryseobacterium indologenes	Cluster 533	0.026413999155594146
+O_Chryseobacterium indologenes	Cluster 415	0.02587303728587439
+O_Chryseobacterium indologenes	Cluster 1112	0.025697000250078643
+O_Chryseobacterium indologenes	Cluster 1234	0.02528811729874582
+O_Chryseobacterium indologenes	Cluster 578	0.022172613533700897
+O_Chryseobacterium indologenes	Cluster 626	0.020965271140382394
+O_Chryseobacterium indologenes	Cluster 527	0.01940458101293214
+O_Chryseobacterium indologenes	Cluster 836	0.019144107489695927
+O_Chryseobacterium indologenes	Cluster 523	0.018860041638091764
+O_Chryseobacterium indologenes	Cluster 958	0.016143034407383603
+O_Chryseobacterium indologenes	Cluster 1003	0.01611180995448719
+O_Chryseobacterium indologenes	Cluster 552	0.014161455881309496
+
+Mean squared error for O_Bordetella species using classifier is 0.0
+Features appearing at least once
+O_Bordetella species	Cluster 872	0.038094571321602724
+O_Bordetella species	Cluster 1028	0.03569369868965386
+O_Bordetella species	Cluster 526	0.03530113770322938
+O_Bordetella species	Cluster 279	0.03337017492599334
+O_Bordetella species	Cluster 877	0.029153434339052434
+O_Bordetella species	Cluster 717	0.027267233838245343
+O_Bordetella species	Cluster 171	0.025092451955985185
+O_Bordetella species	Cluster 1041	0.023849965757121817
+O_Bordetella species	Cluster 471	0.02318763298689337
+O_Bordetella species	Cluster 1145	0.022991581490530478
+O_Bordetella species	Cluster 80	0.02271113015273243
+O_Bordetella species	Cluster 387	0.022583707643440237
+O_Bordetella species	Cluster 378	0.022021750534749925
+O_Bordetella species	Cluster 245	0.019936799037787296
+O_Bordetella species	Cluster 562	0.018287745239052983
+O_Bordetella species	Cluster 422	0.018241591014165788
+O_Bordetella species	Cluster 249	0.017644874394233616
+O_Bordetella species	Cluster 161	0.015229206938502831
+O_Bordetella species	Cluster 844	0.014856751408184479
+O_Bordetella species	Cluster 959	0.01430621526864094
+
+Mean squared error for O_Klebsiella oxytoca using classifier is 0.0
+Features appearing at least once
+O_Klebsiella oxytoca	Cluster 244	0.03940200794858758
+O_Klebsiella oxytoca	Cluster 1194	0.035368989682465074
+O_Klebsiella oxytoca	Cluster 289	0.035209325416719596
+O_Klebsiella oxytoca	Cluster 1199	0.033457696824094905
+O_Klebsiella oxytoca	Cluster 1214	0.03196182066402967
+O_Klebsiella oxytoca	Cluster 387	0.030250623367717906
+O_Klebsiella oxytoca	Cluster 909	0.02663066148436139
+O_Klebsiella oxytoca	Cluster 949	0.026505593081159573
+O_Klebsiella oxytoca	Cluster 633	0.02611891167516994
+O_Klebsiella oxytoca	Cluster 475	0.025570227543149793
+O_Klebsiella oxytoca	Cluster 293	0.025434382567070642
+O_Klebsiella oxytoca	Cluster 1176	0.024634630697362415
+O_Klebsiella oxytoca	Cluster 1243	0.024167898187185458
+O_Klebsiella oxytoca	Cluster 594	0.022363978487010862
+O_Klebsiella oxytoca	Cluster 242	0.021178588653524687
+O_Klebsiella oxytoca	Cluster 958	0.02109210543798075
+O_Klebsiella oxytoca	Cluster 1459	0.02020473140458532
+O_Klebsiella oxytoca	Cluster 1294	0.020060965323528263
+O_Klebsiella oxytoca	Cluster 183	0.019832914556919868
+O_Klebsiella oxytoca	Cluster 1264	0.01929858114280671
+
+Mean squared error for O_Mycobacterium mucogenicum using classifier is 0.0
+Features appearing at least once
+O_Mycobacterium mucogenicum	Cluster 1243	0.03384477244284099
+O_Mycobacterium mucogenicum	Cluster 293	0.032517961424955485
+O_Mycobacterium mucogenicum	Cluster 289	0.03240573108602963
+O_Mycobacterium mucogenicum	Cluster 1176	0.031945158799828156
+O_Mycobacterium mucogenicum	Cluster 1264	0.02960708516502802
+O_Mycobacterium mucogenicum	Cluster 1477	0.029103836882720557
+O_Mycobacterium mucogenicum	Cluster 475	0.027972867661062998
+O_Mycobacterium mucogenicum	Cluster 1194	0.02673161851444733
+O_Mycobacterium mucogenicum	Cluster 958	0.026664404740150287
+O_Mycobacterium mucogenicum	Cluster 1163	0.026569657308035788
+O_Mycobacterium mucogenicum	Cluster 594	0.02571509265391158
+O_Mycobacterium mucogenicum	Cluster 797	0.024285164264324186
+O_Mycobacterium mucogenicum	Cluster 1214	0.023114653880646284
+O_Mycobacterium mucogenicum	Cluster 94	0.022144248469896537
+O_Mycobacterium mucogenicum	Cluster 1164	0.021030318476236844
+O_Mycobacterium mucogenicum	Cluster 1382	0.01983553165725117
+O_Mycobacterium mucogenicum	Cluster 909	0.019483916079384562
+O_Mycobacterium mucogenicum	Cluster 927	0.01882382099943062
+O_Mycobacterium mucogenicum	Cluster 311	0.017933978891169385
+O_Mycobacterium mucogenicum	Cluster 203	0.017103138357320188
+
+Mean squared error for O_Mycobacterium scotochromogen using classifier is 0.0
+Features appearing at least once
+O_Mycobacterium scotochromogen	Cluster 289	0.03479377985509875
+O_Mycobacterium scotochromogen	Cluster 949	0.033670423485466734
+O_Mycobacterium scotochromogen	Cluster 387	0.031092711195797856
+O_Mycobacterium scotochromogen	Cluster 212	0.030987936255164165
+O_Mycobacterium scotochromogen	Cluster 1243	0.03068926728114478
+O_Mycobacterium scotochromogen	Cluster 293	0.029923309232443764
+O_Mycobacterium scotochromogen	Cluster 909	0.029128130592454504
+O_Mycobacterium scotochromogen	Cluster 1194	0.025728530615743664
+O_Mycobacterium scotochromogen	Cluster 242	0.025714769862983017
+O_Mycobacterium scotochromogen	Cluster 1294	0.025539496525483266
+O_Mycobacterium scotochromogen	Cluster 1199	0.02475727577583399
+O_Mycobacterium scotochromogen	Cluster 1477	0.024731174958521635
+O_Mycobacterium scotochromogen	Cluster 1258	0.024116136497245057
+O_Mycobacterium scotochromogen	Cluster 1176	0.021442863064959943
+O_Mycobacterium scotochromogen	Cluster 931	0.021317346471600745
+O_Mycobacterium scotochromogen	Cluster 1164	0.021310718393294476
+O_Mycobacterium scotochromogen	Cluster 475	0.02088866220221068
+O_Mycobacterium scotochromogen	Cluster 1214	0.020713648296646566
+O_Mycobacterium scotochromogen	Cluster 366	0.02064326646183698
+O_Mycobacterium scotochromogen	Cluster 183	0.02041104337407806
+
+Mean squared error for O_Acinetobacter species using classifier is 0.038461538461538464
+Features appearing at least once
+O_Acinetobacter species	Cluster 918	0.04578299195257311
+O_Acinetobacter species	Cluster 353	0.03474283630218323
+O_Acinetobacter species	Cluster 943	0.030031844595908127
+O_Acinetobacter species	Cluster 447	0.023510219361263632
+O_Acinetobacter species	Cluster 983	0.023256908575303
+O_Acinetobacter species	Cluster 1156	0.023053391808960894
+O_Acinetobacter species	Cluster 371	0.022220632358724665
+O_Acinetobacter species	Cluster 1429	0.021883239300899904
+O_Acinetobacter species	Cluster 283	0.02185386416099241
+O_Acinetobacter species	Cluster 932	0.021519179314194312
+O_Acinetobacter species	Cluster 304	0.020778121580920763
+O_Acinetobacter species	Cluster 1437	0.0200496228327121
+O_Acinetobacter species	Cluster 5	0.019481043239039982
+O_Acinetobacter species	Cluster 1414	0.017777545449700314
+O_Acinetobacter species	Cluster 1069	0.017713448293953413
+O_Acinetobacter species	Cluster 973	0.017706465767581253
+O_Acinetobacter species	Cluster 1143	0.017615446619934708
+O_Acinetobacter species	Cluster 330	0.017314352449245812
+O_Acinetobacter species	Cluster 1034	0.016366593788372238
+O_Acinetobacter species	Cluster 1409	0.01627736287620652
+
+Mean squared error for O_Enterobacter species using classifier is 0.038461538461538464
+Features appearing at least once
+O_Enterobacter species	Cluster 1112	0.035646287110616924
+O_Enterobacter species	Cluster 1367	0.03206715392157341
+O_Enterobacter species	Cluster 1364	0.02588758519849455
+O_Enterobacter species	Cluster 1120	0.025755794798291723
+O_Enterobacter species	Cluster 1058	0.025521592285278175
+O_Enterobacter species	Cluster 551	0.02083439780567915
+O_Enterobacter species	Cluster 1163	0.02053567415661547
+O_Enterobacter species	Cluster 1370	0.019303297774186257
+O_Enterobacter species	Cluster 843	0.01891709664537221
+O_Enterobacter species	Cluster 1483	0.01887180211623408
+O_Enterobacter species	Cluster 529	0.018061054721271844
+O_Enterobacter species	Cluster 1276	0.01705643442273714
+O_Enterobacter species	Cluster 534	0.016385543224677543
+O_Enterobacter species	Cluster 309	0.014709444093613428
+O_Enterobacter species	Cluster 681	0.013490944616864915
+O_Enterobacter species	Cluster 804	0.013475552628357732
+O_Enterobacter species	Cluster 1366	0.013110406736839686
+O_Enterobacter species	Cluster 1409	0.01225134392436079
+O_Enterobacter species	Cluster 803	0.01201698378669339
+O_Enterobacter species	Cluster 527	0.011624062621041481
+
+Mean squared error for O_Aspergillus niger using classifier is 0.07692307692307693
+Features appearing at least once
+O_Aspergillus niger	Cluster 1003	0.03803360242178905
+O_Aspergillus niger	Cluster 129	0.02530915685646279
+O_Aspergillus niger	Cluster 488	0.02024513632810088
+O_Aspergillus niger	Cluster 1295	0.01898015251562126
+O_Aspergillus niger	Cluster 429	0.018756785174617843
+O_Aspergillus niger	Cluster 826	0.016375130100864763
+O_Aspergillus niger	Cluster 449	0.016193454580995588
+O_Aspergillus niger	Cluster 1007	0.01533293160693707
+O_Aspergillus niger	Cluster 361	0.015114941011965534
+O_Aspergillus niger	Cluster 484	0.0143455455491699
+O_Aspergillus niger	Cluster 485	0.01390550754599622
+O_Aspergillus niger	Cluster 496	0.012811917726741496
+O_Aspergillus niger	Cluster 798	0.01245804617927654
+O_Aspergillus niger	Cluster 1060	0.012369486645676393
+O_Aspergillus niger	Cluster 156	0.012190270942468535
+O_Aspergillus niger	Cluster 1388	0.010429813051130069
+O_Aspergillus niger	Cluster 1122	0.00940478365141525
+O_Aspergillus niger	Cluster 1485	0.009395299894417194
+O_Aspergillus niger	Cluster 456	0.009192229594434977
+O_Aspergillus niger	Cluster 1429	0.009139091355311121
+
+Mean squared error for O_Aspergillus terreus using classifier is 0.0
+Features appearing at least once
+O_Aspergillus terreus	Cluster 82	0.04544084481523329
+O_Aspergillus terreus	Cluster 90	0.03890919780112329
+O_Aspergillus terreus	Cluster 81	0.03823347932315311
+O_Aspergillus terreus	Cluster 666	0.03795290659493473
+O_Aspergillus terreus	Cluster 753	0.03325092248649642
+O_Aspergillus terreus	Cluster 754	0.03217053566396242
+O_Aspergillus terreus	Cluster 583	0.031780143131025916
+O_Aspergillus terreus	Cluster 1167	0.02453296011091568
+O_Aspergillus terreus	Cluster 991	0.02054684134853051
+O_Aspergillus terreus	Cluster 862	0.020355063418821345
+O_Aspergillus terreus	Cluster 1296	0.02028168909329855
+O_Aspergillus terreus	Cluster 83	0.019923823362239863
+O_Aspergillus terreus	Cluster 722	0.016208855186890317
+O_Aspergillus terreus	Cluster 969	0.016202697999531817
+O_Aspergillus terreus	Cluster 40	0.016014065999267947
+O_Aspergillus terreus	Cluster 564	0.01597745048822593
+O_Aspergillus terreus	Cluster 890	0.014654879148737303
+O_Aspergillus terreus	Cluster 792	0.014510392357022178
+O_Aspergillus terreus	Cluster 1072	0.014422914395924085
+O_Aspergillus terreus	Cluster 996	0.013933694113795626
+
+Mean squared error for O_Pseudomonas aeruginosa (mucoid) using classifier is 0.038461538461538464
+Features appearing at least once
+O_Pseudomonas aeruginosa (mucoid)	Cluster 1379	0.02632585621597845
+O_Pseudomonas aeruginosa (mucoid)	Cluster 859	0.025651156540210558
+O_Pseudomonas aeruginosa (mucoid)	Cluster 25	0.022358575856830213
+O_Pseudomonas aeruginosa (mucoid)	Cluster 1072	0.022176584771483734
+O_Pseudomonas aeruginosa (mucoid)	Cluster 906	0.02160142290039769
+O_Pseudomonas aeruginosa (mucoid)	Cluster 1223	0.020811115287600074
+O_Pseudomonas aeruginosa (mucoid)	Cluster 1224	0.020274008302699455
+O_Pseudomonas aeruginosa (mucoid)	Cluster 827	0.019043420564577175
+O_Pseudomonas aeruginosa (mucoid)	Cluster 3	0.01869169015600477
+O_Pseudomonas aeruginosa (mucoid)	Cluster 621	0.018671914140507406
+O_Pseudomonas aeruginosa (mucoid)	Cluster 804	0.01618017899608494
+O_Pseudomonas aeruginosa (mucoid)	Cluster 1372	0.015306310924755344
+O_Pseudomonas aeruginosa (mucoid)	Cluster 785	0.014339256542540441
+O_Pseudomonas aeruginosa (mucoid)	Cluster 352	0.013697808436740172
+O_Pseudomonas aeruginosa (mucoid)	Cluster 878	0.012994464114985694
+O_Pseudomonas aeruginosa (mucoid)	Cluster 301	0.01269129423527681
+O_Pseudomonas aeruginosa (mucoid)	Cluster 1251	0.01193953421057513
+O_Pseudomonas aeruginosa (mucoid)	Cluster 1172	0.010738646288697397
+O_Pseudomonas aeruginosa (mucoid)	Cluster 76	0.010690511676484398
+O_Pseudomonas aeruginosa (mucoid)	Cluster 1472	0.010480813574015962
+
+Mean squared error for O_Proteus mirabilis using classifier is 0.038461538461538464
+Features appearing at least once
+O_Proteus mirabilis	Cluster 450	0.0338539459799143
+O_Proteus mirabilis	Cluster 432	0.03148544899458234
+O_Proteus mirabilis	Cluster 1090	0.027740231131341463
+O_Proteus mirabilis	Cluster 978	0.026760149819887388
+O_Proteus mirabilis	Cluster 1452	0.021380686793214438
+O_Proteus mirabilis	Cluster 914	0.021338329538966312
+O_Proteus mirabilis	Cluster 315	0.02106529488278543
+O_Proteus mirabilis	Cluster 1060	0.02088706669688226
+O_Proteus mirabilis	Cluster 371	0.020427554345865323
+O_Proteus mirabilis	Cluster 757	0.019919931942011034
+O_Proteus mirabilis	Cluster 47	0.019515025706763032
+O_Proteus mirabilis	Cluster 360	0.019137348943321156
+O_Proteus mirabilis	Cluster 59	0.01885531445341832
+O_Proteus mirabilis	Cluster 922	0.017557514899266075
+O_Proteus mirabilis	Cluster 751	0.01743924685082531
+O_Proteus mirabilis	Cluster 1073	0.017026285577096442
+O_Proteus mirabilis	Cluster 456	0.01629016041052355
+O_Proteus mirabilis	Cluster 702	0.016237434617192438
+O_Proteus mirabilis	Cluster 1357	0.01603016837519553
+O_Proteus mirabilis	Cluster 881	0.01576534058427978
+
+Mean squared error for O_talaromyces purpurogenus using classifier is 0.0
+Features appearing at least once
+O_talaromyces purpurogenus	Cluster 1372	0.025923901494929562
+O_talaromyces purpurogenus	Cluster 1386	0.02539850189484792
+O_talaromyces purpurogenus	Cluster 1485	0.023640436079682026
+O_talaromyces purpurogenus	Cluster 614	0.02242668254607789
+O_talaromyces purpurogenus	Cluster 333	0.02197365633300931
+O_talaromyces purpurogenus	Cluster 920	0.02101195917028191
+O_talaromyces purpurogenus	Cluster 339	0.020566475013283805
+O_talaromyces purpurogenus	Cluster 1425	0.019213639249751693
+O_talaromyces purpurogenus	Cluster 566	0.018435944333200695
+O_talaromyces purpurogenus	Cluster 1028	0.01798048728183626
+O_talaromyces purpurogenus	Cluster 283	0.017392472527085603
+O_talaromyces purpurogenus	Cluster 477	0.01575484934873566
+O_talaromyces purpurogenus	Cluster 1013	0.014472046948093405
+O_talaromyces purpurogenus	Cluster 289	0.013771387338055495
+O_talaromyces purpurogenus	Cluster 1005	0.013628852519086897
+O_talaromyces purpurogenus	Cluster 147	0.013061528661346746
+O_talaromyces purpurogenus	Cluster 1010	0.012720779626263723
+O_talaromyces purpurogenus	Cluster 1288	0.012424273426092172
+O_talaromyces purpurogenus	Cluster 1044	0.012392049933460554
+O_talaromyces purpurogenus	Cluster 997	0.012023908048630755
+
+Mean squared error for Antibiotics_YN using classifier is 0.11538461538461539
+Features appearing at least once
+Antibiotics_YN	Cluster 1008	0.027980970947008632
+Antibiotics_YN	Cluster 1324	0.0237658267484769
+Antibiotics_YN	Cluster 920	0.018692506566716942
+Antibiotics_YN	Cluster 1383	0.01848208109999358
+Antibiotics_YN	Cluster 1191	0.016575940651285596
+Antibiotics_YN	Cluster 842	0.013499205297817635
+Antibiotics_YN	Cluster 937	0.01342246005993877
+Antibiotics_YN	Cluster 1116	0.013405983763964362
+Antibiotics_YN	Cluster 939	0.013215856393206786
+Antibiotics_YN	Cluster 1119	0.012013495489957587
+Antibiotics_YN	Cluster 1458	0.010541848575126876
+Antibiotics_YN	Cluster 1036	0.010531886918015205
+Antibiotics_YN	Cluster 1388	0.009979943157009914
+Antibiotics_YN	Cluster 1451	0.009736078978381418
+Antibiotics_YN	Cluster 899	0.00949435777262379
+Antibiotics_YN	Cluster 795	0.009468330697432768
+Antibiotics_YN	Cluster 452	0.008692191156384341
+Antibiotics_YN	Cluster 1159	0.008571897817207422
+Antibiotics_YN	Cluster 1199	0.008393050222518768
+Antibiotics_YN	Cluster 82	0.008348480187262483
+
+Mean squared error for IV using classifier is 0.23076923076923078
+Features appearing at least once
+IV	Cluster 949	0.023909315905897538
+IV	Cluster 939	0.02342703024747935
+IV	Cluster 961	0.0163586766192987
+IV	Cluster 30	0.016005031141503322
+IV	Cluster 88	0.01592212048609852
+IV	Cluster 1393	0.015640187386261665
+IV	Cluster 22	0.014591302388197731
+IV	Cluster 760	0.014515591957669185
+IV	Cluster 969	0.013684585690963732
+IV	Cluster 1008	0.013194984193939429
+IV	Cluster 124	0.011716681696774449
+IV	Cluster 18	0.011531490632950846
+IV	Cluster 133	0.010572672718250747
+IV	Cluster 1127	0.010260060083302483
+IV	Cluster 96	0.010166032352991527
+IV	Cluster 16	0.009931578748343757
+IV	Cluster 561	0.009497327255937138
+IV	Cluster 1124	0.009102371857391071
+IV	Cluster 95	0.00908921337529339
+IV	Cluster 138	0.008781599768277694
+
+Mean squared error for INH using classifier is 0.11538461538461539
+Features appearing at least once
+INH	Cluster 336	0.027109580162421754
+INH	Cluster 1063	0.025296233383228863
+INH	Cluster 702	0.0173348641594115
+INH	Cluster 1375	0.016263092505279086
+INH	Cluster 510	0.014957530747632113
+INH	Cluster 1484	0.013531365366172093
+INH	Cluster 1449	0.012417624332747425
+INH	Cluster 1267	0.012378225267871294
+INH	Cluster 505	0.012359357574055126
+INH	Cluster 1292	0.012310784383037473
+INH	Cluster 323	0.010763868958572669
+INH	Cluster 667	0.01074695117307617
+INH	Cluster 462	0.010241084431395731
+INH	Cluster 168	0.009286811319958831
+INH	Cluster 784	0.0088516117120337
+INH	Cluster 723	0.008604057168604625
+INH	Cluster 666	0.008528638392680258
+INH	Cluster 243	0.008326078212499661
+INH	Cluster 355	0.008208322766717964
+INH	Cluster 540	0.007216710038762655
+
+Mean squared error for PO using classifier is 0.23076923076923078
+Features appearing at least once
+PO	Cluster 935	0.01432580993084524
+PO	Cluster 712	0.013206527097825667
+PO	Cluster 937	0.011451078628325775
+PO	Cluster 496	0.010510446323223826
+PO	Cluster 607	0.01026338592829918
+PO	Cluster 1093	0.010212544617844153
+PO	Cluster 1130	0.010025781249500538
+PO	Cluster 1385	0.009715976920075453
+PO	Cluster 1222	0.009396533737262718
+PO	Cluster 1418	0.009162881518131867
+PO	Cluster 1267	0.009036884212505591
+PO	Cluster 1449	0.007961009015935239
+PO	Cluster 806	0.007737422319924883
+PO	Cluster 1009	0.0074442585089286245
+PO	Cluster 1417	0.007423924052683996
+PO	Cluster 651	0.007066609042994631
+PO	Cluster 1168	0.006898591557972709
+PO	Cluster 439	0.006701471114136244
+PO	Cluster 1229	0.006491013789072185
+PO	Cluster 1110	0.006376453489153676
+
+Mean squared error for 2 Amphotericin B (Ambisome)_INH using classifier is 0.0
+Features appearing at least once
+2 Amphotericin B (Ambisome)_INH	Cluster 335	0.04967377712151591
+2 Amphotericin B (Ambisome)_INH	Cluster 332	0.04859483863587293
+2 Amphotericin B (Ambisome)_INH	Cluster 1314	0.0477273352832107
+2 Amphotericin B (Ambisome)_INH	Cluster 855	0.0374527824534156
+2 Amphotericin B (Ambisome)_INH	Cluster 832	0.034266332169887226
+2 Amphotericin B (Ambisome)_INH	Cluster 282	0.02815595675864484
+2 Amphotericin B (Ambisome)_INH	Cluster 771	0.026461288806972134
+2 Amphotericin B (Ambisome)_INH	Cluster 317	0.025172734915195023
+2 Amphotericin B (Ambisome)_INH	Cluster 1417	0.02453777410470566
+2 Amphotericin B (Ambisome)_INH	Cluster 302	0.0234323067449111
+2 Amphotericin B (Ambisome)_INH	Cluster 525	0.023326072559072625
+2 Amphotericin B (Ambisome)_INH	Cluster 957	0.019998367650818322
+2 Amphotericin B (Ambisome)_INH	Cluster 1327	0.019647808437613896
+2 Amphotericin B (Ambisome)_INH	Cluster 339	0.01895226168590218
+2 Amphotericin B (Ambisome)_INH	Cluster 747	0.01894891166688356
+2 Amphotericin B (Ambisome)_INH	Cluster 372	0.018384124820012053
+2 Amphotericin B (Ambisome)_INH	Cluster 336	0.01709789836070118
+2 Amphotericin B (Ambisome)_INH	Cluster 1367	0.016281741571845407
+2 Amphotericin B (Ambisome)_INH	Cluster 1090	0.01611728399341445
+2 Amphotericin B (Ambisome)_INH	Cluster 1328	0.015597575870967044
+
+Mean squared error for 4 Amikacin_IV using classifier is 0.038461538461538464
+Features appearing at least once
+4 Amikacin_IV	Cluster 139	0.03087703499796834
+4 Amikacin_IV	Cluster 878	0.021910046818907004
+4 Amikacin_IV	Cluster 897	0.018294303081654976
+4 Amikacin_IV	Cluster 61	0.017598560950128236
+4 Amikacin_IV	Cluster 1298	0.017281739863316093
+4 Amikacin_IV	Cluster 1492	0.017072862924683987
+4 Amikacin_IV	Cluster 1155	0.015495597778425005
+4 Amikacin_IV	Cluster 982	0.015252801973570467
+4 Amikacin_IV	Cluster 1263	0.01453404348681855
+4 Amikacin_IV	Cluster 1385	0.013999783267570922
+4 Amikacin_IV	Cluster 1403	0.013368240190144248
+4 Amikacin_IV	Cluster 1270	0.012593700408507075
+4 Amikacin_IV	Cluster 464	0.012494700252898432
+4 Amikacin_IV	Cluster 211	0.012385414258295134
+4 Amikacin_IV	Cluster 698	0.011383367906679967
+4 Amikacin_IV	Cluster 912	0.011085296320633396
+4 Amikacin_IV	Cluster 355	0.01084345661318983
+4 Amikacin_IV	Cluster 1331	0.010593819919532343
+4 Amikacin_IV	Cluster 141	0.010167253864467953
+4 Amikacin_IV	Cluster 1213	0.00985634635874652
+
+Mean squared error for 2 Amikacin_INH using classifier is 0.038461538461538464
+Features appearing at least once
+2 Amikacin_INH	Cluster 396	0.034949012663898334
+2 Amikacin_INH	Cluster 510	0.034513172408957
+2 Amikacin_INH	Cluster 1229	0.03443210275627132
+2 Amikacin_INH	Cluster 1422	0.032465115870242076
+2 Amikacin_INH	Cluster 527	0.03021428329765637
+2 Amikacin_INH	Cluster 804	0.028040678906034164
+2 Amikacin_INH	Cluster 144	0.02795040197491971
+2 Amikacin_INH	Cluster 586	0.026286403732947793
+2 Amikacin_INH	Cluster 982	0.02484915582114492
+2 Amikacin_INH	Cluster 416	0.02427396264732935
+2 Amikacin_INH	Cluster 325	0.024110689145996293
+2 Amikacin_INH	Cluster 624	0.022067061300125597
+2 Amikacin_INH	Cluster 1474	0.021740064068025047
+2 Amikacin_INH	Cluster 1500	0.020541601513565926
+2 Amikacin_INH	Cluster 493	0.018540400214651448
+2 Amikacin_INH	Cluster 1274	0.01839778718876298
+2 Amikacin_INH	Cluster 1447	0.016576671001394313
+2 Amikacin_INH	Cluster 1276	0.016069258954854587
+2 Amikacin_INH	Cluster 475	0.015587893745891984
+2 Amikacin_INH	Cluster 781	0.015281552346323174
+
+Mean squared error for 2 Amoxicillin & Potassium clavulanate (Aug Duo)_PO using classifier is 0.038461538461538464
+Features appearing at least once
+2 Amoxicillin & Potassium clavulanate (Aug Duo)_PO	Cluster 1478	0.05586065525907743
+2 Amoxicillin & Potassium clavulanate (Aug Duo)_PO	Cluster 813	0.03676252921773589
+2 Amoxicillin & Potassium clavulanate (Aug Duo)_PO	Cluster 1319	0.03455040009842876
+2 Amoxicillin & Potassium clavulanate (Aug Duo)_PO	Cluster 277	0.026645658102458874
+2 Amoxicillin & Potassium clavulanate (Aug Duo)_PO	Cluster 1390	0.02643769089659587
+2 Amoxicillin & Potassium clavulanate (Aug Duo)_PO	Cluster 1004	0.01984146023692629
+2 Amoxicillin & Potassium clavulanate (Aug Duo)_PO	Cluster 951	0.018951308984270873
+2 Amoxicillin & Potassium clavulanate (Aug Duo)_PO	Cluster 1325	0.016889232765947886
+2 Amoxicillin & Potassium clavulanate (Aug Duo)_PO	Cluster 8	0.01672895480299516
+2 Amoxicillin & Potassium clavulanate (Aug Duo)_PO	Cluster 1157	0.016500274116416365
+2 Amoxicillin & Potassium clavulanate (Aug Duo)_PO	Cluster 934	0.016132306687951233
+2 Amoxicillin & Potassium clavulanate (Aug Duo)_PO	Cluster 318	0.01505084333398687
+2 Amoxicillin & Potassium clavulanate (Aug Duo)_PO	Cluster 1171	0.015005281038447043
+2 Amoxicillin & Potassium clavulanate (Aug Duo)_PO	Cluster 42	0.014785657937159413
+2 Amoxicillin & Potassium clavulanate (Aug Duo)_PO	Cluster 928	0.014457199257198019
+2 Amoxicillin & Potassium clavulanate (Aug Duo)_PO	Cluster 1479	0.013473407817279652
+2 Amoxicillin & Potassium clavulanate (Aug Duo)_PO	Cluster 1220	0.013064275373058078
+2 Amoxicillin & Potassium clavulanate (Aug Duo)_PO	Cluster 1311	0.012976212578536612
+2 Amoxicillin & Potassium clavulanate (Aug Duo)_PO	Cluster 980	0.012658764544279175
+2 Amoxicillin & Potassium clavulanate (Aug Duo)_PO	Cluster 628	0.010553596744035993
+
+Mean squared error for 3 Azithromycin_IV using classifier is 0.0
+Features appearing at least once
+3 Azithromycin_IV	Cluster 949	0.02792668459666443
+3 Azithromycin_IV	Cluster 1299	0.02701086431717815
+3 Azithromycin_IV	Cluster 910	0.025879054220805185
+3 Azithromycin_IV	Cluster 906	0.02329525518196213
+3 Azithromycin_IV	Cluster 1165	0.02254536361858206
+3 Azithromycin_IV	Cluster 1201	0.02194470579507836
+3 Azithromycin_IV	Cluster 1396	0.02169439115985376
+3 Azithromycin_IV	Cluster 912	0.020692789793667125
+3 Azithromycin_IV	Cluster 918	0.018791193254822546
+3 Azithromycin_IV	Cluster 564	0.017911550696037327
+3 Azithromycin_IV	Cluster 598	0.017027475004356717
+3 Azithromycin_IV	Cluster 343	0.016315971472585653
+3 Azithromycin_IV	Cluster 892	0.01537230975728094
+3 Azithromycin_IV	Cluster 78	0.01507063328036437
+3 Azithromycin_IV	Cluster 448	0.01474601747634277
+3 Azithromycin_IV	Cluster 44	0.014313353932530097
+3 Azithromycin_IV	Cluster 833	0.014088173726739452
+3 Azithromycin_IV	Cluster 826	0.013971486899712468
+3 Azithromycin_IV	Cluster 946	0.013901608307366932
+3 Azithromycin_IV	Cluster 523	0.01372406463992578
+
+Mean squared error for 2 Azithromycin_PO using classifier is 0.0
+Features appearing at least once
+2 Azithromycin_PO	Cluster 325	0.02717654890247739
+2 Azithromycin_PO	Cluster 985	0.019590192778304552
+2 Azithromycin_PO	Cluster 144	0.018003007615533213
+2 Azithromycin_PO	Cluster 1229	0.017059696210871226
+2 Azithromycin_PO	Cluster 1078	0.016190825430592144
+2 Azithromycin_PO	Cluster 146	0.015102031219353683
+2 Azithromycin_PO	Cluster 1410	0.014959818823318755
+2 Azithromycin_PO	Cluster 844	0.014849501360318597
+2 Azithromycin_PO	Cluster 493	0.014377313093450654
+2 Azithromycin_PO	Cluster 659	0.013712762353508339
+2 Azithromycin_PO	Cluster 396	0.013094191942607258
+2 Azithromycin_PO	Cluster 149	0.011916699933516081
+2 Azithromycin_PO	Cluster 1497	0.01070575331624257
+2 Azithromycin_PO	Cluster 751	0.010672012016423404
+2 Azithromycin_PO	Cluster 586	0.01032221768820347
+2 Azithromycin_PO	Cluster 186	0.01019285335267864
+2 Azithromycin_PO	Cluster 613	0.009645958117082581
+2 Azithromycin_PO	Cluster 73	0.009369444886201032
+2 Azithromycin_PO	Cluster 530	0.009291232545462822
+2 Azithromycin_PO	Cluster 973	0.009106064740448826
+
+Mean squared error for 3 Cefopime_IV using classifier is 0.0
+Features appearing at least once
+3 Cefopime_IV	Cluster 927	0.02266449896206905
+3 Cefopime_IV	Cluster 757	0.0206249929320693
+3 Cefopime_IV	Cluster 1169	0.019281661237548816
+3 Cefopime_IV	Cluster 361	0.019100656337183622
+3 Cefopime_IV	Cluster 656	0.018534946792139604
+3 Cefopime_IV	Cluster 243	0.018128790149714417
+3 Cefopime_IV	Cluster 692	0.018107557620345757
+3 Cefopime_IV	Cluster 918	0.0177215800952143
+3 Cefopime_IV	Cluster 988	0.01712121337213958
+3 Cefopime_IV	Cluster 282	0.016279084705772984
+3 Cefopime_IV	Cluster 748	0.015822244999568552
+3 Cefopime_IV	Cluster 451	0.01548700919280215
+3 Cefopime_IV	Cluster 983	0.01539730325509624
+3 Cefopime_IV	Cluster 49	0.015225741474521739
+3 Cefopime_IV	Cluster 995	0.015149601096997365
+3 Cefopime_IV	Cluster 1041	0.014724932896565167
+3 Cefopime_IV	Cluster 196	0.014623901850881835
+3 Cefopime_IV	Cluster 1112	0.014538523633328141
+3 Cefopime_IV	Cluster 450	0.014206988059325121
+3 Cefopime_IV	Cluster 1153	0.0132592134681481
+
+Mean squared error for 4 Cefoxitin_IV using classifier is 0.0
+Features appearing at least once
+4 Cefoxitin_IV	Cluster 185	0.039321236743594036
+4 Cefoxitin_IV	Cluster 9	0.036434160238905736
+4 Cefoxitin_IV	Cluster 44	0.035750634152856876
+4 Cefoxitin_IV	Cluster 598	0.029761477323176452
+4 Cefoxitin_IV	Cluster 912	0.02864052777516262
+4 Cefoxitin_IV	Cluster 145	0.024178127686349835
+4 Cefoxitin_IV	Cluster 7	0.023959552611883546
+4 Cefoxitin_IV	Cluster 1352	0.02282341995363769
+4 Cefoxitin_IV	Cluster 64	0.02276984314302311
+4 Cefoxitin_IV	Cluster 777	0.02140120106321036
+4 Cefoxitin_IV	Cluster 115	0.021163081850618888
+4 Cefoxitin_IV	Cluster 775	0.020435203468727875
+4 Cefoxitin_IV	Cluster 1169	0.019802395854956325
+4 Cefoxitin_IV	Cluster 1461	0.01963865481961628
+4 Cefoxitin_IV	Cluster 949	0.01955387287050349
+4 Cefoxitin_IV	Cluster 721	0.019217544184940094
+4 Cefoxitin_IV	Cluster 1168	0.01918795489411416
+4 Cefoxitin_IV	Cluster 29	0.018905686495917687
+4 Cefoxitin_IV	Cluster 107	0.018645703190100164
+4 Cefoxitin_IV	Cluster 1348	0.01616104677888068
+
+Mean squared error for 3 Ceftazidime_IV using classifier is 0.07692307692307693
+Features appearing at least once
+3 Ceftazidime_IV	Cluster 100	0.02165374362273888
+3 Ceftazidime_IV	Cluster 144	0.020024823913487946
+3 Ceftazidime_IV	Cluster 1297	0.01914407335469329
+3 Ceftazidime_IV	Cluster 99	0.017619547726432327
+3 Ceftazidime_IV	Cluster 1445	0.017509151721357856
+3 Ceftazidime_IV	Cluster 1383	0.016694961360703794
+3 Ceftazidime_IV	Cluster 1366	0.01644034335464139
+3 Ceftazidime_IV	Cluster 580	0.014897209126853902
+3 Ceftazidime_IV	Cluster 156	0.014759989313725854
+3 Ceftazidime_IV	Cluster 123	0.014566222836130188
+3 Ceftazidime_IV	Cluster 770	0.01407595521670018
+3 Ceftazidime_IV	Cluster 111	0.013533280501269495
+3 Ceftazidime_IV	Cluster 203	0.011840853520757089
+3 Ceftazidime_IV	Cluster 87	0.011166206011514856
+3 Ceftazidime_IV	Cluster 636	0.010790714484943056
+3 Ceftazidime_IV	Cluster 1206	0.010700012054827141
+3 Ceftazidime_IV	Cluster 194	0.010628910316326092
+3 Ceftazidime_IV	Cluster 1398	0.008608873552734382
+3 Ceftazidime_IV	Cluster 1480	0.008526959732401777
+3 Ceftazidime_IV	Cluster 155	0.008209431526549973
+
+Mean squared error for 2 Ceftazidime_INH using classifier is 0.0
+Features appearing at least once
+2 Ceftazidime_INH	Cluster 73	0.043831329872822934
+2 Ceftazidime_INH	Cluster 1046	0.03139654600745006
+2 Ceftazidime_INH	Cluster 1201	0.029458178851714527
+2 Ceftazidime_INH	Cluster 1182	0.027016631608604385
+2 Ceftazidime_INH	Cluster 906	0.024122081560658506
+2 Ceftazidime_INH	Cluster 987	0.02238174864916718
+2 Ceftazidime_INH	Cluster 460	0.02219690786348389
+2 Ceftazidime_INH	Cluster 1445	0.021563951055668575
+2 Ceftazidime_INH	Cluster 825	0.020331093537362663
+2 Ceftazidime_INH	Cluster 322	0.020326180516847484
+2 Ceftazidime_INH	Cluster 439	0.019097921527951783
+2 Ceftazidime_INH	Cluster 534	0.01864915371425809
+2 Ceftazidime_INH	Cluster 1337	0.016755810393891374
+2 Ceftazidime_INH	Cluster 630	0.01643388256591129
+2 Ceftazidime_INH	Cluster 826	0.01599833481704235
+2 Ceftazidime_INH	Cluster 892	0.015110838373791971
+2 Ceftazidime_INH	Cluster 1107	0.01433533453880548
+2 Ceftazidime_INH	Cluster 1019	0.013222791690501693
+2 Ceftazidime_INH	Cluster 573	0.01288625829853364
+2 Ceftazidime_INH	Cluster 283	0.012596300137505605
+
+Mean squared error for 1 Cephalexin_PO using classifier is 0.0
+Features appearing at least once
+1 Cephalexin_PO	Cluster 457	0.024378114817634303
+1 Cephalexin_PO	Cluster 402	0.022850416101637697
+1 Cephalexin_PO	Cluster 336	0.02163095675827731
+1 Cephalexin_PO	Cluster 450	0.020760616894801548
+1 Cephalexin_PO	Cluster 1068	0.0205841990646086
+1 Cephalexin_PO	Cluster 452	0.019576990971461438
+1 Cephalexin_PO	Cluster 950	0.019366662850089627
+1 Cephalexin_PO	Cluster 56	0.019069291856104963
+1 Cephalexin_PO	Cluster 798	0.01860892845071009
+1 Cephalexin_PO	Cluster 443	0.0185234771340435
+1 Cephalexin_PO	Cluster 1057	0.01747788681187512
+1 Cephalexin_PO	Cluster 474	0.016522854576986705
+1 Cephalexin_PO	Cluster 983	0.01647420712180424
+1 Cephalexin_PO	Cluster 432	0.016342735453623903
+1 Cephalexin_PO	Cluster 1004	0.016326904628730113
+1 Cephalexin_PO	Cluster 433	0.01586568804269754
+1 Cephalexin_PO	Cluster 1366	0.015576588027201098
+1 Cephalexin_PO	Cluster 1043	0.015045524593952156
+1 Cephalexin_PO	Cluster 644	0.014342853121739826
+1 Cephalexin_PO	Cluster 494	0.013781403344071706
+
+Mean squared error for 2 Ciprofloxacin_PO using classifier is 0.038461538461538464
+Features appearing at least once
+2 Ciprofloxacin_PO	Cluster 1375	0.0329466621142051
+2 Ciprofloxacin_PO	Cluster 1373	0.027717345871074564
+2 Ciprofloxacin_PO	Cluster 1438	0.025711593306398817
+2 Ciprofloxacin_PO	Cluster 736	0.024869548123654307
+2 Ciprofloxacin_PO	Cluster 1475	0.023777838688174183
+2 Ciprofloxacin_PO	Cluster 594	0.022741915991531636
+2 Ciprofloxacin_PO	Cluster 1436	0.020552847466705382
+2 Ciprofloxacin_PO	Cluster 1484	0.020078114144065344
+2 Ciprofloxacin_PO	Cluster 695	0.017401972082619836
+2 Ciprofloxacin_PO	Cluster 1205	0.017116772883717712
+2 Ciprofloxacin_PO	Cluster 809	0.016849004574539996
+2 Ciprofloxacin_PO	Cluster 1043	0.016519177352605056
+2 Ciprofloxacin_PO	Cluster 1045	0.016126561911259635
+2 Ciprofloxacin_PO	Cluster 1128	0.014935349780098472
+2 Ciprofloxacin_PO	Cluster 1396	0.014839679898883448
+2 Ciprofloxacin_PO	Cluster 1477	0.014701077073462885
+2 Ciprofloxacin_PO	Cluster 192	0.013856118596134084
+2 Ciprofloxacin_PO	Cluster 476	0.013824492944479294
+2 Ciprofloxacin_PO	Cluster 320	0.011699141169675669
+2 Ciprofloxacin_PO	Cluster 1429	0.010149320817770953
+
+Mean squared error for 2 Clarithromycin_PO using classifier is 0.0
+Features appearing at least once
+2 Clarithromycin_PO	Cluster 1383	0.04004257390283374
+2 Clarithromycin_PO	Cluster 960	0.039349253895521075
+2 Clarithromycin_PO	Cluster 1329	0.03211882147148655
+2 Clarithromycin_PO	Cluster 629	0.03141974592336106
+2 Clarithromycin_PO	Cluster 687	0.029794869681622996
+2 Clarithromycin_PO	Cluster 1132	0.027955135537968346
+2 Clarithromycin_PO	Cluster 1237	0.026221867299492
+2 Clarithromycin_PO	Cluster 127	0.024690905092562762
+2 Clarithromycin_PO	Cluster 548	0.024533326490960135
+2 Clarithromycin_PO	Cluster 1025	0.024052881716948513
+2 Clarithromycin_PO	Cluster 1129	0.0236972134891398
+2 Clarithromycin_PO	Cluster 1381	0.023195648920552165
+2 Clarithromycin_PO	Cluster 618	0.022930786212444407
+2 Clarithromycin_PO	Cluster 61	0.02210050015214026
+2 Clarithromycin_PO	Cluster 919	0.021560106913314156
+2 Clarithromycin_PO	Cluster 1155	0.02132211696145539
+2 Clarithromycin_PO	Cluster 1186	0.02066332106546866
+2 Clarithromycin_PO	Cluster 1053	0.020091397831759054
+2 Clarithromycin_PO	Cluster 1452	0.01950161720657805
+2 Clarithromycin_PO	Cluster 436	0.01841461625598323
+
+Mean squared error for 2 Clofazimine PO using classifier is 0.0
+Features appearing at least once
+2 Clofazimine PO	Cluster 974	0.0289992596192643
+2 Clofazimine PO	Cluster 1129	0.02719271075614162
+2 Clofazimine PO	Cluster 1419	0.024355234653594245
+2 Clofazimine PO	Cluster 1330	0.021907051171788934
+2 Clofazimine PO	Cluster 396	0.020966723720261055
+2 Clofazimine PO	Cluster 1155	0.020244526855219668
+2 Clofazimine PO	Cluster 576	0.01955681035414794
+2 Clofazimine PO	Cluster 530	0.018389690251635428
+2 Clofazimine PO	Cluster 1229	0.017696122236526172
+2 Clofazimine PO	Cluster 651	0.017408287879289847
+2 Clofazimine PO	Cluster 1357	0.01681354065525831
+2 Clofazimine PO	Cluster 139	0.016414541971079232
+2 Clofazimine PO	Cluster 170	0.01619548206656023
+2 Clofazimine PO	Cluster 982	0.014565934873203108
+2 Clofazimine PO	Cluster 828	0.014543307323330834
+2 Clofazimine PO	Cluster 1418	0.01439165822829248
+2 Clofazimine PO	Cluster 774	0.013485633784827287
+2 Clofazimine PO	Cluster 606	0.013212534139218265
+2 Clofazimine PO	Cluster 1387	0.012820120784765892
+2 Clofazimine PO	Cluster 1210	0.012429690782991663
+
+Mean squared error for 4 Colistin_IV using classifier is 0.0
+Features appearing at least once
+4 Colistin_IV	Cluster 826	0.05045711735094536
+4 Colistin_IV	Cluster 916	0.03738896147093203
+4 Colistin_IV	Cluster 820	0.02865600171118546
+4 Colistin_IV	Cluster 1023	0.025196229175553773
+4 Colistin_IV	Cluster 6	0.024482876166476056
+4 Colistin_IV	Cluster 197	0.024049305225153177
+4 Colistin_IV	Cluster 152	0.023717303454629485
+4 Colistin_IV	Cluster 245	0.022461693581478922
+4 Colistin_IV	Cluster 184	0.022140016971227444
+4 Colistin_IV	Cluster 688	0.02127119201113897
+4 Colistin_IV	Cluster 1328	0.020898775839942353
+4 Colistin_IV	Cluster 442	0.020586798431711188
+4 Colistin_IV	Cluster 1389	0.02029278166515693
+4 Colistin_IV	Cluster 833	0.019429785905202664
+4 Colistin_IV	Cluster 312	0.019389625925977583
+4 Colistin_IV	Cluster 953	0.019011398653355757
+4 Colistin_IV	Cluster 875	0.017557948187441583
+4 Colistin_IV	Cluster 860	0.017253194522065744
+4 Colistin_IV	Cluster 1368	0.01704507363604372
+4 Colistin_IV	Cluster 300	0.01672577333386898
+
+Mean squared error for 2 Colistin_IHN using classifier is 0.0
+Features appearing at least once
+2 Colistin_IHN	Cluster 158	0.047226752034848135
+2 Colistin_IHN	Cluster 1041	0.03777315781128395
+2 Colistin_IHN	Cluster 468	0.03629861296545374
+2 Colistin_IHN	Cluster 1060	0.028489091112967043
+2 Colistin_IHN	Cluster 59	0.027299536997201376
+2 Colistin_IHN	Cluster 832	0.02617877957594446
+2 Colistin_IHN	Cluster 146	0.023866031908830083
+2 Colistin_IHN	Cluster 1069	0.023322550877109792
+2 Colistin_IHN	Cluster 992	0.020771940574526124
+2 Colistin_IHN	Cluster 460	0.020627004422652508
+2 Colistin_IHN	Cluster 73	0.020353985626669714
+2 Colistin_IHN	Cluster 1231	0.019845736664505793
+2 Colistin_IHN	Cluster 748	0.019620698086469022
+2 Colistin_IHN	Cluster 539	0.019527786022191154
+2 Colistin_IHN	Cluster 1218	0.018351485552743147
+2 Colistin_IHN	Cluster 1005	0.01830264720048221
+2 Colistin_IHN	Cluster 466	0.015849482610323054
+2 Colistin_IHN	Cluster 78	0.015304914288300818
+2 Colistin_IHN	Cluster 166	0.01430810342565776
+2 Colistin_IHN	Cluster 1153	0.013812892617116164
+
+Mean squared error for 1 Flucloaxcillin_PO using classifier is 0.0
+Features appearing at least once
+1 Flucloaxcillin_PO	Cluster 897	0.027543458780045355
+1 Flucloaxcillin_PO	Cluster 1425	0.025803336879528026
+1 Flucloaxcillin_PO	Cluster 845	0.025009623169294802
+1 Flucloaxcillin_PO	Cluster 910	0.02363985453594812
+1 Flucloaxcillin_PO	Cluster 914	0.02295302631478509
+1 Flucloaxcillin_PO	Cluster 943	0.02234709770473142
+1 Flucloaxcillin_PO	Cluster 1057	0.021775509814924404
+1 Flucloaxcillin_PO	Cluster 1309	0.02100573033197088
+1 Flucloaxcillin_PO	Cluster 290	0.020076742909999827
+1 Flucloaxcillin_PO	Cluster 949	0.018658429150434516
+1 Flucloaxcillin_PO	Cluster 1013	0.018423964393323698
+1 Flucloaxcillin_PO	Cluster 968	0.018390597828654234
+1 Flucloaxcillin_PO	Cluster 1011	0.017627656931775232
+1 Flucloaxcillin_PO	Cluster 526	0.01687301083656262
+1 Flucloaxcillin_PO	Cluster 255	0.01685886047046077
+1 Flucloaxcillin_PO	Cluster 146	0.016712050766384337
+1 Flucloaxcillin_PO	Cluster 747	0.01592486118746563
+1 Flucloaxcillin_PO	Cluster 825	0.01467542856478658
+1 Flucloaxcillin_PO	Cluster 578	0.014493119296604018
+1 Flucloaxcillin_PO	Cluster 1325	0.014175021869423307
+
+Mean squared error for 3 Imipenem using classifier is 0.0
+Features appearing at least once
+3 Imipenem	Cluster 902	0.037008030053692485
+3 Imipenem	Cluster 897	0.03406058899760594
+3 Imipenem	Cluster 23	0.026529886646618733
+3 Imipenem	Cluster 695	0.022480186914975137
+3 Imipenem	Cluster 534	0.018914876794296043
+3 Imipenem	Cluster 1014	0.01830734541375156
+3 Imipenem	Cluster 67	0.017929649363957353
+3 Imipenem	Cluster 1469	0.016592076507971166
+3 Imipenem	Cluster 1432	0.01642854386792197
+3 Imipenem	Cluster 1475	0.015866135424931403
+3 Imipenem	Cluster 782	0.015820971078355464
+3 Imipenem	Cluster 978	0.015044478633762234
+3 Imipenem	Cluster 1218	0.014548526525031013
+3 Imipenem	Cluster 1433	0.014357155675485029
+3 Imipenem	Cluster 209	0.01399126447946953
+3 Imipenem	Cluster 1224	0.01355778172941996
+3 Imipenem	Cluster 878	0.013465698232009231
+3 Imipenem	Cluster 1347	0.013347853087965834
+3 Imipenem	Cluster 521	0.013345283240429925
+3 Imipenem	Cluster 1333	0.013068387011507962
+
+Mean squared error for 1 Itraconazole (Lozenoc)_PO using classifier is 0.07692307692307693
+Features appearing at least once
+1 Itraconazole (Lozenoc)_PO	Cluster 1068	0.04463749455953599
+1 Itraconazole (Lozenoc)_PO	Cluster 27	0.030037711143135547
+1 Itraconazole (Lozenoc)_PO	Cluster 1319	0.028824581412431226
+1 Itraconazole (Lozenoc)_PO	Cluster 1489	0.026364225347544134
+1 Itraconazole (Lozenoc)_PO	Cluster 340	0.022450078280549155
+1 Itraconazole (Lozenoc)_PO	Cluster 1211	0.019874276544569174
+1 Itraconazole (Lozenoc)_PO	Cluster 502	0.015106741891783808
+1 Itraconazole (Lozenoc)_PO	Cluster 1401	0.014621425448058096
+1 Itraconazole (Lozenoc)_PO	Cluster 838	0.014376289273626575
+1 Itraconazole (Lozenoc)_PO	Cluster 771	0.01108910832205272
+1 Itraconazole (Lozenoc)_PO	Cluster 765	0.010226192229660832
+1 Itraconazole (Lozenoc)_PO	Cluster 1259	0.01005553569047628
+1 Itraconazole (Lozenoc)_PO	Cluster 367	0.009962814922637625
+1 Itraconazole (Lozenoc)_PO	Cluster 1221	0.008671140501872114
+1 Itraconazole (Lozenoc)_PO	Cluster 241	0.008649090954799404
+1 Itraconazole (Lozenoc)_PO	Cluster 837	0.008476795234265635
+1 Itraconazole (Lozenoc)_PO	Cluster 1326	0.00843529066001375
+1 Itraconazole (Lozenoc)_PO	Cluster 303	0.008166893146928188
+1 Itraconazole (Lozenoc)_PO	Cluster 1204	0.007975325836156498
+1 Itraconazole (Lozenoc)_PO	Cluster 1098	0.00767744027266899
+
+Mean squared error for 3 Ivacaftor (Kalydeco) using classifier is 0.0
+Features appearing at least once
+3 Ivacaftor (Kalydeco)	Cluster 243	0.026469840360237185
+3 Ivacaftor (Kalydeco)	Cluster 995	0.02210399239692003
+3 Ivacaftor (Kalydeco)	Cluster 1169	0.02011033827904797
+3 Ivacaftor (Kalydeco)	Cluster 783	0.0191809036729366
+3 Ivacaftor (Kalydeco)	Cluster 988	0.018985363171442414
+3 Ivacaftor (Kalydeco)	Cluster 748	0.01854438633112445
+3 Ivacaftor (Kalydeco)	Cluster 757	0.01786247525038342
+3 Ivacaftor (Kalydeco)	Cluster 1153	0.017473812715868488
+3 Ivacaftor (Kalydeco)	Cluster 1112	0.017023906349188583
+3 Ivacaftor (Kalydeco)	Cluster 918	0.0156842468042058
+3 Ivacaftor (Kalydeco)	Cluster 1278	0.015491007510215338
+3 Ivacaftor (Kalydeco)	Cluster 450	0.015448720713418332
+3 Ivacaftor (Kalydeco)	Cluster 91	0.015224131583500793
+3 Ivacaftor (Kalydeco)	Cluster 973	0.014157269257179805
+3 Ivacaftor (Kalydeco)	Cluster 983	0.01414671261672917
+3 Ivacaftor (Kalydeco)	Cluster 694	0.013914013128486329
+3 Ivacaftor (Kalydeco)	Cluster 1161	0.013435486138504555
+3 Ivacaftor (Kalydeco)	Cluster 451	0.013300985196015752
+3 Ivacaftor (Kalydeco)	Cluster 927	0.013246838150422146
+3 Ivacaftor (Kalydeco)	Cluster 986	0.012932738506123018
+
+Mean squared error for 3 Meropenem_IV using classifier is 0.0
+Features appearing at least once
+3 Meropenem_IV	Cluster 519	0.05739759083717638
+3 Meropenem_IV	Cluster 496	0.039184655249425646
+3 Meropenem_IV	Cluster 532	0.027497388663092315
+3 Meropenem_IV	Cluster 1368	0.023132044812456887
+3 Meropenem_IV	Cluster 1480	0.023127500188654147
+3 Meropenem_IV	Cluster 580	0.023105491167990783
+3 Meropenem_IV	Cluster 814	0.020750760735952473
+3 Meropenem_IV	Cluster 1344	0.020599312002184574
+3 Meropenem_IV	Cluster 317	0.02019732068510791
+3 Meropenem_IV	Cluster 1412	0.019434731392307242
+3 Meropenem_IV	Cluster 1426	0.019314298722467885
+3 Meropenem_IV	Cluster 590	0.017031551478006883
+3 Meropenem_IV	Cluster 1500	0.016577050949659628
+3 Meropenem_IV	Cluster 420	0.015259480351635176
+3 Meropenem_IV	Cluster 316	0.015216317154002946
+3 Meropenem_IV	Cluster 535	0.015162246437092698
+3 Meropenem_IV	Cluster 1435	0.015030691382455146
+3 Meropenem_IV	Cluster 134	0.014826399812202285
+3 Meropenem_IV	Cluster 704	0.01473914974442889
+3 Meropenem_IV	Cluster 499	0.014334157479450261
+
+Mean squared error for 3 Methylpredinosolone_IV using classifier is 0.038461538461538464
+Features appearing at least once
+3 Methylpredinosolone_IV	Cluster 259	0.026515618770698017
+3 Methylpredinosolone_IV	Cluster 628	0.025575859120018255
+3 Methylpredinosolone_IV	Cluster 526	0.02487525450479115
+3 Methylpredinosolone_IV	Cluster 918	0.020756709898414497
+3 Methylpredinosolone_IV	Cluster 496	0.019974500952421603
+3 Methylpredinosolone_IV	Cluster 570	0.019307092479293134
+3 Methylpredinosolone_IV	Cluster 568	0.019255247421928162
+3 Methylpredinosolone_IV	Cluster 1272	0.018773688487846163
+3 Methylpredinosolone_IV	Cluster 347	0.018072769257351833
+3 Methylpredinosolone_IV	Cluster 503	0.01637956454791015
+3 Methylpredinosolone_IV	Cluster 695	0.01612128975675709
+3 Methylpredinosolone_IV	Cluster 673	0.015776507508135865
+3 Methylpredinosolone_IV	Cluster 1063	0.01523412948195607
+3 Methylpredinosolone_IV	Cluster 537	0.01379036328703605
+3 Methylpredinosolone_IV	Cluster 969	0.013715328563492364
+3 Methylpredinosolone_IV	Cluster 743	0.012858991366494706
+3 Methylpredinosolone_IV	Cluster 1374	0.012702876772410993
+3 Methylpredinosolone_IV	Cluster 552	0.01256279457781657
+3 Methylpredinosolone_IV	Cluster 670	0.012237392544101293
+3 Methylpredinosolone_IV	Cluster 1307	0.011875561584330216
+
+Mean squared error for 3 Omalizumab_SC using classifier is 0.0
+Features appearing at least once
+3 Omalizumab_SC	Cluster 342	0.04294657040897646
+3 Omalizumab_SC	Cluster 1418	0.036242339086294074
+3 Omalizumab_SC	Cluster 1440	0.02909431556630038
+3 Omalizumab_SC	Cluster 1465	0.02615918910485027
+3 Omalizumab_SC	Cluster 1090	0.023911440590357057
+3 Omalizumab_SC	Cluster 1097	0.02344860207067875
+3 Omalizumab_SC	Cluster 475	0.02198275101002732
+3 Omalizumab_SC	Cluster 995	0.021928088423161542
+3 Omalizumab_SC	Cluster 1367	0.0215490688526641
+3 Omalizumab_SC	Cluster 332	0.021463060457113478
+3 Omalizumab_SC	Cluster 855	0.02093252154704738
+3 Omalizumab_SC	Cluster 338	0.020318036664851522
+3 Omalizumab_SC	Cluster 832	0.019321349524933758
+3 Omalizumab_SC	Cluster 335	0.01892660549527067
+3 Omalizumab_SC	Cluster 953	0.0184252662318433
+3 Omalizumab_SC	Cluster 740	0.017611555055971978
+3 Omalizumab_SC	Cluster 1331	0.01744897789925393
+3 Omalizumab_SC	Cluster 1417	0.017116482110402915
+3 Omalizumab_SC	Cluster 504	0.016386811028437136
+3 Omalizumab_SC	Cluster 1035	0.01577348535831356
+
+Mean squared error for 3 piperacillin sodium, tazobactam sodium (Tazocin)_IV using regressor is 0.15105764960691398
+Features appearing at least once
+3 piperacillin sodium, tazobactam sodium (Tazocin)_IV	Cluster 1093	0.05595539828830554
+3 piperacillin sodium, tazobactam sodium (Tazocin)_IV	Cluster 119	0.05535016263631696
+3 piperacillin sodium, tazobactam sodium (Tazocin)_IV	Cluster 347	0.048947948063880656
+3 piperacillin sodium, tazobactam sodium (Tazocin)_IV	Cluster 706	0.03049897119356566
+3 piperacillin sodium, tazobactam sodium (Tazocin)_IV	Cluster 1330	0.0277768733021317
+3 piperacillin sodium, tazobactam sodium (Tazocin)_IV	Cluster 1368	0.026780666772769586
+3 piperacillin sodium, tazobactam sodium (Tazocin)_IV	Cluster 343	0.026022544283691856
+3 piperacillin sodium, tazobactam sodium (Tazocin)_IV	Cluster 1171	0.02066746682443245
+3 piperacillin sodium, tazobactam sodium (Tazocin)_IV	Cluster 57	0.019634072836971474
+3 piperacillin sodium, tazobactam sodium (Tazocin)_IV	Cluster 523	0.01923413680814546
+3 piperacillin sodium, tazobactam sodium (Tazocin)_IV	Cluster 418	0.018794915768991748
+3 piperacillin sodium, tazobactam sodium (Tazocin)_IV	Cluster 709	0.01858644604047659
+3 piperacillin sodium, tazobactam sodium (Tazocin)_IV	Cluster 673	0.016806284047396647
+3 piperacillin sodium, tazobactam sodium (Tazocin)_IV	Cluster 60	0.0162393556919608
+3 piperacillin sodium, tazobactam sodium (Tazocin)_IV	Cluster 416	0.01520086527880947
+3 piperacillin sodium, tazobactam sodium (Tazocin)_IV	Cluster 643	0.014283453252977233
+3 piperacillin sodium, tazobactam sodium (Tazocin)_IV	Cluster 1107	0.013938981414066572
+3 piperacillin sodium, tazobactam sodium (Tazocin)_IV	Cluster 1064	0.013916679060040264
+3 piperacillin sodium, tazobactam sodium (Tazocin)_IV	Cluster 1296	0.01343026331611344
+3 piperacillin sodium, tazobactam sodium (Tazocin)_IV	Cluster 681	0.013356907101778812
+
+Mean squared error for 2 prednisolone_PO using classifier is 0.0
+Features appearing at least once
+2 prednisolone_PO	Cluster 361	0.040620837839579586
+2 prednisolone_PO	Cluster 1163	0.03059414827715125
+2 prednisolone_PO	Cluster 91	0.030427537572012428
+2 prednisolone_PO	Cluster 1161	0.0280032091846543
+2 prednisolone_PO	Cluster 832	0.026171158284818793
+2 prednisolone_PO	Cluster 321	0.024229324008522544
+2 prednisolone_PO	Cluster 480	0.023439387003776083
+2 prednisolone_PO	Cluster 1037	0.022278485727818015
+2 prednisolone_PO	Cluster 975	0.021429916020249934
+2 prednisolone_PO	Cluster 1198	0.02037389484766587
+2 prednisolone_PO	Cluster 1137	0.019419802148810752
+2 prednisolone_PO	Cluster 154	0.01922228394008196
+2 prednisolone_PO	Cluster 1342	0.018596930199290727
+2 prednisolone_PO	Cluster 479	0.016925757188657027
+2 prednisolone_PO	Cluster 933	0.01318454685059904
+2 prednisolone_PO	Cluster 657	0.012245489801985856
+2 prednisolone_PO	Cluster 1003	0.012155167078607405
+2 prednisolone_PO	Cluster 362	0.012092273362720885
+2 prednisolone_PO	Cluster 869	0.011719633607443446
+2 prednisolone_PO	Cluster 1266	0.011095709235480358
+
+Mean squared error for 1 Sulfamethoxazole_trimethoprim (Bactrim)_PO using classifier is 0.0
+Features appearing at least once
+1 Sulfamethoxazole_trimethoprim (Bactrim)_PO	Cluster 104	0.0375829461331533
+1 Sulfamethoxazole_trimethoprim (Bactrim)_PO	Cluster 1143	0.03111449949331861
+1 Sulfamethoxazole_trimethoprim (Bactrim)_PO	Cluster 620	0.03070337626256704
+1 Sulfamethoxazole_trimethoprim (Bactrim)_PO	Cluster 481	0.030508337547745634
+1 Sulfamethoxazole_trimethoprim (Bactrim)_PO	Cluster 1444	0.029492501939175835
+1 Sulfamethoxazole_trimethoprim (Bactrim)_PO	Cluster 325	0.02695196635104687
+1 Sulfamethoxazole_trimethoprim (Bactrim)_PO	Cluster 396	0.022731884347791734
+1 Sulfamethoxazole_trimethoprim (Bactrim)_PO	Cluster 1004	0.020021626400144595
+1 Sulfamethoxazole_trimethoprim (Bactrim)_PO	Cluster 1353	0.01973868306382779
+1 Sulfamethoxazole_trimethoprim (Bactrim)_PO	Cluster 1461	0.019096046383367427
+1 Sulfamethoxazole_trimethoprim (Bactrim)_PO	Cluster 753	0.01846291433131506
+1 Sulfamethoxazole_trimethoprim (Bactrim)_PO	Cluster 1291	0.01797078502738774
+1 Sulfamethoxazole_trimethoprim (Bactrim)_PO	Cluster 1302	0.017721377280751273
+1 Sulfamethoxazole_trimethoprim (Bactrim)_PO	Cluster 1132	0.017274400174753058
+1 Sulfamethoxazole_trimethoprim (Bactrim)_PO	Cluster 695	0.017115449860501883
+1 Sulfamethoxazole_trimethoprim (Bactrim)_PO	Cluster 607	0.01524371235353338
+1 Sulfamethoxazole_trimethoprim (Bactrim)_PO	Cluster 1351	0.013058120089458764
+1 Sulfamethoxazole_trimethoprim (Bactrim)_PO	Cluster 1119	0.0130026997638697
+1 Sulfamethoxazole_trimethoprim (Bactrim)_PO	Cluster 975	0.011888991862035658
+1 Sulfamethoxazole_trimethoprim (Bactrim)_PO	Cluster 1350	0.011302463667310162
+
+Mean squared error for 3 tobramycin_IV using classifier is 0.2692307692307692
+Features appearing at least once
+3 tobramycin_IV	Cluster 494	0.021666267703054652
+3 tobramycin_IV	Cluster 949	0.01553193751661058
+3 tobramycin_IV	Cluster 88	0.015319024677309398
+3 tobramycin_IV	Cluster 459	0.01410473285212378
+3 tobramycin_IV	Cluster 767	0.013501174152584857
+3 tobramycin_IV	Cluster 495	0.012395879578720764
+3 tobramycin_IV	Cluster 969	0.011706390781946092
+3 tobramycin_IV	Cluster 863	0.010413854603447773
+3 tobramycin_IV	Cluster 486	0.010311775567739724
+3 tobramycin_IV	Cluster 1112	0.010112127106378327
+3 tobramycin_IV	Cluster 1277	0.009857324747749844
+3 tobramycin_IV	Cluster 897	0.00977945329768346
+3 tobramycin_IV	Cluster 873	0.009292919248739463
+3 tobramycin_IV	Cluster 109	0.009052031199645386
+3 tobramycin_IV	Cluster 1014	0.008842840484110437
+3 tobramycin_IV	Cluster 882	0.00883529670580172
+3 tobramycin_IV	Cluster 965	0.008599201116015795
+3 tobramycin_IV	Cluster 325	0.008431019306724309
+3 tobramycin_IV	Cluster 559	0.007473598964130783
+3 tobramycin_IV	Cluster 119	0.007312525766378669
+
+Mean squared error for 2 tobramycin_INH using classifier is 0.15384615384615385
+Features appearing at least once
+2 tobramycin_INH	Cluster 1317	0.022633060456344247
+2 tobramycin_INH	Cluster 1375	0.022560379604894733
+2 tobramycin_INH	Cluster 718	0.02020775985810084
+2 tobramycin_INH	Cluster 1484	0.019452160321125813
+2 tobramycin_INH	Cluster 1045	0.018282431241147416
+2 tobramycin_INH	Cluster 1358	0.017470469699542496
+2 tobramycin_INH	Cluster 90	0.016001779946464557
+2 tobramycin_INH	Cluster 513	0.01571599168670241
+2 tobramycin_INH	Cluster 94	0.015072724631656653
+2 tobramycin_INH	Cluster 520	0.014427625442427292
+2 tobramycin_INH	Cluster 727	0.014261921938384672
+2 tobramycin_INH	Cluster 443	0.013512420605879837
+2 tobramycin_INH	Cluster 387	0.012933027145477935
+2 tobramycin_INH	Cluster 1373	0.012041807731201469
+2 tobramycin_INH	Cluster 425	0.01116488974751764
+2 tobramycin_INH	Cluster 510	0.01109064172761546
+2 tobramycin_INH	Cluster 376	0.009450018406022363
+2 tobramycin_INH	Cluster 1292	0.009339507146215899
+2 tobramycin_INH	Cluster 532	0.00864484335547183
+2 tobramycin_INH	Cluster 434	0.008254084298424169
+
+Mean squared error for Sum of antibiotics using classifier is 0.5384615384615384
+Features appearing at least once
+Sum of antibiotics	Cluster 1381	0.0075226755647510414
+Sum of antibiotics	Cluster 1191	0.007369054072145134
+Sum of antibiotics	Cluster 1198	0.006857119623000234
+Sum of antibiotics	Cluster 1018	0.006276946066478193
+Sum of antibiotics	Cluster 119	0.006151528579471301
+Sum of antibiotics	Cluster 27	0.00568242899427309
+Sum of antibiotics	Cluster 325	0.005591787682269024
+Sum of antibiotics	Cluster 1050	0.005548829097173942
+Sum of antibiotics	Cluster 568	0.005332135434097429
+Sum of antibiotics	Cluster 1123	0.0052682438655744235
+Sum of antibiotics	Cluster 1210	0.004954834508293372
+Sum of antibiotics	Cluster 1126	0.004930808519398318
+Sum of antibiotics	Cluster 897	0.004923004813235827
+Sum of antibiotics	Cluster 1277	0.004814062118928325
+Sum of antibiotics	Cluster 10	0.004673839837885776
+Sum of antibiotics	Cluster 902	0.004654692507715939
+Sum of antibiotics	Cluster 939	0.004602307852082473
+Sum of antibiotics	Cluster 998	0.004315443606447121
+Sum of antibiotics	Cluster 88	0.004185783198185739
+Sum of antibiotics	Cluster 831	0.004100745554759182
+
+Mean squared error for Sum of meds using classifier is 1.5
+Features appearing at least once
+Sum of meds	Cluster 1198	0.009990044341773656
+Sum of meds	Cluster 1038	0.0074270180826468265
+Sum of meds	Cluster 897	0.007199953727255894
+Sum of meds	Cluster 1191	0.006642621476517251
+Sum of meds	Cluster 1126	0.006494494458613577
+Sum of meds	Cluster 1381	0.006487318924516082
+Sum of meds	Cluster 1383	0.006198851768913085
+Sum of meds	Cluster 1008	0.006121152485189792
+Sum of meds	Cluster 1116	0.005812788929632458
+Sum of meds	Cluster 1133	0.005112268427827606
+Sum of meds	Cluster 1120	0.004648597197485436
+Sum of meds	Cluster 1210	0.004389050414151756
+Sum of meds	Cluster 1124	0.004310268488095276
+Sum of meds	Cluster 1181	0.004292087276761774
+Sum of meds	Cluster 889	0.004240108274321597
+Sum of meds	Cluster 1130	0.004187224539895353
+Sum of meds	Cluster 82	0.004167350735792788
+Sum of meds	Cluster 1125	0.004117806792540078
+Sum of meds	Cluster 1277	0.004115482728335523
+Sum of meds	Cluster 1176	0.0040920184620318115
+
+Mean squared error for Sum of antifungals using classifier is 0.07692307692307693
+Features appearing at least once
+Sum of antifungals	Cluster 314	0.024493608308661895
+Sum of antifungals	Cluster 1113	0.020564271533732147
+Sum of antifungals	Cluster 1163	0.020423599387733124
+Sum of antifungals	Cluster 1211	0.018322045132938676
+Sum of antifungals	Cluster 1100	0.01774825599666373
+Sum of antifungals	Cluster 1194	0.015999511440598402
+Sum of antifungals	Cluster 241	0.015568685891740408
+Sum of antifungals	Cluster 340	0.011982687840639014
+Sum of antifungals	Cluster 1197	0.010521935860564715
+Sum of antifungals	Cluster 1254	0.010334051337853575
+Sum of antifungals	Cluster 338	0.01029108141213613
+Sum of antifungals	Cluster 1059	0.008765003263291335
+Sum of antifungals	Cluster 953	0.00835731694692511
+Sum of antifungals	Cluster 1041	0.00820889817005074
+Sum of antifungals	Cluster 1102	0.008141823360269538
+Sum of antifungals	Cluster 1489	0.007932275858571654
+Sum of antifungals	Cluster 869	0.007888079874200744
+Sum of antifungals	Cluster 336	0.007829146281003892
+Sum of antifungals	Cluster 1068	0.007437254031800209
+Sum of antifungals	Cluster 785	0.007245852777717974
+
+Mean squared error for Sum of steroid + mabs using classifier is 0.038461538461538464
+Features appearing at least once
+Sum of steroid + mabs	Cluster 695	0.02222005773829246
+Sum of steroid + mabs	Cluster 1307	0.015315280947190152
+Sum of steroid + mabs	Cluster 1272	0.014946767965509917
+Sum of steroid + mabs	Cluster 1204	0.013968781616193124
+Sum of steroid + mabs	Cluster 628	0.013871902723956836
+Sum of steroid + mabs	Cluster 670	0.013788555885901718
+Sum of steroid + mabs	Cluster 795	0.013484146208537181
+Sum of steroid + mabs	Cluster 1460	0.012668264014992273
+Sum of steroid + mabs	Cluster 151	0.011766891639997211
+Sum of steroid + mabs	Cluster 526	0.011568554719756367
+Sum of steroid + mabs	Cluster 673	0.011427475984111896
+Sum of steroid + mabs	Cluster 568	0.011204082499786728
+Sum of steroid + mabs	Cluster 1299	0.010728584636610281
+Sum of steroid + mabs	Cluster 570	0.010584367161887282
+Sum of steroid + mabs	Cluster 502	0.010514811244436099
+Sum of steroid + mabs	Cluster 1211	0.010324205589117457
+Sum of steroid + mabs	Cluster 259	0.00937860411889968
+Sum of steroid + mabs	Cluster 20	0.00885724634599496
+Sum of steroid + mabs	Cluster 1225	0.008471988695615978
+Sum of steroid + mabs	Cluster 1401	0.008347334840833182
+

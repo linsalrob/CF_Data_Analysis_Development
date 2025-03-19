@@ -1,0 +1,900 @@
+--- Cluster 1 : Length 4 ---
+['DNA repair, bacterial MutHLS system', 'Hyperosmotic potassium uptake', '5-methylaminomethyl-2-thiouridine', 'tRNA aminoacylation, Asn']
+
+--- Cluster 2 : Length 1 ---
+['IMP and Xanthine conversion to XMP and GMP module']
+
+--- Cluster 3 : Length 2 ---
+['SecY2-SecA2 Specialized Transport System', 'Folate Biosynthesis']
+
+--- Cluster 4 : Length 2 ---
+['CoA disulfide thiol-disulfide redox system', 'Type I restriction-modification systems']
+
+--- Cluster 5 : Length 3 ---
+['tRNA aminoacylation, Cys', 'Twin-arginine translocation system', 'Bacterial checkpoint-control-related cluster']
+
+--- Cluster 6 : Length 4 ---
+['VraTSR and LiaFSR three-component regulatory systems', 'Ferrous iron transporter EfeUOB, low-pH-induced', 'Bacitracin resistance', 'Resistance to Daptomycin']
+
+--- Cluster 7 : Length 4 ---
+['N-acetylneuraminate utilization', 'tRNA aminoacylation, Asp', 'Theridiidae', 'Damaged nicotinamide nucleotide NAD(P)HX repair']
+
+--- Cluster 8 : Length 5 ---
+['Tagatose utilization', 'tRNA thiolation', 'Paenibacillaceae', 'ATP-dependent Nuclease', 'Isoprenoid Biosynthesis: Interconversions']
+
+--- Cluster 9 : Length 2 ---
+['NAD and NADP cofactor biosynthesis bacterial', 'NAD and NADP cofactor biosynthesis global']
+
+--- Cluster 10 : Length 6 ---
+['Resistance to Triclosan', 'Enoyl-[ACP] reductases disambiguation', 'Undecaprenyl-diphosphatases', 'Fatty Acid Biosynthesis cluster', 'Lactose utilization', 'tRNA aminoacylation, Met']
+
+--- Cluster 11 : Length 6 ---
+['CtsR and MscAB regulation of protein degradation', 'Thiamin, thiazole, hydroxymethylpyrimidine salvage and uptake', 'Peptide methionine sulfoxide reductase', 'Ribonuclease J family', 'Thiamin, hydroxymethylpyrimidine selected transporters', 'Trk and Ktr potassium uptake systems']
+
+--- Cluster 12 : Length 2 ---
+['Galactose utilization', 'Sex pheromones in Enterococcus faecalis and other Firmicutes']
+
+--- Cluster 13 : Length 3 ---
+['RNA pseudouridine synthases', 'Universal GTPases', 'DNA internalization-related cluster']
+
+--- Cluster 14 : Length 4 ---
+['tRNA aminoacylation, Leu', 'tRNA aminoacylation, Arg', 'Pyruvate formate-lyase cluster', 'Threonine anaerobic catabolism gene cluster']
+
+--- Cluster 15 : Length 2 ---
+['GMP synthase', 'Proline Synthesis']
+
+--- Cluster 16 : Length 7 ---
+['Threonine synthase cluster', 'Purine nucleotide synthesis regulator', 'Pyruvate formate-lyase cluster with possible role in choline utilization', 'Cell envelope-associated LytR-CpsA-Psr transcriptional attenuators', 'Fermentations: Mixed acid', 'Mevalonate metabolic pathway', 'Ribosome activity modulation']
+
+--- Cluster 17 : Length 6 ---
+['HPr catabolite repression system', 'EcsAB transporter affecting expression and secretion of secretory preproteins', 'Control of cell elongation - division cycle in Bacilli', 'L-serine dehydratase subunits', 'D-alanylation of teichoic acid', 'Late competence']
+
+--- Cluster 18 : Length 5 ---
+['BarA-UvrY(SirA) two-component regulatory system', 'Fatty Acid Biosynthesis FASII', 'Stress response and cell wall lysis cluster', 'Argulidae', 'Streptococcaceae']
+
+--- Cluster 19 : Length 3 ---
+['Methanocaldococcaceae', 'Programmed cell death toxin-antitoxin PezAT', 'Glutathione: Biosynthesis and gamma-glutamyl cycle']
+
+--- Cluster 20 : Length 6 ---
+['Cadmium resistance', 'Macrolides, lincosamides, streptogramins, ketolides, oxazolidinones (MLSKO) resistance: ribosomal protection', 'Aminoglycoside modifying enzymes: O-nucleotidyltransferases', 'PEB1, the major cell-binding factor of Campylobacter jejuni', 'Pseudoalteromonadaceae', 'BOX elements in Streptococci']
+
+--- Cluster 21 : Length 2 ---
+['Fatty acid synthesis', 'ATP-dependent RNA helicases, bacterial']
+
+--- Cluster 22 : Length 7 ---
+['Glycyl-tRNA synthetase', '2-O-alpha-mannosyl-D-glycerate utilization', 'Glutathione: Redox cycle', 'Macrolides, lincosamides, streptogramins, ketolides, oxazolidinones (MLSKO) resistance: efflux systems', 'Efflux ABC transporters BmrCD and LmrCD involved in multidrug resistance', 'Efflux ABC transporter MdlAB', 'Magnesium transport']
+
+--- Cluster 23 : Length 3 ---
+['tRNA aminoacylation, Ile', 'Antibiotic targets in protein synthesis', 'Mupirocin resistance']
+
+--- Cluster 24 : Length 2 ---
+['A Hypothetical Protein Related to Proline Metabolism', 'tRNA aminoacylation, Ala']
+
+--- Cluster 25 : Length 3 ---
+['RNA processing and degradation, bacterial', 'tRNA aminoacylation, Trp', 'Translation initiation factors, bacterial']
+
+--- Cluster 26 : Length 2 ---
+['Macromolecular synthesis operon', 'F0F1-type ATP synthase']
+
+--- Cluster 27 : Length 3 ---
+['D-tyrosyl-tRNA(Tyr) deacylase', 'Stringent Response, (p)ppGpp metabolism', 'Sporulation-associated proteins with broader functions']
+
+--- Cluster 28 : Length 1 ---
+['DAP (1,3-diaminopropane) production']
+
+--- Cluster 29 : Length 1 ---
+['Heme, hemin uptake and utilization systems in GramPositives']
+
+--- Cluster 30 : Length 1 ---
+['Sporulation Cluster']
+
+--- Cluster 31 : Length 2 ---
+['Cell division cluster', 'Threonylcarbamoyladenosine']
+
+--- Cluster 32 : Length 3 ---
+['Sucrose to levan conversions', 'Antibiotic targets in transcription', 'tRNA aminoacylation, Gly']
+
+--- Cluster 33 : Length 3 ---
+['tRNA aminoacylation, Phe', 'DNA repair, bacterial RecBCD pathway', 'Folate biosynthesis cluster']
+
+--- Cluster 34 : Length 2 ---
+['tRNA aminoacylation, Tyr', 'DNA repair system including RecA, MutS and a hypothetical protein']
+
+--- Cluster 35 : Length 2 ---
+['Streptococcal Hyaluronic Acid Capsule', 'Sulfoquinovose biosynthesis cluster']
+
+--- Cluster 36 : Length 4 ---
+['Ribosome LSU, bacterial', 'Aspartate to Threonine Module', 'Fe-S cluster assembly', 'rRNA modification related cluster including tlyA']
+
+--- Cluster 37 : Length 4 ---
+['Dpp dipeptide ABC transport system', 'RNA polymerase, bacterial', 'Translation termination factors, bacterial', 'Antibiotic targets in cell wall biosynthesis']
+
+--- Cluster 38 : Length 2 ---
+['Ribonuclease H', 'Aspartate to Homoserine module']
+
+--- Cluster 39 : Length 1 ---
+['Two cell division clusters relating to chromosome partitioning']
+
+--- Cluster 40 : Length 3 ---
+['Copper homeostasis: copper tolerance', 'Riboflavin, FMN and FAD biosynthesis in Archaea', 'tRNA aminoacylation, Pro']
+
+--- Cluster 41 : Length 2 ---
+['Cluster containing Glutathione synthetase', 'Heat shock dnaK gene cluster extended']
+
+--- Cluster 42 : Length 2 ---
+['Glycolysis and Gluconeogenesis, including Archaeal enzymes', 'Ribosomal proteins, single-copy']
+
+--- Cluster 43 : Length 1 ---
+['Colicin V and Bacteriocin Production Cluster']
+
+--- Cluster 44 : Length 4 ---
+['Biosynthesis of Arabinogalactan in Mycobacteria', 'RecA and RecX', 'Cell division initiation related cluster', 'DNA repair, bacterial RecFOR pathway']
+
+--- Cluster 45 : Length 1 ---
+['Chaperones GroEL GroES and Thermosome']
+
+--- Cluster 46 : Length 3 ---
+['DNA repair, bacterial', 'Fusidic acid resistance', 'Translation elongation factor G family']
+
+--- Cluster 47 : Length 2 ---
+['DNA Repair Base Excision', 'Repair of Iron Centers']
+
+--- Cluster 48 : Length 3 ---
+['Coenzyme A -- gjo', 'Coenzyme A', 'Chorismate Synthesis']
+
+--- Cluster 49 : Length 3 ---
+['Diaminopimelate Synthesis ', 'DeNovo Purine Biosynthesis', 'Lysine leader peptide']
+
+--- Cluster 50 : Length 3 ---
+['Tryptophan synthesis', 'Lysine DAP biosynthetic pathway', 'tRNA aminoacylation, Ser']
+
+--- Cluster 51 : Length 1 ---
+['DNA repair, bacterial DinG and relatives']
+
+--- Cluster 52 : Length 1 ---
+['High affinity phosphate transporter and control of PHO regulon']
+
+--- Cluster 53 : Length 3 ---
+['Branched-Chain Amino Acid Biosynthesis', 'CMP-legionaminic acid synthesis', 'Rcn nickel and cobalt homeostasis system']
+
+--- Cluster 54 : Length 3 ---
+['Cardiolipin biosynthesis', 'S-Adenosyl-L-homocysteine recycling', 'Phenylalanine and Tyrosine synthesis 1']
+
+--- Cluster 55 : Length 1 ---
+['Methylenetetrahydrofolate reductase']
+
+--- Cluster 56 : Length 44 ---
+['Colwelliaceae', 'Trans-envelope signaling system VreARI in Pseudomonas', 'Heme and heme d1 biosynthesis from siroheme', 'Type III secretion system orphans', 'L-2-amino-4-methoxy-trans-3-butenoic acid synthesis', 'Type III secretion systems', 'Potential DNA repair cluster', 'Extracellular matrix proteins (PSL) involved in mannose-rich biofilm formation in Pseudomonas', 'Salmochelin-mediated Iron Acquisition', 'Onchocercidae', 'Extracellular matrix proteins (PEL) involved in glucose-rich biofilm formation in Pseudomonas', 'ABC-type iron transport system', 'Pseudomonadaceae', 'IbrA and IbrB: co-activators of prophage gene expression', 'Siderophore Pyoverdine', 'Edwardsiidae', 'Acyclic terpene utilization', 'Aestuariirhabdaceae', 'Adenylylsulfate reductase', 'Capitellidae', 'Marinobacteraceae', 'Geothermobacteraceae', 'Lipotidae', 'Type III secretion system', 'Cholera toxin', 'MexXY System of Pseudomonas aeruginosa', 'Beta-lactamases Ambler class D', 'Mycobacterial FadD proteins (fatty acid CoA- and AMP- ligases)', 'Mycobacterial gene cluster associated with resistance against FAS-II antibiotics', 'Stress proteins YciF, YciE', 'Phenazine biosynthesis', 'Type 4 conjugative transfer system, IncI1 type', 'Sulfur transfer pathway CsdAEL', 'Biogenesis of cbb3-type cytochrome c oxidases', 'Coenzyme PQQ synthesis', 'Quorum sensing regulation in Pseudomonas', 'tRNA modification, 5-oxyacetyl uridine (cmo5U34)', 'Malonate decarboxylase', 'Sulfate assimilation related cluster', 'Cytochrome c oxidase EC 1.9.3.1', 'Acytosteliaceae', 'Outer membrane porins in Pseudomonas and Acinetobacter', 'CMP-pseudaminic acid synthesis', 'Rhamnolipids in Pseudomonas']
+
+--- Cluster 57 : Length 35 ---
+['Tripartite multidrug efflux systems (of MFS type) in Gram-negative bacteria', 'Multidrug Resistance, Tripartite Systems Found in Gram Negative Bacteria TEMP', 'Spongiibacteraceae', 'General Secretion Pathway', 'Chemotaxis in Escherichia coli and Bacillus subtilis', 'Tricarboxylate transport system', 'Mycobacterial FadE proteins Acyl-CoA dehydrogenase', 'Rhizophoraceae', 'Fusaric acid resistance cluster', 'Tol-Pal Cell Envelope Complex', 'Carbon storage regulator', 'Tolerance to colicin E2 and CreBC signal transduction system', 'Efflux ABC transporter YadGH', 'EnvZ and OmpR regulon', 'Putrescine utilization', 'Protection from Reactive Oxygen Species', 'Flagellum', 'Tripartite multidrug efflux systems (of MFS type) EmrKY-TolC and EmrAB-TolC', 'Putative TldE-TldD proteolytic complex', 'Type VI secretion system', 'Respiratory Systems - Shewanella (updated)', 'Malvaceae', 'Polymyxin resistance, lipid A modifications with phosphoethanolamine', 'Polyadenylation, bacterial', 'Iron siderophore sensor & receptor system', 'Two partner secretion pathway (TPS)', 'Microbulbiferaceae', 'Periplasmic nitrate reductase EC 1.7.99.4', 'Nitrosomonadaceae', 'Polymyxin resistance, lipid A modifications with 4-amino-4-deoxy-L-arabinose', 'Possible heterocyst differentiation related cluster', 'HMG CoA Synthesis', 'Taurine and alkanesulfonate utilization as sulfur sources', 'Tripartite multidrug efflux systems (of RND type) MdtABC-TolC', 'Glutathione: Non-redox reactions']
+
+--- Cluster 58 : Length 2 ---
+['Tripartite multidrug efflux systems (of RND type) in Pseudomonas', 'Maintenance of outer membrane lipid asymmetry']
+
+--- Cluster 59 : Length 6 ---
+['Outer membrane', 'Lpt lipopolysaccharide transport system', 'Lipoprotein transporter to outer membrane Lol', 'Type I secretion systems disambiguation', 'Pyrroloquinoline Quinone biosynthesis', 'beta-Barrel Assembly Machinery']
+
+--- Cluster 60 : Length 1 ---
+['Peptidyl-prolyl cis-trans isomerase']
+
+--- Cluster 61 : Length 1 ---
+['D-3-phosphoglycerate to phosphoserine module']
+
+--- Cluster 62 : Length 3 ---
+['Fatty acid catabolic operon fadN-fadA-fadE (yusJKL)', 'Carnitine metabolism and transport', 'Chromobacteriaceae']
+
+--- Cluster 63 : Length 9 ---
+['Cyanophycin Metabolism', 'Yersiniaceae', 'Glyoxylate bypass', 'Methylglyoxal Metabolism', 'D-gluconate and ketogluconates metabolism', 'Cysteine synthesis', 'Arginine biosynthesis', 'BactLuciferaseComplex', 'Putative oxidase COG2907']
+
+--- Cluster 64 : Length 5 ---
+['Potassium-transporting ATPase', 'Glycine betaine synthesis from choline', 'Proline biosynthesis (for review)', 'Urea carboxylase and Allophanate hydrolase cluster', 'DNA repair, bacterial photolyase']
+
+--- Cluster 65 : Length 5 ---
+['RSF1010 like IncQ broad-host-range plasmids', 'Glomeraceae', 'Syntrophorhabdaceae', 'Erwiniaceae', 'Vibrionaceae']
+
+--- Cluster 66 : Length 2 ---
+['Uridine to beta-Alanine and Thymine to 3-aminoisobutanoate module', 'Nucleoside ABC transporter cluster']
+
+--- Cluster 67 : Length 2 ---
+['Proline, 4-hydroxyproline uptake and utilization', 'Cold shock proteins of CSP family']
+
+--- Cluster 68 : Length 2 ---
+['2-oxoglutarate dehydrogenase ', 'Heme O and Heme A biosynthesis']
+
+--- Cluster 69 : Length 3 ---
+['Degradation of branched-chain amino acids and alpha-keto acids [Leu, Val]', 'Arginine succinyltransferase pathway', 'Photorespiration (oxidative C2 cycle)']
+
+--- Cluster 70 : Length 12 ---
+['Woeseiaceae', 'Thorselliaceae', 'Oleiphilaceae', 'Raperosteliaceae', 'Victivallaceae', 'Tuberaceae', 'Elapidae', 'Xystonellidae', 'Bacteriocin resistance related cluster', 'Entericidin', 'Robiginitomaculaceae', 'Microbiotheriidae']
+
+--- Cluster 71 : Length 3 ---
+['Sulfur transport related cluster', 'Sulfurtransferase and Ssec cluster', 'Trypanosomatidae']
+
+--- Cluster 72 : Length 1 ---
+['Universal stress protein family']
+
+--- Cluster 73 : Length 5 ---
+['D-threonate, L-threonate and D-erythronate utilization', 'Lysine fermentation', 'Gemmatimonadaceae', 'Nitrospiraceae', 'Xanthine dehydrogenase subunits']
+
+--- Cluster 74 : Length 16 ---
+['Symbiodiniaceae', 'Vitrellaceae', 'Micropepsaceae', 'Terasakiellaceae', 'Macrostomidae', 'Pseudohongiellaceae', 'Desulfomicrobiaceae', 'Azospirillaceae', 'Pyrinomonadaceae', 'Dongiaceae', 'Stichopodidae', 'Suidae', 'Magnetospirillaceae', 'Xanthobacteraceae', 'Balneatrichaceae', 'Porticoccaceae']
+
+--- Cluster 75 : Length 2 ---
+['Arsenic resistance', 'Purine catabolism in Bacillus subtilis']
+
+--- Cluster 76 : Length 3 ---
+['Sminthuridae', 'Lipid orphans', 'P2-like phage']
+
+--- Cluster 77 : Length 2 ---
+['Periplasmic disulfide interchange', 'Carbonic anhydrase']
+
+--- Cluster 78 : Length 15 ---
+['D-arabinose utilization', 'Vanillate and syringate utilization', 'Copper transport and blue copper proteins', 'Sarcosine oxidases, monomeric and heterotetrameric', 'Bacterial pathways for dimethylsulfoniopropionate and acrylate catabolism', 'Asteraceae', 'Phosphonate metabolism', 'Daphniidae', 'Polymyxin resistance', 'Sepiidae', 'Dihydropyrimidine dehydrogenase', 'Ephemeridae', 'Phosphoenolpyruvate phosphomutase', 'Maricaulaceae', 'Formate dehydrogenase']
+
+--- Cluster 79 : Length 9 ---
+['Coxiellaceae', 'Termopsidae', 'Small efflux transporters of SMR family', 'Natronospirillaceae', 'Desulfobaccaceae', 'Dissulfurirhabdaceae', 'Ventosimonadaceae', 'Siderophore pyochelin', 'Thiofilaceae']
+
+--- Cluster 80 : Length 4 ---
+['Proteasome bacterial', 'Cesiribacteraceae', 'Phycisphaeraceae', 'Culicidae']
+
+--- Cluster 81 : Length 9 ---
+['Ribitol utilization', 'Biogenesis of cytochrome c oxidases', 'Tocopherols and tocotrienols (vitamin E) in plants and cyanobacteria', 'Glycolate, glyoxylate interconversions', 'Entamoebidae', 'Glutathione-dependent pathway of formaldehyde detoxification', 'Sulfate reduction-associated complexes', 'Puniceicoccaceae', 'Ubiquinone biosynthesis']
+
+--- Cluster 82 : Length 2 ---
+['Zoogloeaceae', 'Alcanivoracaceae']
+
+--- Cluster 83 : Length 2 ---
+['Nosematidae', 'Aleyrodidae']
+
+--- Cluster 84 : Length 14 ---
+['Gentisate pathway', 'Mycolic acid synthesis 2', 'D-galacturonate utilization, oxidative pathway', 'Salicaceae', 'Glutaconate CoA-transferase or 3-oxoadipate CoA-transferase Subunits', 'Bruguierivoracaceae', 'Cysteine dioxygenase containing cluster 1', 'Beta-lactamases Ambler class C', 'Acidiferrobacteraceae', 'Strongyloididae', 'Funariaceae', 'Cytochrome bo ubiquinol oxidase ', 'Siderophore Enterobactin', 'Steinernematidae']
+
+--- Cluster 85 : Length 5 ---
+['Delta(6)-desaturase containing cluster', 'Selenocysteine metabolism', 'Fabaceae', 'Lipopolysaccharide in K12', 'TAM transport system']
+
+--- Cluster 86 : Length 2 ---
+['Choline uptake and conversion to betaine clusters', 'Dissimilatory nitrite reductase']
+
+--- Cluster 87 : Length 3 ---
+['Resistance to the fluoroquinolones norfloxacin and ciprofloxacin', 'Oxygen-sensing two-component regulatory system NreABC', 'Denitrifying reductase gene clusters']
+
+--- Cluster 88 : Length 2 ---
+['Clostridiales Family XVII. Incertae Sedis', 'Coenzyme A Biosynthesis cluster']
+
+--- Cluster 89 : Length 4 ---
+['Heme Biosynthesis: protoporphyrin-, coproporphyrin- and siroheme-dependent pathways', 'Bicyclomycin resistance cluster', 'Metal chelatases', 'Menaquinone biosynthesis from chorismate via 1,4-dihydroxy-2-naphthoate']
+
+--- Cluster 90 : Length 2 ---
+['FtsEX cell-division-associated signaling system', 'Multidrug resistance RND efflux system MexEFOprN']
+
+--- Cluster 91 : Length 3 ---
+['Rhabditidae', 'Homoprotocatechuate degradative cluster', 'Quinone oxidoreductase family']
+
+--- Cluster 92 : Length 2 ---
+['Acyl-CoA thioesterase II', 'Siderophore assembly kit']
+
+--- Cluster 93 : Length 1 ---
+['Lipoic acid metabolism']
+
+--- Cluster 94 : Length 1 ---
+['Lipoylated proteins']
+
+--- Cluster 95 : Length 2 ---
+['Biotin synthesis & utilization', 'Post-translational modification of proteins']
+
+--- Cluster 96 : Length 2 ---
+['TCA Cycle', 'Glycine cleavage system']
+
+--- Cluster 97 : Length 3 ---
+['Succinate dehydrogenase and Fumarate reductase cpmlexes', 'Biotin biosynthesis', 'Cytochrome d ubiquinol oxidase operon']
+
+--- Cluster 98 : Length 2 ---
+['RuvABC plus a hypothetical', 'Chlorophyll a synthase and phytol kinase cluster']
+
+--- Cluster 99 : Length 2 ---
+['Lipopolysaccharide-related cluster in Alphaproteobacteria', 'Nucleoside triphosphate pyrophosphohydrolase MazG']
+
+--- Cluster 100 : Length 3 ---
+['Resistance to Ethionamide and Isoniazid', 'Alginate biosynthesis', 'Fatty acid degradation']
+
+--- Cluster 101 : Length 2 ---
+['3-amino-5-hydroxybenzoic Acid Synthesis', 'Molybdenum cofactor biosynthesis']
+
+--- Cluster 102 : Length 9 ---
+['Chaoboridae', 'Nocardiaceae', 'Widespread colonization island', 'Diphtheria toxin', 'Glycomycetaceae', 'Mycobacterial heme acquisition system', 'Actinobacterial signal transduction system MtrAB-LpqB', 'Brevibacteriaceae', 'Twin-arginine translocation system related cluster']
+
+--- Cluster 103 : Length 13 ---
+['Micrococcaceae', 'Legionellaceae', 'Alkane synthesis in bacteria 2', "N,N'-diacetylbacillosamine", 'Orchitophryidae', 'Onygenaceae', 'Treboniaceae', 'Mycobacterial HadABC proteins ((3R)-hydroxyacyl-ACP dehydrates of FASII)', 'Head-to-head olefinic hydrocarbon biosynthesis', 'Glycerol fermentation to 1,3-propanediol', 'Glutathione analogs: mycothiol', 'Iron Scavenging cluster in Thermus', 'Possible stress related actinobacterial cluster']
+
+--- Cluster 104 : Length 4 ---
+['Noelaerhabdaceae', 'Reyranellaceae', 'Cyanobacterial bypass in the TCA', 'Archaeoglobaceae']
+
+--- Cluster 105 : Length 2 ---
+['Acyl carrier protein', 'Sulfur metabolism related cluster']
+
+--- Cluster 106 : Length 6 ---
+['Osmoregulation', 'Actinopolymorphaceae', 'Lithodesmiaceae', 'Syntrophaceae', 'Synechococcaceae', 'Francisellaceae']
+
+--- Cluster 107 : Length 1 ---
+['Nudix proteins (nucleoside triphosphate hydrolases)']
+
+--- Cluster 108 : Length 3 ---
+['Sigma54-dependent transcription related gene cluster', 'Dermatophilaceae', 'Nakamurellaceae']
+
+--- Cluster 109 : Length 5 ---
+['Cellulomonadaceae', 'Promicromonosporaceae', 'Bogoriellaceae', 'Jiangellaceae', 'Intrasporangiaceae']
+
+--- Cluster 110 : Length 6 ---
+['Pseudonocardiaceae', 'Nocardioidaceae', 'Nocardiopsaceae', 'Frankiaceae', 'Microbacteriaceae', 'Micromonosporaceae']
+
+--- Cluster 111 : Length 2 ---
+['Cluster related to PAS - para-aminosalicylic acid resistance', 'Streptomycetaceae']
+
+--- Cluster 112 : Length 4 ---
+['Benzoyl-CoA pathway of anaerobic aromatic metabolism', 'Entner-Doudoroff Pathway', 'Riboflavin, FMN and FAD metabolism with fusion events', 'Thermomonosporaceae']
+
+--- Cluster 113 : Length 2 ---
+['tRNA nucleotidyltransferase', "Protein-O-mannosyltransferase and 16S rRNA (cytidine(1402)-2'-O)-methyltransferase cluster"]
+
+--- Cluster 114 : Length 3 ---
+['tRNA aminoacylation, Lys', 'Programmed frameshift', 'Tripartite efflux system (of RND type) associated with Geranylgeranyl-PP synthase']
+
+--- Cluster 115 : Length 2 ---
+['GDP-fucose to mannose-1P module', 'Na(+) H(+) antiporter']
+
+--- Cluster 116 : Length 3 ---
+['Glutamine synthetases', 'Nonmevalonate Branch of Isoprenoid Biosynthesis', 'Cell division related cluster']
+
+--- Cluster 117 : Length 3 ---
+['Antibiotic targets in metabolic pathways', 'DNA repair, bacterial UvrD and related helicases', 'dTDP-3-acetamido-3,6-dideoxy-alpha-D-galactose synthesis']
+
+--- Cluster 118 : Length 3 ---
+['Mycobacterial lipoproteins (LPR group)', 'Gram-negative cluster', 'Signal peptidase']
+
+--- Cluster 119 : Length 3 ---
+['Glycolysis and Gluconeogenesis', 'tRNA aminoacylation, Val', 'Bacterial cell division related cluster 2']
+
+--- Cluster 120 : Length 3 ---
+['Antibiotic targets in DNA processing', 'Quinolone (Fluoroquinolone) resistance via Pentapeptide repeat proteins', 'DNA topoisomerases, Type II, ATP-dependent']
+
+--- Cluster 121 : Length 2 ---
+['DNA processing cluster', 'Calvin-Benson cycle']
+
+--- Cluster 122 : Length 4 ---
+['Amino acid racemase', 'tRNA aminoacylation, His', 'Cluster related to 2-thiouridine modification of tRNAs', 'Peptidase clustering with DAP']
+
+--- Cluster 123 : Length 2 ---
+['De Novo Pyrimidine Synthesis', 'Possible new toxin-antitoxin system including DivIC']
+
+--- Cluster 124 : Length 4 ---
+['Pentose phosphate pathway', 'Mechanisms of PAS resistance', 'YrdC-YciO-Sua5 and associated protein families', 'Replication-associated recombination protein RarA']
+
+--- Cluster 125 : Length 19 ---
+['Linotaeniidae', 'Diphyllobothriidae', 'Hymenochaetaceae', 'Aequoreidae', 'Passerellidae', 'Serrasalmidae', 'Zooshikellaceae', 'Acaryochloridaceae', 'Pipidae', 'Nautiliaceae', 'Desulfolunaceae', 'Bryobacteraceae', 'Ascarididae', 'DevBCA efflux pump transporter (of ABC type) cyanobacterial', 'Pontiellaceae', 'Convolvulaceae', 'Philodinidae', 'Ericaceae', 'Zosteraceae']
+
+--- Cluster 126 : Length 24 ---
+['Ferrimonadaceae', 'Geometridae', 'Xylanivirgaceae', 'Haloplasmataceae', 'Halobacteroidaceae', 'Halothermotrichaceae', 'Euplotidae', 'Ictaluridae', 'Celastraceae', 'Ilumatobacteraceae', 'Fasciolidae', 'Muridae', 'Bacillus cannibalism system', 'Aminiphilaceae', 'Dictyosteliaceae', 'Polypteridae', 'Manidae', 'Alopiidae', 'Stegostomatidae', 'Picrophilaceae', 'Elusimicrobiaceae', 'Anguillidae', 'Aphanothecaceae', 'Suillaceae']
+
+--- Cluster 127 : Length 2 ---
+['Copper Transport System', 'Eubacteriaceae']
+
+--- Cluster 128 : Length 3 ---
+['Planctomycetaceae', 'Entomoplasmataceae', 'Octopodidae']
+
+--- Cluster 129 : Length 5 ---
+['Segniliparaceae', 'D-arabinitol utilization', 'Marchantiaceae', 'Calditrichaceae', 'Magnetomoraceae']
+
+--- Cluster 130 : Length 55 ---
+['Mesostigmataceae', 'Dixoniellaceae', 'Maluridae', 'Lasso peptide maturation cluster', 'Schizoparmaceae', 'Trogonidae', 'Struthionidae', 'Pedaliaceae', 'Myricaceae', 'Volvocaceae', 'Plantaginaceae', 'Aquificaceae', 'Methylothermaceae', 'Strigidae', 'Cyprididae', 'Scotocercidae', 'Crocodylidae', 'Alligatoridae', 'Microcoleaceae', 'Thraupidae', 'Selenastraceae', 'Drepanopezizaceae', 'Psittacidae', 'Podargidae', 'Lauraceae', 'DNA phosphorothioation-dependent restriction system DptFGH', 'Fringillidae', 'Usitatibacteraceae', 'Zosteropidae', 'Corvidae', 'Stemonaceae', 'Quorum-sensing related cluster', 'Bromeliaceae', 'Cyperaceae', 'Thermodesulfovibrionaceae', 'Hydrangeaceae', 'Nodosilineaceae', 'Scolopacidae', 'Leptosomidae', 'Deferrisomataceae', 'Orchidaceae', 'Noctilucaceae', 'Rosaceae', 'Arecaceae', 'Amborellaceae', 'Salinarimonadaceae', 'Sulphoglycolysis', 'Multiple Antibiotic Resistance MAR locus', 'Rallidae', 'Mesitornithidae', 'Ulmaceae', 'Viperidae', 'Fervidicoccaceae', 'Kalotermitidae', 'Hydrocharitaceae']
+
+--- Cluster 131 : Length 18 ---
+['Dunaliellaceae', 'Haematococcaceae', 'Moduliflexaceae', 'Caldisericaceae', 'Corethraceae', 'Laetiporaceae', 'Bartonellaceae', 'Clavichlamydiaceae', 'Desulfuromonadaceae', 'Celerinatantimonadaceae', 'Thermotomaculaceae', 'Stratiomyidae', 'Thermoplasmataceae', 'Ichneumonidae', 'Tupaiidae', 'Vallicoccaceae', 'Nitrosopumilaceae', 'Coleofasciculaceae']
+
+--- Cluster 132 : Length 13 ---
+['Brocadiaceae', 'Orthoherpesviridae', 'Holophagaceae', 'Tortricidae', 'Bataceae', 'Dacrymycetaceae', 'Bernardetiaceae', 'Magnetococcaceae', 'Salinicoccaceae', 'Talpidae', 'Bangiaceae', 'Atribacteraceae', 'Chthoniobacteraceae']
+
+--- Cluster 133 : Length 58 ---
+['Cohaesibacteraceae', 'Breoghaniaceae', 'Nitratiruptoraceae', 'Blastochloridaceae', 'Tripartite multidrug efflux systems (of RND type) CmeABC and CmeDEF', 'Phasianidae', 'Aurantimonadaceae', 'Thermithiobacillaceae', 'Reticulibacteraceae', 'Amorphaceae', 'Alsobacteraceae', 'Apterygidae', 'Manganitrophaceae', 'Afifellaceae', 'Pseudoxanthobacteraceae', 'Araceae', 'Timaliidae', 'Gallaecimonadaceae', 'Geminocystaceae', 'Anatidae', 'Salinisphaeraceae', 'Rhodothalassiaceae', 'Thalassobaculaceae', 'Rhodospirillaceae', 'Devosiaceae', 'Teiidae', 'Hyphomonadaceae', 'Tepidamorphaceae', 'Roseiarcaceae', 'Propylenellaceae', 'Phreatobacteraceae', 'Notoacmeibacteraceae', 'Lichenibacteriaceae', 'Oligoflexaceae', 'Salinibacteraceae', 'Respiratory complex I in plants (plastidial) and cyanobacteria', 'Kofleriaceae', 'Plasmid replication', 'Sox sulfur oxidation genes', 'Sox thiosulfate oxidation system', 'Hapalosiphonaceae', 'Gloeomargaritaceae', 'Trueperaceae', 'Orobanchaceae', 'Rhamnaceae', 'Lentibulariaceae', 'Nelumbonaceae', 'Thiocyanate hydrolase', 'Mannosylglucosylglycerate synthesis', 'L-Amino acid oxidases: lysine-epsilon oxidase LodA', 'Phage shock protein operon', 'ABC transporter tungstate (TC 3.A.1.6.2)', 'Gregarinidae', 'Poaceae', 'D-altritol utilization', 'Pyridoxin(Vitamin B6) Degradation Pathway', 'Musaceae', 'Nymphaeaceae']
+
+--- Cluster 134 : Length 24 ---
+['Pleurotaceae', 'Saprolegniaceae', 'Geothermincolaceae', 'Coenobitidae', 'Allomimiviridae', 'Lymnaeidae', 'Cyanophoraceae', 'Chlorophyll Degradation', 'Nyssaceae', 'Ornithorhynchidae', 'Bodonidae', 'Nephropidae', 'Cricetidae', 'Ceraceosoraceae', 'Gigartinaceae', 'Lacipirellulaceae', 'Fonticulaceae', 'Toxin-Antitoxin MT1', 'Mycosporine synthesis cluster', 'Desulfurococcaceae', 'Sulfomarinibacteraceae', 'Thiohalospiraceae', 'Thermoguttaceae', 'Physeteridae']
+
+--- Cluster 135 : Length 8 ---
+['Thiohalorhabdaceae', 'Aulographaceae', 'Thiohalomonadaceae', 'Coniochaetaceae', 'Phrynosomatidae', 'Pleomassariaceae', 'Massarinaceae', 'Coliidae']
+
+--- Cluster 136 : Length 60 ---
+['Trochodendraceae', 'Cucurbitariaceae', 'Ginkgoaceae', 'Desulfovibrio high-molecular-weight cytochrome cluster', 'Desulfohalobiaceae', 'Actinopolysporaceae', 'Amniculicolaceae', 'Hirundinidae', 'Pinaceae', 'Aliterellaceae', 'Araliaceae', 'Miridae', 'Haladaptataceae', 'G-protein-coupled receptor (GPCR) system in Actinobacteria', 'Cactaceae', 'Meloidogynidae', 'Baekduiaceae', 'Moraceae', 'Cleomaceae', 'Encyrtidae', 'Psychidae', 'Dimargaritaceae', 'Asparagaceae', 'Hydrogen-sensing hydrogenase system', 'Caulimoviridae', 'Adinetidae', 'Lawsonellaceae', 'Chroococcaceae', 'Serpulaceae', 'Balsaminaceae', 'Chitobiose', 'Coniophoraceae', 'Boletaceae', 'Atheliaceae', 'Prochlorotrichaceae', 'Taphrinaceae', 'Bolbitiaceae', 'Galeropsidaceae', 'Hymenogastraceae', 'Physalacriaceae', 'Luteibaculaceae', 'Fagaceae', 'Mycenaceae', 'Tricholomataceae', 'Amphiacanthidae', 'Clariidae', 'Bondarzewiaceae', 'Osteoglossidae', 'Chromeraceae', 'Hydrogenedentaceae', 'Fomitopsidaceae', 'Sparassidaceae', 'Meruliaceae', 'Phaeolaceae', 'Phanerochaetaceae', 'Culicosporidae', 'Polyporaceae', 'Prenylated indole derivatives in actinomycetes', 'Rhabdochlamydiaceae', 'Postiaceae']
+
+--- Cluster 137 : Length 27 ---
+['Merulinidae', 'Rhinatrematidae', 'Euplectellidae', 'Myxobolidae', 'Suolaviridae', 'Vancomycin resistance, D-Ala-D-Ser, D-Ala-Lac ligases', 'Oscillochloridaceae', 'Lyophyllaceae', 'Capillimicrobiaceae', 'Monoglobaceae', 'Verrucariaceae', 'DNA Helicase of Unknown Function', 'Chlorogloeopsidaceae', 'Mimiviridae', 'Estrildidae', 'Pyronemataceae', 'Ectocarpaceae', 'Tyrannidae', 'Limulidae', 'DNA recombination, archaeal', 'Cell invasion-related virulence operon MCE', 'Narnaviridae', 'Apocynaceae', 'Crypthecodiniaceae', 'Cambaridae', 'Naviculaceae', 'Syncephalastraceae']
+
+--- Cluster 138 : Length 17 ---
+['Ostreibacteriaceae', 'Sandaracinaceae', 'Iflaviridae', 'Turdidae', 'Characidae', 'Herpestidae', 'Thermosynechococcaceae', 'Pseudococcidae', 'Methylohalomonadaceae', 'Glutathionylspermidine and Trypanothione', 'Polyomaviridae', 'Phaeotrichaceae', 'Comchoanobacteraceae', 'Deferrivibrionaceae', 'Pteroclidae', 'Polarisedimenticolaceae', 'Labridae']
+
+--- Cluster 139 : Length 32 ---
+['Cyprinodontidae', 'Megachilidae', 'Albulidae', 'Bovidae', 'Trochilidae', 'Polyascidae', 'Motilibacteraceae', 'Comatulidae', 'Paridae', 'Mangrovivirgaceae', 'Cuniculitremaceae', 'Tenuifilaceae', 'Nitrosocaldaceae', 'Cyanothecaceae', 'Coenzyme F420-H2 dehydrogenase (methanophenazine)', 'Casimicrobiaceae', 'Haliotidae', 'Cephalotaceae', 'Halimedaceae', 'Ostreobiaceae', 'Sturnidae', 'Scatophagidae', 'Diprionidae', 'Callipallenidae', 'Streptolysin S', 'Rhinolophidae', 'Sodium-transporting ATPase', 'Dehalococcoidaceae', 'Nyctotheridae', 'Promineifilaceae', 'Rhodellaceae', 'Haloferuviridae']
+
+--- Cluster 140 : Length 20 ---
+['Chlamydiaceae', 'Pyrocystaceae', 'Thermochlorobacteriaceae', 'ABC transporter YxeMNO', 'Theaceae', 'Chlamydomonadaceae', 'Kyanoviridae', 'Coenzyme B synthesis', 'Soboliphymatidae', 'Elateridae', 'Vicinamibacteraceae', 'Trans-translation by stalled ribosomes', 'Chelydridae', 'Anarhichadidae', 'Nidulariaceae', 'Acipenseridae', 'Bathyergidae', 'Polystomatidae', 'Rhodobiaceae', 'Methylocystaceae']
+
+--- Cluster 141 : Length 25 ---
+['Delphinidae', 'Spheniscidae', 'Sciuridae', 'Equidae', 'Balaenopteridae', 'Pteropodidae', 'Pumilibacteraceae', 'Dissoconiaceae', 'Anaerobic toluene and ethylbenzene degradation', 'Andaluciidae', 'Tayassuidae', 'Rhinocerotidae', 'Poly-gamma-glutamate biosynthesis', 'Sphaerobolaceae', 'Phaeodactylaceae', 'Acetophenone carboxylase 1', 'Baculoviridae', 'Echinometridae', 'Lacertidae', 'Menuridae', 'Acanthisittidae', 'Nanopusillaceae', 'Sedoreoviridae', 'Clastopteridae', 'Nothobranchiidae']
+
+--- Cluster 142 : Length 2 ---
+['Anisakidae', 'Pyruvate metabolism II: acetyl-CoA, acetogenesis from pyruvate']
+
+--- Cluster 143 : Length 1 ---
+['Acetoin, butanediol metabolism']
+
+--- Cluster 144 : Length 1 ---
+['Dehydrogenase complexes']
+
+--- Cluster 145 : Length 2 ---
+['Sphaerobacteraceae', 'Acetolactate synthase subunits']
+
+--- Cluster 146 : Length 1 ---
+['DNA repair, bacterial SbcCD exonuclease']
+
+--- Cluster 147 : Length 15 ---
+['Thermomicrobiaceae', 'Rut pathway of pyrimidine degradation', 'Staphyleaceae', 'Dromaiidae', 'Tytonidae', 'Didelphidae', 'Combretaceae', 'Amylocorticiaceae', 'Fermentibacteraceae', 'Gentianaceae', 'Motacillidae', 'Meropidae', 'Centropomidae', 'Pittosporaceae', 'Caldisphaeraceae']
+
+--- Cluster 148 : Length 21 ---
+['Desulfocucumaceae', 'Cafeteriaceae', 'Todidae', 'Cynoglossidae', 'Rutaceae', 'Laelapidae', 'Aphelenchoididae', 'Rivulariaceae', 'Orussidae', 'Simkaniaceae', 'Salasmaviridae', 'Erebidae', 'Chrysocapsaceae', 'Falconidae', 'Dasypodidae', 'Sporocadaceae', 'Papilionidae', 'Acanthopleuribacteraceae', 'Herelleviridae', 'Hymenolepididae', 'Methanotrichaceae']
+
+--- Cluster 149 : Length 12 ---
+['Sulfurospirillaceae', 'Spiroplasmataceae', 'Cellulosilyticaceae', 'Attheyaceae', 'Cardiobacteriaceae', 'Natranaerofabaceae', 'Acidaminobacteraceae', 'Roseivirgaceae', 'Tepidimicrobiaceae', 'Gracilibacteraceae', 'Desulfobacteriaceae', 'Thermodesulfobacteriaceae']
+
+--- Cluster 150 : Length 5 ---
+['Filifactoraceae', 'Helicobacteraceae', 'Campylobacteraceae', 'Clostridiaceae', 'Acholeplasmataceae']
+
+--- Cluster 151 : Length 16 ---
+['Tilletiaceae', 'Mustelidae', 'Sigmoideomycetaceae', 'Trichocomaceae', 'Lewinellaceae', 'Oxyuridae', 'Desulfonauticaceae', 'Psilotaceae', 'Hylobatidae', 'Hadarchaeaceae', 'Desulfoplanaceae', 'Cyprinidae', 'Adrianichthyidae', 'Symphyonemataceae', 'Scyliorhinidae', 'MazEF toxin-antitoxing (programmed cell death) system']
+
+--- Cluster 152 : Length 19 ---
+['Circaeasteraceae', 'Rajidae', 'Dasyuridae', 'Desertifilaceae', 'Varunidae', 'Leuciscidae', 'Ditrichaceae', 'Ketobacteraceae', 'Parvoviridae', 'Cichlidae', 'Nitidulidae', 'Natronincolaceae', 'Rhincodontidae', 'Pseudobacteriovoracaceae', 'Gobiidae', 'Tetranychidae', 'Hyellaceae', 'Pyroglyphidae', 'Apusomonadidae']
+
+--- Cluster 153 : Length 6 ---
+['Homogentisate pathway', 'Tetrahymenidae', 'Ramazzottiidae', 'Cunninghamellaceae', 'Omphalotaceae', 'Umbilicariaceae']
+
+--- Cluster 154 : Length 6 ---
+['Citrate lyase', 'Oxaloacetate decarboxylase Na-pump', 'Bacillales Family X. Incertae Sedis', 'Heliobacteriaceae', 'Desulfitobacteriaceae', 'Opitutaceae']
+
+--- Cluster 155 : Length 9 ---
+['Scarabaeidae', 'Eubacteriales Family XII. Incertae Sedis', 'Symbiobacteriaceae', 'alpha-glucoside ABC transporter', 'Buthidae', 'Thermovirgaceae', 'Phytoseiidae', 'Aerococcaceae', 'Syntrophomonadaceae']
+
+--- Cluster 156 : Length 1 ---
+['Cyanate hydrolysis']
+
+--- Cluster 157 : Length 1 ---
+['Polyamine Metabolism']
+
+--- Cluster 158 : Length 3 ---
+['HipAB system implicated in growth arrest, persistence and drug tolerance', 'Glycerolipid and Glycerophospholipid Metabolism in Bacteria', 'Type IV pilus']
+
+--- Cluster 159 : Length 1 ---
+['Cell division related cluster including coaD']
+
+--- Cluster 160 : Length 2 ---
+['One-carbon metabolism by tetrahydropterines', 'Toxin-Antitoxin system HigAB']
+
+--- Cluster 161 : Length 1 ---
+['Hfl operon']
+
+--- Cluster 162 : Length 6 ---
+['L-ascorbate utilization (and related gene clusters)', 'Noctuidae', 'Enterococcaceae', 'Sporolactobacillaceae', 'Trichuridae', 'Carnobacteriaceae']
+
+--- Cluster 163 : Length 4 ---
+['Turicibacteraceae', 'V-Type ATP synthase', 'Thermoactinomycetaceae', 'Desulfuribacillaceae']
+
+--- Cluster 164 : Length 8 ---
+['Patulibacteraceae', 'S-methylmethionine', 'Neocallimastigaceae', 'Fermentations: Lactate', 'PE multigene family in Mycobacterium tuberculosis complex (MTBC)', 'PPE multigene family in Mycobacterium tuberculosis complex (MTBC)', 'Sporulation proteins SigEG cluster', 'Moschidae']
+
+--- Cluster 165 : Length 7 ---
+['Magnetobacteriaceae', 'Exidiaceae', 'Biogenesis of c-type cytochromes', 'Gloeobacteraceae', 'Pasteuriaceae', 'Apogonidae', 'Smithellaceae']
+
+--- Cluster 166 : Length 16 ---
+['Gymnotidae', 'Trionychidae', 'Protopteridae', 'Pipridae', 'Pediculidae', 'Ophirinidae', 'Choanephoraceae', 'Betaine lipids in bactera', 'Fe(III) respiration - Shewanella type', 'Aminoglycoside modifying enzymes: O-phosphotransferases', 'Biddulphiaceae', 'Columbidae', 'Enterocytozoonidae', '4-hydroxybenzoyl-CoA reductase', 'Spalacidae', 'Midichloriaceae']
+
+--- Cluster 167 : Length 28 ---
+['Rubiaceae', 'Silvanigrellaceae', 'Geitlerinemataceae', 'Aiptasiidae', 'Babeliaceae', 'Enteromyxidae', 'Mycoplasmoidaceae', 'Methanomassiliicoccaceae', 'Isochrysidaceae', 'Nanohalobiaceae', 'Feifaniaceae', 'Ardeidae', 'Eremiobacteraceae', 'Corsiaceae', 'Thermodesulfobiaceae', 'Megalopidae', 'Sporanaerobacteraceae', 'Trichoplacidae', 'Mycobacterial cell wall virulence lipid phthiocerol dimycocerosate (PDIM)', 'Hydroxyaromatic decarboxylase family', 'Cymatosiraceae', 'Branchiostomatidae', 'Assiduviridae', 'Paramyxoviridae', 'Iron acquisition in Streptococcus', 'Ethanolamine utilization', 'Pinguiochrysidaceae', 'Prorocentraceae']
+
+--- Cluster 168 : Length 17 ---
+['Heteromyidae', 'Rhopaluridae', 'Fredfastierviridae', 'Syngnathidae', 'Chlorosome', 'Halorubellaceae', 'Phenol hydroxylase', 'Cryptobasidiaceae', 'Salisaetaceae', 'Goodeniaceae', 'Pyralidae', 'Phaeocystidibacteraceae', 'Methanofuran biosynthesis', 'Panagrolaimidae', 'Coelacanthidae', 'Flaviviridae', 'Ozemobacteraceae']
+
+--- Cluster 169 : Length 7 ---
+['Molossidae', 'Protomycetaceae', 'Lemuridae', 'Oceanipulchritudinaceae', 'Ascodesmidaceae', 'Metamycoplasmataceae', 'Mrakiaceae']
+
+--- Cluster 170 : Length 2 ---
+['ESAT-6 proteins secretion system in Mycobacteria (locus ESX-1)', 'ESAT-6 protein secretion system in Mycobacteria (locus ESX-5)']
+
+--- Cluster 171 : Length 5 ---
+['Mycoplasmataceae', 'Cyclonatronaceae', 'Nitrososphaeraceae', 'Bignoniaceae', 'Toxin-antitoxin replicon stabilization systems']
+
+--- Cluster 172 : Length 2 ---
+['Ribosomal protein S5p acylation', 'Glycogen metabolism']
+
+--- Cluster 173 : Length 2 ---
+['YoeB-YefM toxin-antitoxin system', 'ESAT-6 proteins secretion system in Firmicutes and Actinobacteria']
+
+--- Cluster 174 : Length 3 ---
+['Acidaminococcaceae', 'Oscillospiraceae', 'Ribonucleotide reduction']
+
+--- Cluster 175 : Length 1 ---
+['DNA repair, UvrABC system']
+
+--- Cluster 176 : Length 12 ---
+['Polysulfide reductase EC 1.12.98.4 and Thiosulfate reductase', 'Plakobranchidae', 'Uabimicrobiaceae', 'Vibrioferrin synthesis', 'ABC transporter of unknown substrate X', 'Cyanidiaceae', 'Yeguiaceae', 'Cosmopterigidae', 'Desulfomonilaceae', 'Thermofilaceae', 'Ignatzschineriaceae', 'Dracunculidae']
+
+--- Cluster 177 : Length 33 ---
+['Chroococcidiopsidaceae', 'Stereaceae', 'Solenidae', 'Sarcoptidae', 'Eriophyidae', 'Scolopendridae', 'Ursidae', 'Mycobacterial signal transduction system MprAB required for persistent infections', 'Tenebrionidae', 'Babesiidae', 'Figitidae', 'Rhabdoviridae', 'Phycodnaviridae', 'Thalassionemataceae', 'Leucosporidiaceae', 'Schizoporaceae', 'Crevaviridae', 'Gallic acid utilization', 'Hepatozoidae', 'Selenoprotein O', 'Percidae', 'Mytilidae', 'Aplysiidae', 'Serendipitaceae', 'Glossiphoniidae', 'Thiohalophilaceae', 'Lujinxingiaceae', 'Odinarchaeaceae', 'Corynebacteriaceae', 'Ranidae', 'Bufonidae', 'Terrimicrobiaceae', 'Lepisosteidae']
+
+--- Cluster 178 : Length 40 ---
+['Pleuronectidae', 'Gelatoporiaceae', 'Azoamicaceae', 'Punctulariaceae', 'Lecudinidae', 'Stephanosporaceae', 'Psathyrellaceae', 'Shiraiaceae', 'Tachyglossidae', 'Rivulidae', 'Oocystaceae', 'Cladosporiaceae', 'Passeridae', 'Trombidiidae', 'Geoemydidae', 'Danionidae', 'Aminobacteriaceae', 'Silphidae', 'Corynesporascaceae', 'Esocidae', 'Halomagnusviridae', 'Toxopneustidae', 'RNA polymerase, archaeal', 'Gongylonematidae', 'SpoVS protein family', 'Verbenaceae', 'Mycobacteriaceae', 'Papillomaviridae', 'Dugesiidae', 'Myxinidae', 'Laspinemataceae', 'Sulfhydrogenase', 'Suoliviridae', 'Chinchillidae', 'Tepidiformaceae', 'Prochlorococcaceae', 'Petrachlorosaceae', 'Prometheoarchaeaceae', 'Urticaceae', 'Juglandaceae']
+
+--- Cluster 179 : Length 27 ---
+['Tymoviridae', 'Grammatophoraceae', 'Rickenellaceae', 'Coronaviridae', 'Peduoviridae', 'Scalinduaceae', 'Tubulinosematidae', 'Holocentridae', 'Megalonychidae', 'Hypoviridae', 'Gigasporaceae', 'Magnaporthaceae', 'Bacillariaceae', 'Arenicellaceae', 'Gymnodiniaceae', 'Veneridae', 'Ramphastidae', 'Basidiobolaceae', 'Haemonchidae', 'Leptocylindraceae', 'Coccinellidae', 'Desulfatirhabdiaceae', 'Otididae', 'Methanopyraceae', 'Cynocephalidae', 'Energy-conserving hydrogenase (ferredoxin)', 'Gracilariaceae']
+
+--- Cluster 180 : Length 28 ---
+['Catenulaceae', 'Elaphomycetaceae', 'DNA sulfur modification cluster', 'Puniceispirillaceae', 'Thalassarchaeaceae', 'Mesyanzhinovviridae', 'Dasyatidae', 'Dictyochaceae', 'Calderihabitantaceae', 'Elephantidae', 'Alloherpesviridae', 'Thermostichaceae', 'Caulerpaceae', 'Taeniidae', 'Verrucomicrobia subdivision 6', 'Galdieriaceae', 'Nymphalidae', 'Prasinococcaceae', 'Vulgatibacteraceae', 'Halothecacae', 'Steigviridae', 'Druskaviridae', 'Litorivicinaceae', 'Phaeocystaceae', 'Bracteacoccaceae', 'Poxviridae', 'Adenoviridae', 'Chromulinivoraceae']
+
+--- Cluster 181 : Length 15 ---
+['Anthracoideaceae', 'Hydrogenimonadaceae', 'Mastigamoebidae', 'Thermodesulfatatoraceae', 'Resistance to Vancomycin and Teicoplanin', 'Nanoperiomorbaceae', 'Tetraodontidae', 'Nanosynbacteraceae', 'Anaerobic Oxidative Degradation of L-Ornithine', 'Methanonatronarchaeaceae', 'Microvenatoraceae', 'Phrymaceae', 'Pentatomidae', 'Paraconexibacteraceae', 'Trichostrongylidae']
+
+--- Cluster 182 : Length 27 ---
+['Resistance to Ethambutol', 'Xenocyprididae', 'Desulfosudaceae', 'Methanoliparaceae', 'Hyaluronic Acid-containing Cell Walls', 'Selenomonadaceae', 'Reduviidae', 'Paulinellidae', 'Hemiaulaceae', 'Annonaceae', 'Polyodontidae', 'Nephroselmidaceae', 'Echinimonadaceae', 'Sciaenidae', 'Zhaonellaceae', 'Caminicellaceae', 'Thelaziidae', 'Cephidae', 'Fiersviridae', 'Dermocarpellaceae', 'Oculatellaceae', 'Izemoplasmataceae', 'Zierdtviridae', 'Salibacteraceae', 'Sclerodermataceae', 'Peribunyaviridae', 'Parvicellaceae']
+
+--- Cluster 183 : Length 18 ---
+['Gloniaceae', 'O-methyl phosphoramidate modification in capsular polysaccharide', 'Rubritaleaceae', 'Tetracycline resistance, all mechanisms', 'Chloroflexaceae', 'Lophiostomataceae', 'Mugilidae', 'Aphanizomenonaceae', 'Majidae', 'Saccharimonadaceae', 'Blastocladiaceae', 'Methanollivieraceae', 'Kiritimatiellaceae', 'Nanosyncoccacae', 'Xenococcaceae', 'Odontellaceae', 'Ichthyobodonidae', 'Hyaluronate utilization']
+
+--- Cluster 184 : Length 39 ---
+['Lineolataceae', 'Choreocolacaceae', 'Absconditicoccaceae', 'Epitheliaceae', 'Sulfuricellaceae', 'Asteriidae', 'Sphingidae', 'Chrysomelidae', 'Blenniidae', 'Pisolithaceae', 'Armatimonadaceae', 'Anaerohalosphaeraceae', 'Anabantidae', 'Cryptomonadaceae', 'Sumerlaeaceae', 'Gadidae', 'Acerentomidae', 'Patellidae', 'Nanogingivalaceae', 'Surirellaceae', 'Umbelopsidaceae', 'Raineyaceae', 'Micrarchaeaceae', 'Desulfosalsimonadaceae', 'Polygonaceae', 'Nephilidae', 'Araneidae', 'Coccolithaceae', 'AMP to 3-phosphoglycerate', 'Schizomimiviridae', 'Characeae', 'Glyceridae', 'Lycaenidae', 'Methanococcaceae', 'Endomicrobiaceae', 'Thermoanaerobaculaceae', 'Channichthyidae', 'Pervagoviridae', 'Adelgidae']
+
+--- Cluster 185 : Length 17 ---
+['Libellulidae', 'Mastacembelidae', 'Methanofastidiosaceae', 'Demerecviridae', 'Trombiculidae', 'Monodontidae', 'Sarcocystidae', 'Outer membrane proteases (Omptins)', 'Lentitheciaceae', 'Chaseviridae', 'Psittacicellaceae', 'Pavlovaceae', 'Thermincolaceae', 'Molycolviridae', 'Auribacteraceae', 'Asterinidae', 'Rhodomelaceae']
+
+--- Cluster 186 : Length 18 ---
+['Gemellaceae', 'HU-alpha and dsDNA mimic protein interaction', 'Petrotogaceae', 'Carangidae', 'Abyssicoccaceae', 'Fervidobacteriaceae', 'Dissulfurispiraceae', 'Nitrospinaceae', 'Jaapiaceae', 'Borreliaceae', 'Listeria surface proteins: Internalin-like proteins', 'Marseilleviridae', 'Pasteurellaceae', 'Glycine reductase, sarcosine reductase and betaine reductase', 'Neisseriaceae', 'Inoviridae', 'Anaerobic dimethyl sulfoxide reductase (EC 1.8.5.3)', 'Amoebophilaceae']
+
+--- Cluster 187 : Length 5 ---
+['Callorhinchidae', 'Dictyobacteraceae', 'Euphorbiaceae', 'Colletidae', 'Polyunsaturated Fatty Acids synthesis']
+
+--- Cluster 188 : Length 7 ---
+['Didymellaceae', 'Saprospiraceae', 'Sulfurimonadaceae', 'Thermoanaerobacteraceae', 'Moritellaceae', 'Orbaceae', 'Desulfovibrionaceae']
+
+--- Cluster 189 : Length 14 ---
+['Lingulidae', 'Salpingoecidae', 'Priapulidae', 'GlrKR two-component regulatory system', 'Photosystem I', 'Desulfosarcinaceae', 'Cheloniidae', 'Methanoregulaceae', 'Bradymonadaceae', 'Formicidae', 'Klebsormidiaceae', 'Methionine Salvage', 'Siderophore Mycobactin', 'Solanaceae']
+
+--- Cluster 190 : Length 15 ---
+['Zobellviridae', 'Sterolibacteriaceae', 'Ferrovaceae', 'Coenagrionidae', 'Carbon monoxide induced hydrogenase', 'Ajellomycetaceae', 'Melanommataceae', 'Sporulation proteins SpoVA cluster', 'Chamaesiphonaceae', 'Ktedonosporobacteraceae', 'Cobitidae', 'Tenrecidae', 'Hyaenidae', 'Aliceevansviridae', 'Neodiplogasteridae']
+
+--- Cluster 191 : Length 5 ---
+['Lachnaceae', 'Acanthamoebidae', 'Armadillidiidae', 'Felidae', 'Cervidae']
+
+--- Cluster 192 : Length 3 ---
+['Arginine decarboxylase and Agmatinase cluster', '2-phosphoglycolate salvage', '2-aminophenol Metabolism']
+
+--- Cluster 193 : Length 10 ---
+['Particulate methane monooxygenase (pMMO)', 'Aerosakkonemataceae', 'Methanocellaceae', 'Halobacteriovoraceae', 'Neomegalonemataceae', 'Accipitridae', 'Oxytrichidae', 'Hydrogenophilaceae', 'Syntrophotaleaceae', 'Schistosomatidae']
+
+--- Cluster 194 : Length 2 ---
+['Glycerol utilization cluster', 'Phd-Doc, YdcE-YdcD toxin-antitoxin (programmed cell death) systems']
+
+--- Cluster 195 : Length 19 ---
+['Teicoplanin resistance in Staphylococci', "Biosynthesis of 4,4'-diapolycopene dialdehyde", 'Desulfococcaceae', 'Toxins', 'p-Aminobenzoyl-Glutamate Utilization', 'Methylglyoxal resistance in Bacillus subtilis', 'Pore-forming cytolytic toxins', 'Fosfomycin resistance', 'Desulfotomaculaceae', 'Bacillithiol synthesis', 'Alpha-acetolactate operon', 'Siderophore Staphylobactin', 'Siderophore Anthrachelin', 'Listeria Pathogenicity Island LIPI-1 extended', 'Biofilm formation in Staphylococcus', 'Actinospicaceae', 'Adhesins in Staphylococcus', 'Formaldehyde assimilation: Ribulose monophosphate pathway', 'Staphylococcaceae']
+
+--- Cluster 196 : Length 2 ---
+['Anaerobic module of TCA', 'Pterin synthesis related cluster']
+
+--- Cluster 197 : Length 6 ---
+['Pectobacteriaceae', 'Listeriaceae', 'Citrate uptake cluster', 'Enterobacteriaceae', 'Alkane biosynthesis in bacteria', 'Arcobacteraceae']
+
+--- Cluster 198 : Length 5 ---
+['Hydroxy-fatty acid production as stress response', 'Cytophagaceae', 'Fet iron export system', 'Histidine Biosynthesis', 'Histidine Biosynthesis -- gjo']
+
+--- Cluster 199 : Length 2 ---
+['Urea cycle', 'Arginine biosynthesis via N-acetyl-L-citrulline']
+
+--- Cluster 200 : Length 3 ---
+['Multi-subunit cation antiporter', 'Bile hydrolysis', 'Cytolysin and Lipase operon in Vibrio']
+
+--- Cluster 201 : Length 2 ---
+['Hypoxylaceae', 'Sclerotiniaceae']
+
+--- Cluster 202 : Length 6 ---
+['Plectosphaerellaceae', 'Hypocreaceae', 'Nectriaceae', 'Pyriculariaceae', 'Pseudeurotiaceae', 'Venturiaceae']
+
+--- Cluster 203 : Length 3 ---
+['Valsaceae', 'Myxococcaceae', 'Leptospiraceae']
+
+--- Cluster 204 : Length 2 ---
+['Enterobacterial common antigen (LPS O-antigen)', 'Histidine Degradation']
+
+--- Cluster 205 : Length 2 ---
+['Deinococcaceae', 'Urease subunits']
+
+--- Cluster 206 : Length 18 ---
+['Trematosphaeriaceae', 'Lophiotremataceae', 'Methylacidiphilaceae', 'Dipicolinate Synthesis', 'Temoridae', 'Sordariaceae', 'Bionectriaceae', 'Zopfiaceae', 'Pseudodiploosporaceae', 'Ceratocystidaceae', 'Microascaceae', 'Phaeomoniellaceae', 'Diatrypaceae', 'Hyaloscyphaceae', 'Amorphothecaceae', 'Pelagibacteraceae', 'Beta-lactamases Ambler class A', 'Cryphonectriaceae']
+
+--- Cluster 207 : Length 5 ---
+['Chlorodendraceae', 'Hydrolysis of sphingomyelin', 'Thalassospiraceae', 'Peronosporaceae', 'Bacillaceae']
+
+--- Cluster 208 : Length 13 ---
+['Chaetomiaceae', 'Psittaculidae', 'Strongylocentrotidae', 'Ophiocordycipitaceae', 'Clavicipitaceae', 'Calditerrivibrionaceae', 'Ampullariidae', 'Diversisporaceae', 'Glomerellaceae', 'Helotiaceae', 'Psyllidae', 'Dicroglossidae', 'Schizaeaceae']
+
+--- Cluster 209 : Length 2 ---
+['Murein hydrolase regulation and cell death', 'The Chv two-component regulatory system']
+
+--- Cluster 210 : Length 2 ---
+['ESAT-6 proteins secretion system in Firmicutes extended', 'Nickel-requiring']
+
+--- Cluster 211 : Length 1 ---
+['Queuosine and archaeosine']
+
+--- Cluster 212 : Length 2 ---
+['Adenosyl nucleosidases', 'Metabolite repair']
+
+--- Cluster 213 : Length 5 ---
+['Fibrobacteraceae', 'Na-driven 2-hydroxyglutarate pathway', 'Methanobacteriaceae', 'Anaerotignaceae', 'Dethiobacteraceae']
+
+--- Cluster 214 : Length 2 ---
+['tRNA aminoacylation, Thr', 'Biotin synthesis cluster']
+
+--- Cluster 215 : Length 3 ---
+['Lipoylation-related cluster', 'Planococcaceae', 'Alicyclobacillaceae']
+
+--- Cluster 216 : Length 3 ---
+['NADH ubiquinone oxidoreductase vs. multi-subunit cation antiporter', 'NADH ubiquinone oxidoreductase', 'Respiratory Complex I']
+
+--- Cluster 217 : Length 2 ---
+['Pyruvate metabolism I: anaplerotic reactions, PEP', 'D-Galacturonate and D-Glucuronate Utilization']
+
+--- Cluster 218 : Length 2 ---
+['Menaquinone biosynthesis from chorismate via 1,4-dihydroxy-6-naphthoate', 'Muconate lactonizing enzyme family']
+
+--- Cluster 219 : Length 4 ---
+['Pyridoxin (Vitamin B6) Biosynthesis', 'Oligopeptide degradation cluster', 'Modification of eukaryotic initiation factor 5A', 'Biosynthesis of thiamin antivitamin Bacimethrin']
+
+--- Cluster 220 : Length 1 ---
+['Protein chaperones']
+
+--- Cluster 221 : Length 2 ---
+['Methylthiotransferases', 'Ribosomal protein S12p Asp methylthiotransferase']
+
+--- Cluster 222 : Length 1 ---
+['Branched-chain amino acids and alpha-keto acids utilization as energy sources']
+
+--- Cluster 223 : Length 6 ---
+['Prolixibacteraceae', 'Dysgonomonadaceae', 'Utilization systems for glycans and polysaccharides (PULs, SUS)', 'BtuS-PduT gene cluster for metalloporphyrine salvage', 'Conjugative transposon, Bacteroidales', 'Bacterial Sphingolipids']
+
+--- Cluster 224 : Length 10 ---
+['Bacteroides capsular polysaccharide transcription antitermination proteins', '2-ketoacid oxidoreductases disambiguation', 'Haliscomenobacteraceae', 'Bacteroidaceae', 'Prevotellaceae', 'Rikenellaceae', 'Paludibacteraceae', 'Muribaculaceae', 'Barnesiellaceae', 'Pyruvate:ferredoxin oxidoreductase']
+
+--- Cluster 225 : Length 2 ---
+['Protein degradation', 'Ribosomal hibernation related cluster']
+
+--- Cluster 226 : Length 1 ---
+['Predicted secretion system W clustering with cell division proteins']
+
+--- Cluster 227 : Length 1 ---
+['Aerotolerance operon']
+
+--- Cluster 228 : Length 1 ---
+['Nucleoside uptake and degradation cluster']
+
+--- Cluster 229 : Length 1 ---
+['Inositol-containing phospholipids']
+
+--- Cluster 230 : Length 3 ---
+['Thiotrichaceae', 'Acetyl-CoA Pathway Wood-Ljungdahl', 'Encapsulation of DyP-type peroxidase or ferritin-like protein oligomers']
+
+--- Cluster 231 : Length 8 ---
+['Cob(I)alamin adenosyltransferase', 'Colanic acid synthesis', 'KDO2-Lipid A biosynthesis', 'Na-translocating NADH-quinone oxidoreductase', 'tRNA aminoacylation, Gln', 'Lipopolysaccharide transporter LptABC', 'tRNA aminoacylation, Glu', 'Possible RNA modification and stress response cluster']
+
+--- Cluster 232 : Length 1 ---
+['Glutamate dehydrogenases']
+
+--- Cluster 233 : Length 1 ---
+['Translation initiation factors, eukaryotic and archaeal']
+
+--- Cluster 234 : Length 10 ---
+['Carabidae', 'Mortierellaceae', 'Erythrobacteraceae', 'Bathycoccaceae', 'Sporormiaceae', 'Coleochaetaceae', 'Chaetocerotaceae', 'Perkinsidae', 'Catenariaceae', 'Leptosphaeriaceae']
+
+--- Cluster 235 : Length 10 ---
+['Orbiliaceae', 'Trypetheliaceae', 'Ancylistaceae', 'Schizosaccharomycetaceae', 'Argasidae', 'Diphthamide biosynthesis', 'Hepatosporidae', 'Trigonopsidaceae', 'Metschnikowiaceae', 'Neolectaceae']
+
+--- Cluster 236 : Length 9 ---
+['Mytilinidiaceae', 'Harrimaniidae', 'Phoridae', 'Leucothoidae', 'Talitridae', 'Sympoventuriaceae', 'Aplosporellaceae', 'Cicadellidae', 'Thermoascaceae']
+
+--- Cluster 237 : Length 18 ---
+['Phylloxeridae', 'Mebrane bound hydrogenases', 'Lichtheimiaceae', 'Cixiidae', 'Gnomoniaceae', 'Albuginaceae', 'Energy conserving hydrogenase b, Methanococcales-Methanobacteriales-Methanopyrales', 'Ascobolaceae', 'Lipomycetaceae', 'Nolidae', 'Dothidotthiaceae', 'Haplosporidiidae', 'Clytiidae', 'Chlorellaceae', 'Archaeal membrane bound hydrogenases', 'Parastacidae', 'Dermestidae', 'Fabreidae']
+
+--- Cluster 238 : Length 14 ---
+['Pichiaceae', 'Phaffomycetaceae', 'Dipodascaceae', 'Debaryomycetaceae', 'Ascoideaceae', 'Ribosome LSU, eukaryotic and archaeal', 'RNA polymerase, archaeal initiation factors', 'Pleistophoridae', 'Kickxellaceae', 'Ribosome SSU, eukaryotic and archaeal', 'Lysine Biosynthesis via alpha-aminoadipate AAA', 'Ribosome biogenesis, archaeal', 'Box C-D RNA-guided RNA methyltransferase', 'Exosome']
+
+--- Cluster 239 : Length 13 ---
+['Legeriomycetaceae', 'Chytriomycetaceae', 'Heme O and Heme A biosynthesis (with selected terminal oxidases)', 'Nitrogen fixation', 'Cynipidae', 'Lindgomycetaceae', 'Niphatidae', 'Pneumocystaceae', 'Hypsibiidae', 'Cerambycidae', 'Calliphoridae', 'Translation elongation factors, eukaryotic and archaeal', 'Graphidaceae']
+
+--- Cluster 240 : Length 11 ---
+['Indriidae', 'Portunidae', 'Anaeroplasmataceae', 'Synchytriaceae', 'Oweniidae', 'Tribonemataceae', 'Percolomonadidae', 'Plexauridae', 'Chthonomonadaceae', 'Ploettnerulaceae', 'Mucoraceae']
+
+--- Cluster 241 : Length 3 ---
+['Acidimicrobiaceae', 'Nototheniidae', 'Acrididae']
+
+--- Cluster 242 : Length 11 ---
+['Hydrogenothermaceae', 'Tichowtungiaceae', 'Morchellaceae', 'Lottiidae', 'Tulasnellaceae', 'Desulfonatronovibrionaceae', 'Natronoarchaeaceae', 'Testudinidae', 'Sparidae', 'Sisoridae', 'Actiniidae']
+
+--- Cluster 243 : Length 13 ---
+['Thraustochytriaceae', 'Burseraceae', 'Bipolaricaulaceae', 'Crassulaceae', 'Trichogrammatidae', 'Botryobasidiaceae', 'Amaryllidaceae', 'Emydidae', 'Metastrongylidae', 'Aminoglycoside modifying enzymes: N-acetyltransferases', 'Hipposideridae', 'Acroporidae', 'Thermosporotrichaceae']
+
+--- Cluster 244 : Length 11 ---
+['DNA repair, bacterial UmuCD system', 'An Arabinose Sensor', 'Quorum sensing in Yersinia', 'Phototrophicaceae', 'Succinivibrionaceae', 'Bifidobacteriaceae', 'Egibacteraceae', 'Strombidinopsidae', 'Labyrinthulaceae', 'Holosporaceae', 'Ignavibacteriaceae']
+
+--- Cluster 245 : Length 29 ---
+['Fluviibacteraceae', 'Amidase clustered with urea and nitrile hydratase functions', 'Mamiellaceae', 'Geminigeraceae', 'Aestuariivirgaceae', 'Obscuribacteraceae', 'Planorbidae', 'Wallemiaceae', 'Physciaceae', 'Heteroderidae', 'Dermateaceae', 'Odontophoridae', 'Cavenderiaceae', 'Barnase-barstar complex', 'Moorellaceae', 'Algiphilaceae', 'Filobasidiaceae', 'Owenweeksiaceae', 'Endogonaceae', 'Kangiellaceae', 'Rhizopodaceae', 'AttEFGH ABC Transport System', 'Mollisiaceae', 'Arthrodermataceae', 'Rhinotermitidae', 'Melioribacteraceae', 'Thripidae', 'Botryosphaeriaceae', 'Fibroporiaceae']
+
+--- Cluster 246 : Length 10 ---
+['Brachybasidiaceae', 'Marivirgaceae', 'Pleioneaceae', 'Baetidae', 'Trichocoleusaceae', 'Ancylostomatidae', 'Hippeaceae', 'Cryptococcaceae', 'Gonapodyaceae', 'Salinivirgaceae']
+
+--- Cluster 247 : Length 15 ---
+['Pleuroascaceae', 'Timematidae', 'Parmeliaceae', 'Chironomidae', 'Lamiaceae', 'Myxotrichaceae', 'Powellomycetaceae', 'Dioscoreaceae', 'Musophagidae', 'Tabanidae', 'Anaplasmataceae', 'Araucariaceae', 'Dioxygenolytic carbon monoxide-forming enzymes', 'Cyclopteridae', 'Marasmiaceae']
+
+--- Cluster 248 : Length 14 ---
+['Rutstroemiaceae', 'Melampsoraceae', 'Pezizaceae', 'Trichomonascaceae', 'Peltospiridae', 'Tremellaceae', 'Trichosporonaceae', 'Nephtheidae', 'Juglanconidaceae', 'Mormyridae', 'Ascosphaeraceae', 'Xylonaceae', 'Cyphellophoraceae', 'Paxillaceae']
+
+--- Cluster 249 : Length 7 ---
+['Cryptosporidiidae', 'Strongylidae', 'Rhizosoleniaceae', 'Pomacentridae', 'Podosporaceae', 'Ceratopogonidae', 'Cecidomyiidae']
+
+--- Cluster 250 : Length 15 ---
+['Tolypothrichaceae', 'Biofilm Adhesin Biosynthesis', 'Phospholipid and Fatty acid biosynthesis related cluster', 'Oceanospirillaceae', 'Heterorhabditidae', 'Cellvibrionaceae', 'Delphacidae', 'ABC transporter YeiABEF', 'Chromatiaceae', 'Xanthomonadaceae', 'Gallionellaceae', 'Gesneriaceae', 'Halieaceae', 'Osmotic stress cluster', 'Beta-lactamases Ambler class B']
+
+--- Cluster 251 : Length 16 ---
+['L-rhamnonate utilization cluster', 'Comamonadaceae', 'Rhodanobacteraceae', 'Aquaspirillaceae', 'Nitrobacteraceae', 'Cyclic Di-GMP Turnover Proteins', 'Chitinibacteraceae', 'Hyphomicrobiaceae', 'mRNA 3-end processing factor containing cluster', 'Molybdopterin cytosine dinucleotide', 'Tripartite multidrug efflux systems (of RND type) AcrAB-TolC and related transporters', 'Rhodocyclaceae', 'Siderophore Aerobactin', 'Anaeromyxobacteraceae', 'Proteorhodopsin', 'Paracoccaceae']
+
+--- Cluster 252 : Length 15 ---
+['Sphaerotilaceae', 'Chloramphenicol resistance', 'Burkholderiaceae', 'Halothiobacillaceae', 'Phenylacetyl-CoA catabolic pathway (core)', 'Ectothiorhodospiraceae', 'tRNA splicing', 'Lampyridae', 'Mu-like phage', 'Solirubrobacteraceae', 'Lambdoid phage', 'Moraxellaceae', 'Methylococcaceae', 'Morganellaceae', 'Halomonadaceae']
+
+--- Cluster 253 : Length 48 ---
+['Sphingomonadaceae', 'Gemmataceae', 'Calotrichaceae', 'Leptolyngbyaceae', 'Sporomusaceae', 'Pirellulaceae', 'Schitoviridae', 'Caulobacteraceae', 'Malasseziaceae', 'Pseudobdellovibrionaceae', 'Bacteriovoracaceae', 'Balneolaceae', 'Sphingobacteriaceae', 'Chitinophagaceae', 'Weeksellaceae', 'Crocinitomicaceae', 'Acidithiobacillaceae', 'Mixiaceae', 'Autographiviridae', 'Sutterellaceae', 'Thermoleophilaceae', 'Tectiviridae', 'Solibacteraceae', 'Natrialbaceae', 'Oxalobacteraceae', 'Sugar-phosphate stress regulation', 'Aspergillaceae', 'Herpotrichiellaceae', 'Spore germination', 'Siderophore Achromobactin', 'Chromulinaceae', 'Pleosporaceae', 'Oppiidae', 'Glossinidae', 'Hexose phosphate transport system', 'Endozoicomonadaceae', 'Nevskiaceae', 'Erysiphaceae', 'Shewanellaceae', 'Alteromonadaceae', 'Thyridiaceae', 'Idiomarinaceae', 'Psychromonadaceae', 'Aeromonadaceae', 'Competibacteraceae', 'AaeAB efflux system for hydroxylated, aromatic carboxylic acids', 'Gene Transfer Agent', 'Casjensviridae']
+
+--- Cluster 254 : Length 37 ---
+['Piedraiaceae', 'Hemiselmidaceae', 'Darwinulidae', 'Chlorophyll Biosynthesis in plants and prokaryotes', 'Cebidae', 'Plasmodiidae', 'Caldilineaceae', 'Methylophilaceae', 'Caligidae', 'Curculionidae', 'L-galactonate utilization', 'MukBEF Chromosome Condensation', 'Teratosphaeriaceae', 'Xylariaceae', 'Saccotheciaceae', 'Psychodidae', 'Peptide ABC transport system Sap', 'Rhizobiaceae', 'Phocidae', 'Hymenobacteraceae', 'Cercopithecidae', 'Microthrixaceae', 'Rhodothermaceae', 'Sulfolobaceae', 'Spirosomataceae', 'Halorubraceae', 'Haloferacaceae', 'Haloarculaceae', 'Desulfocapsaceae', 'CytR regulation', 'Brucellaceae', 'Geobacteraceae', 'Flexistipitaceae', 'Trimethylamine-N-oxide operon', 'Trimorphomycetaceae', 'Shikimate kinase SK3 cluster', 'Oscillatoriaceae']
+
+--- Cluster 255 : Length 5 ---
+['Cytherideidae', 'Halteriidae', 'Cobalamin synthesis, Precorin-2 to Cob(II)yrinate a,c diamide, aerobic', 'Type 4 secretion and conjugative transfer', 'Ktedonobacteraceae']
+
+--- Cluster 256 : Length 12 ---
+['Hominidae', '2,3-diacetamido-2,3-dideoxy-d-mannuronic acid', 'Rarobacteraceae', 'Nymphonidae', 'Siderophore Yersiniabactin Biosynthesis', 'Demequinaceae', 'Lysine fermentation to crotonoyl-CoA', 'Cyclobacteriaceae', 'Thermotogaceae', 'Fructoselysine and glucoselysine', 'Desulfobacteraceae', 'Anaerolineaceae']
+
+--- Cluster 257 : Length 29 ---
+['Saccharospirillaceae', 'Phr peptides - Rap phosphatases signaling', 'Predicted secretion system X', 'Leeiaceae', 'Plutellidae', 'Crambidae', 'Thiobacillaceae', 'Orchesellidae', 'Ixodidae', 'Geomitridae', 'Pectinidae', 'Spraguidae', 'Chattonellaceae', 'Hafniaceae', 'Reticulomyxidae', 'Waddliaceae', 'Calcidiscaceae', 'Oceanococcaceae', 'Cholesterol catabolism', 'Perlucidibacaceae', 'Camelidae', 'Phosphonoalanine utilization', 'Desulfofervidaceae', 'Wenzhouxiangellaceae', 'Iridoviridae', 'Phosphonate (phosphite) dehydrogenase', 'Cheirogaleidae', 'Sirenicapillariaceae', 'Sedimenticolaceae']
+
+--- Cluster 258 : Length 30 ---
+['Labilitrichaceae', 'Paceibacteraceae', 'Granulosicoccaceae', 'Alcaligenaceae', 'Rcs two-component regulator of capsule synthesis', 'Resistance to chromium compounds', 'Elioraeaceae', 'Fortieaceae', 'Azonexaceae', 'Tetrathionate respiration', 'Tricarballylate Utilization', 'Vir-like type 4 secretion system', 'Desulfonatronaceae', 'Piscirickettsiaceae', 'Sciaridae', 'Zavarziniaceae', 'Nicotinic acid utilization', 'Indoleacetamide metabolism', 'Conjugative transfer', 'Integrons', 'Nitrilase', 'Cordycipitaceae', 'Indole-pyruvate oxidoreductase complex', 'Agrobacterium opine transport', 'Aromatic amino acid interconversions with aryl acids', 'Oxygen-sensing diguanylate cyclase and phosphodiesterase couple for c-di-GMP control', 'A new toxin - antitoxin system', 'Microdochiaceae', 'Methylhydantoinase', 'Copper uptake system CopCD']
+
+--- Cluster 259 : Length 85 ---
+['Scytonemataceae', 'Pseudanabaenaceae', 'Kosmotogaceae', 'Spirulinaceae', 'Neosynechococcaceae', 'Herpetosiphonaceae', 'Ustilaginaceae', 'Castoridae', 'Trebouxiaceae', 'Parachlamydiaceae', 'Agaricaceae', 'Elsinoaceae', 'Cryosericaceae', 'Cloacimonadaceae', 'Cryomorphaceae', 'Peniophoraceae', 'Reichenbachiellaceae', 'Williamwhitmaniaceae', 'Roseiflexaceae', 'Thermaceae', 'Fistulinaceae', 'D-glucosaminate utilization', 'Novispirillaceae', 'Sphingosinicellaceae', 'Grifolaceae', 'Gloeophyllaceae', 'Procellariidae', 'Straboviridae', 'Budviciaceae', 'Microbotryaceae', 'Hahellaceae', 'Sporidiobolaceae', 'Coenzyme F420 synthesis', 'Gekkonidae', 'Roseobacteraceae', 'Mariprofundaceae', 'Iodidimonadaceae', 'Pleomorphomonadaceae', 'Parvibaculaceae', 'Lichenihabitantaceae', 'Chelatococcaceae', 'Beijerinckiaceae', 'Ahrensiaceae', 'Anelloviridae', 'Archangiaceae', 'Vespertilionidae', 'Togniniaceae', 'Criblamydiaceae', 'Pycnococcaceae', 'Halococcaceae', 'Actinidiaceae', 'Piptocephalidaceae', 'ZraPRS-based zinc resistance', 'Betulaceae', 'Braconidae', 'Mycobacterial multidrug efflux systems implicated in AMR ', 'Sapindaceae', 'Transcriptional regulator AfsR', 'TonB-ExbBD energy transducing system', 'Tricladiaceae', 'Spore germinant receptors', 'Phaeosphaeriaceae', 'Hyalellidae', 'Penaeidae', 'Ranunculaceae', 'Papaveraceae', 'Myrtaceae', 'Eremomycetaceae', 'Microthyriaceae', 'Proteaceae', 'Apiaceae', 'Thermoproteaceae', 'Hericiaceae', 'Hoyosellaceae', 'Korobacteraceae', 'Desulfurobacteriaceae', 'Prasinodermaceae', 'Fimbriimonadaceae', 'Halanaerobiaceae', 'Rubrobacteraceae', 'Gaiellaceae', 'Isoniazid inductible proteins cluster', 'Diaporthaceae', 'Iamiaceae', 'Conexibacteraceae']
+
+--- Cluster 260 : Length 55 ---
+['Kiloniellaceae', 'Anacardiaceae', 'RuBisCO operon', 'Acetobacteraceae', 'Fodinicurvataceae', 'Oleaceae', 'Acidobacteriaceae', 'Carotenogenesis related cluster', 'Capsulimonadaceae', 'Adaptation to d-cysteine', 'Pteridaceae', 'Arionidae', 'Magnetovibrionaceae', 'Photosystem II', 'Hemiscylliidae', 'Oceanibaculaceae', 'Cannabaceae', 'Pyruvate Alanine Serine Interconversions', 'Parvularculaceae', 'Kordiimonadaceae', 'Ethylmalonyl-CoA pathway of C2 assimilation', 'Ectoine, hydroxyectoine uptake and catabolism', 'Brassicaceae', 'Geodermatophilaceae', 'Chenopodiaceae', 'Isosphaeraceae', 'Emcibacteraceae', 'Halobacteriaceae', 'Geminicoccaceae', 'Paracaedibacteraceae', 'Cucurbitaceae', 'Trichinellidae', 'Ancalomicrobiaceae', 'D-allose utilzation', 'Zingiberaceae', 'Hopanoid biosynthesis', 'Kaistiaceae', 'Dermacoccaceae', 'Phyllobacteriaceae', 'Stellaceae', 'Cytochrome b6-f complex in plants (plastidial) and cyanobacteria', 'Rhodovibrionaceae', 'Stappiaceae', 'Dietziaceae', 'Nostocaceae', 'Boseaceae', 'Methylobacteriaceae', 'Numididae', 'Sneathiellaceae', 'Syntrophobacteraceae', 'Acetomicrobiaceae', 'Tephritidae', 'Pucciniaceae', 'Salmonidae', 'Mycosphaerellaceae']
+
+--- Cluster 261 : Length 14 ---
+['Heterocyst formation in cyanobacteria', 'Buprestidae', 'Macrolides, lincosamides, streptogramins, ketolides, oxazolidinones (MLSKO) resistance: enzymatic degradation', 'Exosporium', 'Maliibacteriaceae', 'Vespidae', 'Elachuridae', 'Amanitaceae', 'Bacillibactin Siderophore', 'Blattellidae', 'Rountreeviridae', 'Steroidobacteraceae', 'Ichthyobacteriaceae', 'Aphididae']
+
+--- Cluster 262 : Length 24 ---
+['Cavosteliaceae', 'Desulforegulaceae', 'Scophthalmidae', 'Skeletonemataceae', 'Lythraceae', 'Pentalenolactone Biosynthesis and Resistance', 'Eresidae', 'Longimicrobiaceae', 'Olpidiaceae', 'Harpellaceae', 'Macrolides, lincosamides, streptogramins, ketolides, oxazolidinones (MLSKO) resistance: rRNA methylases', 'Thermosulfidibacteraceae', 'Troglotrematidae', 'Aotidae', 'Pieridae', 'Chrysiogenaceae', 'Mcinerneyibacteriaceae', 'Petromyzontidae', 'Gelechiidae', 'Bombycidae', 'Desulfurisporaceae', 'Pelagicoccaceae', 'Schleiferiaceae', 'Phycomycetaceae']
+
+--- Cluster 263 : Length 29 ---
+['Aeolococcaceae', 'Thermococcaceae', 'Cenarchaeaceae', 'Limisphaeraceae', 'Bryopsidaceae', 'Propanediol utilization', 'Styelidae', 'Cionidae', 'Persicobacteraceae', 'Tepidibacteraceae', 'Thermoflexaceae', 'Aquicultoraceae', 'Flavobacteriaceae', 'Blattabacteriaceae', 'Clupeidae', 'Coprobacillaceae', 'Clostridiales Family XVI. Incertae Sedis', 'Acidilutibacteraceae', 'Adiutricaceae', 'Lutisporaceae', 'Desulfarculaceae', 'Pterulaceae', 'Phyllostomidae', 'Gottschalkiaceae', 'L-2-amino-adipate to lysine module', 'Thermosediminibacteraceae', 'Salsipaludibacteraceae', 'Zymomonadaceae', 'Amoebophryaceae']
+
+--- Cluster 264 : Length 26 ---
+['Ferroplasmaceae', 'Activation of fatty acids as acyl-adenylates cluster subgroup FadD10', 'Denticipitidae', 'Rubricoccaceae', 'Vannellidae', 'Termititenacaceae', 'Philasteridae', 'Icacinaceae', 'Natranaerobiaceae', 'Crenotrichaceae', 'Deianiraeaceae', 'Psalteriomonadidae', 'Outer membrane porins in Mycobacteria', 'Membrane bound hydrogenase Mbh -- gjo', 'Membrane bound hydrogenase Mbh', 'Sagittidae', 'Geoalkalibacteraceae', 'Pseudomassariaceae', 'Megophryidae', 'Amphipleuraceae', 'Balanidae', 'Pulicidae', 'ESAT-6 proteins secretion system in Mycobacteria (locus ESX-3)', 'Heligmosomidae', 'Caldicoprobacteraceae', 'Mycofactocin system cluster']
+
+--- Cluster 265 : Length 20 ---
+['Vicingaceae', 'Alloionematidae', 'Desulfitibacteraceae', 'Nanobdellaceae', 'Mallomonadaceae', 'Termitidae', 'Hexamitidae', 'Streblomastigidae', 'Sporulation gene orphans', 'Cuniculiplasmataceae', 'Monomastigaceae', 'Geovibrionaceae', 'Pollicipedidae', 'Anthocerotibacteraceae', 'Ardenticatenaceae', 'Potyviridae', 'Breznakiellaceae', 'Coat proteins CotJABC', 'Saccharomycetaceae', 'Pseudocohnilembidae']
+
+--- Cluster 266 : Length 38 ---
+['Carboxysome', 'Ochromonadaceae', 'Charadriidae', 'Tinamidae', 'Eimeriidae', 'Theileriidae', 'Dinophilidae', 'Cuculidae', 'Clavariaceae', 'Accessory colonization factor', 'Phocoenidae', 'Sphaerophragmiaceae', 'Varanidae', 'Fritschiellaceae', 'Peptoniphilaceae', 'Pachyviridae', 'Opisthocomidae', 'Stanwilliamsviridae', 'Treponemataceae', 'NADP-reducing [FeFe]-hydrogenase', 'Plumbaginaceae', 'Chaetodontidae', 'Nartheciaceae', 'Chalcididae', 'Potamogetonaceae', 'Halictidae', 'Syrphidae', 'Abditibacteriaceae', 'Toluene 4-monooxygenase (T4MO)', 'Nemacheilidae', 'Thermotaleaceae', 'Sporulation proteins SpoIIIAA-SpoIIIAH', 'Sporulation Cluster III A', 'Romeriaceae', 'Argynnaceae', 'Periconiaceae', 'Mucispirillaceae', 'Thermoflexibacteraceae']
+
+--- Cluster 267 : Length 13 ---
+['Diopsidae', 'Scenedesmaceae', 'Acutalibacteraceae', 'Autoinducer 2 (AI-2) transport and processing (lsrACDBFGE operon)', 'Harpacticidae', 'Wall polysaccharide pyruvylation', 'Trichomonadidae', 'Thoreaceae', 'Rickettsiaceae', 'Eschrichtiidae', 'Vecturitrichaceae', 'Desulfatiglandaceae', 'Ostreidae']
+
+--- Cluster 268 : Length 9 ---
+['Saccharomycodaceae', 'Brevinemataceae', 'Plasmodiophoridae', 'Oxyrrhinaceae', 'Ectoine synthesis', 'Forespore to mother cell channel', 'Eleutherodactylidae', 'Varroidae', 'Schizophyllaceae']
+
+--- Cluster 269 : Length 6 ---
+['Echinostomatidae', 'Mesoaciditogaceae', 'Hakubellaceae', 'Methanoperedenaceae', 'Strombidiidae', 'Sulfurovaceae']
+
+--- Cluster 270 : Length 12 ---
+['Brachyspiraceae', 'Lentisphaeraceae', 'Anoxymicrobiaceae', 'Dictyoglomaceae', 'Proteinivoraceae', 'Synergistaceae', 'Spirochaetaceae', 'Culicoidibacteraceae', 'Tindalliaceae', 'Koleobacteraceae', 'Veillonellaceae', 'Vahlkampfiidae']
+
+--- Cluster 271 : Length 15 ---
+['Geopsychrobacteraceae', 'Desulfatibacillaceae', 'Eubacteriales Family XIII. Incertae Sedis', 'Methanomicrobiaceae', 'Atopobiaceae', 'Coriobacteriaceae', 'Toxocaridae', 'Glutamate fermentation', 'Egicoccaceae', 'Anaerovoracaceae', 'Butyricicoccaceae', 'Electron-bifurcating caffeyl-CoA reductase-Etf complex', 'Caulochytriaceae', 'Magnetaquicoccaceae', 'Coelosphaeriaceae']
+
+--- Cluster 272 : Length 15 ---
+['Bianqueaceae', 'Hujiaoplasmataceae', 'Thermoanaerobacterales Family IV. Incertae Sedis', 'Thermohalobacteraceae', 'Sedimentisphaeraceae', 'Leporidae', 'NiFe hydrogenase maturation', 'Lachnospiraceae', 'Coraliomargaritaceae', 'Desulfurellaceae', 'Coprothermobacteraceae', 'Cantharellaceae', 'Tissierellaceae', 'Entophysalidaceae', 'Peptoclostridiaceae']
+
+--- Cluster 273 : Length 13 ---
+['Tannerellaceae', 'Muscidae', 'Peptostreptococcaceae', 'Erysipelotrichaceae', 'Muscicapidae', 'Butyrate kinase pathway', 'Methanocorpusculaceae', 'Christensenellaceae', 'Lentimicrobiaceae', 'Cerasicoccaceae', 'Compsopogonaceae', 'Methanomethylicaceae', 'Monodopsidaceae']
+
+--- Cluster 274 : Length 6 ---
+['Methanomethylophilaceae', 'Dethiosulfovibrionaceae', 'Deferribacteraceae', 'Thermonemataceae', 'Suessiaceae', 'Microviridae']
+
+--- Cluster 275 : Length 17 ---
+['Brachionidae', 'Triparmaceae', 'Parameciidae', 'Methanocalculaceae', 'Hydridae', 'Onagraceae', 'Spizellomycetaceae', 'Chrysopidae', 'Colubridae', 'Dotillidae', 'Saparoviridae', 'Betaflexiviridae', 'Phakopsoraceae', 'Ascidiidae', 'Menispermaceae', 'Methanogenesis', 'Soricidae']
+
+--- Cluster 276 : Length 3 ---
+['Methanospirillaceae', 'Gobiesocidae', 'Sphaerochaetaceae']
+
+--- Cluster 277 : Length 4 ---
+['Canidae', 'Thiazole.oxazole-modified microcins', 'Gelidiaceae', 'Mitoviridae']
+
+--- Cluster 278 : Length 1 ---
+['NhaA, NhaD and Sodium-dependent phosphate transporters']
+
+--- Cluster 279 : Length 2 ---
+['dTDP-rhamnose synthesis -- gjo', 'dTDP-rhamnose synthesis']
+
+--- Cluster 280 : Length 1 ---
+['Transcription factors, cyanobacterial RpoD-like sigma factors']
+
+--- Cluster 281 : Length 1 ---
+['Translation elongation factors, bacterial']
+
+--- Cluster 282 : Length 6 ---
+['Pocilloporidae', 'Chlorobiaceae', 'Akkermansiaceae', 'Hepatoplasmataceae', 'Chloroherpetonaceae', 'Flammeovirgaceae']
+
+--- Cluster 283 : Length 4 ---
+['Balneicellaceae', 'Odoribacteraceae', 'Possible DNA repair related cluster', 'Marinilabiliaceae']
+
+--- Cluster 284 : Length 5 ---
+['Sanguibacteraceae', 'Actinomycetaceae', 'Galactosamine Substituent of Arabinogalactan in Mycobacteria', 'Platysternidae', 'Nanopelagicaceae']
+
+--- Cluster 285 : Length 2 ---
+['Iron(III) dicitrate transport system Fec', 'Cell wall-associated cluster in Mycobacterium']
+
+--- Cluster 286 : Length 8 ---
+['Acanthasteridae', 'Tilletiariaceae', 'Ophiostomataceae', 'Iron transport system including ABC transporter', 'Acidothermaceae', 'Pyramimonadaceae', 'ESAT-6 proteins secretion system in Mycobacteria (locus ESX-4)', 'Ceratobasidiaceae']
+
+--- Cluster 287 : Length 2 ---
+['L-fucose dissimilation cluster', 'L-fucose utilization']
+
+--- Cluster 288 : Length 2 ---
+['Anaerobic glycerol-3-phosphate dehydrogenase subunits', 'Eggerthellaceae']
+
+--- Cluster 289 : Length 13 ---
+['Beutenbergiaceae', 'Ruaniaceae', 'Inositol catabolism', 'Merismopediaceae', 'Streptosporangiaceae', 'Jonesiaceae', 'Sigma54-dependent transcription related gene cluster 2', 'Dermabacteraceae', 'Tsukamurellaceae', 'Lipid-linked oligosaccharide synthesis related cluster', 'Blastocystidae', 'Carbonactinosporaceae', 'Kineosporiaceae']
+
+--- Cluster 290 : Length 2 ---
+['Cobalamin synthesis from Cob(II)yrinate a,c diamide', 'Phosphatidylinositol mannosides biosynthesis related cluster']
+
+--- Cluster 291 : Length 5 ---
+['Caedimonadaceae', 'Hirudinidae', 'Marinifilaceae', 'Flexibacteraceae', 'Porphyromonadaceae']
+
+--- Cluster 292 : Length 14 ---
+['Cyclophoraceae', 'Chrysochromulinaceae', 'Prymnesiaceae', 'Chloropicaceae', 'Dubosqiidae', 'Catalimonadaceae', 'Opisthorchiidae', 'Acrospermaceae', 'Dendrobatidae', 'Fulvivirgaceae', 'Porphyridiaceae', 'Antibiotic anticapsin - bacilysin', 'Immundisolibacteraceae', 'Naemateliaceae']
+
+--- Cluster 293 : Length 16 ---
+['Stylonemataceae', 'Parilichlamydiaceae', 'Cymodoceaceae', 'Caldarchaeaceae', 'Bacteriocins in Lactobacilli', 'Conopidae', 'Pteromalidae', 'Microscillaceae', 'Mycobacterial lipid and multidrug efflux system proteins MmpL, MmpS', 'Stentoridae', 'Paramoebidae', 'Drosophilidae', 'Steccherinaceae', 'Vombatidae', 'Lactobacillaceae', 'Ackermannviridae']
+
+--- Cluster 294 : Length 3 ---
+['Glycerol ABC transporter', 'Ergothioneine biosynthesis', 'Apidae']
+
+--- Cluster 295 : Length 24 ---
+['Pseudourostylidae', 'Sysuiplasmataceae', 'Miltoncostaeaceae', 'Chrysoviridae', 'Desulfallaceae', 'Dihydroxyacetone kinases', 'Caricaceae', 'Euzebyaceae', 'Nannocystaceae', 'Retroviridae', 'Peptococcaceae', 'Didymosphaeriaceae', 'Limnochordaceae', 'Tropherymataceae', 'Poeciliidae', 'Catenulisporaceae', 'Vitaceae', 'Mesocestoididae', 'Thiohalobacteraceae', 'Cryptosporangiaceae', 'Antricoccaceae', 'Oikopleuridae', 'Rhizopogonaceae', 'Prasiolaceae']
+
+--- Cluster 296 : Length 3 ---
+['Aggregatilineaceae', 'Sporichthyaceae', 'Polyangiaceae']
+
+--- Cluster 297 : Length 12 ---
+['Cimicidae', 'Ornithinimicrobiaceae', 'Kytococcaceae', 'Thermogemmatisporaceae', 'Nitriliruptoraceae', 'Microcystaceae', 'Hydnangiaceae', 'Carnitine operon', 'Kribbellaceae', 'Tetracycline resistance, ribosomal protection type', 'Alydidae', 'Picocystaceae']
+
+--- Cluster 298 : Length 8 ---
+['Pyrodictiaceae', 'Jatrophihabitantaceae', 'Strophariaceae', 'Agrocinopine utilization', 'Parodontellaceae', 'Inner membrane proteins of MarC family, not involved in antibiotic resistance', 'Fastidiosibacteraceae', 'Desulfobulbaceae']
+
+--- Cluster 299 : Length 22 ---
+['Defluviitaleaceae', 'Cobalamin synthesis', 'Cobalamin synthesis, Precorin-2 to Cob(II)yrinate a,c diamide, anaerobic', 'Tepidanaerobacteraceae', 'Vallitaleaceae', 'Methanogenesis from methylated compounds', 'Teichuronic acid biosynthesis', 'Ramalinaceae', 'Nicotinate catabolism, anaerobic', 'Caldicellulosiruptoraceae', 'Chitinivibrionaceae', 'Fusobacteriaceae', 'NAD-reducing [NiFe] hydrogenase HoxFUYH(E)', 'Leptotrichiaceae', 'Thermodesulforhabdaceae', 'Lysianassidae', 'Oligosphaeraceae', 'Thermoanaerobacterales Family III. Incertae Sedis', 'Selaginellaceae', 'Xeniidae', 'Pseudodiaptomidae', 'Methanosarcinaceae']
+
+--- Cluster 300 : Length 18 ---
+['Liparidae', 'Verrucomicrobiaceae', 'Balamuthiidae', 'Conexivisphaeraceae', 'Dactyloidae', 'Isotomidae', 'Gordoniaceae', 'Dissulfuribacteraceae', 'Halarsenatibacteraceae', 'Tetrabaenaceae', 'Stachybotryaceae', 'Tritrichomonadidae', 'Arcellidae', 'Propionibacteriaceae', 'Bugulidae', 'Thalassiosiraceae', 'Bovichtidae', 'Pythiaceae']
+

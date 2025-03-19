@@ -33,7 +33,7 @@ def get_appropriate_n_estimators(X, y):
     # Get the optimal number of trees
     return model.n_estimators_
 
-def gb_classifier_model(X, y, n_estimators=100):
+def gb_classifier_model(X, y, n_estimators=100, n_iter_no_change=10):
     """
     Build a classifier and return the model. 
     This is abstracted so we can access it directly
@@ -43,8 +43,9 @@ def gb_classifier_model(X, y, n_estimators=100):
 
     model = GradientBoostingClassifier(
         max_features="sqrt",
-        validation_fraction = 0.2,
-        n_iter_no_change = 10,
+        validation_fraction=0.2,
+        n_iter_no_change=n_iter_no_change,
+        random_state=42,  # fixes randomness
         n_estimators=n_estimators,
         learning_rate=0.005,
         min_samples_leaf=5,
@@ -88,7 +89,7 @@ def gb_classifier(X, y, n_estimators=100):
     return mse, feature_importances_sorted
 
 
-def gb_regressor_model(X, y, n_estimators=100):
+def gb_regressor_model(X, y, n_estimators=100, n_iter_no_change=10):
     """
     Abstract out the regression so we can access the model
     """
@@ -99,7 +100,8 @@ def gb_regressor_model(X, y, n_estimators=100):
         max_features="sqrt",
         n_estimators=n_estimators,
         validation_fraction=0.2,
-        n_iter_no_change=10,
+        random_state=42,  # fixes randomness
+        n_iter_no_change=n_iter_no_change,
     )
     model.fit(X_train, y_train)
 
