@@ -11,5 +11,6 @@ pandas
 python-docx
 scipy
 scikit-learn
+scikit-bio
 seaborn
 statsmodels
