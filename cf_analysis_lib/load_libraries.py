@@ -2,14 +2,12 @@
 A library of functions for analyzing the output of the CF analysis pipeline.
 """
 
-
 import re
 import numpy as np
 import pandas as pd
 import seaborn as sns
 import json
 import random
-
 
 from matplotlib import animation
 from matplotlib.cm import ScalarMappable
@@ -31,7 +29,6 @@ from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler, MinMaxScaler, LabelEncoder, OrdinalEncoder
 from sklearn.inspection import permutation_importance
 from sklearn.impute import SimpleImputer
-
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor, RandomForestClassifier, GradientBoostingClassifier, GradientBoostingRegressor
 from sklearn.multioutput import MultiOutputClassifier, MultiOutputRegressor, ClassifierChain
@@ -50,7 +47,6 @@ from statsmodels.stats.multitest import multipletests
 from skbio.stats.distance import permanova, DistanceMatrix
 from skbio.stats.ordination import pcoa
 
-
 # there is a FutureWarning in sklearn StandardScalar which is really annoying. This ignores it.
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
@@ -65,8 +61,6 @@ except ImportError:
   IN_COLAB = False
   datadir = '..'
 
-
-
 from adjustText import adjust_text
 
 # ignore adjustText warnings in this block
@@ -74,4 +68,3 @@ warnings.filterwarnings("ignore", category=UserWarning, module='adjustText')
 
 replace_index = re.compile(r'^\d+\s+')
 replace_nonword = re.compile(r'\W+')
-
