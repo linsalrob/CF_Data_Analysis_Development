@@ -176,6 +176,8 @@ def create_custom_labels(metadata, intcol, merged_df, custom_labels=None):
     categorical_data = False
     if custom_labels is None:
         custom_labels = {0: 'No', 1: 'Yes'}
+    if intcol not in metadata.columns:
+        return False, custom_labels
     if pd.api.types.is_numeric_dtype(metadata[intcol]):
         # this is an numeric column, so we can just continue
         categorical_data = False
@@ -196,6 +198,8 @@ def create_custom_labels(metadata, intcol, merged_df, custom_labels=None):
         print(f"Skipping {intcol} as it is not numeric or categorical")
         return None, None
 
+    if len(metadata[intcol].unique()) != len(custom_labels.keys()):
+        custom_labels = {x:x for x in metadata[intcol].unique()}
     return categorical_data, custom_labels
 
 
