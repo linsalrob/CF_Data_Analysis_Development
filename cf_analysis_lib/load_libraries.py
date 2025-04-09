@@ -15,7 +15,7 @@ from matplotlib.collections import PatchCollection
 from matplotlib.colors import ListedColormap
 from matplotlib.gridspec import GridSpec
 from mpl_toolkits.mplot3d import Axes3D
-import matplotlib.colors as mcolors
+import matplotlib.colors as mcolors, to_hex
 import matplotlib.dates as mdates
 import matplotlib.pyplot as plt
 
