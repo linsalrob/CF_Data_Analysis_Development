@@ -12,10 +12,10 @@ import random
 from matplotlib import animation
 from matplotlib.cm import ScalarMappable
 from matplotlib.collections import PatchCollection
-from matplotlib.colors import ListedColormap
+from matplotlib.colors import ListedColormap, to_hex
 from matplotlib.gridspec import GridSpec
 from mpl_toolkits.mplot3d import Axes3D
-import matplotlib.colors as mcolors, to_hex
+import matplotlib.colors as mcolors
 import matplotlib.dates as mdates
 import matplotlib.pyplot as plt
 
