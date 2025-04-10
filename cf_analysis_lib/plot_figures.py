@@ -203,7 +203,7 @@ def create_custom_labels(metadata, intcol, merged_df, custom_labels=None):
     return categorical_data, custom_labels
 
 
-def plot_roc_curves(model, X, y, importances, met='classifier', intcol_title=""):
+def old_plot_roc_curves(model, X, y, importances, met='classifier', intcol_title=""):
     """
     Plot the ROC curves for the model
     :param model: The machine learning model, hopefully a classifier
@@ -246,3 +246,52 @@ def plot_roc_curves(model, X, y, importances, met='classifier', intcol_title="")
     plt.title(f'Predicting {intcol_title}')
     plt.legend(loc="lower right")
     return plt
+
+def plot_roc_curves(model, X, y, importances, met='classifier', intcol_title="", ax=None, cmap='mako'):
+    """
+    Plot the ROC curves for the model
+    :param model: The machine learning model, hopefully a classifier
+    :param X: The merged dataframe, X = merged_df.drop(intcol, axis=1)
+    :param y: The truth, y = merged_df[intcol]
+    :param importances: The feature importances, feature_importances_sorted
+    :param met: classifier or regressor
+    :param intcol_title: the display title of the interesting column
+    :return: A matplotlib plot
+    """
+
+    if not ax:
+       fig, ax = plt.subplots(figsize=(10, 8))
+
+    y_proba = model.predict_proba(X)[:, 1]
+
+    fpr, tpr, thresholds = roc_curve(y, y_proba)
+    roc_auc = auc(fpr, tpr)
+
+    ax.plot(fpr, tpr, lw=2, label=f'Overall {met} (all data)\n(area = {roc_auc:.2f})')
+    colors = sns.color_palette("mako", n_colors=5)
+
+    n = 5
+    for i, clust in enumerate(importances[:n].index):
+        y_scores = X[clust]
+        color = colors[i]
+
+        # Compute ROC curve and AUC
+        fpr, tpr, thresholds = roc_curve(y, y_scores)
+        roc_auc = auc(fpr, tpr)
+        if roc_auc < 0.5:
+            y_scores = -y_scores
+            fpr, tpr, thresholds = roc_curve(y, y_scores)
+            roc_auc = auc(fpr, tpr)
+
+        # ax.plot(fpr, tpr, lw=1, label=f'{clust} (area = {roc_auc:.2f})', color=color)
+        ax.plot(fpr, tpr, lw=1, label=f'{clust} (area = {roc_auc:.2f})', linestyle='-.', color=color)
+
+    ax.plot([0, 1], [0, 1], color='grey', lw=0.5, linestyle='--', alpha=0.5)
+    ax.set_xlabel('False Positive Rate')
+    ax.set_xlim(0, 1)
+    ax.set_ylim(0, 1)
+    ax.set_ylabel('True Positive Rate')
+    ax.set_title(f'Predicting {intcol_title}')
+    ax.legend(loc="lower right")
+    return ax
+
