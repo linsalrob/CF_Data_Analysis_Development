@@ -17,6 +17,7 @@ from matplotlib.gridspec import GridSpec
 from mpl_toolkits.mplot3d import Axes3D
 import matplotlib.colors as mcolors
 import matplotlib.dates as mdates
+import matplotlib.patches as mpatches
 import matplotlib.pyplot as plt
 
 from itertools import cycle
