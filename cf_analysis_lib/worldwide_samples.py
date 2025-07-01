@@ -137,7 +137,7 @@ def read_worldwide_data(sample, sslevel='subsystems', ss_normalisation='norm_ss'
     ss_df = ss_df.T
     if verbose:
         print(f"Read {ss_df.shape[0]} samples and {ss_df.shape[1]} subsystems", file=sys.stderr)
-    otu = read_worldwide_taxonomy(sample, all_taxa, raw_taxa, verbose)
+    otu = read_worldwide_taxonomy(sample, taxonomy, all_taxa, raw_taxa, verbose)
     otu = otu.T
     if verbose:
         print(f"Read {otu.shape[0]} samples and {otu.shape[1]} {taxonomy}", file=sys.stderr)
