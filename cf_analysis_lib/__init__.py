@@ -10,7 +10,7 @@ from .random_forests import random_forest_classifier, random_forest_regression, 
 from .plot_figures import plot_pca, plot_feature_importance, plot_feature_abundance, plot_top_features
 from .plot_figures import plot_abundance_stripplot, create_custom_labels, plot_one_top_feature, plot_roc_curves
 from .export_to_docx import pd2docx
-from .worldwide_samples import worldwide_samples, read_worldwide_taxonomy, read_worldwide_subsystems, read_worldwide_metadata
+from .worldwide_samples import worldwide_samples, read_worldwide_taxonomy, read_worldwide_subsystems, read_worldwide_metadata, read_worldwide_data
 
 __all__ = ['read_taxonomy', 'read_metadata', 'corrections', 'read_subsystems',
            'sorted_presence_absence', 'compatible_columns', 'categories_to_numeric', 'remove_highly_correlated_data',
@@ -21,5 +21,5 @@ __all__ = ['read_taxonomy', 'read_metadata', 'corrections', 'read_subsystems',
            'plot_pca', 'plot_feature_importance', 'plot_feature_abundance', 'plot_top_features', 'plot_abundance_stripplot',
            'plot_one_top_feature', 'plot_roc_curves',
            'pd2docx', 'create_custom_labels',
-           'worldwide_samples', 'read_worldwide_taxonomy', 'read_worldwide_subsystems', 'read_worldwide_metadata'
+           'worldwide_samples', 'read_worldwide_taxonomy', 'read_worldwide_subsystems', 'read_worldwide_metadata', 'read_worldwide_data'
         ]
