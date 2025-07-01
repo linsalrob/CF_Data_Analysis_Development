@@ -46,12 +46,12 @@ def read_worldwide_metadata(sample):
     return df
 
 
-def read_worldwide_taxonomy(sample, taxonomy='family', all_taxa=False, raw=False, verbose=False):
+def read_worldwide_taxonomy(sample, taxonomy='family', all_taxa=True, raw=False, verbose=False):
     """
     Read the taxonomy file for a sample and return a data frame.
     :param sample: sample name
     :param taxonomy: level of taxonomy to read (default is 'family')
-    :param all_taxa: read all taxa, not just bacteria
+    :param all_taxa: by default we read all the taxa, but if this is False we only read the bacteria
     :param raw: read the raw data. By default we read the normalised data
     :param verbose: more output
     :return: data frame with the taxonomy
@@ -74,9 +74,14 @@ def read_worldwide_taxonomy(sample, taxonomy='family', all_taxa=False, raw=False
 
     if not all_taxa:
         df = df[df['taxonomy'].str.contains('k__Bacteria')]
+    # here we filter for those taxa that contain the taxonomy level we are interested in
+    df = df[df['taxonomy'].str.contains(f'{taxonomy[0]}__')]
+    # but not those that end with the taxonomy level
     df = df[~df['taxonomy'].str.endswith(f'{taxonomy[0]}__')]
+    df['taxonomy'] = df['taxonomy'].str.replace('Candidatus ', '')
+    df['taxonomy'] = df['taxonomy'].str.replace(f'{taxonomy[0]}__', '')
+
     df = df.set_index('taxonomy')
-    df.index = df.index.str.replace(f'{taxonomy[0]}__', '').str.replace('Candidatus ', '')
     df.index = df.index.str.split(';').str[-1]
 
     df = df.sort_index(axis=1)
