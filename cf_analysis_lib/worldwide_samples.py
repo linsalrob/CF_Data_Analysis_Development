@@ -2,10 +2,10 @@
 A library to read and provide data for the worldwide samples that we have processed.
 
 """
-
+import gzip
+import json
 import os
 import sys
-import argparse
 
 __author__ = 'Rob Edwards'
 
@@ -23,6 +23,28 @@ def worldwide_samples():
 
     samples = [f for f in os.listdir(WORLDWIDE_ATAVIDE) if os.path.isdir(os.path.join(WORLDWIDE_ATAVIDE, f))]
     return samples
+
+def read_worldwide_metadata(sample):
+    """
+    Read the metadata file for a sample and return a data frame.
+    :param sample: the sample name
+    :return: the metadata data frame
+    """
+
+    # read the json file at WORLDWIDE_ATAVIDE/{sample}/{sample}.metadata.json.gz
+    # and convert it to a data frame
+    metadata_file = os.path.join(WORLDWIDE_ATAVIDE, sample, f"{sample}.metadata.json.gz")
+
+    if not os.path.exists(metadata_file):
+        print(f"Error: {metadata_file} does not exist", file=sys.stderr)
+        sys.exit(1)
+
+    with gzip.open(metadata_file, 'rt') as f:
+        metadata = json.load(f)
+    df = pd.DataFrame(metadata)
+    df = df.set_index('run')
+    return df
+
 
 def read_worldwide_taxonomy(sample, taxonomy='family', all_taxa=False, raw=False, verbose=False):
     """
