@@ -111,3 +111,40 @@ def read_worldwide_subsystems(sample, level="subsystems", normalisation='norm_ss
     df = pd.read_csv(subsystems_file, sep='\t', compression='gzip', index_col=0)
 
     return df
+
+
+def read_worldwide_data(sample, sslevel='subsystems', ss_normalisation='norm_ss',
+                        taxonomy='family', all_taxa=True, raw_taxa=False, verbose=False):
+    """
+    Reads worldwide benchmark data by combining functional subsystems data, taxonomic abundance data,
+    and available metadata. The function integrates these datasets into a unified format
+    appropriate for downstream data analysis tasks.
+
+    :param sample: Identifier for selecting a specific sample from the dataset
+    :param sslevel: Granularity level of the subsystems data. Default is 'subsystems'
+    :param ss_normalisation: Normalisation approach applied to the subsystems data. Default is 'norm_ss'
+    :param taxonomy: Taxonomic level of interest for the study (e.g., 'family', 'genus'). Default is 'family'
+    :param all_taxa: Boolean flag indicating whether to include all taxonomic classifications. Default is True
+    :param raw_taxa: Boolean flag indicating whether to return raw taxonomy data without transformations. Default is False
+    :param verbose: Boolean flag controlling the verbosity of printed debug outputs. Default is False
+
+    :return: A tuple containing:
+        - A DataFrame combining subsystems data and taxonomic abundance data
+        - A DataFrame of associated metadata
+    """
+
+    ss_df = read_worldwide_subsystems(sample, sslevel, ss_normalisation, verbose)
+    ss_df = ss_df.T
+    if verbose:
+        print(f"Read {ss_df.shape[0]} samples and {ss_df.shape[1]} subsystems", file=sys.stderr)
+    otu = read_worldwide_taxonomy(sample, all_taxa, raw_taxa, verbose)
+    otu = otu.T
+    if verbose:
+        print(f"Read {otu.shape[0]} samples and {otu.shape[1]} {taxonomy}", file=sys.stderr)
+    df = ss_df.merge(otu, left_index=True, right_index=True, how='inner')
+
+    metadata = read_worldwide_metadata(sample)
+    if verbose:
+        print(f"Read {metadata.shape[0]} samples and {metadata.shape[1]} metadata columns", file=sys.stderr)
+
+    return df, metadata
