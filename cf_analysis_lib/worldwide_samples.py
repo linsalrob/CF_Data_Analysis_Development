@@ -95,12 +95,13 @@ def read_worldwide_taxonomy(sample, taxonomy='family', all_taxa=True, raw=False,
     df = df.sort_index(axis=1)
     return df
 
-def read_worldwide_subsystems(sample, level="subsystems", normalisation='norm_ss', verbose=False):
+def read_worldwide_subsystems(sample, level="subsystems", normalisation='norm_ss', drop_suspected_amplicon=False, verbose=False):
     """
     Read the subsystems file for a sample and return a data frame.
     :param sample: sample name
     :param level: level of subsystems to read (default is 'subsystems')
     :param normalisation: One of ['norm_ss', 'norm_all', 'raw']. norm_ss (default) is normalised on the number of reads that are in subsystems, norm_all is normalised on the total number of reads, and raw is the raw data.
+    :param drop_suspected_amplicon: if True, drop the rows where the subsystems sum is 0 (these are suspected amplicon samples)
     :param verbose: more output
     :return: data frame with the subsystems
     """
@@ -118,11 +119,19 @@ def read_worldwide_subsystems(sample, level="subsystems", normalisation='norm_ss
 
     df = pd.read_csv(subsystems_file, sep='\t', compression='gzip', index_col=0)
 
+    # we drop suspected amplicon if the drop_suspected_amplicon=True flag is set. These are samples
+    # where the row sum is 0 for the subsystems data
+    if drop_suspected_amplicon:
+        df = df.loc[df.sum(axis=1) > 0]
+        if df.empty:
+            print(f"Warning: No samples left after dropping suspected amplicon data for {sample}", file=sys.stderr)
+
     return df
 
 
 def read_worldwide_data(sample, sslevel='subsystems', ss_normalisation='norm_ss',
-                        taxonomy='family', all_taxa=True, raw_taxa=False, drop_amplicon=True, verbose=False):
+                        taxonomy='family', all_taxa=True, raw_taxa=False, drop_amplicon=True,
+                        drop_suspected_amplicon=True, verbose=False):
     """
     Reads worldwide benchmark data by combining functional subsystems data, taxonomic abundance data,
     and available metadata. The function integrates these datasets into a unified format
@@ -135,6 +144,7 @@ def read_worldwide_data(sample, sslevel='subsystems', ss_normalisation='norm_ss'
     :param all_taxa: Boolean flag indicating whether to include all taxonomic classifications. Default is True
     :param raw_taxa: Boolean flag indicating whether to return raw taxonomy data without transformations. Default is False
     :param drop_amplicon: Boolean flag indicating whether to drop samples with amplicon sequencing. Default is True
+    :param drop_suspected_amplicon: if True, drop the rows where the subsystems sum is 0 (these are suspected amplicon samples)
     :param verbose: Boolean flag controlling the verbosity of printed debug outputs. Default is False
 
     :return: A tuple containing:
@@ -142,7 +152,7 @@ def read_worldwide_data(sample, sslevel='subsystems', ss_normalisation='norm_ss'
         - A DataFrame of associated metadata
     """
 
-    ss_df = read_worldwide_subsystems(sample, sslevel, ss_normalisation, verbose)
+    ss_df = read_worldwide_subsystems(sample, sslevel, ss_normalisation, drop_suspected_amplicon, verbose)
     ss_df = ss_df.T
     if verbose:
         print(f"Read {ss_df.shape[0]} samples and {ss_df.shape[1]} subsystems", file=sys.stderr)
