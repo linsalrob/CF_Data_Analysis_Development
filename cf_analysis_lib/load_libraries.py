@@ -26,24 +26,26 @@ from collections import Counter
 import networkx as nx
 import community
 
-from sklearn.decomposition import PCA
-from sklearn.preprocessing import StandardScaler, MinMaxScaler, LabelEncoder, OrdinalEncoder, RobustScaler
-from sklearn.inspection import permutation_importance
-from sklearn.impute import SimpleImputer
-from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestRegressor, RandomForestClassifier, GradientBoostingClassifier, GradientBoostingRegressor
-from sklearn.multioutput import MultiOutputClassifier, MultiOutputRegressor, ClassifierChain
-from sklearn.metrics import mean_squared_error, roc_curve, auc, pairwise_distances
 
-from scipy.stats import linregress, ttest_ind
+from sklearn.decomposition import PCA
+from sklearn.ensemble import RandomForestRegressor, RandomForestClassifier, GradientBoostingClassifier, GradientBoostingRegressor
+from sklearn.impute import SimpleImputer
+from sklearn.inspection import permutation_importance
+from sklearn.manifold import TSNE
+from sklearn.metrics import mean_squared_error, roc_curve, auc, pairwise_distances
+from sklearn.model_selection import train_test_split
+from sklearn.multioutput import MultiOutputClassifier, MultiOutputRegressor, ClassifierChain
+from sklearn.preprocessing import StandardScaler, MinMaxScaler, LabelEncoder, OrdinalEncoder, RobustScaler
+
 from scipy.cluster.hierarchy import linkage, fcluster
 from scipy.interpolate import griddata, Rbf, RBFInterpolator
+from scipy.stats import linregress, ttest_ind
 
 import statsmodels.api as sm
 import statsmodels.formula.api as smf
-from statsmodels.stats.outliers_influence import variance_inflation_factor
 from statsmodels.multivariate.manova import MANOVA
 from statsmodels.stats.multitest import multipletests
+from statsmodels.stats.outliers_influence import variance_inflation_factor
 
 from skbio.stats.distance import permanova, DistanceMatrix
 from skbio.stats.ordination import pcoa
