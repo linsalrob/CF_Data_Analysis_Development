@@ -27,7 +27,7 @@ import networkx as nx
 import community
 
 from sklearn.decomposition import PCA
-from sklearn.preprocessing import StandardScaler, MinMaxScaler, LabelEncoder, OrdinalEncoder
+from sklearn.preprocessing import StandardScaler, MinMaxScaler, LabelEncoder, OrdinalEncoder, RobustScaler
 from sklearn.inspection import permutation_importance
 from sklearn.impute import SimpleImputer
 from sklearn.model_selection import train_test_split
