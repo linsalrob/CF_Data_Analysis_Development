@@ -120,11 +120,14 @@ def read_worldwide_subsystems(sample, level="subsystems", normalisation='norm_ss
     df = pd.read_csv(subsystems_file, sep='\t', compression='gzip', index_col=0)
 
     # we drop suspected amplicon if the drop_suspected_amplicon=True flag is set. These are samples
-    # where the row sum is 0 for the subsystems data
+    # where the column sum is 0 for the subsystems data
+    before_dropping = df.shape
     if drop_suspected_amplicon:
-        df = df.loc[df.sum(axis=1) > 0]
+        df = df.loc[:, df.sum(axis=0) != 0]
         if df.empty:
             print(f"Warning: No samples left after dropping suspected amplicon data for {sample}", file=sys.stderr)
+        if verbose:
+            print(f"Before dropping suspects, shape is {before_dropping} and after is {df.shape}", file=sys.stderr)
 
     return df
 
