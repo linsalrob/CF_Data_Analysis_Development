@@ -24,10 +24,11 @@ def worldwide_samples():
     samples = [f for f in os.listdir(WORLDWIDE_ATAVIDE) if os.path.isdir(os.path.join(WORLDWIDE_ATAVIDE, f))]
     return samples
 
-def read_worldwide_metadata(sample):
+def read_worldwide_metadata(sample, drop_amplicon=False):
     """
     Read the metadata file for a sample and return a data frame.
     :param sample: the sample name
+    :param drop_amplicon: if True, drop the rows where library_strategy is AMPLICON
     :return: the metadata data frame
     """
 
@@ -43,6 +44,13 @@ def read_worldwide_metadata(sample):
         metadata = json.load(f)
     df = pd.DataFrame(metadata)
     df = df.set_index('run')
+    if (df['library_strategy'].str.contains('AMPLICON')).any():
+        if drop_amplicon:
+            df = df[~df['library_strategy'].str.contains('AMPLICON')]
+            if df.empty:
+                print(f"Warning: No samples left after dropping amplicon data for {sample}", file=sys.stderr)
+        else:
+            print(f"Warning: Some samples in {sample} have library_strategy: AMPLICON, consider dropping them", file=sys.stderr)
     return df
 
 
@@ -114,7 +122,7 @@ def read_worldwide_subsystems(sample, level="subsystems", normalisation='norm_ss
 
 
 def read_worldwide_data(sample, sslevel='subsystems', ss_normalisation='norm_ss',
-                        taxonomy='family', all_taxa=True, raw_taxa=False, verbose=False):
+                        taxonomy='family', all_taxa=True, raw_taxa=False, drop_amplicon=True, verbose=False):
     """
     Reads worldwide benchmark data by combining functional subsystems data, taxonomic abundance data,
     and available metadata. The function integrates these datasets into a unified format
@@ -126,6 +134,7 @@ def read_worldwide_data(sample, sslevel='subsystems', ss_normalisation='norm_ss'
     :param taxonomy: Taxonomic level of interest for the study (e.g., 'family', 'genus'). Default is 'family'
     :param all_taxa: Boolean flag indicating whether to include all taxonomic classifications. Default is True
     :param raw_taxa: Boolean flag indicating whether to return raw taxonomy data without transformations. Default is False
+    :param drop_amplicon: Boolean flag indicating whether to drop samples with amplicon sequencing. Default is True
     :param verbose: Boolean flag controlling the verbosity of printed debug outputs. Default is False
 
     :return: A tuple containing:
@@ -143,8 +152,12 @@ def read_worldwide_data(sample, sslevel='subsystems', ss_normalisation='norm_ss'
         print(f"Read {otu.shape[0]} samples and {otu.shape[1]} {taxonomy}", file=sys.stderr)
     df = ss_df.merge(otu, left_index=True, right_index=True, how='inner')
 
-    metadata = read_worldwide_metadata(sample)
+    metadata = read_worldwide_metadata(sample, drop_amplicon=drop_amplicon)
     if verbose:
         print(f"Read {metadata.shape[0]} samples and {metadata.shape[1]} metadata columns", file=sys.stderr)
+
+    # next we need to make sure that the index for metadata matches the index for the data and drop any
+    # data samples that are not in the metadata
+    df = df.loc[df.index.intersection(metadata.index)]
 
     return df, metadata
