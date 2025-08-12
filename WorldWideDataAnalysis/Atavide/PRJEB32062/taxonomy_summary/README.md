@@ -1,6 +1,6 @@
-# Taxonomy for Bioproject PRJNA516442
+# Taxonomy for Bioproject PRJEB32062
 
-This sample comes from the [NCBI BioProject PRJNA516442](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA516442).
+This sample comes from the [NCBI BioProject PRJEB32062](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJEB32062).
 
 Taxonomy was created using [atavide_lite](https://github.com/linsalrob/atavide_lite).
 
