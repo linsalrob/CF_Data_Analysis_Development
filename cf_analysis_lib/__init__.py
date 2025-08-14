@@ -11,6 +11,7 @@ from .plot_figures import plot_pca, plot_feature_importance, plot_feature_abunda
 from .plot_figures import plot_abundance_stripplot, create_custom_labels, plot_one_top_feature, plot_roc_curves
 from .export_to_docx import pd2docx
 from .worldwide_samples import worldwide_samples, read_worldwide_taxonomy, read_worldwide_subsystems, read_worldwide_metadata, read_worldwide_data
+from .green_box import green_box, show_green
 
 __all__ = ['read_taxonomy', 'read_metadata', 'corrections', 'read_subsystems',
            'sorted_presence_absence', 'compatible_columns', 'categories_to_numeric', 'remove_highly_correlated_data',
