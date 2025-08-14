@@ -11,5 +11,15 @@ Cystic fibrosis (CF) is a genetic disease characterized by persistent infection 
 # Organisation:
 Telethon Kids Institute
 
-
+# Metadata:
 We have included the metadata in two separate files, a [JSON format file](PRJNA1126024.metadata.json.gz) that is computer readable, or a [tsv format file](PRJNA1126024.metadata.tsv.gz) that you can import into excel or similar.
+
+# Publications
+
+Agudelo-Romero P, Caparros-Martin JA, Sharma A, Saladié M, Sly PD, Stick SM, O Gara F, COMBAT study group. 2024. A near-complete genome of the uncultured Staphylococcus aureus phage COMBAT-CF_PAR1 isolated from the lungs of an infant with cystic fibrosis. [Microbiol Resour Announc 13:e0104724](https://pmc.ncbi.nlm.nih.gov/articles/PMC11636395/).
+  
+
+Agudelo-Romero P, Caparros-Martin JA, Sharma A, Saladié M, Sly PD, Stick SM, O’Gara F, COMBAT study group. 2025. Virome assembly reveals draft genomes of native Pseudomonas phages isolated from a paediatric bronchoalveolar lavage sample. [Microbiol Resour Announc 14:e0103024](https://journals.asm.org/doi/10.1128/mra.01030-24).
+  
+# Analysis:
+

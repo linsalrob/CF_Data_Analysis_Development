@@ -12,4 +12,10 @@ To understand changes in the lung microbiome, twenty-two subjects were followed 
 University of Florence
 
 
+# Metadata:
 We have included the metadata in two separate files, a [JSON format file](PRJNA516870.metadata.json.gz) that is computer readable, or a [tsv format file](PRJNA516870.metadata.tsv.gz) that you can import into excel or similar.
+
+# Publications
+
+Unpublished data from Giovanni Bacci, University of Florence.# Analysis:
+

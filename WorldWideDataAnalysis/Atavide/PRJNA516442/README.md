@@ -11,5 +11,23 @@ Metagenomic sequencing is a promising approach for identifying and characterizin
 # Organisation:
 University of Washington
 
-
+# Metadata:
 We have included the metadata in two separate files, a [JSON format file](PRJNA516442.metadata.json.gz) that is computer readable, or a [tsv format file](PRJNA516442.metadata.tsv.gz) that you can import into excel or similar.
+
+Note: These sequences are too short, we have processed some but not all.
+
+# Publications
+
+Nelson MT, Pope CE, Marsh RL, Wolter DJ, Weiss EJ, Hager KR, Vo AT, Brittnacher MJ, Radey MC, Hayden HS, Eng A, Miller SI, Borenstein E, Hoffman LR. 2019. Human and extracellular DNA depletion for metagenomic analysis of complex clinical infection samples yields optimized viable microbiome profiles. [Cell Rep 26:2227-2240.e5](https://pmc.ncbi.nlm.nih.gov/articles/PMC6435281/).
+
+# Analysis:
+
+- The entire data set is 93 runs, and 34,371,719,753 bp (including amplicon sequences)
+- We analysed 15 metagenomic sequence runs.
+- We predicted 6 samples out of 15 (40.0%) have _Pseudomonas aeruginosa_
+
+## t-SNE
+![Comparison of Adelaide and PRJNA516442 samples by t-SNE](img/PRJNA516442_Pseudomonas_tSNE.png 'Fig. t-SNE of all the analysed sequence data coloured by whether Pseudomonas is predicted')
+
+## PCA
+![This cluster of features are most strongly associated with the presence of Pseudomonas](img/PRJNA516442_Pseudomonas_PCA.png 'Fig. PCA of the cluster of features most strongly associated with Pseudomonas colonization in PRJNA516442')
