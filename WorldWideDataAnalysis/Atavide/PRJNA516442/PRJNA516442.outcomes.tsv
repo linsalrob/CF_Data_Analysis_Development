@@ -1,0 +1,16 @@
+run	bioproject	Gbp	library_strategy	library_selection	model	sample_name	taxon_name	Our prediction	Our probability	Our confidence
+SRR8731680	PRJNA516442	0.026	WGS	RANDOM	Illumina MiSeq	185 Standard	human lung metagenome	Positive	0.70	Medium
+SRR8731681	PRJNA516442	0.096	WGS	RANDOM	Illumina MiSeq	184 Benzonase1	human lung metagenome	Positive	0.68	Medium
+SRR8731682	PRJNA516442	0.016	WGS	RANDOM	Illumina MiSeq	183 Molysis	human lung metagenome	Negative	0.74	Medium
+SRR8731683	PRJNA516442	0.009	WGS	RANDOM	Illumina MiSeq	184 Standard	human lung metagenome	Positive	0.66	Medium
+SRR8731684	PRJNA516442	0.061	WGS	RANDOM	Illumina MiSeq	183 Benzonase1	human lung metagenome	Negative	0.66	Medium
+SRR8731685	PRJNA516442	0.163	WGS	RANDOM	Illumina MiSeq	185 Benzonase1	human lung metagenome	Positive	0.66	Medium
+SRR8731686	PRJNA516442	0.02	WGS	RANDOM	Illumina MiSeq	184 Antibody Depletion	human lung metagenome	Positive	0.65	Medium
+SRR8731687	PRJNA516442	0.007	WGS	RANDOM	Illumina MiSeq	183 Standard	human lung metagenome	Negative	0.62	Medium
+SRR8731688	PRJNA516442	0.054	WGS	RANDOM	Illumina MiSeq	185 Antibody Depletion	human lung metagenome	Positive	0.72	Medium
+SRR8731689	PRJNA516442	0.019	WGS	RANDOM	Illumina MiSeq	183 Antibody Depletion	human lung metagenome	Negative	0.65	Medium
+SRR8731690	PRJNA516442	0.035	WGS	RANDOM	Illumina MiSeq	184 Molysis	human lung metagenome	Negative	0.65	Medium
+SRR8731691	PRJNA516442	0.007	WGS	RANDOM	Illumina MiSeq	185 Cell Lysis	human lung metagenome	Positive	0.59	Low
+SRR8731692	PRJNA516442	0.006	WGS	RANDOM	Illumina MiSeq	184 Cell Lysis	human lung metagenome	Positive	0.63	Medium
+SRR8731693	PRJNA516442	0.037	WGS	RANDOM	Illumina MiSeq	185 Molysis	human lung metagenome	Negative	0.79	Medium
+SRR8731694	PRJNA516442	0.006	WGS	RANDOM	Illumina MiSeq	183 Cell Lysis	human lung metagenome	Negative	0.54	Low
