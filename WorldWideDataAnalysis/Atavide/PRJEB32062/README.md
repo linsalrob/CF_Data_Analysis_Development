@@ -24,3 +24,48 @@ Mirhakkak MH, Chen X, Ni Y, Heinekamp T, Sae-Ong T, Xu L-L, Kurzai O, Barber AE,
   
 # Analysis:
 
+- The entire data set is 27 runs, and 113,773,728,053 bp (including amplicon sequences)
+- We analysed 25 metagenomic sequence runs.
+- We predicted 16 samples out of 25 (64.0%) have _Pseudomonas aeruginosa_
+
+
+## Prediction outcomes
+
+Sample | Pseudomonas Prediction | Confidence | Certainty
+ --- | --- | --- | ---
+ERR3274613 | Negative | 0.60 | Low
+ERR3274614 | Negative | 0.80 | Medium
+ERR3274615 | Negative | 0.67 | Medium
+ERR3274616 | Negative | 0.75 | Medium
+ERR3274617 | Negative | 0.77 | Medium
+ERR3274618 | Negative | 0.77 | Medium
+ERR3274619 | Negative | 0.78 | Medium
+ERR3274620 | Negative | 0.77 | Medium
+ERR3274621 | Positive | 0.71 | Medium
+ERR3274622 | Positive | 0.72 | Medium
+ERR3274623 | Positive | 0.69 | Medium
+ERR3274624 | Positive | 0.78 | Medium
+ERR3274625 | Positive | 0.78 | Medium
+ERR3274626 | Positive | 0.71 | Medium
+ERR3274627 | Positive | 0.73 | Medium
+ERR3274628 | Positive | 0.63 | Medium
+ERR3274629 | Positive | 0.66 | Medium
+ERR3274630 | Positive | 0.62 | Medium
+ERR3274631 | Positive | 0.56 | Low
+ERR3274632 | Positive | 0.55 | Low
+ERR3274633 | Negative | 0.66 | Medium
+ERR3274634 | Positive | 0.63 | Medium
+ERR3274635 | Positive | 0.61 | Medium
+ERR3274636 | Positive | 0.62 | Medium
+ERR3274637 | Positive | 0.70 | Medium
+
+
+## t-SNE
+![Comparison of Adelaide and PRJEB32062 samples by t-SNE](img/PRJEB32062_Pseudomonas_tSNE.png 'Fig. t-SNE of all the analysed sequence data coloured by whether Pseudomonas is predicted')
+
+
+## PCA
+![This cluster of features are most strongly associated with the presence of Pseudomonas](img/PRJEB32062_Pseudomonas_PCA.png 'Fig. PCA of the cluster of features most strongly associated with Pseudomonas colonization in PRJEB32062')
+
+
+
