@@ -18,5 +18,30 @@ We have included the metadata in two separate files, a [JSON format file](PRJEB1
 # Publications
 
 Sommer LM, Marvig RL, Luján A, Koza A, Pressler T, Molin S, Johansen HK. 2016. Is genotyping of single isolates sufficient for population structure analysis of Pseudomonas aeruginosa in cystic fibrosis airways? [BMC Genomics 17:589](https://pmc.ncbi.nlm.nih.gov/articles/PMC4979127/).
-  # Analysis:
+
+# Analysis:
+
+- The entire data set is 5 runs, and 1,330,576,074 bp (including amplicon sequences)
+- We analysed 5 metagenomic sequence runs.
+- We predicted 5 samples out of 5 (100.0%) have _Pseudomonas aeruginosa_
+
+
+## Prediction outcomes
+
+Sample | Pseudomonas Prediction | Confidence | Certainty
+ --- | --- | --- | ---
+ERR1457158 | Positive | 0.72 | Medium
+ERR1457159 | Positive | 0.72 | Medium
+ERR1457160 | Positive | 0.68 | Medium
+ERR1457161 | Positive | 0.75 | Medium
+ERR1457162 | Positive | 0.72 | Medium
+
+
+## t-SNE
+![Comparison of Adelaide and PRJEB14440 samples by t-SNE](img/PRJEB14440_Pseudomonas_tSNE.png 'Fig. t-SNE of all the analysed sequence data coloured by whether Pseudomonas is predicted')
+
+
+## PCA
+![This cluster of features are most strongly associated with the presence of Pseudomonas](img/PRJEB14440_Pseudomonas_PCA.png 'Fig. PCA of the cluster of features most strongly associated with Pseudomonas colonization in PRJEB14440')
+
 

@@ -1,0 +1,632 @@
+[{
+  "acc": "ERR1457158",
+  "assay_type": "WGS",
+  "center_name": "TECHNICAL UNIVERSITY OF DENMARK",
+  "consent": "public",
+  "experiment": "ERX1527636",
+  "sample_name": "SAMEA4034855",
+  "instrument": "Illumina MiSeq",
+  "librarylayout": "PAIRED",
+  "libraryselection": "RANDOM",
+  "librarysource": "METAGENOMIC",
+  "platform": "ILLUMINA",
+  "sample_acc": "ERS1205965",
+  "biosample": "SAMEA4034855",
+  "organism": "Pseudomonas aeruginosa",
+  "sra_study": "ERP016082",
+  "releasedate": "2016-08-15 00:00:00.000000 UTC",
+  "bioproject": "PRJEB14440",
+  "mbytes": "115",
+  "loaddate": null,
+  "avgspotlen": "254",
+  "mbases": "254",
+  "insertsize": null,
+  "library_name": "unspecified",
+  "biosamplemodel_sam": [],
+  "collection_date_sam": "2013-11-13",
+  "geo_loc_name_country_calc": "Denmark",
+  "geo_loc_name_country_continent_calc": "Europe",
+  "geo_loc_name_sam": [],
+  "ena_first_public_run": ["2016-08-14"],
+  "ena_last_update_run": ["2018-11-16"],
+  "sample_name_sam": ["S1"],
+  "datastore_filetype": ["bam", "run.zq", "sra"],
+  "datastore_provider": ["ena", "gs", "ncbi", "s3"],
+  "datastore_region": ["ena", "gs.us-east1", "ncbi.public", "s3.us-east-1"],
+  "attributes": [{
+    "k": "assemblyname",
+    "v": "BioProject331"
+  }, {
+    "k": "bases",
+    "v": "254315459"
+  }, {
+    "k": "bytes",
+    "v": "120976701"
+  }, {
+    "k": "run_file_create_date",
+    "v": "2016-08-15T07:17:00.000Z"
+  }, {
+    "k": "collection_date_sam",
+    "v": "2013-11-13"
+  }, {
+    "k": "ena_first_public_sam",
+    "v": "2016-08-14"
+  }, {
+    "k": "ena_last_update_sam_ss_dpl537",
+    "v": "2016-10-21"
+  }, {
+    "k": "external_id_sam",
+    "v": "SAMEA4034855"
+  }, {
+    "k": "geographic_location__country_and_or_sea__sam",
+    "v": "Denmark"
+  }, {
+    "k": "host_scientific_name_sam",
+    "v": "Homo sapiens"
+  }, {
+    "k": "insdc_center_alias_sam",
+    "v": "Technical University of Denmark"
+  }, {
+    "k": "insdc_center_name_sam",
+    "v": "Technical University of Denmark"
+  }, {
+    "k": "insdc_first_public_sam",
+    "v": "2016-08-14T17:06:31Z"
+  }, {
+    "k": "insdc_last_update_sam",
+    "v": "2016-10-21T09:45:34Z"
+  }, {
+    "k": "insdc_status_sam",
+    "v": "public"
+  }, {
+    "k": "isolate_sam_ss_dpl100",
+    "v": "Sputum sample S1"
+  }, {
+    "k": "isolation_source_sam",
+    "v": "Sputum sample"
+  }, {
+    "k": "submitter_id_sam",
+    "v": "S1"
+  }, {
+    "k": "primary_search",
+    "v": "338932"
+  }, {
+    "k": "primary_search",
+    "v": "5617291"
+  }, {
+    "k": "primary_search",
+    "v": "ERP016082"
+  }, {
+    "k": "primary_search",
+    "v": "ERR1457158"
+  }, {
+    "k": "primary_search",
+    "v": "ERS1205965"
+  }, {
+    "k": "primary_search",
+    "v": "ERX1527636"
+  }, {
+    "k": "primary_search",
+    "v": "PRJEB14440"
+  }, {
+    "k": "primary_search",
+    "v": "SAMEA4034855"
+  }, {
+    "k": "primary_search",
+    "v": "ena-EXPERIMENT-Technical University of Denmark-16-06-2016-10:23:36:087-1"
+  }, {
+    "k": "primary_search",
+    "v": "ena-RUN-Technical University of Denmark-16-06-2016-10:23:36:087-1"
+  }, {
+    "k": "primary_search",
+    "v": "ena-STUDY-Technical University of Denmark-16-06-2016-08:13:56:176-12"
+  }],
+  "run_file_version": "1",
+  "jattr": "{\"assemblyname\": \"BioProject331\", \"bases\": 254315459, \"bytes\": 120976701, \"run_file_create_date\": \"2016-08-15T07:17:00.000Z\", \"collection_date_sam\": [\"2013-11-13\"], \"ena_first_public_sam\": \"2016-08-14\", \"ena_last_update_sam_ss_dpl537\": [\"2016-10-21\"], \"external_id_sam\": \"SAMEA4034855\", \"geographic_location__country_and_or_sea__sam\": [\"Denmark\"], \"host_scientific_name_sam\": [\"Homo sapiens\"], \"insdc_center_alias_sam\": [\"Technical University of Denmark\"], \"insdc_center_name_sam\": [\"Technical University of Denmark\"], \"insdc_first_public_sam\": [\"2016-08-14T17:06:31Z\"], \"insdc_last_update_sam\": [\"2016-10-21T09:45:34Z\"], \"insdc_status_sam\": [\"public\"], \"isolate_sam_ss_dpl100\": [\"Sputum sample S1\"], \"isolation_source_sam\": [\"Sputum sample\"], \"submitter_id_sam\": [\"S1\"], \"primary_search\": \"338932\"}"
+}, {
+  "acc": "ERR1457162",
+  "assay_type": "WGS",
+  "center_name": "TECHNICAL UNIVERSITY OF DENMARK",
+  "consent": "public",
+  "experiment": "ERX1527640",
+  "sample_name": "SAMEA4034859",
+  "instrument": "Illumina MiSeq",
+  "librarylayout": "PAIRED",
+  "libraryselection": "RANDOM",
+  "librarysource": "METAGENOMIC",
+  "platform": "ILLUMINA",
+  "sample_acc": "ERS1205969",
+  "biosample": "SAMEA4034859",
+  "organism": "Pseudomonas aeruginosa",
+  "sra_study": "ERP016082",
+  "releasedate": "2016-08-15 00:00:00.000000 UTC",
+  "bioproject": "PRJEB14440",
+  "mbytes": "182",
+  "loaddate": null,
+  "avgspotlen": "231",
+  "mbases": "400",
+  "insertsize": null,
+  "library_name": "unspecified",
+  "biosamplemodel_sam": [],
+  "collection_date_sam": "2013-12-02",
+  "geo_loc_name_country_calc": "Denmark",
+  "geo_loc_name_country_continent_calc": "Europe",
+  "geo_loc_name_sam": [],
+  "ena_first_public_run": ["2016-08-14"],
+  "ena_last_update_run": ["2018-11-16"],
+  "sample_name_sam": ["S4b"],
+  "datastore_filetype": ["bam", "run.zq", "sra"],
+  "datastore_provider": ["ena", "gs", "ncbi", "s3"],
+  "datastore_region": ["ena", "gs.us-east1", "ncbi.public", "s3.us-east-1"],
+  "attributes": [{
+    "k": "assemblyname",
+    "v": "BioProject331"
+  }, {
+    "k": "bases",
+    "v": "400118370"
+  }, {
+    "k": "bytes",
+    "v": "191570082"
+  }, {
+    "k": "run_file_create_date",
+    "v": "2016-08-15T07:17:00.000Z"
+  }, {
+    "k": "collection_date_sam",
+    "v": "2013-12-02"
+  }, {
+    "k": "ena_first_public_sam",
+    "v": "2016-08-14"
+  }, {
+    "k": "ena_last_update_sam_ss_dpl537",
+    "v": "2016-10-21"
+  }, {
+    "k": "external_id_sam",
+    "v": "SAMEA4034859"
+  }, {
+    "k": "geographic_location__country_and_or_sea__sam",
+    "v": "Denmark"
+  }, {
+    "k": "host_scientific_name_sam",
+    "v": "Homo sapiens"
+  }, {
+    "k": "insdc_center_alias_sam",
+    "v": "Technical University of Denmark"
+  }, {
+    "k": "insdc_center_name_sam",
+    "v": "Technical University of Denmark"
+  }, {
+    "k": "insdc_first_public_sam",
+    "v": "2016-08-14T17:06:31Z"
+  }, {
+    "k": "insdc_last_update_sam",
+    "v": "2016-10-21T09:45:34Z"
+  }, {
+    "k": "insdc_status_sam",
+    "v": "public"
+  }, {
+    "k": "isolate_sam_ss_dpl100",
+    "v": "Sputum sample S4b"
+  }, {
+    "k": "isolation_source_sam",
+    "v": "Sputum sample"
+  }, {
+    "k": "submitter_id_sam",
+    "v": "S4b"
+  }, {
+    "k": "primary_search",
+    "v": "338932"
+  }, {
+    "k": "primary_search",
+    "v": "5573775"
+  }, {
+    "k": "primary_search",
+    "v": "ERP016082"
+  }, {
+    "k": "primary_search",
+    "v": "ERR1457162"
+  }, {
+    "k": "primary_search",
+    "v": "ERS1205969"
+  }, {
+    "k": "primary_search",
+    "v": "ERX1527640"
+  }, {
+    "k": "primary_search",
+    "v": "PRJEB14440"
+  }, {
+    "k": "primary_search",
+    "v": "S4b"
+  }, {
+    "k": "primary_search",
+    "v": "SAMEA4034859"
+  }, {
+    "k": "primary_search",
+    "v": "ena-EXPERIMENT-Technical University of Denmark-16-06-2016-10:23:36:088-5"
+  }, {
+    "k": "primary_search",
+    "v": "ena-RUN-Technical University of Denmark-16-06-2016-10:23:36:088-5"
+  }, {
+    "k": "primary_search",
+    "v": "ena-STUDY-Technical University of Denmark-16-06-2016-08:13:56:176-12"
+  }],
+  "run_file_version": "1",
+  "jattr": "{\"assemblyname\": \"BioProject331\", \"bases\": 400118370, \"bytes\": 191570082, \"run_file_create_date\": \"2016-08-15T07:17:00.000Z\", \"collection_date_sam\": [\"2013-12-02\"], \"ena_first_public_sam\": \"2016-08-14\", \"ena_last_update_sam_ss_dpl537\": [\"2016-10-21\"], \"external_id_sam\": \"SAMEA4034859\", \"geographic_location__country_and_or_sea__sam\": [\"Denmark\"], \"host_scientific_name_sam\": [\"Homo sapiens\"], \"insdc_center_alias_sam\": [\"Technical University of Denmark\"], \"insdc_center_name_sam\": [\"Technical University of Denmark\"], \"insdc_first_public_sam\": [\"2016-08-14T17:06:31Z\"], \"insdc_last_update_sam\": [\"2016-10-21T09:45:34Z\"], \"insdc_status_sam\": [\"public\"], \"isolate_sam_ss_dpl100\": [\"Sputum sample S4b\"], \"isolation_source_sam\": [\"Sputum sample\"], \"submitter_id_sam\": [\"S4b\"], \"primary_search\": \"338932\"}"
+}, {
+  "acc": "ERR1457159",
+  "assay_type": "WGS",
+  "center_name": "TECHNICAL UNIVERSITY OF DENMARK",
+  "consent": "public",
+  "experiment": "ERX1527637",
+  "sample_name": "SAMEA4034856",
+  "instrument": "Illumina MiSeq",
+  "librarylayout": "PAIRED",
+  "libraryselection": "RANDOM",
+  "librarysource": "METAGENOMIC",
+  "platform": "ILLUMINA",
+  "sample_acc": "ERS1205966",
+  "biosample": "SAMEA4034856",
+  "organism": "Pseudomonas aeruginosa",
+  "sra_study": "ERP016082",
+  "releasedate": "2016-08-15 00:00:00.000000 UTC",
+  "bioproject": "PRJEB14440",
+  "mbytes": "156",
+  "loaddate": null,
+  "avgspotlen": "260",
+  "mbases": "333",
+  "insertsize": null,
+  "library_name": "unspecified",
+  "biosamplemodel_sam": [],
+  "collection_date_sam": "2013-11-27",
+  "geo_loc_name_country_calc": "Denmark",
+  "geo_loc_name_country_continent_calc": "Europe",
+  "geo_loc_name_sam": [],
+  "ena_first_public_run": ["2016-08-14"],
+  "ena_last_update_run": ["2018-11-16"],
+  "sample_name_sam": ["S2"],
+  "datastore_filetype": ["bam", "run.zq", "sra"],
+  "datastore_provider": ["ena", "gs", "ncbi", "s3"],
+  "datastore_region": ["ena", "gs.us-east1", "ncbi.public", "s3.us-east-1"],
+  "attributes": [{
+    "k": "assemblyname",
+    "v": "BioProject331"
+  }, {
+    "k": "bases",
+    "v": "333268791"
+  }, {
+    "k": "bytes",
+    "v": "164579868"
+  }, {
+    "k": "run_file_create_date",
+    "v": "2016-08-15T07:17:00.000Z"
+  }, {
+    "k": "collection_date_sam",
+    "v": "2013-11-27"
+  }, {
+    "k": "ena_first_public_sam",
+    "v": "2016-08-14"
+  }, {
+    "k": "ena_last_update_sam_ss_dpl537",
+    "v": "2016-10-21"
+  }, {
+    "k": "external_id_sam",
+    "v": "SAMEA4034856"
+  }, {
+    "k": "geographic_location__country_and_or_sea__sam",
+    "v": "Denmark"
+  }, {
+    "k": "host_scientific_name_sam",
+    "v": "Homo sapiens"
+  }, {
+    "k": "insdc_center_alias_sam",
+    "v": "Technical University of Denmark"
+  }, {
+    "k": "insdc_center_name_sam",
+    "v": "Technical University of Denmark"
+  }, {
+    "k": "insdc_first_public_sam",
+    "v": "2016-08-14T17:06:31Z"
+  }, {
+    "k": "insdc_last_update_sam",
+    "v": "2016-10-21T09:45:34Z"
+  }, {
+    "k": "insdc_status_sam",
+    "v": "public"
+  }, {
+    "k": "isolate_sam_ss_dpl100",
+    "v": "Sputum sample S2"
+  }, {
+    "k": "isolation_source_sam",
+    "v": "Sputum sample"
+  }, {
+    "k": "submitter_id_sam",
+    "v": "S2"
+  }, {
+    "k": "primary_search",
+    "v": "338932"
+  }, {
+    "k": "primary_search",
+    "v": "5617290"
+  }, {
+    "k": "primary_search",
+    "v": "ERP016082"
+  }, {
+    "k": "primary_search",
+    "v": "ERR1457159"
+  }, {
+    "k": "primary_search",
+    "v": "ERS1205966"
+  }, {
+    "k": "primary_search",
+    "v": "ERX1527637"
+  }, {
+    "k": "primary_search",
+    "v": "PRJEB14440"
+  }, {
+    "k": "primary_search",
+    "v": "SAMEA4034856"
+  }, {
+    "k": "primary_search",
+    "v": "ena-EXPERIMENT-Technical University of Denmark-16-06-2016-10:23:36:087-2"
+  }, {
+    "k": "primary_search",
+    "v": "ena-RUN-Technical University of Denmark-16-06-2016-10:23:36:087-2"
+  }, {
+    "k": "primary_search",
+    "v": "ena-STUDY-Technical University of Denmark-16-06-2016-08:13:56:176-12"
+  }],
+  "run_file_version": "1",
+  "jattr": "{\"assemblyname\": \"BioProject331\", \"bases\": 333268791, \"bytes\": 164579868, \"run_file_create_date\": \"2016-08-15T07:17:00.000Z\", \"collection_date_sam\": [\"2013-11-27\"], \"ena_first_public_sam\": \"2016-08-14\", \"ena_last_update_sam_ss_dpl537\": [\"2016-10-21\"], \"external_id_sam\": \"SAMEA4034856\", \"geographic_location__country_and_or_sea__sam\": [\"Denmark\"], \"host_scientific_name_sam\": [\"Homo sapiens\"], \"insdc_center_alias_sam\": [\"Technical University of Denmark\"], \"insdc_center_name_sam\": [\"Technical University of Denmark\"], \"insdc_first_public_sam\": [\"2016-08-14T17:06:31Z\"], \"insdc_last_update_sam\": [\"2016-10-21T09:45:34Z\"], \"insdc_status_sam\": [\"public\"], \"isolate_sam_ss_dpl100\": [\"Sputum sample S2\"], \"isolation_source_sam\": [\"Sputum sample\"], \"submitter_id_sam\": [\"S2\"], \"primary_search\": \"338932\"}"
+}, {
+  "acc": "ERR1457161",
+  "assay_type": "WGS",
+  "center_name": "TECHNICAL UNIVERSITY OF DENMARK",
+  "consent": "public",
+  "experiment": "ERX1527639",
+  "sample_name": "SAMEA4034858",
+  "instrument": "Illumina MiSeq",
+  "librarylayout": "PAIRED",
+  "libraryselection": "RANDOM",
+  "librarysource": "METAGENOMIC",
+  "platform": "ILLUMINA",
+  "sample_acc": "ERS1205968",
+  "biosample": "SAMEA4034858",
+  "organism": "Pseudomonas aeruginosa",
+  "sra_study": "ERP016082",
+  "releasedate": "2016-08-15 00:00:00.000000 UTC",
+  "bioproject": "PRJEB14440",
+  "mbytes": "65",
+  "loaddate": null,
+  "avgspotlen": "246",
+  "mbases": "135",
+  "insertsize": null,
+  "library_name": "unspecified",
+  "biosamplemodel_sam": [],
+  "collection_date_sam": "2013-11-18",
+  "geo_loc_name_country_calc": "Denmark",
+  "geo_loc_name_country_continent_calc": "Europe",
+  "geo_loc_name_sam": [],
+  "ena_first_public_run": ["2016-08-14"],
+  "ena_last_update_run": ["2018-11-16"],
+  "sample_name_sam": ["S4a"],
+  "datastore_filetype": ["bam", "run.zq", "sra"],
+  "datastore_provider": ["ena", "gs", "ncbi", "s3"],
+  "datastore_region": ["ena", "gs.us-east1", "ncbi.public", "s3.us-east-1"],
+  "attributes": [{
+    "k": "assemblyname",
+    "v": "BioProject331"
+  }, {
+    "k": "bases",
+    "v": "135936476"
+  }, {
+    "k": "bytes",
+    "v": "68712371"
+  }, {
+    "k": "run_file_create_date",
+    "v": "2016-08-15T07:17:00.000Z"
+  }, {
+    "k": "collection_date_sam",
+    "v": "2013-11-18"
+  }, {
+    "k": "ena_first_public_sam",
+    "v": "2016-08-14"
+  }, {
+    "k": "ena_last_update_sam_ss_dpl537",
+    "v": "2016-10-21"
+  }, {
+    "k": "external_id_sam",
+    "v": "SAMEA4034858"
+  }, {
+    "k": "geographic_location__country_and_or_sea__sam",
+    "v": "Denmark"
+  }, {
+    "k": "host_scientific_name_sam",
+    "v": "Homo sapiens"
+  }, {
+    "k": "insdc_center_alias_sam",
+    "v": "Technical University of Denmark"
+  }, {
+    "k": "insdc_center_name_sam",
+    "v": "Technical University of Denmark"
+  }, {
+    "k": "insdc_first_public_sam",
+    "v": "2016-08-14T17:06:31Z"
+  }, {
+    "k": "insdc_last_update_sam",
+    "v": "2016-10-21T09:45:34Z"
+  }, {
+    "k": "insdc_status_sam",
+    "v": "public"
+  }, {
+    "k": "isolate_sam_ss_dpl100",
+    "v": "Sputum sample S4a"
+  }, {
+    "k": "isolation_source_sam",
+    "v": "Sputum sample"
+  }, {
+    "k": "submitter_id_sam",
+    "v": "S4a"
+  }, {
+    "k": "primary_search",
+    "v": "338932"
+  }, {
+    "k": "primary_search",
+    "v": "5573774"
+  }, {
+    "k": "primary_search",
+    "v": "ERP016082"
+  }, {
+    "k": "primary_search",
+    "v": "ERR1457161"
+  }, {
+    "k": "primary_search",
+    "v": "ERS1205968"
+  }, {
+    "k": "primary_search",
+    "v": "ERX1527639"
+  }, {
+    "k": "primary_search",
+    "v": "PRJEB14440"
+  }, {
+    "k": "primary_search",
+    "v": "S4a"
+  }, {
+    "k": "primary_search",
+    "v": "SAMEA4034858"
+  }, {
+    "k": "primary_search",
+    "v": "ena-EXPERIMENT-Technical University of Denmark-16-06-2016-10:23:36:088-4"
+  }, {
+    "k": "primary_search",
+    "v": "ena-RUN-Technical University of Denmark-16-06-2016-10:23:36:088-4"
+  }, {
+    "k": "primary_search",
+    "v": "ena-STUDY-Technical University of Denmark-16-06-2016-08:13:56:176-12"
+  }],
+  "run_file_version": "1",
+  "jattr": "{\"assemblyname\": \"BioProject331\", \"bases\": 135936476, \"bytes\": 68712371, \"run_file_create_date\": \"2016-08-15T07:17:00.000Z\", \"collection_date_sam\": [\"2013-11-18\"], \"ena_first_public_sam\": \"2016-08-14\", \"ena_last_update_sam_ss_dpl537\": [\"2016-10-21\"], \"external_id_sam\": \"SAMEA4034858\", \"geographic_location__country_and_or_sea__sam\": [\"Denmark\"], \"host_scientific_name_sam\": [\"Homo sapiens\"], \"insdc_center_alias_sam\": [\"Technical University of Denmark\"], \"insdc_center_name_sam\": [\"Technical University of Denmark\"], \"insdc_first_public_sam\": [\"2016-08-14T17:06:31Z\"], \"insdc_last_update_sam\": [\"2016-10-21T09:45:34Z\"], \"insdc_status_sam\": [\"public\"], \"isolate_sam_ss_dpl100\": [\"Sputum sample S4a\"], \"isolation_source_sam\": [\"Sputum sample\"], \"submitter_id_sam\": [\"S4a\"], \"primary_search\": \"338932\"}"
+}, {
+  "acc": "ERR1457160",
+  "assay_type": "WGS",
+  "center_name": "TECHNICAL UNIVERSITY OF DENMARK",
+  "consent": "public",
+  "experiment": "ERX1527638",
+  "sample_name": "SAMEA4034857",
+  "instrument": "Illumina MiSeq",
+  "librarylayout": "PAIRED",
+  "libraryselection": "RANDOM",
+  "librarysource": "METAGENOMIC",
+  "platform": "ILLUMINA",
+  "sample_acc": "ERS1205967",
+  "biosample": "SAMEA4034857",
+  "organism": "Pseudomonas aeruginosa",
+  "sra_study": "ERP016082",
+  "releasedate": "2016-08-15 00:00:00.000000 UTC",
+  "bioproject": "PRJEB14440",
+  "mbytes": "89",
+  "loaddate": null,
+  "avgspotlen": "257",
+  "mbases": "206",
+  "insertsize": null,
+  "library_name": "unspecified",
+  "biosamplemodel_sam": [],
+  "collection_date_sam": "2013-11-05",
+  "geo_loc_name_country_calc": "Denmark",
+  "geo_loc_name_country_continent_calc": "Europe",
+  "geo_loc_name_sam": [],
+  "ena_first_public_run": ["2016-08-14"],
+  "ena_last_update_run": ["2018-11-16"],
+  "sample_name_sam": ["S3"],
+  "datastore_filetype": ["bam", "run.zq", "sra"],
+  "datastore_provider": ["ena", "gs", "ncbi", "s3"],
+  "datastore_region": ["ena", "gs.us-east1", "ncbi.public", "s3.us-east-1"],
+  "attributes": [{
+    "k": "assemblyname",
+    "v": "BioProject331"
+  }, {
+    "k": "bases",
+    "v": "206936978"
+  }, {
+    "k": "bytes",
+    "v": "93411880"
+  }, {
+    "k": "run_file_create_date",
+    "v": "2016-08-15T07:17:00.000Z"
+  }, {
+    "k": "collection_date_sam",
+    "v": "2013-11-05"
+  }, {
+    "k": "ena_first_public_sam",
+    "v": "2016-08-14"
+  }, {
+    "k": "ena_last_update_sam_ss_dpl537",
+    "v": "2016-10-21"
+  }, {
+    "k": "external_id_sam",
+    "v": "SAMEA4034857"
+  }, {
+    "k": "geographic_location__country_and_or_sea__sam",
+    "v": "Denmark"
+  }, {
+    "k": "host_scientific_name_sam",
+    "v": "Homo sapiens"
+  }, {
+    "k": "insdc_center_alias_sam",
+    "v": "Technical University of Denmark"
+  }, {
+    "k": "insdc_center_name_sam",
+    "v": "Technical University of Denmark"
+  }, {
+    "k": "insdc_first_public_sam",
+    "v": "2016-08-14T17:06:31Z"
+  }, {
+    "k": "insdc_last_update_sam",
+    "v": "2016-10-21T09:45:34Z"
+  }, {
+    "k": "insdc_status_sam",
+    "v": "public"
+  }, {
+    "k": "isolate_sam_ss_dpl100",
+    "v": "Sputum sample S3"
+  }, {
+    "k": "isolation_source_sam",
+    "v": "Sputum sample"
+  }, {
+    "k": "submitter_id_sam",
+    "v": "S3"
+  }, {
+    "k": "primary_search",
+    "v": "338932"
+  }, {
+    "k": "primary_search",
+    "v": "5617289"
+  }, {
+    "k": "primary_search",
+    "v": "ERP016082"
+  }, {
+    "k": "primary_search",
+    "v": "ERR1457160"
+  }, {
+    "k": "primary_search",
+    "v": "ERS1205967"
+  }, {
+    "k": "primary_search",
+    "v": "ERX1527638"
+  }, {
+    "k": "primary_search",
+    "v": "PRJEB14440"
+  }, {
+    "k": "primary_search",
+    "v": "SAMEA4034857"
+  }, {
+    "k": "primary_search",
+    "v": "ena-EXPERIMENT-Technical University of Denmark-16-06-2016-10:23:36:088-3"
+  }, {
+    "k": "primary_search",
+    "v": "ena-RUN-Technical University of Denmark-16-06-2016-10:23:36:088-3"
+  }, {
+    "k": "primary_search",
+    "v": "ena-STUDY-Technical University of Denmark-16-06-2016-08:13:56:176-12"
+  }],
+  "run_file_version": "1",
+  "jattr": "{\"assemblyname\": \"BioProject331\", \"bases\": 206936978, \"bytes\": 93411880, \"run_file_create_date\": \"2016-08-15T07:17:00.000Z\", \"collection_date_sam\": [\"2013-11-05\"], \"ena_first_public_sam\": \"2016-08-14\", \"ena_last_update_sam_ss_dpl537\": [\"2016-10-21\"], \"external_id_sam\": \"SAMEA4034857\", \"geographic_location__country_and_or_sea__sam\": [\"Denmark\"], \"host_scientific_name_sam\": [\"Homo sapiens\"], \"insdc_center_alias_sam\": [\"Technical University of Denmark\"], \"insdc_center_name_sam\": [\"Technical University of Denmark\"], \"insdc_first_public_sam\": [\"2016-08-14T17:06:31Z\"], \"insdc_last_update_sam\": [\"2016-10-21T09:45:34Z\"], \"insdc_status_sam\": [\"public\"], \"isolate_sam_ss_dpl100\": [\"Sputum sample S3\"], \"isolation_source_sam\": [\"Sputum sample\"], \"submitter_id_sam\": [\"S3\"], \"primary_search\": \"338932\"}"
+}]
