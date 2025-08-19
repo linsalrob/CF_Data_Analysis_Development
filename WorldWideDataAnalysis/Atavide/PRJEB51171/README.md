@@ -22,12 +22,90 @@ We have included the metadata in two separate files, a [JSON format file](PRJEB5
 Pallenberg ST, Pust M-M, Rosenboom I, Hansen G, Wiehlmann L, Dittrich A-M, Tümmler B. 2022. Impact of elexacaftor/tezacaftor/ivacaftor therapy on the cystic fibrosis airway microbial metagenome. [Microbiol Spectr 10:e0145422](https://pmc.ncbi.nlm.nih.gov/articles/PMC9602284/)
 
 # Analysis:
-- The entire data set is 64 runs, and 29,874,922,519 bp
+
+
+- The entire data set is 64 runs, and 29,874,922,519 bp (including amplicon sequences)
 - We analysed 63 metagenomic sequence runs.
-- We predicted 1 sample out of 63 (1.6%) has _Pseudomonas aeruginosa_
+- We predicted 3 samples out of 63 (4.8%) have _Pseudomonas aeruginosa_
+
+<details>
+<summary>
+## Prediction outcomes
+</summary>
+
+Sample | Pseudomonas Prediction | Confidence | Certainty
+ --- | --- | --- | ---
+ERR8978269 | Negative | 0.75 | Medium
+ERR8978270 | Negative | 0.62 | Medium
+ERR8978271 | Negative | 0.64 | Medium
+ERR8978272 | Negative | 0.83 | High
+ERR8978277 | Negative | 0.59 | Low
+ERR8978278 | Negative | 0.82 | High
+ERR8978279 | Negative | 0.79 | Medium
+ERR8978280 | Negative | 0.80 | Medium
+ERR8978281 | Negative | 0.62 | Medium
+ERR8978283 | Negative | 0.74 | Medium
+ERR8978284 | Negative | 0.85 | High
+ERR8978285 | Negative | 0.87 | High
+ERR8978286 | Negative | 0.74 | Medium
+ERR8978287 | Negative | 0.79 | Medium
+ERR8978288 | Negative | 0.77 | Medium
+ERR8978290 | Negative | 0.74 | Medium
+ERR8978292 | Negative | 0.72 | Medium
+ERR8978293 | Negative | 0.83 | High
+ERR8978294 | Negative | 0.89 | High
+ERR8978295 | Negative | 0.71 | Medium
+ERR8978296 | Negative | 0.74 | Medium
+ERR8978297 | Negative | 0.79 | Medium
+ERR8978298 | Negative | 0.81 | High
+ERR8978299 | Negative | 0.79 | Medium
+ERR8978300 | Negative | 0.67 | Medium
+ERR8978301 | Negative | 0.86 | High
+ERR8978302 | Negative | 0.81 | High
+ERR8978303 | Negative | 0.57 | Low
+ERR8978304 | Negative | 0.75 | Medium
+ERR8978305 | Positive | 0.52 | Low
+ERR8978306 | Negative | 0.75 | Medium
+ERR8978307 | Negative | 0.76 | Medium
+ERR8978308 | Negative | 0.81 | High
+ERR8978309 | Negative | 0.76 | Medium
+ERR8978310 | Negative | 0.69 | Medium
+ERR8978313 | Positive | 0.58 | Low
+ERR8978314 | Negative | 0.73 | Medium
+ERR8978315 | Negative | 0.58 | Low
+ERR8978317 | Negative | 0.71 | Medium
+ERR8978318 | Negative | 0.68 | Medium
+ERR8978319 | Negative | 0.73 | Medium
+ERR8978320 | Negative | 0.75 | Medium
+ERR8978321 | Negative | 0.73 | Medium
+ERR8978322 | Negative | 0.68 | Medium
+ERR8978323 | Negative | 0.60 | Low
+ERR8978324 | Negative | 0.67 | Medium
+ERR8978325 | Negative | 0.70 | Medium
+ERR8978327 | Negative | 0.67 | Medium
+ERR8978330 | Negative | 0.76 | Medium
+ERR8978331 | Negative | 0.70 | Medium
+ERR8978332 | Negative | 0.83 | High
+ERR8978333 | Negative | 0.78 | Medium
+ERR8978334 | Positive | 0.75 | Medium
+ERR8978335 | Negative | 0.77 | Medium
+ERR8978336 | Negative | 0.70 | Medium
+ERR8978337 | Negative | 0.81 | High
+ERR8978341 | Negative | 0.82 | High
+ERR8978342 | Negative | 0.83 | High
+ERR8978343 | Negative | 0.79 | Medium
+ERR8978344 | Negative | 0.63 | Medium
+ERR8978345 | Negative | 0.70 | Medium
+ERR8978346 | Negative | 0.64 | Medium
+ERR8978347 | Negative | 0.80 | High
+
+</details>
 
 ## t-SNE
 ![Comparison of Adelaide and PRJEB51171 samples by t-SNE](img/PRJEB51171_Pseudomonas_tSNE.png 'Fig. t-SNE of all the analysed sequence data coloured by whether Pseudomonas is predicted')
 
+
 ## PCA
 ![This cluster of features are most strongly associated with the presence of Pseudomonas](img/PRJEB51171_Pseudomonas_PCA.png 'Fig. PCA of the cluster of features most strongly associated with Pseudomonas colonization in PRJEB51171')
+
+
