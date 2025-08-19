@@ -1,0 +1,22 @@
+run	bioproject	Gbp	library_strategy	library_selection	model	sample_name	taxon_name	Our Prediction	Our probability	Our confidence
+SRR1177382	PRJNA71831	0.219	WGA	RANDOM	Illumina MiSeq	CF1-1-St-MgMD-nonhuman	Homo sapiens	Positive	0.57	Low
+SRR1177387	PRJNA71831	0.053	WGA	RANDOM	Illumina MiSeq	CF1-2A-St-MgMD-nonhuman	Homo sapiens	Negative	0.70	Medium
+SRR1180012	PRJNA71831	0.197	WGA	RANDOM	Illumina MiSeq	CF1-2-St-MgMD-nonhuman	Homo sapiens	Negative	0.55	Low
+SRR1180013	PRJNA71831	0.065	WGS	RANDOM	Illumina MiSeq	CF1-3-St-MgMD-nonhuman	Homo sapiens	Positive	0.66	Medium
+SRR606445	PRJNA71831	0.006	RNA-Seq	cDNA	454 GS FLX Titanium	LIB041	human metagenome	Negative	0.68	Medium
+SRR610353	PRJNA71831	0.009	RNA-Seq	cDNA	454 GS FLX Titanium	LIB046	human metagenome	Negative	0.77	Medium
+SRR610359	PRJNA71831	0.009	WGS	RANDOM	454 GS FLX Titanium	LIB045	Homo sapiens	Negative	0.71	Medium
+SRR610360	PRJNA71831	0.033	WGS	RANDOM	454 GS FLX Titanium	LIB045	Homo sapiens	Negative	0.81	High
+SRR610361	PRJNA71831	0.019	WGS	RANDOM	454 GS FLX Titanium	LIB045	Homo sapiens	Positive	0.52	Low
+SRR610365	PRJNA71831	0.026	WGS	RANDOM	454 GS FLX Titanium	LIB045	Homo sapiens	Negative	0.66	Medium
+SRR610366	PRJNA71831	0.002	WGS	RANDOM	454 GS FLX Titanium	LIB044	Homo sapiens	Positive	0.54	Low
+SRR610547	PRJNA71831	0.003	WGS	RANDOM	454 GS FLX Titanium	CF66A	Homo sapiens	Negative	0.69	Medium
+SRR610548	PRJNA71831	0.033	WGS	RANDOM	454 GS FLX Titanium	CF66B_Microbiome	Homo sapiens	Negative	0.83	High
+SRR610549	PRJNA71831	0.017	WGS	RANDOM	454 GS FLX Titanium	CF66C_Microbiome	Homo sapiens	Negative	0.87	High
+SRR610550	PRJNA71831	0.001	WGS	RANDOM	454 GS FLX Titanium	CF66D_Microbiome	Homo sapiens	Negative	0.75	Medium
+SRR610551	PRJNA71831	0.02	WGS	RANDOM	454 GS FLX Titanium	CF73A_Microbiome	Homo sapiens	Negative	0.77	Medium
+SRR610552	PRJNA71831	0.014	WGS	RANDOM	454 GS FLX Titanium	CF73B_Microbiome	Homo sapiens	Negative	0.78	Medium
+SRR610553	PRJNA71831	0.006	WGS	RANDOM	454 GS FLX Titanium	CF73C_Microbiome	Homo sapiens	Negative	0.71	Medium
+SRR610554	PRJNA71831	0.013	WGS	RANDOM	454 GS FLX Titanium	CF73D_Microbiome	Homo sapiens	Negative	0.64	Medium
+SRR610555	PRJNA71831	0.058	WGS	RANDOM	454 GS FLX Titanium	CF200A_Microbiome	Homo sapiens	Negative	0.53	Low
+SRR610556	PRJNA71831	0.014	WGS	RANDOM	454 GS FLX Titanium	CF200B_Microbiome	Homo sapiens	Negative	0.71	Medium
