@@ -24,10 +24,35 @@ Nelson MT, Pope CE, Marsh RL, Wolter DJ, Weiss EJ, Hager KR, Vo AT, Brittnacher 
 
 - The entire data set is 93 runs, and 34,371,719,753 bp (including amplicon sequences)
 - We analysed 15 metagenomic sequence runs.
-- We predicted 6 samples out of 15 (40.0%) have _Pseudomonas aeruginosa_
+- We predicted 8 samples out of 15 (53.3%) have _Pseudomonas aeruginosa_
+
+
+## Prediction outcomes
+
+Sample | Pseudomonas Prediction | Confidence | Certainty
+ --- | --- | --- | ---
+SRR8731680 | Positive | 0.70 | Medium
+SRR8731681 | Positive | 0.68 | Medium
+SRR8731682 | Negative | 0.74 | Medium
+SRR8731683 | Positive | 0.66 | Medium
+SRR8731684 | Negative | 0.66 | Medium
+SRR8731685 | Positive | 0.66 | Medium
+SRR8731686 | Positive | 0.65 | Medium
+SRR8731687 | Negative | 0.62 | Medium
+SRR8731688 | Positive | 0.72 | Medium
+SRR8731689 | Negative | 0.65 | Medium
+SRR8731690 | Negative | 0.65 | Medium
+SRR8731691 | Positive | 0.59 | Low
+SRR8731692 | Positive | 0.63 | Medium
+SRR8731693 | Negative | 0.79 | Medium
+SRR8731694 | Negative | 0.54 | Low
+
 
 ## t-SNE
 ![Comparison of Adelaide and PRJNA516442 samples by t-SNE](img/PRJNA516442_Pseudomonas_tSNE.png 'Fig. t-SNE of all the analysed sequence data coloured by whether Pseudomonas is predicted')
 
+
 ## PCA
 ![This cluster of features are most strongly associated with the presence of Pseudomonas](img/PRJNA516442_Pseudomonas_PCA.png 'Fig. PCA of the cluster of features most strongly associated with Pseudomonas colonization in PRJNA516442')
+
+

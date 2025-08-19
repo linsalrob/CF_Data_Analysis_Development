@@ -19,16 +19,48 @@ We have included the metadata in two separate files, a [JSON format file](PRJNA7
 # Publications
 
 
-Lim YW, Schmieder R, Haynes M, Willner D, Furlan M, Youle M, Abbott K, Edwards R, Evangelista J, Conrad D, Rohwer F. 2013. Metagenomics and metatranscriptomics: windows on CF-associated viral and microbial communities. [J Cyst Fibros 12:154–164](https://doi.org/10.1016/j.jcf.2012.07.009).
+Lim YW, Schmieder R, Haynes M, Willner D, Furlan M, Youle M, Abbott K, Edwards R, Evangelista J, Conrad D, Rohwer F. 2013. Metagenomics and metatranscriptomics: windows on CF-associated viral and microbial communities. [J Cyst Fibros 12:154-164](https://doi.org/10.1016/j.jcf.2012.07.009).
   
 # Analysis:
 
-- The entire data set is 38 runs, and 1,179,409,307 bp
+
+- The entire data set is 38 runs, and 1,179,409,307 bp (including amplicon sequences)
 - We analysed 21 metagenomic sequence runs.
-- We predicted 5 samples out of 21 (23.8%) have _Pseudomonas aeruginosa_
+- We predicted 4 samples out of 21 (19.0%) have _Pseudomonas aeruginosa_
+
+
+## Prediction outcomes
+
+Sample | Pseudomonas Prediction | Confidence | Certainty
+ --- | --- | --- | ---
+SRR1177382 | Positive | 0.57 | Low
+SRR1177387 | Negative | 0.70 | Medium
+SRR1180012 | Negative | 0.55 | Low
+SRR1180013 | Positive | 0.66 | Medium
+SRR606445 | Negative | 0.68 | Medium
+SRR610353 | Negative | 0.77 | Medium
+SRR610359 | Negative | 0.71 | Medium
+SRR610360 | Negative | 0.81 | High
+SRR610361 | Positive | 0.52 | Low
+SRR610365 | Negative | 0.66 | Medium
+SRR610366 | Positive | 0.54 | Low
+SRR610547 | Negative | 0.69 | Medium
+SRR610548 | Negative | 0.83 | High
+SRR610549 | Negative | 0.87 | High
+SRR610550 | Negative | 0.75 | Medium
+SRR610551 | Negative | 0.77 | Medium
+SRR610552 | Negative | 0.78 | Medium
+SRR610553 | Negative | 0.71 | Medium
+SRR610554 | Negative | 0.64 | Medium
+SRR610555 | Negative | 0.53 | Low
+SRR610556 | Negative | 0.71 | Medium
+
 
 ## t-SNE
 ![Comparison of Adelaide and PRJNA71831 samples by t-SNE](img/PRJNA71831_Pseudomonas_tSNE.png 'Fig. t-SNE of all the analysed sequence data coloured by whether Pseudomonas is predicted')
 
+
 ## PCA
 ![This cluster of features are most strongly associated with the presence of Pseudomonas](img/PRJNA71831_Pseudomonas_PCA.png 'Fig. PCA of the cluster of features most strongly associated with Pseudomonas colonization in PRJNA71831')
+
+
