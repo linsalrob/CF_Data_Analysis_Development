@@ -17,7 +17,7 @@ We have included the metadata in two separate files, a [JSON format file](PRJEB1
 
 # Publications
 
-Sommer LM, Marvig RL, Luj√°n A, Koza A, Pressler T, Molin S, Johansen HK. 2016. Is genotyping of single isolates sufficient for population structure analysis of Pseudomonas aeruginosa in cystic fibrosis airways? [BMC Genomics 17:589](https://pmc.ncbi.nlm.nih.gov/articles/PMC4979127/).
+Sommer LM, Marvig RL, Luja°n A, Koza A, Pressler T, Molin S, Johansen HK. 2016. Is genotyping of single isolates sufficient for population structure analysis of Pseudomonas aeruginosa in cystic fibrosis airways? [BMC Genomics 17:589](https://pmc.ncbi.nlm.nih.gov/articles/PMC4979127/).
 
 # Analysis:
 
