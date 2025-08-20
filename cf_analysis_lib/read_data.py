@@ -36,7 +36,7 @@ corrections = {
 }
 
 
-def read_taxonomy(datadir, sequence_type, taxonomy, all_taxa=False):
+def read_taxonomy(datadir, sequence_type, taxonomy, all_taxa=False, rawdata=False):
     """
     Read the taxonomy file and return a data frame
     """
@@ -45,12 +45,15 @@ def read_taxonomy(datadir, sequence_type, taxonomy, all_taxa=False):
         sequence_type = 'MGI'
         sequence_dir = 'MGI'
     elif sequence_type.lower() == 'minion':
-        sequence_type = 'minion'
+        sequence_type = 'MinION'
         sequence_dir = 'MinION'
     else:
         raise ValueError(f"Sorry. Don't know what sequence type {sequence_type} is supposed to be")
 
     tax_file = os.path.join(datadir, sequence_dir, "Taxonomy", f"{sequence_type}_reads_{taxonomy}.normalised.tsv.gz")
+    if rawdata:
+        tax_file = os.path.join(datadir, sequence_dir, "Taxonomy", f"{sequence_type}_reads_{taxonomy}.raw.tsv.gz")
+
     if not os.path.exists(tax_file):
         raise FileNotFoundError(f"Error: {tax_file} does not exist")
     df = pd.read_csv(tax_file, sep='\t', compression='gzip')
@@ -84,8 +87,8 @@ def read_metadata(datadir, sequence_type, categorise=False, verbose=False):
         raise FileNotFoundError(f"Error: {metadata_file} does not exist")
     metadata = pd.read_csv(metadata_file, encoding='windows-1252', sep="\t", index_col=0)
 
-    if len(sequence_type) == 1:
-        metadata = metadata[~metadata[sequence_type[0]].isna()]
+    if len(sequencing) == 1:
+        metadata = metadata[~metadata[sequencing[0]].isna()]
 
     metadata = metadata.rename(columns={'Pseudomonas': 'Pseudomonas Culture'})
 
@@ -116,8 +119,17 @@ def read_subsystems(subsystems_file, sequence_type):
     """
     Read the subsystems file and return a data frame
     """
+
     if not os.path.exists(subsystems_file):
-        raise FileNotFoundError(f"Error: {subsystems_file} does not exist")
+        ssl = subsystems_file.split(os.path.sep)
+        ssl[-1] = f"{sequence_type}_{ssl[-1]}"
+        ssfile = os.path.sep.join(ssl)
+        if os.path.exists(ssfile):
+            subsystems_file = ssfile
+            print(f"Using {subsystems_file} for the subsystems", file=sys.stderr)
+        else:
+            print(f"Neither {subsystems_file} nor {ssfile} exist", file=sys.stderr)
+            raise FileNotFoundError(f"Error: Subsystems file: {subsystems_file} does not exist")
 
     if subsystems_file.endswith('.gz'):
         df = pd.read_csv(subsystems_file, sep='\t', compression='gzip', index_col=0)
