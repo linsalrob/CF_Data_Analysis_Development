@@ -14,7 +14,7 @@ We have included the metadata in two separate files, a [JSON format file](PRJNA5
 
 # Publications
 
-Silveira CB, Cobián-Güemes AG, Uranga C, Baker JL, Edlund A, Rohwer F, Conrad D. 2021. Multi-Omics Study of Keystone Species in a Cystic Fibrosis Microbiome. [Int J Mol Sci 22](https://pubmed.ncbi.nlm.nih.gov/34769481/).
+Silveira CB, Cobia�n-uüemes AG, Uranga C, Baker JL, Edlund A, Rohwer F, Conrad D. 2021. Multi-Omics Study of Keystone Species in a Cystic Fibrosis Microbiome. [Int J Mol Sci 22](https://pubmed.ncbi.nlm.nih.gov/34769481/).
   
 # Analysis:
 
