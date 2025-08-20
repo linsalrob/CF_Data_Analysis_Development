@@ -25,10 +25,31 @@ Weimann A, Dinan AM, Ruis C, Bernut A, Pont S, Brown K, Ryan J, Santos L, Elliso
 - We analysed 1350 metagenomic sequence runs.
 - We predicted 676 samples out of 1350 (50.1%) have _Pseudomonas aeruginosa_
 
+
+Our results don't match with the Weimann _et al.,_ paper at all, and I can not connect the supplemental data in the Science paper with the metadata from SRA. For example, the supplemental data lists 9,837 SRA/ENA run ids, but only eight of those match the metadata in this project. See the two supplemental files, [science.adi0908_table_s1.tsv](science.adi0908_table_s1.tsv) and [science.adi0908_table_s4.tsv](science.adi0908_table_s4.tsv), both of which were downloaded from [Science](https://www.science.org/doi/10.1126/science.adi0908) on 20/8/2025.
+
+Furthermore, I contacted the first author (Dr. Aaron Weimann) about a couple of the IDs that are reported to be Pseudomonas in the metadata (e.g. ERR11682986 or ERR11683307). These samples seem to be about 50% human DNA, 25% S. aureus. and only a little bit (<1%) Pseudomonas. This does not match with the description in the paper. Dr Weimann said that those samples were not part of his study, and it is not known where they came from.
+
+I can only conclude that we correctly identified eight _Pseudomonas_ pure isolates would be likely to culture _Pseudomonas_, but at this stage we can not say anything about the other 1,342 "metagenomics" runs we analysed.
+
+Those eight are the ERR ids identified in table S4:
+
+_ ERR11840960
+_ ERR11840961
+_ ERR11840963
+_ ERR11840964
+_ ERR11840966
+_ ERR11840967
+_ ERR11840973
+_ ERR11840974
+
+
 <details>
 <summary>
-## Prediction outcomes
+Prediction outcomes
 </summary>
+
+This reflects our predictions of whether these samples would be likely to culture _Pseudomonas_. However, we don't know what the ground truth is for this project.
 
 Sample | Pseudomonas Prediction | Confidence | Certainty
  --- | --- | --- | ---
