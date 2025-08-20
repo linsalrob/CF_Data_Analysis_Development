@@ -17,7 +17,7 @@ We have included the metadata in two separate files, a [JSON format file](PRJEB5
 
 # Publications
 
-Mirhakkak MH, Chen X, Ni Y, Heinekamp T, Sae-Ong T, Xu L-L, Kurzai O, Barber AE, Brakhage AA, Boutin S, Sch√§uble S, Panagiotou G. 2023. Genome-scale metabolic modeling of Aspergillus fumigatus strains reveals growth dependencies on the lung microbiome. [Nat Commun 14:4369](https://www.nature.com/articles/s41467-023-39982-5).
+Mirhakkak MH, Chen X, Ni Y, Heinekamp T, Sae-Ong T, Xu L-L, Kurzai O, Barber AE, Brakhage AA, Boutin S, Scha§uble S, Panagiotou G. 2023. Genome-scale metabolic modeling of Aspergillus fumigatus strains reveals growth dependencies on the lung microbiome. [Nat Commun 14:4369](https://www.nature.com/articles/s41467-023-39982-5).
   
 # Analysis:
 
