@@ -1,0 +1,920 @@
+{
+    "1": [],
+    "2": [
+        "conversion"
+    ],
+    "3": [],
+    "4": [
+        "disulfide",
+        "thioldisulfide"
+    ],
+    "5": [
+        "translocation"
+    ],
+    "6": [
+        "iron"
+    ],
+    "7": [
+        "nucleotide"
+    ],
+    "8": [
+        "nuclease"
+    ],
+    "9": [
+        "cofactor",
+        "global"
+    ],
+    "10": [
+        "reductases"
+    ],
+    "11": [
+        "methionine",
+        "sulfoxide",
+        "ctsr"
+    ],
+    "12": [
+        "faecalis",
+        "enterococcus"
+    ],
+    "13": [
+        "synthases"
+    ],
+    "14": [
+        "threonine"
+    ],
+    "15": [],
+    "16": [
+        "choline",
+        "role",
+        "purine",
+        "transcriptional",
+        "nucleotide",
+        "threonine",
+        "metabolic"
+    ],
+    "17": [
+        "secretory",
+        "competence",
+        "control",
+        "teichoic",
+        "affecting",
+        "catabolite"
+    ],
+    "18": [
+        "streptococcaceae",
+        "lysis"
+    ],
+    "19": [
+        "gammaglutamyl"
+    ],
+    "20": [
+        "streptococci",
+        "jejuni",
+        "peb1",
+        "elements",
+        "major",
+        "modifying",
+        "campylobacter"
+    ],
+    "21": [],
+    "22": [
+        "magnesium",
+        "synthetase"
+    ],
+    "23": [
+        "antibiotic"
+    ],
+    "24": [],
+    "25": [],
+    "26": [],
+    "27": [
+        "functions"
+    ],
+    "28": [
+        "production"
+    ],
+    "29": [
+        "heme"
+    ],
+    "30": [],
+    "31": [],
+    "32": [
+        "antibiotic"
+    ],
+    "33": [],
+    "34": [],
+    "35": [
+        "hyaluronic",
+        "capsule",
+        "streptococcal"
+    ],
+    "36": [
+        "assembly",
+        "threonine",
+        "aspartate"
+    ],
+    "37": [
+        "antibiotic",
+        "polymerase",
+        "dipeptide"
+    ],
+    "38": [
+        "homoserine",
+        "aspartate"
+    ],
+    "39": [
+        "chromosome",
+        "clusters"
+    ],
+    "40": [
+        "archaea"
+    ],
+    "41": [
+        "shock",
+        "heat",
+        "synthetase"
+    ],
+    "42": [],
+    "43": [
+        "production"
+    ],
+    "44": [
+        "mycobacteria"
+    ],
+    "45": [
+        "groel",
+        "chaperones"
+    ],
+    "46": [],
+    "47": [
+        "base",
+        "iron"
+    ],
+    "48": [],
+    "49": [
+        "purine"
+    ],
+    "50": [
+        "biosynthetic"
+    ],
+    "51": [],
+    "52": [
+        "high",
+        "affinity",
+        "control"
+    ],
+    "53": [],
+    "54": [],
+    "55": [],
+    "56": [
+        "pyoverdine",
+        "siderophore",
+        "sensing",
+        "conjugative",
+        "aeruginosa",
+        "ligases",
+        "acinetobacter",
+        "mycobacterial",
+        "potential",
+        "pseudomonas",
+        "matrix",
+        "toxin",
+        "formation",
+        "acquisition",
+        "biofilm",
+        "prophage",
+        "quorum",
+        "pseudomonadaceae",
+        "iron",
+        "cholera",
+        "heme",
+        "phenazine",
+        "extracellular",
+        "transfer",
+        "porins"
+    ],
+    "57": [
+        "species",
+        "respiratory",
+        "carbon",
+        "nitrate",
+        "coli",
+        "siderophore",
+        "gramnegative",
+        "oxygen",
+        "escherichia",
+        "flagellum",
+        "mycobacterial",
+        "general",
+        "subtilis",
+        "chemotaxis",
+        "found",
+        "sensor",
+        "sources",
+        "gram",
+        "modifications",
+        "periplasmic",
+        "ompr",
+        "iron",
+        "partner",
+        "proteolytic",
+        "envelope",
+        "negative",
+        "receptor"
+    ],
+    "58": [
+        "maintenance",
+        "pseudomonas"
+    ],
+    "59": [
+        "assembly",
+        "betabarrel",
+        "machinery",
+        "lipopolysaccharide",
+        "lipoprotein"
+    ],
+    "60": [
+        "cistrans",
+        "isomerase"
+    ],
+    "61": [],
+    "62": [],
+    "63": [
+        "cysteine",
+        "yersiniaceae"
+    ],
+    "64": [
+        "glycine",
+        "choline",
+        "atpase"
+    ],
+    "65": [
+        "broadhostrange",
+        "vibrionaceae",
+        "plasmids"
+    ],
+    "66": [],
+    "67": [
+        "shock"
+    ],
+    "68": [
+        "heme"
+    ],
+    "69": [
+        "oxidative"
+    ],
+    "70": [],
+    "71": [],
+    "72": [],
+    "73": [],
+    "74": [],
+    "75": [
+        "subtilis",
+        "purine"
+    ],
+    "76": [
+        "phage"
+    ],
+    "77": [
+        "disulfide",
+        "periplasmic"
+    ],
+    "78": [
+        "pathways",
+        "monomeric"
+    ],
+    "79": [
+        "siderophore",
+        "small",
+        "pyochelin"
+    ],
+    "80": [],
+    "81": [
+        "complexes",
+        "plants",
+        "ribitol"
+    ],
+    "82": [],
+    "83": [],
+    "84": [
+        "cysteine",
+        "enterobactin",
+        "siderophore",
+        "oxidative",
+        "mycolic"
+    ],
+    "85": [
+        "lipopolysaccharide"
+    ],
+    "86": [
+        "clusters",
+        "choline",
+        "conversion"
+    ],
+    "87": [
+        "clusters"
+    ],
+    "88": [],
+    "89": [
+        "metal",
+        "pathways",
+        "heme"
+    ],
+    "90": [],
+    "91": [],
+    "92": [
+        "siderophore",
+        "assembly"
+    ],
+    "93": [],
+    "94": [],
+    "95": [
+        "posttranslational",
+        "biotin"
+    ],
+    "96": [
+        "glycine",
+        "cleavage"
+    ],
+    "97": [
+        "biotin"
+    ],
+    "98": [
+        "kinase"
+    ],
+    "99": [],
+    "100": [
+        "alginate"
+    ],
+    "101": [
+        "cofactor"
+    ],
+    "102": [
+        "colonization",
+        "translocation",
+        "toxin",
+        "diphtheria",
+        "nocardiaceae",
+        "widespread",
+        "acquisition",
+        "heme",
+        "island",
+        "mycobacterial"
+    ],
+    "103": [
+        "legionellaceae",
+        "iron",
+        "mycobacterial"
+    ],
+    "104": [],
+    "105": [
+        "acyl",
+        "carrier"
+    ],
+    "106": [
+        "francisellaceae"
+    ],
+    "107": [
+        "hydrolases"
+    ],
+    "108": [],
+    "109": [],
+    "110": [],
+    "111": [],
+    "112": [
+        "fusion"
+    ],
+    "113": [],
+    "114": [
+        "frameshift"
+    ],
+    "115": [
+        "antiporter"
+    ],
+    "116": [],
+    "117": [
+        "antibiotic",
+        "metabolic",
+        "pathways"
+    ],
+    "118": [
+        "group",
+        "gramnegative",
+        "lipoproteins",
+        "peptidase",
+        "mycobacterial"
+    ],
+    "119": [],
+    "120": [
+        "antibiotic",
+        "quinolone",
+        "repeat"
+    ],
+    "121": [],
+    "122": [
+        "peptidase"
+    ],
+    "123": [
+        "pyrimidine",
+        "novo"
+    ],
+    "124": [
+        "recombination",
+        "mechanisms",
+        "families"
+    ],
+    "125": [
+        "pump"
+    ],
+    "126": [],
+    "127": [],
+    "128": [],
+    "129": [],
+    "130": [
+        "antibiotic",
+        "maturation",
+        "multiple",
+        "quorumsensing"
+    ],
+    "131": [],
+    "132": [],
+    "133": [
+        "respiratory",
+        "shock",
+        "plasmid",
+        "genes",
+        "phage",
+        "replication",
+        "plants",
+        "oxidation"
+    ],
+    "134": [],
+    "135": [],
+    "136": [
+        "receptor",
+        "actinomycetes",
+        "highmolecularweight"
+    ],
+    "137": [
+        "function",
+        "recombination",
+        "ligases",
+        "unknown",
+        "virulence"
+    ],
+    "138": [],
+    "139": [
+        "streptolysin",
+        "atpase"
+    ],
+    "140": [
+        "chlamydiaceae"
+    ],
+    "141": [],
+    "142": [],
+    "143": [],
+    "144": [
+        "complexes"
+    ],
+    "145": [],
+    "146": [],
+    "147": [
+        "pyrimidine"
+    ],
+    "148": [],
+    "149": [],
+    "150": [
+        "clostridiaceae",
+        "campylobacteraceae",
+        "helicobacteraceae"
+    ],
+    "151": [],
+    "152": [],
+    "153": [],
+    "154": [
+        "lyase"
+    ],
+    "155": [],
+    "156": [],
+    "157": [],
+    "158": [
+        "pilus",
+        "drug",
+        "persistence",
+        "growth"
+    ],
+    "159": [],
+    "160": [],
+    "161": [],
+    "162": [
+        "clusters",
+        "enterococcaceae"
+    ],
+    "163": [],
+    "164": [
+        "mycobacterium",
+        "tuberculosis"
+    ],
+    "165": [],
+    "166": [
+        "midichloriaceae",
+        "modifying"
+    ],
+    "167": [
+        "streptococcus",
+        "dimycocerosate",
+        "pdim",
+        "iron",
+        "acquisition",
+        "mycoplasmoidaceae",
+        "phthiocerol",
+        "mycobacterial",
+        "virulence"
+    ],
+    "168": [],
+    "169": [],
+    "170": [
+        "esx5",
+        "mycobacteria",
+        "esx1"
+    ],
+    "171": [],
+    "172": [
+        "acylation"
+    ],
+    "173": [],
+    "174": [
+        "reduction"
+    ],
+    "175": [],
+    "176": [
+        "unknown",
+        "substrate"
+    ],
+    "177": [
+        "mprab",
+        "required",
+        "infections",
+        "corynebacteriaceae",
+        "mycobacterial"
+    ],
+    "178": [
+        "mycobacteriaceae",
+        "polymerase"
+    ],
+    "179": [],
+    "180": [],
+    "181": [
+        "oxidative"
+    ],
+    "182": [
+        "hyaluronic",
+        "acidcontaining"
+    ],
+    "183": [
+        "hyaluronate",
+        "polysaccharide",
+        "mechanisms",
+        "capsular"
+    ],
+    "184": [],
+    "185": [
+        "omptins",
+        "proteases"
+    ],
+    "186": [
+        "listeria",
+        "neisseriaceae",
+        "sulfoxide",
+        "surface",
+        "pasteurellaceae",
+        "glycine",
+        "borreliaceae",
+        "interaction",
+        "mimic"
+    ],
+    "187": [],
+    "188": [],
+    "189": [
+        "methionine",
+        "siderophore",
+        "mycobactin"
+    ],
+    "190": [
+        "induced",
+        "carbon"
+    ],
+    "191": [],
+    "192": [],
+    "193": [
+        "monooxygenase"
+    ],
+    "194": [],
+    "195": [
+        "staphylococci",
+        "poreforming",
+        "listeria",
+        "subtilis",
+        "cytolytic",
+        "formation",
+        "staphylococcaceae",
+        "biofilm",
+        "siderophore",
+        "pathogenicity",
+        "adhesins",
+        "staphylococcus",
+        "island",
+        "toxins"
+    ],
+    "196": [],
+    "197": [
+        "enterobacteriaceae",
+        "listeriaceae"
+    ],
+    "198": [
+        "histidine",
+        "export",
+        "iron",
+        "production"
+    ],
+    "199": [],
+    "200": [
+        "vibrio",
+        "antiporter",
+        "cytolysin",
+        "lipase"
+    ],
+    "201": [],
+    "202": [],
+    "203": [],
+    "204": [
+        "histidine",
+        "common",
+        "enterobacterial",
+        "antigen",
+        "oantigen"
+    ],
+    "205": [
+        "urease"
+    ],
+    "206": [],
+    "207": [
+        "sphingomyelin",
+        "bacillaceae"
+    ],
+    "208": [],
+    "209": [],
+    "210": [],
+    "211": [],
+    "212": [],
+    "213": [],
+    "214": [
+        "biotin"
+    ],
+    "215": [],
+    "216": [
+        "respiratory",
+        "antiporter"
+    ],
+    "217": [],
+    "218": [
+        "enzyme"
+    ],
+    "219": [
+        "eukaryotic"
+    ],
+    "220": [
+        "chaperones"
+    ],
+    "221": [],
+    "222": [
+        "sources",
+        "energy"
+    ],
+    "223": [
+        "conjugative",
+        "polysaccharides"
+    ],
+    "224": [
+        "capsular",
+        "polysaccharide",
+        "oxidoreductases"
+    ],
+    "225": [],
+    "226": [],
+    "227": [],
+    "228": [],
+    "229": [],
+    "230": [
+        "encapsulation",
+        "oligomers"
+    ],
+    "231": [
+        "lipopolysaccharide"
+    ],
+    "232": [
+        "glutamate"
+    ],
+    "233": [
+        "eukaryotic"
+    ],
+    "234": [],
+    "235": [],
+    "236": [],
+    "237": [
+        "bound",
+        "energy"
+    ],
+    "238": [
+        "polymerase",
+        "methyltransferase",
+        "eukaryotic"
+    ],
+    "239": [
+        "terminal",
+        "eukaryotic",
+        "heme"
+    ],
+    "240": [],
+    "241": [],
+    "242": [],
+    "243": [
+        "modifying"
+    ],
+    "244": [
+        "sensing",
+        "sensor",
+        "yersinia",
+        "quorum"
+    ],
+    "245": [
+        "clustered",
+        "functions"
+    ],
+    "246": [],
+    "247": [
+        "carbon",
+        "anaplasmataceae"
+    ],
+    "248": [],
+    "249": [],
+    "250": [
+        "biofilm",
+        "adhesin",
+        "phospholipid"
+    ],
+    "251": [
+        "comamonadaceae",
+        "cytosine",
+        "aerobactin",
+        "cyclic",
+        "dinucleotide",
+        "siderophore"
+    ],
+    "252": [
+        "core",
+        "moraxellaceae",
+        "phage",
+        "burkholderiaceae"
+    ],
+    "253": [
+        "siderophore",
+        "hexose",
+        "transfer"
+    ],
+    "254": [
+        "chromosome",
+        "kinase",
+        "prokaryotes",
+        "plants",
+        "shikimate",
+        "brucellaceae"
+    ],
+    "255": [
+        "conjugative",
+        "aerobic",
+        "transfer"
+    ],
+    "256": [
+        "siderophore",
+        "23diacetamido23dideoxydmannuronic",
+        "yersiniabactin"
+    ],
+    "257": [
+        "peptides"
+    ],
+    "258": [
+        "agrobacterium",
+        "compounds",
+        "toxin",
+        "capsule",
+        "alcaligenaceae",
+        "control",
+        "cdigmp",
+        "transfer",
+        "cyclase",
+        "conjugative"
+    ],
+    "259": [
+        "receptors",
+        "energy",
+        "zinc",
+        "transcriptional",
+        "mycobacterial"
+    ],
+    "260": [
+        "serine",
+        "plants",
+        "adaptation"
+    ],
+    "261": [
+        "bacillibactin",
+        "siderophore",
+        "enzymatic",
+        "formation"
+    ],
+    "262": [],
+    "263": [],
+    "264": [
+        "bound",
+        "esx3",
+        "mycobacteria",
+        "activation",
+        "porins"
+    ],
+    "265": [
+        "coat"
+    ],
+    "266": [
+        "colonization",
+        "accessory"
+    ],
+    "267": [
+        "rickettsiaceae",
+        "polysaccharide",
+        "autoinducer"
+    ],
+    "268": [
+        "channel"
+    ],
+    "269": [],
+    "270": [],
+    "271": [
+        "glutamate"
+    ],
+    "272": [
+        "maturation"
+    ],
+    "273": [
+        "kinase"
+    ],
+    "274": [],
+    "275": [],
+    "276": [],
+    "277": [],
+    "278": [],
+    "279": [],
+    "280": [
+        "sigma"
+    ],
+    "281": [],
+    "282": [],
+    "283": [],
+    "284": [
+        "actinomycetaceae",
+        "mycobacteria"
+    ],
+    "285": [
+        "mycobacterium"
+    ],
+    "286": [
+        "mycobacteria",
+        "iron"
+    ],
+    "287": [],
+    "288": [],
+    "289": [
+        "oligosaccharide"
+    ],
+    "290": [],
+    "291": [],
+    "292": [
+        "antibiotic"
+    ],
+    "293": [
+        "mycobacterial"
+    ],
+    "294": [],
+    "295": [],
+    "296": [],
+    "297": [],
+    "298": [
+        "antibiotic",
+        "inner"
+    ],
+    "299": [
+        "compounds",
+        "methylated"
+    ],
+    "300": []
+}

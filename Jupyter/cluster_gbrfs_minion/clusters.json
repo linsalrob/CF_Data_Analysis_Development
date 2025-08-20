@@ -1,0 +1,1499 @@
+{
+    "1": [
+        "Ribonucleotide reduction",
+        "NhaA, NhaD and Sodium-dependent phosphate transporters",
+        "Sucrose to levan conversions"
+    ],
+    "2": [
+        "Antibiotic targets in metabolic pathways",
+        "Biogenesis of c-type cytochromes",
+        "Threonylcarbamoyladenosine"
+    ],
+    "3": [
+        "Peptidase clustering with DAP",
+        "Proteasome bacterial",
+        "Cell division cluster"
+    ],
+    "4": [
+        "Biotin synthesis & utilization",
+        "Possible new toxin-antitoxin system including DivIC",
+        "tRNA aminoacylation, Gly"
+    ],
+    "5": [
+        "Thiazole.oxazole-modified microcins",
+        "Ergothioneine biosynthesis",
+        "Stringent Response, (p)ppGpp metabolism",
+        "D-tyrosyl-tRNA(Tyr) deacylase"
+    ],
+    "6": [
+        "Protein degradation",
+        "Lactose utilization",
+        "DNA repair, bacterial UvrD and related helicases"
+    ],
+    "7": [
+        "Glycogen metabolism",
+        "Mupirocin resistance",
+        "tRNA aminoacylation, Ile"
+    ],
+    "8": [
+        "dTDP-3-acetamido-3,6-dideoxy-alpha-D-galactose synthesis",
+        "dTDP-rhamnose synthesis -- gjo",
+        "dTDP-rhamnose synthesis"
+    ],
+    "9": [
+        "tRNA aminoacylation, Lys",
+        "Entner-Doudoroff Pathway",
+        "RNA pseudouridine synthases"
+    ],
+    "10": [
+        "Ribonuclease H",
+        "Biosynthesis of Arabinogalactan in Mycobacteria",
+        "CMP-legionaminic acid synthesis"
+    ],
+    "11": [
+        "tRNA nucleotidyltransferase",
+        "L-fucose utilization"
+    ],
+    "12": [
+        "Homogentisate pathway"
+    ],
+    "13": [
+        "Pyruvate formate-lyase cluster",
+        "Pyruvate formate-lyase cluster with possible role in choline utilization",
+        "Type IV pilus",
+        "Hfl operon",
+        "Cell division initiation related cluster",
+        "DNA internalization-related cluster"
+    ],
+    "14": [
+        "Ribosome LSU, bacterial",
+        "Amino acid racemase",
+        "RNA processing and degradation, bacterial",
+        "Glycolysis and Gluconeogenesis"
+    ],
+    "15": [
+        "Cluster containing Glutathione synthetase",
+        "FtsEX cell-division-associated signaling system",
+        "Mechanisms of PAS resistance",
+        "Sporulation-associated proteins with broader functions",
+        "tRNA aminoacylation, Ala",
+        "YrdC-YciO-Sua5 and associated protein families"
+    ],
+    "16": [
+        "CtsR and MscAB regulation of protein degradation",
+        "Damaged nicotinamide nucleotide NAD(P)HX repair",
+        "Bacitracin resistance",
+        "Tryptophan synthesis"
+    ],
+    "17": [
+        "Lysine DAP biosynthetic pathway",
+        "Diaminopimelate Synthesis ",
+        "Queuosine and archaeosine",
+        "Pyruvate Alanine Serine Interconversions",
+        "Sulfur metabolism related cluster"
+    ],
+    "18": [
+        "SecY2-SecA2 Specialized Transport System",
+        "Heme, hemin uptake and utilization systems in GramPositives"
+    ],
+    "19": [
+        ""
+    ],
+    "20": [
+        "Phd-Doc, YdcE-YdcD toxin-antitoxin (programmed cell death) systems",
+        "Tetracycline resistance, all mechanisms",
+        "Cluster related to 2-thiouridine modification of tRNAs",
+        "2-phosphoglycolate salvage",
+        "Siderophore Mycobactin"
+    ],
+    "21": [
+        "Lambdoid phage",
+        "Aspartate to Threonine Module",
+        "Pyruvate metabolism II: acetyl-CoA, acetogenesis from pyruvate",
+        "Threonine anaerobic catabolism gene cluster"
+    ],
+    "22": [
+        "IMP and Xanthine conversion to XMP and GMP module",
+        "Purine catabolism in Bacillus subtilis",
+        "One-carbon metabolism by tetrahydropterines",
+        "tRNA aminoacylation, Pro"
+    ],
+    "23": [
+        "Phyllobacteriaceae",
+        "Alkane biosynthesis in bacteria",
+        "Deinococcaceae",
+        "Lipid orphans"
+    ],
+    "24": [
+        "tRNA aminoacylation, Thr",
+        "tRNA aminoacylation, Phe"
+    ],
+    "25": [
+        "tRNA thiolation",
+        "Acetoin, butanediol metabolism",
+        "Tagatose utilization",
+        "Twin-arginine translocation system"
+    ],
+    "26": [
+        "Aspartate to Homoserine module",
+        "Trans-translation by stalled ribosomes",
+        "Type I restriction-modification systems",
+        "Antibiotic targets in cell wall biosynthesis",
+        "Multidrug resistance RND efflux system MexEFOprN",
+        "Adenosyl nucleosidases"
+    ],
+    "27": [
+        "High affinity phosphate transporter and control of PHO regulon",
+        "DNA repair, bacterial RecBCD pathway",
+        "Universal stress protein family",
+        "ATP-dependent Nuclease",
+        "DNA repair, bacterial DinG and relatives",
+        "Resistance to Daptomycin"
+    ],
+    "28": [
+        "YoeB-YefM toxin-antitoxin system",
+        "Phenylalanine and Tyrosine synthesis 1"
+    ],
+    "29": [
+        "P2-like phage",
+        "Fermentations: Lactate",
+        "Thiamin, hydroxymethylpyrimidine selected transporters",
+        "S-Adenosyl-L-homocysteine recycling",
+        "Glycerolipid and Glycerophospholipid Metabolism in Bacteria"
+    ],
+    "30": [
+        "tRNA aminoacylation, Asp",
+        "Chorismate Synthesis",
+        "BarA-UvrY(SirA) two-component regulatory system",
+        "tRNA aminoacylation, Cys",
+        "5-methylaminomethyl-2-thiouridine",
+        "Thiamin, thiazole, hydroxymethylpyrimidine salvage and uptake",
+        "DNA Repair Base Excision"
+    ],
+    "31": [
+        "D-alanylation of teichoic acid",
+        "Cell envelope-associated LytR-CpsA-Psr transcriptional attenuators",
+        "Magnesium transport",
+        "Glutathione: Redox cycle"
+    ],
+    "32": [
+        "Methylenetetrahydrofolate reductase",
+        "tRNA aminoacylation, Asn",
+        "Twin-arginine translocation system related cluster",
+        "Macrolides, lincosamides, streptogramins, ketolides, oxazolidinones (MLSKO) resistance: efflux systems",
+        "Fermentations: Mixed acid"
+    ],
+    "33": [
+        "tRNA aminoacylation, Arg",
+        "Ribonuclease J family",
+        "L-serine dehydratase subunits",
+        "tRNA aminoacylation, Ser",
+        "Ferrous iron transporter EfeUOB, low-pH-induced",
+        "Control of cell elongation - division cycle in Bacilli",
+        "Undecaprenyl-diphosphatases",
+        "HPr catabolite repression system",
+        "Trk and Ktr potassium uptake systems",
+        "Branched-Chain Amino Acid Biosynthesis"
+    ],
+    "34": [
+        "Antibiotic targets in transcription",
+        "Sporulation Cluster",
+        "RNA polymerase, bacterial",
+        "N-acetylneuraminate utilization"
+    ],
+    "35": [
+        "EcsAB transporter affecting expression and secretion of secretory preproteins",
+        "Fatty Acid Biosynthesis FASII",
+        "",
+        "Late competence",
+        "Streptococcaceae",
+        "Ribosomal protein S5p acylation",
+        "Coenzyme A -- gjo",
+        "Coenzyme A"
+    ],
+    "36": [
+        "Fusidic acid resistance",
+        "Translation termination factors, bacterial",
+        "Heat shock dnaK gene cluster extended",
+        "Cell division related cluster including coaD",
+        "ATP-dependent RNA helicases, bacterial",
+        "Universal GTPases",
+        "Translation elongation factor G family"
+    ],
+    "37": [
+        "Fatty acid synthesis",
+        "Stress response and cell wall lysis cluster"
+    ],
+    "38": [
+        "Macrolides, lincosamides, streptogramins, ketolides, oxazolidinones (MLSKO) resistance: ribosomal protection",
+        "Glutathione: Biosynthesis and gamma-glutamyl cycle",
+        "Efflux ABC transporters BmrCD and LmrCD involved in multidrug resistance",
+        "Glycyl-tRNA synthetase"
+    ],
+    "39": [
+        "Resistance to Triclosan",
+        "DNA repair, bacterial",
+        "Ribosome activity modulation",
+        "Enoyl-[ACP] reductases disambiguation",
+        "Repair of Iron Centers",
+        "Malonate decarboxylase",
+        "2-aminophenol Metabolism",
+        "Copper homeostasis: copper tolerance",
+        "Carbonic anhydrase"
+    ],
+    "40": [
+        "Antibiotic targets in protein synthesis",
+        "Fe-S cluster assembly",
+        "Glycolysis and Gluconeogenesis, including Archaeal enzymes",
+        "Ribosomal proteins, single-copy",
+        "Galactose utilization"
+    ],
+    "41": [
+        "GMP synthase",
+        "NAD and NADP cofactor biosynthesis bacterial",
+        "Cyanate hydrolysis",
+        "Fatty Acid Biosynthesis cluster",
+        "Nudix proteins (nucleoside triphosphate hydrolases)",
+        "NAD and NADP cofactor biosynthesis global",
+        "Proline Synthesis"
+    ],
+    "42": [
+        "",
+        "Carnobacteriaceae"
+    ],
+    "43": [
+        "Streptococcal Hyaluronic Acid Capsule",
+        "Sulfoquinovose biosynthesis cluster"
+    ],
+    "44": [
+        "Sex pheromones in Enterococcus faecalis and other Firmicutes",
+        "Cadmium resistance",
+        "Dpp dipeptide ABC transport system"
+    ],
+    "45": [
+        "Threonine synthase cluster",
+        "Rcn nickel and cobalt homeostasis system",
+        "Hyperosmotic potassium uptake",
+        "HipAB system implicated in growth arrest, persistence and drug tolerance",
+        "Peptide methionine sulfoxide reductase",
+        "2-O-alpha-mannosyl-D-glycerate utilization",
+        "Toxin-Antitoxin system HigAB",
+        "Programmed cell death toxin-antitoxin PezAT"
+    ],
+    "46": [
+        "BOX elements in Streptococci",
+        "Aminoglycoside modifying enzymes: O-nucleotidyltransferases",
+        "A Hypothetical Protein Related to Proline Metabolism",
+        "tRNA aminoacylation, Val",
+        "Translation initiation factors, bacterial",
+        "Lysine leader peptide"
+    ],
+    "47": [
+        "Sporulation proteins SigEG cluster",
+        "Efflux ABC transporter MdlAB",
+        "PEB1, the major cell-binding factor of Campylobacter jejuni",
+        "Toxin-antitoxin replicon stabilization systems",
+        "Acetolactate synthase subunits",
+        "Inner membrane proteins of MarC family, not involved in antibiotic resistance"
+    ],
+    "48": [
+        "rRNA modification related cluster including tlyA",
+        "DeNovo Purine Biosynthesis",
+        "Purine nucleotide synthesis regulator",
+        "Replication-associated recombination protein RarA"
+    ],
+    "49": [
+        "Fet iron export system",
+        "Oxygen-sensing two-component regulatory system NreABC",
+        "Metal chelatases",
+        "Arginine succinyltransferase pathway",
+        "Heme Biosynthesis: protoporphyrin-, coproporphyrin- and siroheme-dependent pathways",
+        "Urea carboxylase and Allophanate hydrolase cluster",
+        "Denitrifying reductase gene clusters",
+        "BactLuciferaseComplex"
+    ],
+    "50": [
+        "Multi-subunit cation antiporter",
+        "Bile hydrolysis",
+        "Staphylococcaceae",
+        "Taurine and alkanesulfonate utilization as sulfur sources",
+        "Siderophore Anthrachelin",
+        "DNA repair, bacterial SbcCD exonuclease",
+        "Resistance to the fluoroquinolones norfloxacin and ciprofloxacin",
+        "Choline uptake and conversion to betaine clusters",
+        "Bacillithiol synthesis",
+        "",
+        "Biofilm formation in Staphylococcus",
+        "Dissimilatory nitrite reductase",
+        "DNA repair, bacterial photolyase"
+    ],
+    "51": [
+        "Adhesins in Staphylococcus",
+        "Listeria Pathogenicity Island LIPI-1 extended",
+        "Cytolysin and Lipase operon in Vibrio",
+        "Teicoplanin resistance in Staphylococci",
+        "Alpha-acetolactate operon",
+        "Fatty acid catabolic operon fadN-fadA-fadE (yusJKL)",
+        "Siderophore Staphylobactin",
+        "Biosynthesis of 4,4'-diapolycopene dialdehyde",
+        "Potassium-transporting ATPase",
+        "Molybdenum cofactor biosynthesis",
+        "Pore-forming cytolytic toxins"
+    ],
+    "52": [
+        "Yersiniaceae",
+        "Iron Scavenging cluster in Thermus",
+        "Histidine Biosynthesis -- gjo",
+        "The Chv two-component regulatory system",
+        "Bacterial pathways for dimethylsulfoniopropionate and acrylate catabolism",
+        "p-Aminobenzoyl-Glutamate Utilization",
+        "Toxins",
+        "Siderophore Pyoverdine",
+        "Citrate uptake cluster",
+        "Methylglyoxal resistance in Bacillus subtilis",
+        "Coenzyme A Biosynthesis cluster",
+        "Quinone oxidoreductase family",
+        "Histidine Biosynthesis"
+    ],
+    "53": [
+        "Cytochrome bo ubiquinol oxidase ",
+        "NADH ubiquinone oxidoreductase vs. multi-subunit cation antiporter",
+        "Heme O and Heme A biosynthesis",
+        "Cysteine synthesis",
+        "Post-translational modification of proteins"
+    ],
+    "54": [
+        "Methylglyoxal Metabolism",
+        "2-oxoglutarate dehydrogenase ",
+        "Menaquinone biosynthesis from chorismate via 1,4-dihydroxy-6-naphthoate"
+    ],
+    "55": [
+        "TCA Cycle",
+        "Glyoxylate bypass",
+        "Glycine cleavage system",
+        "Lipoic acid metabolism",
+        "Degradation of branched-chain amino acids and alpha-keto acids [Leu, Val]",
+        "Bicyclomycin resistance cluster"
+    ],
+    "56": [
+        "Beta-lactamases Ambler class A",
+        "",
+        "Sedimenticolaceae",
+        "Zoogloeaceae",
+        "Burkholderiaceae",
+        "Hopanoid biosynthesis",
+        "Chitinophagaceae",
+        "Sphingomonadaceae",
+        "Gemmataceae",
+        "mRNA 3-end processing factor containing cluster",
+        "Haloferacaceae",
+        "Acetobacteraceae",
+        ""
+    ],
+    "57": [
+        "Lipoylation-related cluster",
+        "Anaerobic module of TCA",
+        "Dihydroxyacetone kinases",
+        "Dehydrogenase complexes",
+        "Urease subunits"
+    ],
+    "58": [
+        "Lipoylated proteins",
+        "Listeriaceae",
+        "Hydrolysis of sphingomyelin",
+        "Fosfomycin resistance",
+        "Carnitine metabolism and transport",
+        "Pseudomonadaceae",
+        "Glycine betaine synthesis from choline"
+    ],
+    "59": [
+        "Proline biosynthesis (for review)",
+        "Arginine biosynthesis via N-acetyl-L-citrulline",
+        "Arginine biosynthesis",
+        "ESAT-6 proteins secretion system in Firmicutes extended",
+        "Urea cycle",
+        "Pterin synthesis related cluster"
+    ],
+    "60": [
+        "Predicted secretion system W clustering with cell division proteins",
+        "V-Type ATP synthase"
+    ],
+    "61": [
+        "Dermateaceae",
+        "Didymellaceae",
+        "alpha-glucoside ABC transporter",
+        "",
+        "Tricladiaceae",
+        "D-arabinitol utilization",
+        "",
+        "Chlorodendraceae",
+        "D-allose utilzation",
+        "Aerococcaceae",
+        "Christensenellaceae"
+    ],
+    "62": [
+        "Autoinducer 2 (AI-2) transport and processing (lsrACDBFGE operon)",
+        "Citrate lyase",
+        "Noctuidae",
+        "Propanediol utilization",
+        "L-fucose dissimilation cluster",
+        ""
+    ],
+    "63": [
+        "Helicobacteraceae",
+        "Planococcaceae",
+        "Bacillus cannibalism system",
+        "Oxaloacetate decarboxylase Na-pump",
+        "Chlorophyll Biosynthesis in plants and prokaryotes"
+    ],
+    "64": [
+        "Sporomusaceae",
+        "Peptococcaceae",
+        "Diversisporaceae",
+        "Hydrogenothermaceae",
+        "Pyrinomonadaceae",
+        "MazEF toxin-antitoxing (programmed cell death) system",
+        "Cellulosilyticaceae",
+        "Butyricicoccaceae",
+        "Petrotogaceae",
+        "",
+        "Trichuridae",
+        "Desulfuribacillaceae",
+        "Type III secretion system orphans",
+        "",
+        "",
+        "Natronincolaceae",
+        "Dacrymycetaceae",
+        "",
+        "Salasmaviridae",
+        "",
+        "Methanosarcinaceae",
+        ""
+    ],
+    "65": [
+        "Methionine Salvage",
+        "Cluster related to PAS - para-aminosalicylic acid resistance"
+    ],
+    "66": [
+        "Cobalamin synthesis from Cob(II)yrinate a,c diamide",
+        "Copper Transport System",
+        "Cobalamin synthesis, Precorin-2 to Cob(II)yrinate a,c diamide, anaerobic",
+        "Cobalamin synthesis"
+    ],
+    "67": [
+        "Sulfurtransferase and Ssec cluster",
+        "Acetyl-CoA Pathway Wood-Ljungdahl",
+        "Sulfur transport related cluster",
+        "Lipopolysaccharide in K12",
+        "Lysine fermentation to crotonoyl-CoA"
+    ],
+    "68": [
+        "Molybdopterin cytosine dinucleotide",
+        "Cell wall-associated cluster in Mycobacterium",
+        "NiFe hydrogenase maturation",
+        "Eggerthellaceae",
+        "Xanthine dehydrogenase subunits",
+        "Corynebacteriaceae",
+        "",
+        "Veillonellaceae"
+    ],
+    "69": [
+        "Resistance to Ethionamide and Isoniazid",
+        "Weeksellaceae"
+    ],
+    "70": [
+        "Protein chaperones",
+        "Glutamate dehydrogenases",
+        "Folate biosynthesis cluster"
+    ],
+    "71": [
+        "Brachyspiraceae",
+        "Flexistipitaceae",
+        "Kytococcaceae",
+        "Heme and heme d1 biosynthesis from siroheme",
+        "Tolerance to colicin E2 and CreBC signal transduction system",
+        "DNA sulfur modification cluster",
+        "",
+        "",
+        "Conjugative transfer",
+        "Saccharospirillaceae",
+        "Cucurbitaceae",
+        "",
+        "Sigma54-dependent transcription related gene cluster",
+        "Tricarboxylate transport system",
+        "RuBisCO operon",
+        "",
+        "Piptocephalidaceae",
+        "Gracilibacteraceae",
+        "",
+        "Salisaetaceae",
+        "Siderophore Aerobactin",
+        "Sarcosine oxidases, monomeric and heterotetrameric",
+        "",
+        "Fusobacteriaceae",
+        "Trans-envelope signaling system VreARI in Pseudomonas",
+        "Steigviridae",
+        "Hyaluronic Acid-containing Cell Walls",
+        "AMP to 3-phosphoglycerate",
+        "",
+        "Tsukamurellaceae",
+        "Sutterellaceae",
+        "Lentimicrobiaceae",
+        "",
+        "Isotomidae",
+        "Cyprididae",
+        "Prolixibacteraceae",
+        "Pseudonocardiaceae",
+        "Darwinulidae",
+        "",
+        "",
+        "GlrKR two-component regulatory system",
+        "Methanogenesis from methylated compounds",
+        "",
+        "Korobacteraceae",
+        "NADP-reducing [FeFe]-hydrogenase",
+        "Mytilidae",
+        "",
+        "Cyclobacteriaceae",
+        "Galactosamine Substituent of Arabinogalactan in Mycobacteria",
+        "",
+        "Diphtheria toxin",
+        "Carotenogenesis related cluster",
+        "Saprospiraceae"
+    ],
+    "72": [
+        "Tetracycline resistance, ribosomal protection type",
+        "Acholeplasmataceae",
+        "tRNA splicing",
+        "NAD-reducing [NiFe] hydrogenase HoxFUYH(E)",
+        "Chemotaxis in Escherichia coli and Bacillus subtilis",
+        "ABC-type iron transport system"
+    ],
+    "73": [
+        "Promicromonosporaceae",
+        "Ceratobasidiaceae",
+        "",
+        "",
+        "",
+        "Acidithiobacillaceae",
+        "Peronosporaceae",
+        "ABC transporter YeiABEF",
+        "Moraceae",
+        "Small efflux transporters of SMR family",
+        "",
+        "Atopobiaceae",
+        "Chitobiose",
+        "",
+        "",
+        "Acidobacteriaceae",
+        "Asteraceae",
+        "",
+        "Archangiaceae",
+        "Obscuribacteraceae",
+        "Eubacteriaceae",
+        "Hydnaceae",
+        "Coriobacteriaceae",
+        "",
+        "",
+        "Thermomonosporaceae"
+    ],
+    "74": [
+        "",
+        "",
+        "Nocardiopsaceae",
+        "Widespread colonization island",
+        "2,3-diacetamido-2,3-dideoxy-d-mannuronic acid",
+        "Possible heterocyst differentiation related cluster",
+        "",
+        "Glutamate fermentation",
+        "Anaerolineaceae",
+        "Bacteroides capsular polysaccharide transcription antitermination proteins",
+        "Parameciidae",
+        "",
+        "Acyclic terpene utilization",
+        "Carboxysome",
+        "Methylobacteriaceae",
+        "Electron-bifurcating caffeyl-CoA reductase-Etf complex",
+        "Barnesiellaceae",
+        "",
+        "Sporulation gene orphans",
+        "Chenopodiaceae",
+        "Endozoicomonadaceae",
+        "Desulfitobacteriaceae",
+        "",
+        "Phosphonate metabolism",
+        "Phosphoenolpyruvate phosphomutase",
+        "Cyperaceae",
+        "Euphorbiaceae",
+        "Akkermansiaceae",
+        "",
+        "Eubacteriales Family XIII. Incertae Sedis",
+        "Butyrate kinase pathway",
+        "Outer membrane porins in Pseudomonas and Acinetobacter",
+        "Siderophore Yersiniabactin Biosynthesis",
+        "",
+        "Lachnospiraceae",
+        "Anaerovoracaceae",
+        "Siderophore Enterobactin"
+    ],
+    "75": [
+        "Glutaconate CoA-transferase or 3-oxoadipate CoA-transferase Subunits",
+        "Chromobacteriaceae",
+        "Teichuronic acid biosynthesis",
+        "",
+        "Rhodothermaceae",
+        "Aromatic amino acid interconversions with aryl acids",
+        "Indole-pyruvate oxidoreductase complex",
+        "Rcs two-component regulator of capsule synthesis",
+        "Two partner secretion pathway (TPS)",
+        "Type 4 secretion and conjugative transfer",
+        "Sanguibacteraceae",
+        "Cryomorphaceae",
+        "Paludibacteraceae",
+        "Mycobacterial lipid and multidrug efflux system proteins MmpL, MmpS",
+        "Sigma54-dependent transcription related gene cluster 2",
+        "Culicoidibacteraceae",
+        "Peptostreptococcaceae",
+        "Anaerotignaceae",
+        "Methanocaldococcaceae",
+        "HU-alpha and dsDNA mimic protein interaction",
+        "Ixodidae"
+    ],
+    "76": [
+        "Vancomycin resistance, D-Ala-D-Ser, D-Ala-Lac ligases",
+        "Coenzyme B synthesis",
+        "Arcobacteraceae",
+        "",
+        "Mycobacterial gene cluster associated with resistance against FAS-II antibiotics",
+        "Microcystaceae",
+        "Hyaluronate utilization",
+        "",
+        "Cactaceae",
+        "",
+        "Spheniscidae",
+        "Brevibacteriaceae",
+        "Lysobacteraceae",
+        "Desulfovibrionaceae",
+        "Halomonadaceae",
+        "Dethiosulfovibrionaceae",
+        "Chaoboridae"
+    ],
+    "77": [
+        "",
+        "",
+        "Methylacidiphilaceae",
+        "Integrons",
+        "Geminocystaceae",
+        "Branchiostomatidae",
+        "Nostocaceae",
+        "",
+        "Syntrophomonadaceae",
+        "Ambisporaceae",
+        "",
+        "",
+        "Roseobacteraceae",
+        "",
+        "Aliceevansviridae",
+        "Autographiviridae"
+    ],
+    "78": [
+        "Trypanosomatidae",
+        "Lithodesmiaceae",
+        "Chlamydiaceae",
+        "Nitrobacteraceae",
+        "Thermotogaceae",
+        "Neocallimastigaceae",
+        "Dihydropyrimidine dehydrogenase",
+        "Pocilloporidae",
+        "Efflux ABC transporter YadGH",
+        "",
+        "Poxviridae",
+        "Methanobacteriaceae",
+        "Sporolactobacillaceae",
+        "Polymyxin resistance, lipid A modifications with 4-amino-4-deoxy-L-arabinose",
+        "Polymyxin resistance",
+        "L-galactonate utilization",
+        "Adaptation to d-cysteine",
+        "Pumilibacteraceae",
+        "",
+        "",
+        "Selenomonadaceae",
+        "Hydrogenimonadaceae",
+        "Crocinitomicaceae",
+        "Coprobacillaceae"
+    ],
+    "79": [
+        "Listeria surface proteins: Internalin-like proteins",
+        "Nicotinate catabolism, anaerobic",
+        "Glycine reductase, sarcosine reductase and betaine reductase",
+        "N,N'-diacetylbacillosamine",
+        "Gemellaceae",
+        "Selenocysteine metabolism",
+        "Mycobacterial FadE proteins Acyl-CoA dehydrogenase",
+        "Tol-Pal Cell Envelope Complex"
+    ],
+    "80": [
+        "Demerecviridae",
+        "Proteorhodopsin",
+        "",
+        "Mu-like phage",
+        "Aphanizomenonaceae",
+        "A new toxin - antitoxin system",
+        "Mycobacterial HadABC proteins ((3R)-hydroxyacyl-ACP dehydrates of FASII)",
+        "Mycobacterial heme acquisition system",
+        "Neisseriaceae"
+    ],
+    "81": [
+        "ABC transporter of unknown substrate X",
+        "Tripartite multidrug efflux systems (of MFS type) EmrKY-TolC and EmrAB-TolC",
+        "Lysianassidae",
+        "Lampyridae",
+        "Adenylylsulfate reductase",
+        "",
+        "Biofilm Adhesin Biosynthesis",
+        "Vibrioferrin synthesis",
+        "Carbon storage regulator",
+        "Spiroplasmataceae",
+        "",
+        "Osmotic stress cluster",
+        "CytR regulation",
+        "",
+        "Sulfate assimilation related cluster",
+        "Sulfur transfer pathway CsdAEL",
+        "Phospholipid and Fatty acid biosynthesis related cluster",
+        "Shikimate kinase SK3 cluster",
+        "TAM transport system",
+        "Respiratory Systems - Shewanella (updated)",
+        "General Secretion Pathway",
+        "",
+        "Putative TldE-TldD proteolytic complex",
+        "",
+        "Pasteurellaceae",
+        "",
+        "Periplasmic nitrate reductase EC 1.7.99.4"
+    ],
+    "82": [
+        "ABC transporter YxeMNO",
+        "Sulfolobaceae",
+        "ABC transporter tungstate (TC 3.A.1.6.2)",
+        "Spirochaetaceae",
+        "PPE multigene family in Mycobacterium tuberculosis complex (MTBC)",
+        "PE multigene family in Mycobacterium tuberculosis complex (MTBC)",
+        "Orchitophryidae",
+        "IbrA and IbrB: co-activators of prophage gene expression",
+        "Hyphomicrobiaceae",
+        "Rhodospirillaceae",
+        "Leptospiraceae",
+        "Oscillospiraceae",
+        "Dysgonomonadaceae"
+    ],
+    "83": [
+        "Desulfallaceae",
+        "Tripartite multidrug efflux systems (of RND type) AcrAB-TolC and related transporters",
+        "Peptide ABC transport system Sap",
+        "Delta(6)-desaturase containing cluster",
+        "Polyadenylation, bacterial",
+        "Cysteine dioxygenase containing cluster 1",
+        "Formate dehydrogenase",
+        "MukBEF Chromosome Condensation",
+        "Anaerobic dimethyl sulfoxide reductase (EC 1.8.5.3)",
+        "Iron transport system including ABC transporter"
+    ],
+    "84": [
+        "Theridiidae",
+        "Clostridiaceae",
+        "Oikopleuridae",
+        "Iron acquisition in Streptococcus",
+        "",
+        "Francisellaceae",
+        "Solanaceae"
+    ],
+    "85": [
+        "Planctomycetaceae",
+        "Type III secretion systems",
+        "Haladaptataceae",
+        "Nanosynbacteraceae",
+        "Ethylmalonyl-CoA pathway of C2 assimilation",
+        "Nephilidae",
+        "",
+        "Tepidanaerobacteraceae",
+        "Cordycipitaceae",
+        "",
+        "Sterolibacteriaceae",
+        "D-arabinose utilization",
+        "D-galacturonate utilization, oxidative pathway",
+        "",
+        "Aeromonadaceae",
+        "",
+        "Styelidae",
+        "",
+        "Rhinatrematidae",
+        "Gadidae",
+        "Piscirickettsiaceae",
+        "",
+        "Pseudoalteromonadaceae",
+        "Intrasporangiaceae",
+        "Chromatiaceae",
+        "Geodermatophilaceae",
+        "",
+        "Daphniidae",
+        "",
+        "Type III secretion system",
+        "Pulicidae",
+        "",
+        "",
+        "Heterorhabditidae",
+        "",
+        "Philodinidae",
+        "Methylhydantoinase",
+        "",
+        "Marinilabiliaceae",
+        "Cholesterol catabolism",
+        "",
+        "Mycoplasmoidaceae",
+        "Mycoplasmataceae",
+        "Desulfurellaceae",
+        "Abyssicoccaceae",
+        "Dictyosteliaceae",
+        "tRNA modification, 5-oxyacetyl uridine (cmo5U34)",
+        "Nakamurellaceae",
+        "Propionibacteriaceae",
+        "Copper transport and blue copper proteins",
+        "",
+        "Cellulomonadaceae",
+        "",
+        "Stentoridae",
+        "Balneolaceae",
+        "Sigmoideomycetaceae"
+    ],
+    "86": [
+        "Bacillaceae",
+        "Peptoniphilaceae",
+        "CMP-pseudaminic acid synthesis",
+        "Paenibacillaceae",
+        "Trimethylamine-N-oxide operon"
+    ],
+    "87": [
+        "",
+        "Alicyclobacillaceae",
+        "Thermoactinomycetaceae",
+        "",
+        "Vir-like type 4 secretion system",
+        "",
+        "",
+        "Nanoperiomorbaceae",
+        "",
+        "",
+        "Macrolides, lincosamides, streptogramins, ketolides, oxazolidinones (MLSKO) resistance: rRNA methylases",
+        "",
+        "",
+        "Thermodesulfovibrionaceae",
+        "",
+        "",
+        "Methylococcaceae",
+        "Pirellulaceae",
+        "Devosiaceae",
+        "",
+        "Sneathiellaceae",
+        "Peptoclostridiaceae",
+        "Filifactoraceae",
+        "Acidiferrobacteraceae",
+        "Natranaerofabaceae",
+        "Vallitaleaceae",
+        "Succinivibrionaceae",
+        "Cardiobacteriaceae",
+        "Holosporaceae",
+        "Azospirillaceae",
+        "",
+        "Streptosporangiaceae",
+        "Funariaceae",
+        "",
+        "Nectriaceae",
+        "Strophariaceae",
+        "Sulfhydrogenase",
+        "",
+        "Exidiaceae",
+        "Chrysomelidae",
+        "Sminthuridae",
+        "Mesyanzhinovviridae",
+        "Gonapodyaceae",
+        "Sox thiosulfate oxidation system",
+        "Hymenochaetaceae",
+        "Pteridaceae",
+        "Convolvulaceae",
+        "Poaceae",
+        "Bacteriocin resistance related cluster"
+    ],
+    "88": [
+        "",
+        "Legionellaceae",
+        "Anaerobic Oxidative Degradation of L-Ornithine",
+        "Sphaerotilaceae",
+        "Biogenesis of cbb3-type cytochrome c oxidases",
+        "Porphyromonadaceae",
+        "Maricaulaceae",
+        "Lipid-linked oligosaccharide synthesis related cluster",
+        "",
+        "Syntrophobacteraceae",
+        "",
+        "Glutathione analogs: mycothiol",
+        "",
+        "Rikenellaceae"
+    ],
+    "89": [
+        "",
+        "",
+        "Barnase-barstar complex",
+        "Onchocercidae",
+        "Thermoproteaceae",
+        "Streptolysin S",
+        "Nosematidae",
+        "Methylophilaceae",
+        "Thermococcaceae",
+        "Haliotidae",
+        "Hexose phosphate transport system",
+        "",
+        "Cervidae",
+        "Salmochelin-mediated Iron Acquisition",
+        "",
+        "",
+        "Caldilineaceae",
+        "Paracoccaceae",
+        "Wickerhamomycetaceae",
+        "Polysulfide reductase EC 1.12.98.4 and Thiosulfate reductase",
+        "Formicidae",
+        "",
+        "Sulfurovaceae",
+        "Aminobacteriaceae",
+        "Glomerellaceae",
+        "",
+        "",
+        "Treponemataceae",
+        "",
+        "",
+        "Desulfurobacteriaceae",
+        "RSF1010 like IncQ broad-host-range plasmids",
+        "",
+        "Straboviridae",
+        "Heliobacteriaceae",
+        "Fibrobacteraceae",
+        "Yeguiaceae",
+        "Mycobacteriaceae",
+        "Sulfurimonadaceae"
+    ],
+    "90": [
+        "Trueperaceae",
+        "Rountreeviridae",
+        "Sepiidae",
+        "Macrostomidae",
+        "Taeniidae",
+        "Prochlorococcaceae",
+        "Flammeovirgaceae",
+        "4-hydroxybenzoyl-CoA reductase",
+        "Ktedonobacteraceae",
+        "",
+        "",
+        "",
+        "Vitaceae",
+        "Agrobacterium opine transport",
+        "",
+        "Alkane synthesis in bacteria 2",
+        "Theileriidae",
+        "Hexamitidae",
+        "Stress proteins YciF, YciE",
+        "Chlamydomonadaceae",
+        "",
+        "Bogoriellaceae",
+        "Bacillariaceae",
+        "Breznakiellaceae",
+        "Frankiaceae",
+        "Saccharomycetaceae",
+        "",
+        "Verrucomicrobiaceae",
+        "Predicted secretion system X",
+        "Coenzyme F420 hydrogenase",
+        "",
+        "Thermoleophilaceae",
+        "Thermodesulfobiaceae",
+        "Trebouxiaceae",
+        "Coxiellaceae",
+        "Hakubellaceae",
+        "",
+        "",
+        "Extracellular matrix proteins (PEL) involved in glucose-rich biofilm formation in Pseudomonas",
+        "",
+        "Canidae",
+        "Chitinibacteraceae",
+        "Coenzyme F420 synthesis",
+        "Nitrosomonadaceae",
+        "Caminicellaceae",
+        "",
+        "Formicariidae",
+        "Possible stress related actinobacterial cluster"
+    ],
+    "91": [
+        "D-threonate, L-threonate and D-erythronate utilization",
+        "Nanogingivalaceae",
+        "Desulfobacteraceae",
+        "Cercopithecidae",
+        "Synechococcaceae",
+        "Enterobacteriaceae",
+        "",
+        "Glossiphoniidae",
+        "",
+        "Marinobacteraceae",
+        "Suoliviridae",
+        "Tissierellaceae",
+        "Sulfate reduction-associated complexes",
+        "Tepidimicrobiaceae",
+        "Gordoniaceae",
+        "Polymyxin resistance, lipid A modifications with phosphoethanolamine"
+    ],
+    "92": [
+        "Glutathione: Non-redox reactions",
+        "Chaperones GroEL GroES and Thermosome",
+        "Translation initiation factors, eukaryotic and archaeal",
+        "S-methylmethionine",
+        "Cyanobacterial bypass in the TCA"
+    ],
+    "93": [
+        "Bartonellaceae",
+        "Acidaminococcaceae",
+        "Resistance to Vancomycin and Teicoplanin",
+        "Ectoine, hydroxyectoine uptake and catabolism",
+        "Ploettnerulaceae",
+        "Orbaceae",
+        "Olpidiaceae",
+        "",
+        "Herelleviridae"
+    ],
+    "94": [
+        "Gigasporaceae",
+        "Acutalibacteraceae",
+        "Brassicaceae",
+        "",
+        "AttEFGH ABC Transport System",
+        "",
+        "Heterocyst formation in cyanobacteria",
+        "Aminoglycoside modifying enzymes: O-phosphotransferases",
+        "Glutathionylspermidine and Trypanothione",
+        "Sodium-transporting ATPase",
+        "Psittacicellaceae",
+        "AaeAB efflux system for hydroxylated, aromatic carboxylic acids",
+        "Natranaerobiaceae",
+        "",
+        "Spirosomataceae",
+        "Carnitine operon",
+        "Saccharimonadaceae",
+        "",
+        "Ethanolamine utilization",
+        "Phenylacetyl-CoA catabolic pathway (core)"
+    ],
+    "95": [
+        "D-gluconate and ketogluconates metabolism",
+        "Formaldehyde assimilation: Ribulose monophosphate pathway"
+    ],
+    "96": [
+        "DNA processing cluster",
+        "Cytochrome d ubiquinol oxidase operon"
+    ],
+    "97": [
+        "Hydroxy-fatty acid production as stress response",
+        "Chlorophyll a synthase and phytol kinase cluster"
+    ],
+    "98": [
+        "Actinomycetaceae",
+        "L-ascorbate utilization (and related gene clusters)",
+        "RecA and RecX"
+    ],
+    "99": [
+        "Bacterial checkpoint-control-related cluster",
+        "Pentose phosphate pathway",
+        "Polyamine Metabolism",
+        "VraTSR and LiaFSR three-component regulatory systems",
+        "Photosystem I",
+        "Mevalonate metabolic pathway"
+    ],
+    "100": [
+        "Nucleoside uptake and degradation cluster",
+        "Inositol catabolism",
+        "Lactobacillaceae",
+        "Photosystem II",
+        "Cell invasion-related virulence operon MCE",
+        "Bacteriocins in Lactobacilli"
+    ],
+    "101": [
+        "Phosphatidylinositol mannosides biosynthesis related cluster",
+        "Isoprenoid Biosynthesis: Interconversions",
+        "Pyruvate metabolism I: anaplerotic reactions, PEP",
+        "Cyanophycin Metabolism"
+    ],
+    "102": [
+        "Histidine Degradation",
+        "Folate Biosynthesis",
+        "Enterobacterial common antigen (LPS O-antigen)",
+        "Murein hydrolase regulation and cell death"
+    ],
+    "103": [
+        "D-3-phosphoglycerate to phosphoserine module",
+        "Metabolite repair"
+    ],
+    "104": [
+        "Myxococcaceae",
+        "HMG CoA Synthesis",
+        "Respiratory complex I in plants (plastidial) and cyanobacteria",
+        "Dermabacteraceae"
+    ],
+    "105": [
+        "Na-driven 2-hydroxyglutarate pathway",
+        "Proline, 4-hydroxyproline uptake and utilization"
+    ],
+    "106": [
+        "CoA disulfide thiol-disulfide redox system",
+        "Acyl carrier protein"
+    ],
+    "107": [
+        "ESAT-6 protein secretion system in Mycobacteria (locus ESX-5)",
+        "Erwiniaceae",
+        "Microbacteriaceae",
+        "Micromonosporaceae",
+        "Nocardioidaceae",
+        "",
+        "ESAT-6 proteins secretion system in Mycobacteria (locus ESX-1)",
+        "Vibrionaceae",
+        "Nitrospiraceae",
+        "Desulfotomaculaceae",
+        "Brucellaceae",
+        "Salicaceae",
+        "Anaerobic toluene and ethylbenzene degradation",
+        "Rhabditidae"
+    ],
+    "108": [
+        "Shewanellaceae",
+        "Desulfococcaceae",
+        "Chloramphenicol resistance",
+        "Nocardiaceae",
+        "Spore germinant receptors",
+        "Spore germination",
+        "",
+        "Psyllidae",
+        "Rhizobiaceae",
+        "",
+        "Actinospicaceae",
+        "",
+        "Theaceae",
+        "Bacterial cell division related cluster 2",
+        "Microascaceae"
+    ],
+    "109": [
+        "RuvABC plus a hypothetical",
+        "Cobalamin synthesis, Precorin-2 to Cob(II)yrinate a,c diamide, aerobic",
+        "Protein-O-mannosyltransferase and 16S rRNA (cytidine(1402)-2'-O)-methyltransferase cluster"
+    ],
+    "110": [
+        "De Novo Pyrimidine Synthesis",
+        "Biotin synthesis cluster",
+        "Photorespiration (oxidative C2 cycle)",
+        "Cold shock proteins of CSP family"
+    ],
+    "111": [
+        "Alcaligenaceae",
+        "Leptotrichiaceae",
+        ""
+    ],
+    "112": [
+        "Putative oxidase COG2907",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Caulobacteraceae",
+        "Flagellum",
+        "Malasseziaceae",
+        "Mycolic acid synthesis 2",
+        "Campylobacteraceae",
+        "Malvaceae",
+        "",
+        "Mimiviridae",
+        "Comamonadaceae",
+        "Oxalobacteraceae",
+        "Thermoanaerobacteraceae",
+        "Orthoherpesviridae",
+        "Pleosporaceae",
+        "Lawsonellaceae",
+        "Streptomycetaceae"
+    ],
+    "113": [
+        "Protection from Reactive Oxygen Species",
+        "Arsenic resistance",
+        "Two cell division clusters relating to chromosome partitioning"
+    ],
+    "114": [
+        "Glycerol fermentation to 1,3-propanediol",
+        "Nickel-requiring"
+    ],
+    "115": [
+        "Glycerol ABC transporter"
+    ],
+    "116": [
+        "Type I secretion systems disambiguation",
+        "Tripartite efflux system (of RND type) associated with Geranylgeranyl-PP synthase",
+        "Inositol-containing phospholipids",
+        "Ribitol utilization"
+    ],
+    "117": [
+        "Ectoine synthesis"
+    ],
+    "118": [
+        "Succinate dehydrogenase and Fumarate reductase cpmlexes",
+        "Menaquinone biosynthesis from chorismate via 1,4-dihydroxy-2-naphthoate",
+        "Biotin biosynthesis",
+        "Branched-chain amino acids and alpha-keto acids utilization as energy sources"
+    ],
+    "119": [
+        "Methylthiotransferases",
+        "Muconate lactonizing enzyme family",
+        "D-Galacturonate and D-Glucuronate Utilization",
+        "Fatty acid degradation",
+        "3-amino-5-hydroxybenzoic Acid Synthesis",
+        "2-ketoacid oxidoreductases disambiguation"
+    ],
+    "120": [
+        "Curculionidae",
+        "",
+        "",
+        "Desulfonauticaceae",
+        "Mycobacterial multidrug efflux systems implicated in AMR ",
+        "Cytophagaceae",
+        "Spongiibacteraceae",
+        "Dictyoglomaceae",
+        "EnvZ and OmpR regulon",
+        "Sphingobacteriaceae",
+        "",
+        "Phage shock protein operon"
+    ],
+    "121": [
+        "Tannerellaceae",
+        "Ribosomal protein S12p Asp methylthiotransferase",
+        "Type VI secretion system"
+    ],
+    "122": [
+        "Lysine fermentation",
+        "Fructoselysine and glucoselysine",
+        "Erysipelotrichaceae",
+        ""
+    ],
+    "123": [
+        "Hominidae",
+        "Bacteroidaceae",
+        "Methanomethylophilaceae",
+        "Odoribacteraceae",
+        "Carbon monoxide induced hydrogenase",
+        "Multidrug Resistance, Tripartite Systems Found in Gram Negative Bacteria TEMP",
+        "Mycosporine synthesis cluster",
+        "Anaerobic glycerol-3-phosphate dehydrogenase subunits",
+        "Reichenbachiellaceae",
+        "Reyranellaceae",
+        "Thiotrichaceae",
+        "Putrescine utilization",
+        "Actinobacterial signal transduction system MtrAB-LpqB",
+        "Macrolides, lincosamides, streptogramins, ketolides, oxazolidinones (MLSKO) resistance: enzymatic degradation",
+        "Oceanospirillaceae",
+        "Tripartite multidrug efflux systems (of MFS type) in Gram-negative bacteria"
+    ],
+    "124": [
+        "DNA repair, UvrABC system",
+        "Glutamine synthetases",
+        "tRNA aminoacylation, His",
+        "Cardiolipin biosynthesis"
+    ],
+    "125": [
+        "DAP (1,3-diaminopropane) production",
+        "Periplasmic disulfide interchange"
+    ],
+    "126": [
+        "Possible DNA repair related cluster",
+        "Gram-negative cluster",
+        "Possible RNA modification and stress response cluster",
+        "Peptidyl-prolyl cis-trans isomerase",
+        "Translation elongation factors, bacterial"
+    ],
+    "127": [
+        "Lipopolysaccharide-related cluster in Alphaproteobacteria",
+        "Na(+) H(+) antiporter",
+        "Pyruvate:ferredoxin oxidoreductase"
+    ],
+    "128": [
+        "Mycobacterial lipoproteins (LPR group)",
+        "Lpt lipopolysaccharide transport system"
+    ],
+    "129": [
+        "Nonmevalonate Branch of Isoprenoid Biosynthesis",
+        "Lipopolysaccharide transporter LptABC",
+        "KDO2-Lipid A biosynthesis",
+        "Tripartite multidrug efflux systems (of RND type) in Pseudomonas",
+        "Encapsulation of DyP-type peroxidase or ferritin-like protein oligomers",
+        "Nucleoside triphosphate pyrophosphohydrolase MazG",
+        "Ribosomal hibernation related cluster",
+        "tRNA aminoacylation, Gln"
+    ],
+    "130": [
+        "Biosynthesis of thiamin antivitamin Bacimethrin",
+        "Aerotolerance operon",
+        "Outer membrane",
+        "BtuS-PduT gene cluster for metalloporphyrine salvage",
+        "beta-Barrel Assembly Machinery",
+        "Utilization systems for glycans and polysaccharides (PULs, SUS)"
+    ],
+    "131": [
+        "Lipoprotein transporter to outer membrane Lol",
+        "Maintenance of outer membrane lipid asymmetry",
+        "",
+        "Na-translocating NADH-quinone oxidoreductase",
+        "Bacterial Sphingolipids",
+        "Prevotellaceae",
+        "Pyrroloquinoline Quinone biosynthesis",
+        ""
+    ],
+    "132": [
+        "Siderophore assembly kit",
+        "tRNA aminoacylation, Glu",
+        "Alginate biosynthesis",
+        "Muribaculaceae",
+        "GDP-fucose to mannose-1P module",
+        "Colanic acid synthesis",
+        "Conjugative transposon, Bacteroidales",
+        "Cob(I)alamin adenosyltransferase"
+    ],
+    "133": [
+        "Ribosome LSU, eukaryotic and archaeal",
+        "Ribosome SSU, eukaryotic and archaeal",
+        "Ubiquinone biosynthesis",
+        "Ribosome biogenesis, archaeal",
+        "Lysine Biosynthesis via alpha-aminoadipate AAA",
+        "Metschnikowiaceae",
+        "Exosome",
+        "Pichiaceae",
+        "Naviculaceae",
+        "Glutathione-dependent pathway of formaldehyde detoxification",
+        "NADH ubiquinone oxidoreductase",
+        "Oligopeptide degradation cluster",
+        "",
+        "Box C-D RNA-guided RNA methyltransferase",
+        "RNA polymerase, archaeal initiation factors"
+    ],
+    "134": [
+        "Translation elongation factors, eukaryotic and archaeal",
+        "Heme O and Heme A biosynthesis (with selected terminal oxidases)",
+        "Respiratory Complex I",
+        "Cytochrome c oxidase EC 1.9.3.1",
+        "Biogenesis of cytochrome c oxidases"
+    ],
+    "135": [
+        "",
+        "",
+        "Debaryomycetaceae",
+        ""
+    ],
+    "136": [
+        "Enterococcaceae",
+        "",
+        "Bulleribasidiaceae",
+        "",
+        "Micrococcaceae",
+        "Moraxellaceae",
+        "Nevskiaceae",
+        "Flavobacteriaceae",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "137": [
+        "DNA repair system including RecA, MutS and a hypothetical protein",
+        "Glycerol utilization cluster"
+    ],
+    "138": [
+        "Calvin-Benson cycle",
+        "ESAT-6 proteins secretion system in Firmicutes and Actinobacteria"
+    ],
+    "139": [
+        "Colicin V and Bacteriocin Production Cluster",
+        "tRNA aminoacylation, Leu",
+        "tRNA aminoacylation, Tyr"
+    ],
+    "140": [
+        "Arginine decarboxylase and Agmatinase cluster",
+        "Modification of eukaryotic initiation factor 5A",
+        "Pyridoxin (Vitamin B6) Biosynthesis"
+    ],
+    "141": [
+        "RNA polymerase, archaeal",
+        "Glycolate, glyoxylate interconversions"
+    ],
+    "142": [
+        "DNA repair, bacterial MutHLS system",
+        "tRNA aminoacylation, Trp"
+    ],
+    "143": [
+        "Riboflavin, FMN and FAD biosynthesis in Archaea",
+        "Signal peptidase"
+    ],
+    "144": [
+        "Potential DNA repair cluster",
+        "Quinolone (Fluoroquinolone) resistance via Pentapeptide repeat proteins",
+        "DNA topoisomerases, Type II, ATP-dependent",
+        "Antibiotic targets in DNA processing",
+        "Poly-gamma-glutamate biosynthesis",
+        "Programmed frameshift"
+    ],
+    "145": [
+        "Nitrogen fixation",
+        "Wall polysaccharide pyruvylation",
+        "Homoprotocatechuate degradative cluster"
+    ],
+    "146": [
+        "Metamycoplasmataceae",
+        "Iron(III) dicitrate transport system Fec",
+        "Uridine to beta-Alanine and Thymine to 3-aminoisobutanoate module",
+        "Culicidae",
+        "Tocopherols and tocotrienols (vitamin E) in plants and cyanobacteria",
+        "Sulphoglycolysis"
+    ],
+    "147": [
+        "Macromolecular synthesis operon",
+        "Riboflavin, FMN and FAD metabolism with fusion events",
+        "F0F1-type ATP synthase"
+    ],
+    "148": [
+        "Acyl-CoA thioesterase II",
+        "Benzoyl-CoA pathway of anaerobic aromatic metabolism",
+        "Cell division related cluster",
+        "",
+        "Aminoglycoside modifying enzymes: N-acetyltransferases",
+        "An Arabinose Sensor",
+        "Bifidobacteriaceae",
+        "DNA repair, bacterial UmuCD system",
+        "Quorum sensing in Yersinia",
+        ""
+    ],
+    "149": [
+        "Cyclic Di-GMP Turnover Proteins",
+        "Polyunsaturated Fatty Acids synthesis",
+        "L-rhamnonate utilization cluster",
+        "Head-to-head olefinic hydrocarbon biosynthesis",
+        "Oxygen-sensing diguanylate cyclase and phosphodiesterase couple for c-di-GMP control",
+        "Morganellaceae",
+        "Toxin-Antitoxin MT1",
+        "Microviridae",
+        "Cytochrome b6-f complex in plants (plastidial) and cyanobacteria"
+    ],
+    "150": [
+        "tRNA aminoacylation, Met",
+        "DNA repair, bacterial RecFOR pathway",
+        "Transcription factors, cyanobacterial RpoD-like sigma factors",
+        "Osmoregulation",
+        "Nucleoside ABC transporter cluster"
+    ]
+}
