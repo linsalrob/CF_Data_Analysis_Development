@@ -20,7 +20,7 @@ We have included the metadata in two separate files, a [JSON format file](PRJEB3
 Dmitrijeva M, Kahlert CR, Feigelman R, Kleiner RL, Nolte O, Albrich WC, Baty F, von Mering C. 2021. Strain-resolved dynamics of the lung microbiome in patients with cystic fibrosis. [MBio 12](https://pmc.ncbi.nlm.nih.gov/articles/PMC8092271/).
   
 
-Mirhakkak MH, Chen X, Ni Y, Heinekamp T, Sae-Ong T, Xu L-L, Kurzai O, Barber AE, Brakhage AA, Boutin S, Sch√§uble S, Panagiotou G. 2023. Genome-scale metabolic modeling of Aspergillus fumigatus strains reveals growth dependencies on the lung microbiome. [Nat Commun 14:4369](https://www.nature.com/articles/s41467-023-39982-5).
+Mirhakkak MH, Chen X, Ni Y, Heinekamp T, Sae-Ong T, Xu L-L, Kurzai O, Barber AE, Brakhage AA, Boutin S, Scha§uble S, Panagiotou G. 2023. Genome-scale metabolic modeling of Aspergillus fumigatus strains reveals growth dependencies on the lung microbiome. [Nat Commun 14:4369](https://www.nature.com/articles/s41467-023-39982-5).
   
 # Analysis:
 
@@ -31,34 +31,37 @@ Mirhakkak MH, Chen X, Ni Y, Heinekamp T, Sae-Ong T, Xu L-L, Kurzai O, Barber AE,
 
 ## Prediction outcomes
 
-Sample | Pseudomonas Prediction | Confidence | Certainty
- --- | --- | --- | ---
-ERR3274613 | Negative | 0.60 | Low
-ERR3274614 | Negative | 0.80 | Medium
-ERR3274615 | Negative | 0.67 | Medium
-ERR3274616 | Negative | 0.75 | Medium
-ERR3274617 | Negative | 0.77 | Medium
-ERR3274618 | Negative | 0.77 | Medium
-ERR3274619 | Negative | 0.78 | Medium
-ERR3274620 | Negative | 0.77 | Medium
-ERR3274621 | Positive | 0.71 | Medium
-ERR3274622 | Positive | 0.72 | Medium
-ERR3274623 | Positive | 0.69 | Medium
-ERR3274624 | Positive | 0.78 | Medium
-ERR3274625 | Positive | 0.78 | Medium
-ERR3274626 | Positive | 0.71 | Medium
-ERR3274627 | Positive | 0.73 | Medium
-ERR3274628 | Positive | 0.63 | Medium
-ERR3274629 | Positive | 0.66 | Medium
-ERR3274630 | Positive | 0.62 | Medium
-ERR3274631 | Positive | 0.56 | Low
-ERR3274632 | Positive | 0.55 | Low
-ERR3274633 | Negative | 0.66 | Medium
-ERR3274634 | Positive | 0.63 | Medium
-ERR3274635 | Positive | 0.61 | Medium
-ERR3274636 | Positive | 0.62 | Medium
-ERR3274637 | Positive | 0.70 | Medium
+According to Dmitrijeva _et al.,_ CFR06 does not have _Pseudomonas_, while the others do.
 
+Sample | Pseudomonas Prediction | Confidence | Certainty | pwCF ID
+ --- | --- | --- | --- | ---
+ERR3274613 | Negative | 0.60 | Low | CFR06
+ERR3274614 | Negative | 0.80 | Medium | CFR06
+ERR3274615 | Negative | 0.67 | Medium | CFR06
+ERR3274616 | Negative | 0.75 | Medium | CFR06
+ERR3274617 | Negative | 0.77 | Medium | CFR06
+ERR3274618 | Negative | 0.77 | Medium | CFR06
+ERR3274619 | Negative | 0.78 | Medium | CFR06
+ERR3274620 | Negative | 0.77 | Medium | CFR06
+ERR3274621 | Positive | 0.71 | Medium | CFR07
+ERR3274622 | Positive | 0.72 | Medium | CFR07
+ERR3274623 | Positive | 0.69 | Medium | CFR07
+ERR3274624 | Positive | 0.78 | Medium | CFR09
+ERR3274625 | Positive | 0.78 | Medium | CFR09
+ERR3274626 | Positive | 0.71 | Medium | CFR09
+ERR3274627 | Positive | 0.73 | Medium | CFR09
+ERR3274628 | Positive | 0.63 | Medium | CFR11
+ERR3274629 | Positive | 0.66 | Medium | CFR11
+ERR3274630 | Positive | 0.62 | Medium | CFR11
+ERR3274631 | Positive | 0.56 | Low | CFR11
+ERR3274632 | Positive | 0.55 | Low | CFR11
+ERR3274633 | Negative | 0.66 | Medium | CFR11
+ERR3274634 | Positive | 0.63 | Medium | CFR11
+ERR3274635 | Positive | 0.61 | Medium | CFR11
+ERR3274636 | Positive | 0.62 | Medium | CFR11
+ERR3274637 | Positive | 0.70 | Medium | CFR11
+ERR4661016 |  |  |  | CFR11
+ERR4661017 |  |  |  | CFR11
 
 ## t-SNE
 ![Comparison of Adelaide and PRJEB32062 samples by t-SNE](img/PRJEB32062_Pseudomonas_tSNE.png 'Fig. t-SNE of all the analysed sequence data coloured by whether Pseudomonas is predicted')
