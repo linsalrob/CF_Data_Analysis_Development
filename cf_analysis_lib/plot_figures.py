@@ -291,7 +291,7 @@ def plot_roc_curves(model, X, y, importances, met='classifier', intcol_title="",
     ax.set_xlim(0, 1)
     ax.set_ylim(0, 1)
     ax.set_ylabel('True Positive Rate')
-    ax.set_title(f'Predicting {intcol_title}')
+    ax.set_title(f'{intcol_title}')
     ax.legend(loc="lower right")
     return ax
 
