@@ -86,7 +86,7 @@ def plot_top_features(merged_df, top_features, top_feature_counts, intcol, intco
     plt.tight_layout(rect=[0, 0, 1, 0.9])
     plt.show()
 
-def plot_one_top_feature(merged_df, tfdf, intcol, intcol_title, custom_labels=None, savepng=None):
+def plot_one_top_feature(merged_df, tfdf, intcol, intcol_title, custom_labels=None, savepng=None, plot_legend=True):
 
     n = 20
     topN = list(tfdf[:n].index) + [intcol]
@@ -105,7 +105,8 @@ def plot_one_top_feature(merged_df, tfdf, intcol, intcol_title, custom_labels=No
             ax.get_legend().remove()
 
     plt.xticks(rotation=90)
-    fig.legend(handles, updated_labels, loc='upper center', ncol=2, title=intcol_title)
+    if plot_legend:
+        fig.legend(handles, updated_labels, loc='upper center', ncol=2, title=intcol_title)
     plt.tight_layout(rect=[0, 0, 1, 0.9])
     if savepng:
         plt.savefig(savepng)
