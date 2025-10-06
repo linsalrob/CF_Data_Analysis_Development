@@ -60,6 +60,7 @@ def read_taxonomy(datadir, sequence_type, taxonomy, all_taxa=False, rawdata=Fals
     if not all_taxa:
         df = df[df['taxonomy'].str.contains('k__Bacteria')]
     df = df[~df['taxonomy'].str.endswith(f'{taxonomy[0]}__')]
+    df = df[~df['taxonomy'].str.endswith(';;')]
     df = df.set_index('taxonomy')
     df = df.rename(columns=corrections[sequence_type.lower()])
     df.index = df.index.str.replace(f'{taxonomy[0]}__', '').str.replace('Candidatus ', '')

@@ -39,6 +39,12 @@ def gb_classifier_model(X, y, n_estimators=100, n_iter_no_change=10):
     This is abstracted so we can access it directly
     """
 
+    if set(y.cat.categories) == {0.0, 1.0}:
+        mapped_counts = y.value_counts().rename({0.0: "no", 1.0: "yes"}).to_dict()
+    else:
+        mapped_counts = y.value_counts().to_dict()
+    print(f"The data for the classifier is {mapped_counts} variables", file=sys.stderr)
+
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
     model = GradientBoostingClassifier(
@@ -157,6 +163,12 @@ def random_forest_classifier(X, y, n_estimators=1000):
     """
     Run a classifier for categorical data and return the mean squared error and the feature importances
     """
+
+    if set(y.cat.categories) == {0.0, 1.0}:
+        mapped_counts = y.value_counts().rename({0.0: "no", 1.0: "yes"}).to_dict()
+    else:
+        mapped_counts = y.value_counts().to_dict()
+    print(f"The data for the classifier is {mapped_counts} variables", file=sys.stderr)
 
     # Split the data into training and testing sets
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)

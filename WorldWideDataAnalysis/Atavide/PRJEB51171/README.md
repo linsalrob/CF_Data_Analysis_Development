@@ -19,7 +19,7 @@ We have included the metadata in two separate files, a [JSON format file](PRJEB5
 
 # Publications
 
-Pallenberg ST, Pust M-M, Rosenboom I, Hansen G, Wiehlmann L, Dittrich A-M, Tümmler B. 2022. Impact of elexacaftor/tezacaftor/ivacaftor therapy on the cystic fibrosis airway microbial metagenome. [Microbiol Spectr 10:e0145422](https://pmc.ncbi.nlm.nih.gov/articles/PMC9602284/)
+Pallenberg ST, Pust M-M, Rosenboom I, Hansen G, Wiehlmann L, Dittrich A-M, Tummler B. 2022. Impact of elexacaftor/tezacaftor/ivacaftor therapy on the cystic fibrosis airway microbial metagenome. [Microbiol Spectr 10:e0145422](https://pmc.ncbi.nlm.nih.gov/articles/PMC9602284/)
 
 # Analysis:
 

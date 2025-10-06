@@ -6,11 +6,11 @@ This sample comes from the [NCBI BioProject PRJNA615628](https://www.ncbi.nlm.ni
 
 Cystic fibrosis airway respiratory microbiome Raw sequence reads
 
+
 # Description:
 
 
 Cystic fibrosis airway microbiome
-
 
 # Metadata:
 We have included the metadata in two separate files, a [JSON format file](PRJNA615628.metadata.json.gz) that is computer readable, or a [tsv format file](PRJNA615628.metadata.tsv.gz) that you can import into excel or similar.

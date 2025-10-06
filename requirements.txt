@@ -10,7 +10,7 @@ numpy
 pandas
 python-docx
 scipy
-scikit-learn
+scikit-learn>=1.7
 scikit-bio
 seaborn
 statsmodels

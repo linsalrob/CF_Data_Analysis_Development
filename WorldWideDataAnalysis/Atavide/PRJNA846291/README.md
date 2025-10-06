@@ -19,3 +19,11 @@ Inam Z, Felton E, Burrell A, Chaney H, Sami I, Koumbourlis AC, Freishtat RJ, Zem
   
 # Analysis:
 
+- The entire data set is 98 runs, and 87,154,850,753 bp
+- We analysed 98 metagenomic sequence runs.
+- We predicted 1 samples out of 98 (1.0%) have _Pseudomonas aeruginosa_
+
+
+## Prediction outcomes
+
+
