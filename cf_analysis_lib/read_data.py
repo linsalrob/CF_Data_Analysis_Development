@@ -165,6 +165,29 @@ def sorted_presence_absence(df1, df2, minrowsum=0, asc_sort=False):
 
     return sboth
 
+
+def read_bin_coverage(normalization='RPKM', datadir="..", verbose=False):
+    """
+    median_RPK.tsv.gz  median_RPKM.tsv.gz  median_RPM.tsv.gz  median_TPM.tsv.gz
+    """
+
+    bin_file = os.path.join(datadir, "MAGs", f"median_{normalization}.tsv.gz")
+    if not os.path.exists(bin_file):
+        raise FileNotFoundError(f"Error: {bin_file} does not exist")
+
+    df = pd.read_csv(bin_file, sep='\t', compression='gzip', index_col=0)
+    # one of our default MAGs (in a column) has zero variance in the data, which messes up some analyses
+    # so we drop that value
+    tol = 1e-12
+    # find the column name of anything with 0 variance
+    zero_var_cols = df.columns[df.var(axis=0) <= tol].tolist()
+    if len(zero_var_cols) > 0 and verbose:
+        print(f"Dropping {zero_var_cols} from the bin coverage data as they have zero variance", file=sys.stderr)
+        df = df.loc[:, df.var(axis=0) > tol]
+
+    return df
+
+
 def read_the_data(sequence_type, datadir, sslevel='subsystems_norm_ss.tsv.gz', taxa="family", all_taxa=False, verbose=False):
     """
     Read the data and return the data frame and metadata
@@ -191,3 +214,4 @@ def read_the_data(sequence_type, datadir, sslevel='subsystems_norm_ss.tsv.gz', t
         print(f"Read {metadata.shape[0]} samples and {metadata.shape[1]} metadata columns", file=sys.stderr)
 
     return df, metadata
+
