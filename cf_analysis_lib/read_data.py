@@ -187,6 +187,24 @@ def read_bin_coverage(normalization='RPKM', datadir="..", verbose=False):
 
     return df
 
+def read_mag_metadata(datadir="..", verbose=False):
+    """
+    :param datadir: where is the data
+    :return: MAG metadata dataframe
+    """
+
+    mag_metadata_file = os.path.join(datadir, "MAGs", "checkm-summary.tsv.gz")
+    if not os.path.exists(mag_metadata_file):
+        raise FileNotFoundError(f"Error: {mag_metadata_file} does not exist")
+
+    mag_metadata = pd.read_csv(mag_metadata_file, sep='\t', compression='gzip', index_col=0)
+    mag_metadata['MAG'] = 'mag_' + mag_metadata.index.astype(str)
+    mag_metadata = mag_metadata[['MAG'] + [col for col in mag_metadata.columns if col != 'MAG']]
+    if verbose:
+        print(f"Read {mag_metadata.shape[0]} MAGs and {mag_metadata.shape[1]} metadata columns", file=sys.stderr)
+
+    return mag_metadata
+
 
 def read_the_data(sequence_type, datadir, sslevel='subsystems_norm_ss.tsv.gz', taxa="family", all_taxa=False, verbose=False):
     """
