@@ -193,7 +193,7 @@ def read_mag_metadata(datadir="..", verbose=False):
     :return: MAG metadata dataframe
     """
 
-    mag_metadata_file = os.path.join(datadir, "MAGs", "checkm-summary.tsv.gz")
+    mag_metadata_file = os.path.join(datadir, "MAGs", "mag_metadata.tsv.gz")
     if not os.path.exists(mag_metadata_file):
         raise FileNotFoundError(f"Error: {mag_metadata_file} does not exist")
 
