@@ -21,7 +21,7 @@ import matplotlib.patches as mpatches
 import matplotlib.pyplot as plt
 
 from itertools import cycle
-from collections import Counter
+from collections import Counter, defaultdict
 
 import networkx as nx
 import community
