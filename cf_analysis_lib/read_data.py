@@ -187,6 +187,14 @@ def read_bin_coverage(normalization='RPKM', datadir="..", verbose=False):
 
     return df
 
+
+def read_mag_coverage(normalization='RPKM', datadir="..", verbose=False):
+    """
+    Wrapper for read_bin_coverage
+    """
+    return read_bin_coverage(normalization, datadir, verbose)
+
+
 def read_mag_metadata(datadir="..", verbose=False):
     """
     :param datadir: where is the data
