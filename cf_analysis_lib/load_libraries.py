@@ -26,11 +26,11 @@ from collections import Counter
 import networkx as nx
 import community
 
-
 from sklearn.decomposition import PCA
 from sklearn.ensemble import RandomForestRegressor, RandomForestClassifier, GradientBoostingClassifier, GradientBoostingRegressor
 from sklearn.impute import SimpleImputer
 from sklearn.inspection import permutation_importance
+from sklearn.feature_selection import mutual_info_regression
 from sklearn.manifold import TSNE
 from sklearn.metrics import mean_squared_error, roc_curve, auc, pairwise_distances
 from sklearn.model_selection import train_test_split
