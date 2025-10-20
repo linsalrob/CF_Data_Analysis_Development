@@ -3,7 +3,7 @@ A library of functions for analyzing the output of the CF analysis pipeline.
 """
 
 from .read_data import read_taxonomy, read_metadata, corrections, read_subsystems
-from .read_data import sorted_presence_absence, read_the_data, read_bin_coverage
+from .read_data import sorted_presence_absence, read_the_data, read_mag_coverage
 from .read_data import read_mag_metadata
 from .metadata_data import metadata_definitions
 from .clean_data import compatible_columns, categories_to_numeric, remove_highly_correlated_data
@@ -17,7 +17,7 @@ from .green_box import green_box, show_green
 
 __all__ = ['read_taxonomy', 'read_metadata', 'corrections', 'read_subsystems',
            'sorted_presence_absence', 'compatible_columns', 'categories_to_numeric', 'remove_highly_correlated_data',
-           'metadata_definitions', 'read_the_data', 'read_bin_coverage',
+           'metadata_definitions', 'read_the_data', 'read_mag_coverage',
            'BacterialPathogens', 'read_mag_metadata',
            'random_forest_classifier', 'random_forest_regression', 'gb_classifier', 'gb_regressor', 'plot_top_features',
            'gb_classifier_model', 'gb_regressor_model',

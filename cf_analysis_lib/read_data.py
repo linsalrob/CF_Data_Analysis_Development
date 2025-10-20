@@ -166,7 +166,7 @@ def sorted_presence_absence(df1, df2, minrowsum=0, asc_sort=False):
     return sboth
 
 
-def read_bin_coverage(normalization='RPKM', datadir="..", verbose=False):
+def read_mag_coverage(normalization='RPKM', datadir="..", verbose=False):
     """
     median_RPK.tsv.gz  median_RPKM.tsv.gz  median_RPM.tsv.gz  median_TPM.tsv.gz
     """
@@ -186,13 +186,6 @@ def read_bin_coverage(normalization='RPKM', datadir="..", verbose=False):
         df = df.loc[:, df.var(axis=0) > tol]
 
     return df
-
-
-def read_mag_coverage(normalization='RPKM', datadir="..", verbose=False):
-    """
-    Wrapper for read_bin_coverage
-    """
-    return read_bin_coverage(normalization, datadir, verbose)
 
 
 def read_mag_metadata(datadir="..", verbose=False):
