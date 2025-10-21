@@ -39,12 +39,12 @@ from sklearn.preprocessing import StandardScaler, MinMaxScaler, LabelEncoder, Or
 
 from scipy.cluster.hierarchy import linkage, fcluster
 from scipy.interpolate import griddata, Rbf, RBFInterpolator
-from scipy.stats import linregress, ttest_ind
+from scipy.stats import linregress, ttest_ind, mannwhitneyu
 
 import statsmodels.api as sm
 import statsmodels.formula.api as smf
 from statsmodels.multivariate.manova import MANOVA
-from statsmodels.stats.multitest import multipletests
+from statsmodels.stats.multitest import multipletests, fdrcorrection
 from statsmodels.stats.outliers_influence import variance_inflation_factor
 
 from skbio.stats.distance import permanova, DistanceMatrix
