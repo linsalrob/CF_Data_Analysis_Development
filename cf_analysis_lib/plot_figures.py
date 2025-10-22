@@ -2,6 +2,7 @@
 Plot a PCA and a read abundance plot for the interesting clusters
 """
 
+import sys
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
