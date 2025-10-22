@@ -250,7 +250,7 @@ def old_plot_roc_curves(model, X, y, importances, met='classifier', intcol_title
     plt.legend(loc="lower right")
     return plt
 
-def plot_roc_curves(model, X, y, importances, met='classifier', intcol_title="", ax=None, cmap='mako'):
+def plot_roc_curves(model, X, y, importances, met='classifier', intcol_title="", ax=None, cmap='mako', verbose=False):
     """
     Plot the ROC curves for the model
     :param model: The machine learning model, hopefully a classifier
@@ -288,6 +288,8 @@ def plot_roc_curves(model, X, y, importances, met='classifier', intcol_title="",
 
         # ax.plot(fpr, tpr, lw=1, label=f'{clust} (area = {roc_auc:.2f})', color=color)
         ax.plot(fpr, tpr, lw=1, label=f'{clust} (area = {roc_auc:.2f})', linestyle='-.', color=color)
+        if verbose:
+            print(f"{clust} (area = {roc_auc:.2f})", file=sys.stderr)
 
     ax.plot([0, 1], [0, 1], color='grey', lw=0.5, linestyle='--', alpha=0.5)
     ax.set_xlabel('False Positive Rate')
