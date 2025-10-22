@@ -26,6 +26,12 @@ from collections import Counter, defaultdict
 import networkx as nx
 import community
 
+from scipy.cluster.hierarchy import linkage, fcluster
+from scipy.interpolate import griddata, Rbf, RBFInterpolator
+from scipy.stats import linregress, ttest_ind, mannwhitneyu
+
+import shap
+
 from sklearn.decomposition import PCA
 from sklearn.ensemble import RandomForestRegressor, RandomForestClassifier, GradientBoostingClassifier, GradientBoostingRegressor
 from sklearn.impute import SimpleImputer
@@ -36,10 +42,6 @@ from sklearn.metrics import mean_squared_error, roc_curve, auc, pairwise_distanc
 from sklearn.model_selection import train_test_split
 from sklearn.multioutput import MultiOutputClassifier, MultiOutputRegressor, ClassifierChain
 from sklearn.preprocessing import StandardScaler, MinMaxScaler, LabelEncoder, OrdinalEncoder, RobustScaler
-
-from scipy.cluster.hierarchy import linkage, fcluster
-from scipy.interpolate import griddata, Rbf, RBFInterpolator
-from scipy.stats import linregress, ttest_ind, mannwhitneyu
 
 import statsmodels.api as sm
 import statsmodels.formula.api as smf
