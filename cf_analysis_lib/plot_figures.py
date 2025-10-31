@@ -258,7 +258,7 @@ def plot_roc_curves(model, X, y, importances, met='classifier', intcol_title="",
     :param X: The merged dataframe, X = merged_df.drop(intcol, axis=1)
     :param y: The truth, y = merged_df[intcol]
     :param importances: The feature importances, feature_importances_sorted
-    :param met: classifier or regressor
+    :param met: classifier or regressor. Note we don't use this parameter currently
     :param intcol_title: the display title of the interesting column
     :return: A matplotlib plot
     """
@@ -271,7 +271,7 @@ def plot_roc_curves(model, X, y, importances, met='classifier', intcol_title="",
     fpr, tpr, thresholds = roc_curve(y, y_proba)
     roc_auc = auc(fpr, tpr)
 
-    ax.plot(fpr, tpr, lw=2, label=f'Overall {met} (all data)\n(area = {roc_auc:.2f})')
+    ax.plot(fpr, tpr, lw=2, label=f'Overall\n(area = {roc_auc:.2f})')
     colors = sns.color_palette("mako", n_colors=5)
 
     n = 5
@@ -301,3 +301,50 @@ def plot_roc_curves(model, X, y, importances, met='classifier', intcol_title="",
     ax.legend(loc="lower right")
     return ax
 
+
+def plot_importance_abundance_roc(merged_df, tfdf, intcol, intcol_title, model, custom_labels=None, savepng=None, plot_legend=True):
+    
+    n = 20
+    topN = list(tfdf[:n].index) + [intcol]
+    # create the figure
+    fig, axes = plt.subplots(figsize=(10, 6), nrows=1, ncols=3)
+
+    # Share the y-axis between the first two columns only
+    axes[1].sharey(axes[0])
+        
+    plot_feature_importance(axes[0], tfdf[:n][::-1], "")
+    plot_feature_abundance(axes[1], merged_df[topN][::-1], intcol, intcol_title)
+
+    if not custom_labels:
+        custom_labels = {0: 'No', 1: 'Yes'}
+
+    handles, labels = axes[1].get_legend_handles_labels()  # Get one set of handles and labels
+    updated_labels = [custom_labels[float(label)] for label in labels]
+
+    # Hide redundant y-axis labels/ticks on the second column
+    plt.setp(axes[1].get_yticklabels(), visible=False)
+    axes[1].yaxis.label.set_visible(False)
+
+    for ax in axes.flat:
+        if ax.get_legend() is not None:  # Check if legend exists
+            ax.get_legend().remove()
+
+    plt.xticks(rotation=90)
+    if plot_legend:
+        fig.legend(handles, updated_labels, loc='upper center', ncol=2, title=intcol_title)
+
+    X = merged_df.drop(intcol, axis=1)
+    y = merged_df[intcol]
+
+    ax = plot_roc_curves(model, X, y, tfdf, None, "", ax=axes[2])
+    legend = axes[2].get_legend()
+    legend.set_bbox_to_anchor((0.4, 0))   # x=1.05 moves it to the right, y=1 aligns to top
+    legend.set_loc('lower left')           # anchor the top-left corner of the legend box
+    legend.set_frame_on(True)              # ensure the legend box is visible 
+    legend.get_frame().set_facecolor('white') # white background
+    legend.get_frame().set_edgecolor('black') # black border
+    legend.get_frame().set_alpha(1.0)         # opaque
+
+    plt.tight_layout(rect=[0, 0, 1, 0.9])
+
+    return plt
