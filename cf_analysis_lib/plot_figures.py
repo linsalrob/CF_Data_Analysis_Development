@@ -347,4 +347,4 @@ def plot_importance_abundance_roc(merged_df, tfdf, intcol, intcol_title, model, 
 
     plt.tight_layout(rect=[0, 0, 1, 0.9])
 
-    return plt
+    return fig, axes
