@@ -33,7 +33,7 @@ def get_appropriate_n_estimators(X, y):
     # Get the optimal number of trees
     return model.n_estimators_
 
-def gb_classifier_model(X, y, n_estimators=100, n_iter_no_change=10):
+def gb_classifier_model(X, y, n_estimators=1000, n_iter_no_change=20):
     """
     Build a classifier and return the model. 
     This is abstracted so we can access it directly
@@ -86,16 +86,16 @@ def gb_classifier_model(X, y, n_estimators=100, n_iter_no_change=10):
     return model, mse, feature_importances_sorted
 
 
-def gb_classifier(X, y, n_estimators=100):
+def gb_classifier(X, y, n_estimators=1000, n_iter_no_change=20):
     """
     Run a classifier for categorical data and return the mean squared error and the feature importances
     """
 
-    model, mse, feature_importances_sorted = gb_classifier_model(X, y, n_estimators)
+    model, mse, feature_importances_sorted = gb_classifier_model(X, y, n_estimators, n_iter_no_change)
     return mse, feature_importances_sorted
 
 
-def gb_regressor_model(X, y, n_estimators=100, n_iter_no_change=10):
+def gb_regressor_model(X, y, n_estimators=1000, n_iter_no_change=20):
     """
     Abstract out the regression so we can access the model
     """
@@ -127,11 +127,11 @@ def gb_regressor_model(X, y, n_estimators=100, n_iter_no_change=10):
     return model, mse, feature_importances_sorted
 
 
-def gb_regressor(X, y, n_estimators=10):
+def gb_regressor(X, y, n_estimators=1000, n_iter_no_change=20):
     """
     Run a regressor for continuous data and return the mean squared error and the feature importances
     """
-    model, mse, feature_importances_sorted = gb_regressor_model(X, y, n_estimators)
+    model, mse, feature_importances_sorted = gb_regressor_model(X, y, n_estimators, n_iter_no_change)
     return mse, feature_importances_sorted
 
 
