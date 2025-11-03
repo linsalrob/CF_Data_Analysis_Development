@@ -1,0 +1,2627 @@
+COPFe	Feature
+1	DNA repair, bacterial MutHLS system
+1	Hyperosmotic potassium uptake
+1	5-methylaminomethyl-2-thiouridine
+1	tRNA aminoacylation, Asn
+2	IMP and Xanthine conversion to XMP and GMP module
+3	SecY2-SecA2 Specialized Transport System
+3	Folate Biosynthesis
+4	CoA disulfide thiol-disulfide redox system
+4	Type I restriction-modification systems
+5	tRNA aminoacylation, Cys
+5	Twin-arginine translocation system
+5	Bacterial checkpoint-control-related cluster
+6	VraTSR and LiaFSR three-component regulatory systems
+6	Ferrous iron transporter EfeUOB, low-pH-induced
+6	Bacitracin resistance
+6	Resistance to Daptomycin
+7	N-acetylneuraminate utilization
+7	tRNA aminoacylation, Asp
+7	Theridiidae
+7	Damaged nicotinamide nucleotide NAD(P)HX repair
+8	Tagatose utilization
+8	tRNA thiolation
+8	Paenibacillaceae
+8	ATP-dependent Nuclease
+8	Isoprenoid Biosynthesis: Interconversions
+9	NAD and NADP cofactor biosynthesis bacterial
+9	NAD and NADP cofactor biosynthesis global
+10	Resistance to Triclosan
+10	Enoyl-[ACP] reductases disambiguation
+10	Undecaprenyl-diphosphatases
+10	Fatty Acid Biosynthesis cluster
+10	Lactose utilization
+10	tRNA aminoacylation, Met
+11	CtsR and MscAB regulation of protein degradation
+11	Thiamin, thiazole, hydroxymethylpyrimidine salvage and uptake
+11	Peptide methionine sulfoxide reductase
+11	Ribonuclease J family
+11	Thiamin, hydroxymethylpyrimidine selected transporters
+11	Trk and Ktr potassium uptake systems
+12	Galactose utilization
+12	Sex pheromones in Enterococcus faecalis and other Firmicutes
+13	RNA pseudouridine synthases
+13	Universal GTPases
+13	DNA internalization-related cluster
+14	tRNA aminoacylation, Leu
+14	tRNA aminoacylation, Arg
+14	Pyruvate formate-lyase cluster
+14	Threonine anaerobic catabolism gene cluster
+15	GMP synthase
+15	Proline Synthesis
+16	Threonine synthase cluster
+16	Purine nucleotide synthesis regulator
+16	Pyruvate formate-lyase cluster with possible role in choline utilization
+16	Cell envelope-associated LytR-CpsA-Psr transcriptional attenuators
+16	Fermentations: Mixed acid
+16	Mevalonate metabolic pathway
+16	Ribosome activity modulation
+17	HPr catabolite repression system
+17	EcsAB transporter affecting expression and secretion of secretory preproteins
+17	Control of cell elongation - division cycle in Bacilli
+17	L-serine dehydratase subunits
+17	D-alanylation of teichoic acid
+17	Late competence
+18	BarA-UvrY(SirA) two-component regulatory system
+18	Fatty Acid Biosynthesis FASII
+18	Stress response and cell wall lysis cluster
+18	Argulidae
+18	Streptococcaceae
+19	Methanocaldococcaceae
+19	Programmed cell death toxin-antitoxin PezAT
+19	Glutathione: Biosynthesis and gamma-glutamyl cycle
+20	Cadmium resistance
+20	Macrolides, lincosamides, streptogramins, ketolides, oxazolidinones (MLSKO) resistance: ribosomal protection
+20	Aminoglycoside modifying enzymes: O-nucleotidyltransferases
+20	PEB1, the major cell-binding factor of Campylobacter jejuni
+20	Pseudoalteromonadaceae
+20	BOX elements in Streptococci
+21	Fatty acid synthesis
+21	ATP-dependent RNA helicases, bacterial
+22	Glycyl-tRNA synthetase
+22	2-O-alpha-mannosyl-D-glycerate utilization
+22	Glutathione: Redox cycle
+22	Macrolides, lincosamides, streptogramins, ketolides, oxazolidinones (MLSKO) resistance: efflux systems
+22	Efflux ABC transporters BmrCD and LmrCD involved in multidrug resistance
+22	Efflux ABC transporter MdlAB
+22	Magnesium transport
+23	tRNA aminoacylation, Ile
+23	Antibiotic targets in protein synthesis
+23	Mupirocin resistance
+24	A Hypothetical Protein Related to Proline Metabolism
+24	tRNA aminoacylation, Ala
+25	RNA processing and degradation, bacterial
+25	tRNA aminoacylation, Trp
+25	Translation initiation factors, bacterial
+26	Macromolecular synthesis operon
+26	F0F1-type ATP synthase
+27	D-tyrosyl-tRNA(Tyr) deacylase
+27	Stringent Response, (p)ppGpp metabolism
+27	Sporulation-associated proteins with broader functions
+28	DAP (1,3-diaminopropane) production
+29	Heme, hemin uptake and utilization systems in GramPositives
+30	Sporulation Cluster
+31	Cell division cluster
+31	Threonylcarbamoyladenosine
+32	Sucrose to levan conversions
+32	Antibiotic targets in transcription
+32	tRNA aminoacylation, Gly
+33	tRNA aminoacylation, Phe
+33	DNA repair, bacterial RecBCD pathway
+33	Folate biosynthesis cluster
+34	tRNA aminoacylation, Tyr
+34	DNA repair system including RecA, MutS and a hypothetical protein
+35	Streptococcal Hyaluronic Acid Capsule
+35	Sulfoquinovose biosynthesis cluster
+36	Ribosome LSU, bacterial
+36	Aspartate to Threonine Module
+36	Fe-S cluster assembly
+36	rRNA modification related cluster including tlyA
+37	Dpp dipeptide ABC transport system
+37	RNA polymerase, bacterial
+37	Translation termination factors, bacterial
+37	Antibiotic targets in cell wall biosynthesis
+38	Ribonuclease H
+38	Aspartate to Homoserine module
+39	Two cell division clusters relating to chromosome partitioning
+40	Copper homeostasis: copper tolerance
+40	Riboflavin, FMN and FAD biosynthesis in Archaea
+40	tRNA aminoacylation, Pro
+41	Cluster containing Glutathione synthetase
+41	Heat shock dnaK gene cluster extended
+42	Glycolysis and Gluconeogenesis, including Archaeal enzymes
+42	Ribosomal proteins, single-copy
+43	Colicin V and Bacteriocin Production Cluster
+44	Biosynthesis of Arabinogalactan in Mycobacteria
+44	RecA and RecX
+44	Cell division initiation related cluster
+44	DNA repair, bacterial RecFOR pathway
+45	Chaperones GroEL GroES and Thermosome
+46	DNA repair, bacterial
+46	Fusidic acid resistance
+46	Translation elongation factor G family
+47	DNA Repair Base Excision
+47	Repair of Iron Centers
+48	Coenzyme A -- gjo
+48	Coenzyme A
+48	Chorismate Synthesis
+49	Diaminopimelate Synthesis 
+49	DeNovo Purine Biosynthesis
+49	Lysine leader peptide
+50	Tryptophan synthesis
+50	Lysine DAP biosynthetic pathway
+50	tRNA aminoacylation, Ser
+51	DNA repair, bacterial DinG and relatives
+52	High affinity phosphate transporter and control of PHO regulon
+53	Branched-Chain Amino Acid Biosynthesis
+53	CMP-legionaminic acid synthesis
+53	Rcn nickel and cobalt homeostasis system
+54	Cardiolipin biosynthesis
+54	S-Adenosyl-L-homocysteine recycling
+54	Phenylalanine and Tyrosine synthesis 1
+55	Methylenetetrahydrofolate reductase
+56	Colwelliaceae
+56	Trans-envelope signaling system VreARI in Pseudomonas
+56	Heme and heme d1 biosynthesis from siroheme
+56	Type III secretion system orphans
+56	L-2-amino-4-methoxy-trans-3-butenoic acid synthesis
+56	Type III secretion systems
+56	Potential DNA repair cluster
+56	Extracellular matrix proteins (PSL) involved in mannose-rich biofilm formation in Pseudomonas
+56	Salmochelin-mediated Iron Acquisition
+56	Onchocercidae
+56	Extracellular matrix proteins (PEL) involved in glucose-rich biofilm formation in Pseudomonas
+56	ABC-type iron transport system
+56	Pseudomonadaceae
+56	IbrA and IbrB: co-activators of prophage gene expression
+56	Siderophore Pyoverdine
+56	Edwardsiidae
+56	Acyclic terpene utilization
+56	Aestuariirhabdaceae
+56	Adenylylsulfate reductase
+56	Capitellidae
+56	Marinobacteraceae
+56	Geothermobacteraceae
+56	Lipotidae
+56	Type III secretion system
+56	Cholera toxin
+56	MexXY System of Pseudomonas aeruginosa
+56	Beta-lactamases Ambler class D
+56	Mycobacterial FadD proteins (fatty acid CoA- and AMP- ligases)
+56	Mycobacterial gene cluster associated with resistance against FAS-II antibiotics
+56	Stress proteins YciF, YciE
+56	Phenazine biosynthesis
+56	Type 4 conjugative transfer system, IncI1 type
+56	Sulfur transfer pathway CsdAEL
+56	Biogenesis of cbb3-type cytochrome c oxidases
+56	Coenzyme PQQ synthesis
+56	Quorum sensing regulation in Pseudomonas
+56	tRNA modification, 5-oxyacetyl uridine (cmo5U34)
+56	Malonate decarboxylase
+56	Sulfate assimilation related cluster
+56	Cytochrome c oxidase EC 1.9.3.1
+56	Acytosteliaceae
+56	Outer membrane porins in Pseudomonas and Acinetobacter
+56	CMP-pseudaminic acid synthesis
+56	Rhamnolipids in Pseudomonas
+57	Tripartite multidrug efflux systems (of MFS type) in Gram-negative bacteria
+57	Multidrug Resistance, Tripartite Systems Found in Gram Negative Bacteria TEMP
+57	Spongiibacteraceae
+57	General Secretion Pathway
+57	Chemotaxis in Escherichia coli and Bacillus subtilis
+57	Tricarboxylate transport system
+57	Mycobacterial FadE proteins Acyl-CoA dehydrogenase
+57	Rhizophoraceae
+57	Fusaric acid resistance cluster
+57	Tol-Pal Cell Envelope Complex
+57	Carbon storage regulator
+57	Tolerance to colicin E2 and CreBC signal transduction system
+57	Efflux ABC transporter YadGH
+57	EnvZ and OmpR regulon
+57	Putrescine utilization
+57	Protection from Reactive Oxygen Species
+57	Flagellum
+57	Tripartite multidrug efflux systems (of MFS type) EmrKY-TolC and EmrAB-TolC
+57	Putative TldE-TldD proteolytic complex
+57	Type VI secretion system
+57	Respiratory Systems - Shewanella (updated)
+57	Malvaceae
+57	Polymyxin resistance, lipid A modifications with phosphoethanolamine
+57	Polyadenylation, bacterial
+57	Iron siderophore sensor & receptor system
+57	Two partner secretion pathway (TPS)
+57	Microbulbiferaceae
+57	Periplasmic nitrate reductase EC 1.7.99.4
+57	Nitrosomonadaceae
+57	Polymyxin resistance, lipid A modifications with 4-amino-4-deoxy-L-arabinose
+57	Possible heterocyst differentiation related cluster
+57	HMG CoA Synthesis
+57	Taurine and alkanesulfonate utilization as sulfur sources
+57	Tripartite multidrug efflux systems (of RND type) MdtABC-TolC
+57	Glutathione: Non-redox reactions
+58	Tripartite multidrug efflux systems (of RND type) in Pseudomonas
+58	Maintenance of outer membrane lipid asymmetry
+59	Outer membrane
+59	Lpt lipopolysaccharide transport system
+59	Lipoprotein transporter to outer membrane Lol
+59	Type I secretion systems disambiguation
+59	Pyrroloquinoline Quinone biosynthesis
+59	beta-Barrel Assembly Machinery
+60	Peptidyl-prolyl cis-trans isomerase
+61	D-3-phosphoglycerate to phosphoserine module
+62	Fatty acid catabolic operon fadN-fadA-fadE (yusJKL)
+62	Carnitine metabolism and transport
+62	Chromobacteriaceae
+63	Cyanophycin Metabolism
+63	Yersiniaceae
+63	Glyoxylate bypass
+63	Methylglyoxal Metabolism
+63	D-gluconate and ketogluconates metabolism
+63	Cysteine synthesis
+63	Arginine biosynthesis
+63	BactLuciferaseComplex
+63	Putative oxidase COG2907
+64	Potassium-transporting ATPase
+64	Glycine betaine synthesis from choline
+64	Proline biosynthesis (for review)
+64	Urea carboxylase and Allophanate hydrolase cluster
+64	DNA repair, bacterial photolyase
+65	RSF1010 like IncQ broad-host-range plasmids
+65	Glomeraceae
+65	Syntrophorhabdaceae
+65	Erwiniaceae
+65	Vibrionaceae
+66	Uridine to beta-Alanine and Thymine to 3-aminoisobutanoate module
+66	Nucleoside ABC transporter cluster
+67	Proline, 4-hydroxyproline uptake and utilization
+67	Cold shock proteins of CSP family
+68	2-oxoglutarate dehydrogenase 
+68	Heme O and Heme A biosynthesis
+69	Degradation of branched-chain amino acids and alpha-keto acids [Leu, Val]
+69	Arginine succinyltransferase pathway
+69	Photorespiration (oxidative C2 cycle)
+70	Woeseiaceae
+70	Thorselliaceae
+70	Oleiphilaceae
+70	Raperosteliaceae
+70	Victivallaceae
+70	Tuberaceae
+70	Elapidae
+70	Xystonellidae
+70	Bacteriocin resistance related cluster
+70	Entericidin
+70	Robiginitomaculaceae
+70	Microbiotheriidae
+71	Sulfur transport related cluster
+71	Sulfurtransferase and Ssec cluster
+71	Trypanosomatidae
+72	Universal stress protein family
+73	D-threonate, L-threonate and D-erythronate utilization
+73	Lysine fermentation
+73	Gemmatimonadaceae
+73	Nitrospiraceae
+73	Xanthine dehydrogenase subunits
+74	Symbiodiniaceae
+74	Vitrellaceae
+74	Micropepsaceae
+74	Terasakiellaceae
+74	Macrostomidae
+74	Pseudohongiellaceae
+74	Desulfomicrobiaceae
+74	Azospirillaceae
+74	Pyrinomonadaceae
+74	Dongiaceae
+74	Stichopodidae
+74	Suidae
+74	Magnetospirillaceae
+74	Xanthobacteraceae
+74	Balneatrichaceae
+74	Porticoccaceae
+75	Arsenic resistance
+75	Purine catabolism in Bacillus subtilis
+76	Sminthuridae
+76	Lipid orphans
+76	P2-like phage
+77	Periplasmic disulfide interchange
+77	Carbonic anhydrase
+78	D-arabinose utilization
+78	Vanillate and syringate utilization
+78	Copper transport and blue copper proteins
+78	Sarcosine oxidases, monomeric and heterotetrameric
+78	Bacterial pathways for dimethylsulfoniopropionate and acrylate catabolism
+78	Asteraceae
+78	Phosphonate metabolism
+78	Daphniidae
+78	Polymyxin resistance
+78	Sepiidae
+78	Dihydropyrimidine dehydrogenase
+78	Ephemeridae
+78	Phosphoenolpyruvate phosphomutase
+78	Maricaulaceae
+78	Formate dehydrogenase
+79	Coxiellaceae
+79	Termopsidae
+79	Small efflux transporters of SMR family
+79	Natronospirillaceae
+79	Desulfobaccaceae
+79	Dissulfurirhabdaceae
+79	Ventosimonadaceae
+79	Siderophore pyochelin
+79	Thiofilaceae
+80	Proteasome bacterial
+80	Cesiribacteraceae
+80	Phycisphaeraceae
+80	Culicidae
+81	Ribitol utilization
+81	Biogenesis of cytochrome c oxidases
+81	Tocopherols and tocotrienols (vitamin E) in plants and cyanobacteria
+81	Glycolate, glyoxylate interconversions
+81	Entamoebidae
+81	Glutathione-dependent pathway of formaldehyde detoxification
+81	Sulfate reduction-associated complexes
+81	Puniceicoccaceae
+81	Ubiquinone biosynthesis
+82	Zoogloeaceae
+82	Alcanivoracaceae
+83	Nosematidae
+83	Aleyrodidae
+84	Gentisate pathway
+84	Mycolic acid synthesis 2
+84	D-galacturonate utilization, oxidative pathway
+84	Salicaceae
+84	Glutaconate CoA-transferase or 3-oxoadipate CoA-transferase Subunits
+84	Bruguierivoracaceae
+84	Cysteine dioxygenase containing cluster 1
+84	Beta-lactamases Ambler class C
+84	Acidiferrobacteraceae
+84	Strongyloididae
+84	Funariaceae
+84	Cytochrome bo ubiquinol oxidase 
+84	Siderophore Enterobactin
+84	Steinernematidae
+85	Delta(6)-desaturase containing cluster
+85	Selenocysteine metabolism
+85	Fabaceae
+85	Lipopolysaccharide in K12
+85	TAM transport system
+86	Choline uptake and conversion to betaine clusters
+86	Dissimilatory nitrite reductase
+87	Resistance to the fluoroquinolones norfloxacin and ciprofloxacin
+87	Oxygen-sensing two-component regulatory system NreABC
+87	Denitrifying reductase gene clusters
+88	Clostridiales Family XVII. Incertae Sedis
+88	Coenzyme A Biosynthesis cluster
+89	Heme Biosynthesis: protoporphyrin-, coproporphyrin- and siroheme-dependent pathways
+89	Bicyclomycin resistance cluster
+89	Metal chelatases
+89	Menaquinone biosynthesis from chorismate via 1,4-dihydroxy-2-naphthoate
+90	FtsEX cell-division-associated signaling system
+90	Multidrug resistance RND efflux system MexEFOprN
+91	Rhabditidae
+91	Homoprotocatechuate degradative cluster
+91	Quinone oxidoreductase family
+92	Acyl-CoA thioesterase II
+92	Siderophore assembly kit
+93	Lipoic acid metabolism
+94	Lipoylated proteins
+95	Biotin synthesis & utilization
+95	Post-translational modification of proteins
+96	TCA Cycle
+96	Glycine cleavage system
+97	Succinate dehydrogenase and Fumarate reductase cpmlexes
+97	Biotin biosynthesis
+97	Cytochrome d ubiquinol oxidase operon
+98	RuvABC plus a hypothetical
+98	Chlorophyll a synthase and phytol kinase cluster
+99	Lipopolysaccharide-related cluster in Alphaproteobacteria
+99	Nucleoside triphosphate pyrophosphohydrolase MazG
+100	Resistance to Ethionamide and Isoniazid
+100	Alginate biosynthesis
+100	Fatty acid degradation
+101	3-amino-5-hydroxybenzoic Acid Synthesis
+101	Molybdenum cofactor biosynthesis
+102	Chaoboridae
+102	Nocardiaceae
+102	Widespread colonization island
+102	Diphtheria toxin
+102	Glycomycetaceae
+102	Mycobacterial heme acquisition system
+102	Actinobacterial signal transduction system MtrAB-LpqB
+102	Brevibacteriaceae
+102	Twin-arginine translocation system related cluster
+103	Micrococcaceae
+103	Legionellaceae
+103	Alkane synthesis in bacteria 2
+103	N,N'-diacetylbacillosamine
+103	Orchitophryidae
+103	Onygenaceae
+103	Treboniaceae
+103	Mycobacterial HadABC proteins ((3R)-hydroxyacyl-ACP dehydrates of FASII)
+103	Head-to-head olefinic hydrocarbon biosynthesis
+103	Glycerol fermentation to 1,3-propanediol
+103	Glutathione analogs: mycothiol
+103	Iron Scavenging cluster in Thermus
+103	Possible stress related actinobacterial cluster
+104	Noelaerhabdaceae
+104	Reyranellaceae
+104	Cyanobacterial bypass in the TCA
+104	Archaeoglobaceae
+105	Acyl carrier protein
+105	Sulfur metabolism related cluster
+106	Osmoregulation
+106	Actinopolymorphaceae
+106	Lithodesmiaceae
+106	Syntrophaceae
+106	Synechococcaceae
+106	Francisellaceae
+107	Nudix proteins (nucleoside triphosphate hydrolases)
+108	Sigma54-dependent transcription related gene cluster
+108	Dermatophilaceae
+108	Nakamurellaceae
+109	Cellulomonadaceae
+109	Promicromonosporaceae
+109	Bogoriellaceae
+109	Jiangellaceae
+109	Intrasporangiaceae
+110	Pseudonocardiaceae
+110	Nocardioidaceae
+110	Nocardiopsaceae
+110	Frankiaceae
+110	Microbacteriaceae
+110	Micromonosporaceae
+111	Cluster related to PAS - para-aminosalicylic acid resistance
+111	Streptomycetaceae
+112	Benzoyl-CoA pathway of anaerobic aromatic metabolism
+112	Entner-Doudoroff Pathway
+112	Riboflavin, FMN and FAD metabolism with fusion events
+112	Thermomonosporaceae
+113	tRNA nucleotidyltransferase
+113	Protein-O-mannosyltransferase and 16S rRNA (cytidine(1402)-2'-O)-methyltransferase cluster
+114	tRNA aminoacylation, Lys
+114	Programmed frameshift
+114	Tripartite efflux system (of RND type) associated with Geranylgeranyl-PP synthase
+115	GDP-fucose to mannose-1P module
+115	Na(+) H(+) antiporter
+116	Glutamine synthetases
+116	Nonmevalonate Branch of Isoprenoid Biosynthesis
+116	Cell division related cluster
+117	Antibiotic targets in metabolic pathways
+117	DNA repair, bacterial UvrD and related helicases
+117	dTDP-3-acetamido-3,6-dideoxy-alpha-D-galactose synthesis
+118	Mycobacterial lipoproteins (LPR group)
+118	Gram-negative cluster
+118	Signal peptidase
+119	Glycolysis and Gluconeogenesis
+119	tRNA aminoacylation, Val
+119	Bacterial cell division related cluster 2
+120	Antibiotic targets in DNA processing
+120	Quinolone (Fluoroquinolone) resistance via Pentapeptide repeat proteins
+120	DNA topoisomerases, Type II, ATP-dependent
+121	DNA processing cluster
+121	Calvin-Benson cycle
+122	Amino acid racemase
+122	tRNA aminoacylation, His
+122	Cluster related to 2-thiouridine modification of tRNAs
+122	Peptidase clustering with DAP
+123	De Novo Pyrimidine Synthesis
+123	Possible new toxin-antitoxin system including DivIC
+124	Pentose phosphate pathway
+124	Mechanisms of PAS resistance
+124	YrdC-YciO-Sua5 and associated protein families
+124	Replication-associated recombination protein RarA
+125	Linotaeniidae
+125	Diphyllobothriidae
+125	Hymenochaetaceae
+125	Aequoreidae
+125	Passerellidae
+125	Serrasalmidae
+125	Zooshikellaceae
+125	Acaryochloridaceae
+125	Pipidae
+125	Nautiliaceae
+125	Desulfolunaceae
+125	Bryobacteraceae
+125	Ascarididae
+125	DevBCA efflux pump transporter (of ABC type) cyanobacterial
+125	Pontiellaceae
+125	Convolvulaceae
+125	Philodinidae
+125	Ericaceae
+125	Zosteraceae
+126	Ferrimonadaceae
+126	Geometridae
+126	Xylanivirgaceae
+126	Haloplasmataceae
+126	Halobacteroidaceae
+126	Halothermotrichaceae
+126	Euplotidae
+126	Ictaluridae
+126	Celastraceae
+126	Ilumatobacteraceae
+126	Fasciolidae
+126	Muridae
+126	Bacillus cannibalism system
+126	Aminiphilaceae
+126	Dictyosteliaceae
+126	Polypteridae
+126	Manidae
+126	Alopiidae
+126	Stegostomatidae
+126	Picrophilaceae
+126	Elusimicrobiaceae
+126	Anguillidae
+126	Aphanothecaceae
+126	Suillaceae
+127	Copper Transport System
+127	Eubacteriaceae
+128	Planctomycetaceae
+128	Entomoplasmataceae
+128	Octopodidae
+129	Segniliparaceae
+129	D-arabinitol utilization
+129	Marchantiaceae
+129	Calditrichaceae
+129	Magnetomoraceae
+130	Mesostigmataceae
+130	Dixoniellaceae
+130	Maluridae
+130	Lasso peptide maturation cluster
+130	Schizoparmaceae
+130	Trogonidae
+130	Struthionidae
+130	Pedaliaceae
+130	Myricaceae
+130	Volvocaceae
+130	Plantaginaceae
+130	Aquificaceae
+130	Methylothermaceae
+130	Strigidae
+130	Cyprididae
+130	Scotocercidae
+130	Crocodylidae
+130	Alligatoridae
+130	Microcoleaceae
+130	Thraupidae
+130	Selenastraceae
+130	Drepanopezizaceae
+130	Psittacidae
+130	Podargidae
+130	Lauraceae
+130	DNA phosphorothioation-dependent restriction system DptFGH
+130	Fringillidae
+130	Usitatibacteraceae
+130	Zosteropidae
+130	Corvidae
+130	Stemonaceae
+130	Quorum-sensing related cluster
+130	Bromeliaceae
+130	Cyperaceae
+130	Thermodesulfovibrionaceae
+130	Hydrangeaceae
+130	Nodosilineaceae
+130	Scolopacidae
+130	Leptosomidae
+130	Deferrisomataceae
+130	Orchidaceae
+130	Noctilucaceae
+130	Rosaceae
+130	Arecaceae
+130	Amborellaceae
+130	Salinarimonadaceae
+130	Sulphoglycolysis
+130	Multiple Antibiotic Resistance MAR locus
+130	Rallidae
+130	Mesitornithidae
+130	Ulmaceae
+130	Viperidae
+130	Fervidicoccaceae
+130	Kalotermitidae
+130	Hydrocharitaceae
+131	Dunaliellaceae
+131	Haematococcaceae
+131	Moduliflexaceae
+131	Caldisericaceae
+131	Corethraceae
+131	Laetiporaceae
+131	Bartonellaceae
+131	Clavichlamydiaceae
+131	Desulfuromonadaceae
+131	Celerinatantimonadaceae
+131	Thermotomaculaceae
+131	Stratiomyidae
+131	Thermoplasmataceae
+131	Ichneumonidae
+131	Tupaiidae
+131	Vallicoccaceae
+131	Nitrosopumilaceae
+131	Coleofasciculaceae
+132	Brocadiaceae
+132	Orthoherpesviridae
+132	Holophagaceae
+132	Tortricidae
+132	Bataceae
+132	Dacrymycetaceae
+132	Bernardetiaceae
+132	Magnetococcaceae
+132	Salinicoccaceae
+132	Talpidae
+132	Bangiaceae
+132	Atribacteraceae
+132	Chthoniobacteraceae
+133	Cohaesibacteraceae
+133	Breoghaniaceae
+133	Nitratiruptoraceae
+133	Blastochloridaceae
+133	Tripartite multidrug efflux systems (of RND type) CmeABC and CmeDEF
+133	Phasianidae
+133	Aurantimonadaceae
+133	Thermithiobacillaceae
+133	Reticulibacteraceae
+133	Amorphaceae
+133	Alsobacteraceae
+133	Apterygidae
+133	Manganitrophaceae
+133	Afifellaceae
+133	Pseudoxanthobacteraceae
+133	Araceae
+133	Timaliidae
+133	Gallaecimonadaceae
+133	Geminocystaceae
+133	Anatidae
+133	Salinisphaeraceae
+133	Rhodothalassiaceae
+133	Thalassobaculaceae
+133	Rhodospirillaceae
+133	Devosiaceae
+133	Teiidae
+133	Hyphomonadaceae
+133	Tepidamorphaceae
+133	Roseiarcaceae
+133	Propylenellaceae
+133	Phreatobacteraceae
+133	Notoacmeibacteraceae
+133	Lichenibacteriaceae
+133	Oligoflexaceae
+133	Salinibacteraceae
+133	Respiratory complex I in plants (plastidial) and cyanobacteria
+133	Kofleriaceae
+133	Plasmid replication
+133	Sox sulfur oxidation genes
+133	Sox thiosulfate oxidation system
+133	Hapalosiphonaceae
+133	Gloeomargaritaceae
+133	Trueperaceae
+133	Orobanchaceae
+133	Rhamnaceae
+133	Lentibulariaceae
+133	Nelumbonaceae
+133	Thiocyanate hydrolase
+133	Mannosylglucosylglycerate synthesis
+133	L-Amino acid oxidases: lysine-epsilon oxidase LodA
+133	Phage shock protein operon
+133	ABC transporter tungstate (TC 3.A.1.6.2)
+133	Gregarinidae
+133	Poaceae
+133	D-altritol utilization
+133	Pyridoxin(Vitamin B6) Degradation Pathway
+133	Musaceae
+133	Nymphaeaceae
+134	Pleurotaceae
+134	Saprolegniaceae
+134	Geothermincolaceae
+134	Coenobitidae
+134	Allomimiviridae
+134	Lymnaeidae
+134	Cyanophoraceae
+134	Chlorophyll Degradation
+134	Nyssaceae
+134	Ornithorhynchidae
+134	Bodonidae
+134	Nephropidae
+134	Cricetidae
+134	Ceraceosoraceae
+134	Gigartinaceae
+134	Lacipirellulaceae
+134	Fonticulaceae
+134	Toxin-Antitoxin MT1
+134	Mycosporine synthesis cluster
+134	Desulfurococcaceae
+134	Sulfomarinibacteraceae
+134	Thiohalospiraceae
+134	Thermoguttaceae
+134	Physeteridae
+135	Thiohalorhabdaceae
+135	Aulographaceae
+135	Thiohalomonadaceae
+135	Coniochaetaceae
+135	Phrynosomatidae
+135	Pleomassariaceae
+135	Massarinaceae
+135	Coliidae
+136	Trochodendraceae
+136	Cucurbitariaceae
+136	Ginkgoaceae
+136	Desulfovibrio high-molecular-weight cytochrome cluster
+136	Desulfohalobiaceae
+136	Actinopolysporaceae
+136	Amniculicolaceae
+136	Hirundinidae
+136	Pinaceae
+136	Aliterellaceae
+136	Araliaceae
+136	Miridae
+136	Haladaptataceae
+136	G-protein-coupled receptor (GPCR) system in Actinobacteria
+136	Cactaceae
+136	Meloidogynidae
+136	Baekduiaceae
+136	Moraceae
+136	Cleomaceae
+136	Encyrtidae
+136	Psychidae
+136	Dimargaritaceae
+136	Asparagaceae
+136	Hydrogen-sensing hydrogenase system
+136	Caulimoviridae
+136	Adinetidae
+136	Lawsonellaceae
+136	Chroococcaceae
+136	Serpulaceae
+136	Balsaminaceae
+136	Chitobiose
+136	Coniophoraceae
+136	Boletaceae
+136	Atheliaceae
+136	Prochlorotrichaceae
+136	Taphrinaceae
+136	Bolbitiaceae
+136	Galeropsidaceae
+136	Hymenogastraceae
+136	Physalacriaceae
+136	Luteibaculaceae
+136	Fagaceae
+136	Mycenaceae
+136	Tricholomataceae
+136	Amphiacanthidae
+136	Clariidae
+136	Bondarzewiaceae
+136	Osteoglossidae
+136	Chromeraceae
+136	Hydrogenedentaceae
+136	Fomitopsidaceae
+136	Sparassidaceae
+136	Meruliaceae
+136	Phaeolaceae
+136	Phanerochaetaceae
+136	Culicosporidae
+136	Polyporaceae
+136	Prenylated indole derivatives in actinomycetes
+136	Rhabdochlamydiaceae
+136	Postiaceae
+137	Merulinidae
+137	Rhinatrematidae
+137	Euplectellidae
+137	Myxobolidae
+137	Suolaviridae
+137	Vancomycin resistance, D-Ala-D-Ser, D-Ala-Lac ligases
+137	Oscillochloridaceae
+137	Lyophyllaceae
+137	Capillimicrobiaceae
+137	Monoglobaceae
+137	Verrucariaceae
+137	DNA Helicase of Unknown Function
+137	Chlorogloeopsidaceae
+137	Mimiviridae
+137	Estrildidae
+137	Pyronemataceae
+137	Ectocarpaceae
+137	Tyrannidae
+137	Limulidae
+137	DNA recombination, archaeal
+137	Cell invasion-related virulence operon MCE
+137	Narnaviridae
+137	Apocynaceae
+137	Crypthecodiniaceae
+137	Cambaridae
+137	Naviculaceae
+137	Syncephalastraceae
+138	Ostreibacteriaceae
+138	Sandaracinaceae
+138	Iflaviridae
+138	Turdidae
+138	Characidae
+138	Herpestidae
+138	Thermosynechococcaceae
+138	Pseudococcidae
+138	Methylohalomonadaceae
+138	Glutathionylspermidine and Trypanothione
+138	Polyomaviridae
+138	Phaeotrichaceae
+138	Comchoanobacteraceae
+138	Deferrivibrionaceae
+138	Pteroclidae
+138	Polarisedimenticolaceae
+138	Labridae
+139	Cyprinodontidae
+139	Megachilidae
+139	Albulidae
+139	Bovidae
+139	Trochilidae
+139	Polyascidae
+139	Motilibacteraceae
+139	Comatulidae
+139	Paridae
+139	Mangrovivirgaceae
+139	Cuniculitremaceae
+139	Tenuifilaceae
+139	Nitrosocaldaceae
+139	Cyanothecaceae
+139	Coenzyme F420-H2 dehydrogenase (methanophenazine)
+139	Casimicrobiaceae
+139	Haliotidae
+139	Cephalotaceae
+139	Halimedaceae
+139	Ostreobiaceae
+139	Sturnidae
+139	Scatophagidae
+139	Diprionidae
+139	Callipallenidae
+139	Streptolysin S
+139	Rhinolophidae
+139	Sodium-transporting ATPase
+139	Dehalococcoidaceae
+139	Nyctotheridae
+139	Promineifilaceae
+139	Rhodellaceae
+139	Haloferuviridae
+140	Chlamydiaceae
+140	Pyrocystaceae
+140	Thermochlorobacteriaceae
+140	ABC transporter YxeMNO
+140	Theaceae
+140	Chlamydomonadaceae
+140	Kyanoviridae
+140	Coenzyme B synthesis
+140	Soboliphymatidae
+140	Elateridae
+140	Vicinamibacteraceae
+140	Trans-translation by stalled ribosomes
+140	Chelydridae
+140	Anarhichadidae
+140	Nidulariaceae
+140	Acipenseridae
+140	Bathyergidae
+140	Polystomatidae
+140	Rhodobiaceae
+140	Methylocystaceae
+141	Delphinidae
+141	Spheniscidae
+141	Sciuridae
+141	Equidae
+141	Balaenopteridae
+141	Pteropodidae
+141	Pumilibacteraceae
+141	Dissoconiaceae
+141	Anaerobic toluene and ethylbenzene degradation
+141	Andaluciidae
+141	Tayassuidae
+141	Rhinocerotidae
+141	Poly-gamma-glutamate biosynthesis
+141	Sphaerobolaceae
+141	Phaeodactylaceae
+141	Acetophenone carboxylase 1
+141	Baculoviridae
+141	Echinometridae
+141	Lacertidae
+141	Menuridae
+141	Acanthisittidae
+141	Nanopusillaceae
+141	Sedoreoviridae
+141	Clastopteridae
+141	Nothobranchiidae
+142	Anisakidae
+142	Pyruvate metabolism II: acetyl-CoA, acetogenesis from pyruvate
+143	Acetoin, butanediol metabolism
+144	Dehydrogenase complexes
+145	Sphaerobacteraceae
+145	Acetolactate synthase subunits
+146	DNA repair, bacterial SbcCD exonuclease
+147	Thermomicrobiaceae
+147	Rut pathway of pyrimidine degradation
+147	Staphyleaceae
+147	Dromaiidae
+147	Tytonidae
+147	Didelphidae
+147	Combretaceae
+147	Amylocorticiaceae
+147	Fermentibacteraceae
+147	Gentianaceae
+147	Motacillidae
+147	Meropidae
+147	Centropomidae
+147	Pittosporaceae
+147	Caldisphaeraceae
+148	Desulfocucumaceae
+148	Cafeteriaceae
+148	Todidae
+148	Cynoglossidae
+148	Rutaceae
+148	Laelapidae
+148	Aphelenchoididae
+148	Rivulariaceae
+148	Orussidae
+148	Simkaniaceae
+148	Salasmaviridae
+148	Erebidae
+148	Chrysocapsaceae
+148	Falconidae
+148	Dasypodidae
+148	Sporocadaceae
+148	Papilionidae
+148	Acanthopleuribacteraceae
+148	Herelleviridae
+148	Hymenolepididae
+148	Methanotrichaceae
+149	Sulfurospirillaceae
+149	Spiroplasmataceae
+149	Cellulosilyticaceae
+149	Attheyaceae
+149	Cardiobacteriaceae
+149	Natranaerofabaceae
+149	Acidaminobacteraceae
+149	Roseivirgaceae
+149	Tepidimicrobiaceae
+149	Gracilibacteraceae
+149	Desulfobacteriaceae
+149	Thermodesulfobacteriaceae
+150	Filifactoraceae
+150	Helicobacteraceae
+150	Campylobacteraceae
+150	Clostridiaceae
+150	Acholeplasmataceae
+151	Tilletiaceae
+151	Mustelidae
+151	Sigmoideomycetaceae
+151	Trichocomaceae
+151	Lewinellaceae
+151	Oxyuridae
+151	Desulfonauticaceae
+151	Psilotaceae
+151	Hylobatidae
+151	Hadarchaeaceae
+151	Desulfoplanaceae
+151	Cyprinidae
+151	Adrianichthyidae
+151	Symphyonemataceae
+151	Scyliorhinidae
+151	MazEF toxin-antitoxing (programmed cell death) system
+152	Circaeasteraceae
+152	Rajidae
+152	Dasyuridae
+152	Desertifilaceae
+152	Varunidae
+152	Leuciscidae
+152	Ditrichaceae
+152	Ketobacteraceae
+152	Parvoviridae
+152	Cichlidae
+152	Nitidulidae
+152	Natronincolaceae
+152	Rhincodontidae
+152	Pseudobacteriovoracaceae
+152	Gobiidae
+152	Tetranychidae
+152	Hyellaceae
+152	Pyroglyphidae
+152	Apusomonadidae
+153	Homogentisate pathway
+153	Tetrahymenidae
+153	Ramazzottiidae
+153	Cunninghamellaceae
+153	Omphalotaceae
+153	Umbilicariaceae
+154	Citrate lyase
+154	Oxaloacetate decarboxylase Na-pump
+154	Bacillales Family X. Incertae Sedis
+154	Heliobacteriaceae
+154	Desulfitobacteriaceae
+154	Opitutaceae
+155	Scarabaeidae
+155	Eubacteriales Family XII. Incertae Sedis
+155	Symbiobacteriaceae
+155	alpha-glucoside ABC transporter
+155	Buthidae
+155	Thermovirgaceae
+155	Phytoseiidae
+155	Aerococcaceae
+155	Syntrophomonadaceae
+156	Cyanate hydrolysis
+157	Polyamine Metabolism
+158	HipAB system implicated in growth arrest, persistence and drug tolerance
+158	Glycerolipid and Glycerophospholipid Metabolism in Bacteria
+158	Type IV pilus
+159	Cell division related cluster including coaD
+160	One-carbon metabolism by tetrahydropterines
+160	Toxin-Antitoxin system HigAB
+161	Hfl operon
+162	L-ascorbate utilization (and related gene clusters)
+162	Noctuidae
+162	Enterococcaceae
+162	Sporolactobacillaceae
+162	Trichuridae
+162	Carnobacteriaceae
+163	Turicibacteraceae
+163	V-Type ATP synthase
+163	Thermoactinomycetaceae
+163	Desulfuribacillaceae
+164	Patulibacteraceae
+164	S-methylmethionine
+164	Neocallimastigaceae
+164	Fermentations: Lactate
+164	PE multigene family in Mycobacterium tuberculosis complex (MTBC)
+164	PPE multigene family in Mycobacterium tuberculosis complex (MTBC)
+164	Sporulation proteins SigEG cluster
+164	Moschidae
+165	Magnetobacteriaceae
+165	Exidiaceae
+165	Biogenesis of c-type cytochromes
+165	Gloeobacteraceae
+165	Pasteuriaceae
+165	Apogonidae
+165	Smithellaceae
+166	Gymnotidae
+166	Trionychidae
+166	Protopteridae
+166	Pipridae
+166	Pediculidae
+166	Ophirinidae
+166	Choanephoraceae
+166	Betaine lipids in bactera
+166	Fe(III) respiration - Shewanella type
+166	Aminoglycoside modifying enzymes: O-phosphotransferases
+166	Biddulphiaceae
+166	Columbidae
+166	Enterocytozoonidae
+166	4-hydroxybenzoyl-CoA reductase
+166	Spalacidae
+166	Midichloriaceae
+167	Rubiaceae
+167	Silvanigrellaceae
+167	Geitlerinemataceae
+167	Aiptasiidae
+167	Babeliaceae
+167	Enteromyxidae
+167	Mycoplasmoidaceae
+167	Methanomassiliicoccaceae
+167	Isochrysidaceae
+167	Nanohalobiaceae
+167	Feifaniaceae
+167	Ardeidae
+167	Eremiobacteraceae
+167	Corsiaceae
+167	Thermodesulfobiaceae
+167	Megalopidae
+167	Sporanaerobacteraceae
+167	Trichoplacidae
+167	Mycobacterial cell wall virulence lipid phthiocerol dimycocerosate (PDIM)
+167	Hydroxyaromatic decarboxylase family
+167	Cymatosiraceae
+167	Branchiostomatidae
+167	Assiduviridae
+167	Paramyxoviridae
+167	Iron acquisition in Streptococcus
+167	Ethanolamine utilization
+167	Pinguiochrysidaceae
+167	Prorocentraceae
+168	Heteromyidae
+168	Rhopaluridae
+168	Fredfastierviridae
+168	Syngnathidae
+168	Chlorosome
+168	Halorubellaceae
+168	Phenol hydroxylase
+168	Cryptobasidiaceae
+168	Salisaetaceae
+168	Goodeniaceae
+168	Pyralidae
+168	Phaeocystidibacteraceae
+168	Methanofuran biosynthesis
+168	Panagrolaimidae
+168	Coelacanthidae
+168	Flaviviridae
+168	Ozemobacteraceae
+169	Molossidae
+169	Protomycetaceae
+169	Lemuridae
+169	Oceanipulchritudinaceae
+169	Ascodesmidaceae
+169	Metamycoplasmataceae
+169	Mrakiaceae
+170	ESAT-6 proteins secretion system in Mycobacteria (locus ESX-1)
+170	ESAT-6 protein secretion system in Mycobacteria (locus ESX-5)
+171	Mycoplasmataceae
+171	Cyclonatronaceae
+171	Nitrososphaeraceae
+171	Bignoniaceae
+171	Toxin-antitoxin replicon stabilization systems
+172	Ribosomal protein S5p acylation
+172	Glycogen metabolism
+173	YoeB-YefM toxin-antitoxin system
+173	ESAT-6 proteins secretion system in Firmicutes and Actinobacteria
+174	Acidaminococcaceae
+174	Oscillospiraceae
+174	Ribonucleotide reduction
+175	DNA repair, UvrABC system
+176	Polysulfide reductase EC 1.12.98.4 and Thiosulfate reductase
+176	Plakobranchidae
+176	Uabimicrobiaceae
+176	Vibrioferrin synthesis
+176	ABC transporter of unknown substrate X
+176	Cyanidiaceae
+176	Yeguiaceae
+176	Cosmopterigidae
+176	Desulfomonilaceae
+176	Thermofilaceae
+176	Ignatzschineriaceae
+176	Dracunculidae
+177	Chroococcidiopsidaceae
+177	Stereaceae
+177	Solenidae
+177	Sarcoptidae
+177	Eriophyidae
+177	Scolopendridae
+177	Ursidae
+177	Mycobacterial signal transduction system MprAB required for persistent infections
+177	Tenebrionidae
+177	Babesiidae
+177	Figitidae
+177	Rhabdoviridae
+177	Phycodnaviridae
+177	Thalassionemataceae
+177	Leucosporidiaceae
+177	Schizoporaceae
+177	Crevaviridae
+177	Gallic acid utilization
+177	Hepatozoidae
+177	Selenoprotein O
+177	Percidae
+177	Mytilidae
+177	Aplysiidae
+177	Serendipitaceae
+177	Glossiphoniidae
+177	Thiohalophilaceae
+177	Lujinxingiaceae
+177	Odinarchaeaceae
+177	Corynebacteriaceae
+177	Ranidae
+177	Bufonidae
+177	Terrimicrobiaceae
+177	Lepisosteidae
+178	Pleuronectidae
+178	Gelatoporiaceae
+178	Azoamicaceae
+178	Punctulariaceae
+178	Lecudinidae
+178	Stephanosporaceae
+178	Psathyrellaceae
+178	Shiraiaceae
+178	Tachyglossidae
+178	Rivulidae
+178	Oocystaceae
+178	Cladosporiaceae
+178	Passeridae
+178	Trombidiidae
+178	Geoemydidae
+178	Danionidae
+178	Aminobacteriaceae
+178	Silphidae
+178	Corynesporascaceae
+178	Esocidae
+178	Halomagnusviridae
+178	Toxopneustidae
+178	RNA polymerase, archaeal
+178	Gongylonematidae
+178	SpoVS protein family
+178	Verbenaceae
+178	Mycobacteriaceae
+178	Papillomaviridae
+178	Dugesiidae
+178	Myxinidae
+178	Laspinemataceae
+178	Sulfhydrogenase
+178	Suoliviridae
+178	Chinchillidae
+178	Tepidiformaceae
+178	Prochlorococcaceae
+178	Petrachlorosaceae
+178	Prometheoarchaeaceae
+178	Urticaceae
+178	Juglandaceae
+179	Tymoviridae
+179	Grammatophoraceae
+179	Rickenellaceae
+179	Coronaviridae
+179	Peduoviridae
+179	Scalinduaceae
+179	Tubulinosematidae
+179	Holocentridae
+179	Megalonychidae
+179	Hypoviridae
+179	Gigasporaceae
+179	Magnaporthaceae
+179	Bacillariaceae
+179	Arenicellaceae
+179	Gymnodiniaceae
+179	Veneridae
+179	Ramphastidae
+179	Basidiobolaceae
+179	Haemonchidae
+179	Leptocylindraceae
+179	Coccinellidae
+179	Desulfatirhabdiaceae
+179	Otididae
+179	Methanopyraceae
+179	Cynocephalidae
+179	Energy-conserving hydrogenase (ferredoxin)
+179	Gracilariaceae
+180	Catenulaceae
+180	Elaphomycetaceae
+180	DNA sulfur modification cluster
+180	Puniceispirillaceae
+180	Thalassarchaeaceae
+180	Mesyanzhinovviridae
+180	Dasyatidae
+180	Dictyochaceae
+180	Calderihabitantaceae
+180	Elephantidae
+180	Alloherpesviridae
+180	Thermostichaceae
+180	Caulerpaceae
+180	Taeniidae
+180	Verrucomicrobia subdivision 6
+180	Galdieriaceae
+180	Nymphalidae
+180	Prasinococcaceae
+180	Vulgatibacteraceae
+180	Halothecacae
+180	Steigviridae
+180	Druskaviridae
+180	Litorivicinaceae
+180	Phaeocystaceae
+180	Bracteacoccaceae
+180	Poxviridae
+180	Adenoviridae
+180	Chromulinivoraceae
+181	Anthracoideaceae
+181	Hydrogenimonadaceae
+181	Mastigamoebidae
+181	Thermodesulfatatoraceae
+181	Resistance to Vancomycin and Teicoplanin
+181	Nanoperiomorbaceae
+181	Tetraodontidae
+181	Nanosynbacteraceae
+181	Anaerobic Oxidative Degradation of L-Ornithine
+181	Methanonatronarchaeaceae
+181	Microvenatoraceae
+181	Phrymaceae
+181	Pentatomidae
+181	Paraconexibacteraceae
+181	Trichostrongylidae
+182	Resistance to Ethambutol
+182	Xenocyprididae
+182	Desulfosudaceae
+182	Methanoliparaceae
+182	Hyaluronic Acid-containing Cell Walls
+182	Selenomonadaceae
+182	Reduviidae
+182	Paulinellidae
+182	Hemiaulaceae
+182	Annonaceae
+182	Polyodontidae
+182	Nephroselmidaceae
+182	Echinimonadaceae
+182	Sciaenidae
+182	Zhaonellaceae
+182	Caminicellaceae
+182	Thelaziidae
+182	Cephidae
+182	Fiersviridae
+182	Dermocarpellaceae
+182	Oculatellaceae
+182	Izemoplasmataceae
+182	Zierdtviridae
+182	Salibacteraceae
+182	Sclerodermataceae
+182	Peribunyaviridae
+182	Parvicellaceae
+183	Gloniaceae
+183	O-methyl phosphoramidate modification in capsular polysaccharide
+183	Rubritaleaceae
+183	Tetracycline resistance, all mechanisms
+183	Chloroflexaceae
+183	Lophiostomataceae
+183	Mugilidae
+183	Aphanizomenonaceae
+183	Majidae
+183	Saccharimonadaceae
+183	Blastocladiaceae
+183	Methanollivieraceae
+183	Kiritimatiellaceae
+183	Nanosyncoccacae
+183	Xenococcaceae
+183	Odontellaceae
+183	Ichthyobodonidae
+183	Hyaluronate utilization
+184	Lineolataceae
+184	Choreocolacaceae
+184	Absconditicoccaceae
+184	Epitheliaceae
+184	Sulfuricellaceae
+184	Asteriidae
+184	Sphingidae
+184	Chrysomelidae
+184	Blenniidae
+184	Pisolithaceae
+184	Armatimonadaceae
+184	Anaerohalosphaeraceae
+184	Anabantidae
+184	Cryptomonadaceae
+184	Sumerlaeaceae
+184	Gadidae
+184	Acerentomidae
+184	Patellidae
+184	Nanogingivalaceae
+184	Surirellaceae
+184	Umbelopsidaceae
+184	Raineyaceae
+184	Micrarchaeaceae
+184	Desulfosalsimonadaceae
+184	Polygonaceae
+184	Nephilidae
+184	Araneidae
+184	Coccolithaceae
+184	AMP to 3-phosphoglycerate
+184	Schizomimiviridae
+184	Characeae
+184	Glyceridae
+184	Lycaenidae
+184	Methanococcaceae
+184	Endomicrobiaceae
+184	Thermoanaerobaculaceae
+184	Channichthyidae
+184	Pervagoviridae
+184	Adelgidae
+185	Libellulidae
+185	Mastacembelidae
+185	Methanofastidiosaceae
+185	Demerecviridae
+185	Trombiculidae
+185	Monodontidae
+185	Sarcocystidae
+185	Outer membrane proteases (Omptins)
+185	Lentitheciaceae
+185	Chaseviridae
+185	Psittacicellaceae
+185	Pavlovaceae
+185	Thermincolaceae
+185	Molycolviridae
+185	Auribacteraceae
+185	Asterinidae
+185	Rhodomelaceae
+186	Gemellaceae
+186	HU-alpha and dsDNA mimic protein interaction
+186	Petrotogaceae
+186	Carangidae
+186	Abyssicoccaceae
+186	Fervidobacteriaceae
+186	Dissulfurispiraceae
+186	Nitrospinaceae
+186	Jaapiaceae
+186	Borreliaceae
+186	Listeria surface proteins: Internalin-like proteins
+186	Marseilleviridae
+186	Pasteurellaceae
+186	Glycine reductase, sarcosine reductase and betaine reductase
+186	Neisseriaceae
+186	Inoviridae
+186	Anaerobic dimethyl sulfoxide reductase (EC 1.8.5.3)
+186	Amoebophilaceae
+187	Callorhinchidae
+187	Dictyobacteraceae
+187	Euphorbiaceae
+187	Colletidae
+187	Polyunsaturated Fatty Acids synthesis
+188	Didymellaceae
+188	Saprospiraceae
+188	Sulfurimonadaceae
+188	Thermoanaerobacteraceae
+188	Moritellaceae
+188	Orbaceae
+188	Desulfovibrionaceae
+189	Lingulidae
+189	Salpingoecidae
+189	Priapulidae
+189	GlrKR two-component regulatory system
+189	Photosystem I
+189	Desulfosarcinaceae
+189	Cheloniidae
+189	Methanoregulaceae
+189	Bradymonadaceae
+189	Formicidae
+189	Klebsormidiaceae
+189	Methionine Salvage
+189	Siderophore Mycobactin
+189	Solanaceae
+190	Zobellviridae
+190	Sterolibacteriaceae
+190	Ferrovaceae
+190	Coenagrionidae
+190	Carbon monoxide induced hydrogenase
+190	Ajellomycetaceae
+190	Melanommataceae
+190	Sporulation proteins SpoVA cluster
+190	Chamaesiphonaceae
+190	Ktedonosporobacteraceae
+190	Cobitidae
+190	Tenrecidae
+190	Hyaenidae
+190	Aliceevansviridae
+190	Neodiplogasteridae
+191	Lachnaceae
+191	Acanthamoebidae
+191	Armadillidiidae
+191	Felidae
+191	Cervidae
+192	Arginine decarboxylase and Agmatinase cluster
+192	2-phosphoglycolate salvage
+192	2-aminophenol Metabolism
+193	Particulate methane monooxygenase (pMMO)
+193	Aerosakkonemataceae
+193	Methanocellaceae
+193	Halobacteriovoraceae
+193	Neomegalonemataceae
+193	Accipitridae
+193	Oxytrichidae
+193	Hydrogenophilaceae
+193	Syntrophotaleaceae
+193	Schistosomatidae
+194	Glycerol utilization cluster
+194	Phd-Doc, YdcE-YdcD toxin-antitoxin (programmed cell death) systems
+195	Teicoplanin resistance in Staphylococci
+195	Biosynthesis of 4,4'-diapolycopene dialdehyde
+195	Desulfococcaceae
+195	Toxins
+195	p-Aminobenzoyl-Glutamate Utilization
+195	Methylglyoxal resistance in Bacillus subtilis
+195	Pore-forming cytolytic toxins
+195	Fosfomycin resistance
+195	Desulfotomaculaceae
+195	Bacillithiol synthesis
+195	Alpha-acetolactate operon
+195	Siderophore Staphylobactin
+195	Siderophore Anthrachelin
+195	Listeria Pathogenicity Island LIPI-1 extended
+195	Biofilm formation in Staphylococcus
+195	Actinospicaceae
+195	Adhesins in Staphylococcus
+195	Formaldehyde assimilation: Ribulose monophosphate pathway
+195	Staphylococcaceae
+196	Anaerobic module of TCA
+196	Pterin synthesis related cluster
+197	Pectobacteriaceae
+197	Listeriaceae
+197	Citrate uptake cluster
+197	Enterobacteriaceae
+197	Alkane biosynthesis in bacteria
+197	Arcobacteraceae
+198	Hydroxy-fatty acid production as stress response
+198	Cytophagaceae
+198	Fet iron export system
+198	Histidine Biosynthesis
+198	Histidine Biosynthesis -- gjo
+199	Urea cycle
+199	Arginine biosynthesis via N-acetyl-L-citrulline
+200	Multi-subunit cation antiporter
+200	Bile hydrolysis
+200	Cytolysin and Lipase operon in Vibrio
+201	Hypoxylaceae
+201	Sclerotiniaceae
+202	Plectosphaerellaceae
+202	Hypocreaceae
+202	Nectriaceae
+202	Pyriculariaceae
+202	Pseudeurotiaceae
+202	Venturiaceae
+203	Valsaceae
+203	Myxococcaceae
+203	Leptospiraceae
+204	Enterobacterial common antigen (LPS O-antigen)
+204	Histidine Degradation
+205	Deinococcaceae
+205	Urease subunits
+206	Trematosphaeriaceae
+206	Lophiotremataceae
+206	Methylacidiphilaceae
+206	Dipicolinate Synthesis
+206	Temoridae
+206	Sordariaceae
+206	Bionectriaceae
+206	Zopfiaceae
+206	Pseudodiploosporaceae
+206	Ceratocystidaceae
+206	Microascaceae
+206	Phaeomoniellaceae
+206	Diatrypaceae
+206	Hyaloscyphaceae
+206	Amorphothecaceae
+206	Pelagibacteraceae
+206	Beta-lactamases Ambler class A
+206	Cryphonectriaceae
+207	Chlorodendraceae
+207	Hydrolysis of sphingomyelin
+207	Thalassospiraceae
+207	Peronosporaceae
+207	Bacillaceae
+208	Chaetomiaceae
+208	Psittaculidae
+208	Strongylocentrotidae
+208	Ophiocordycipitaceae
+208	Clavicipitaceae
+208	Calditerrivibrionaceae
+208	Ampullariidae
+208	Diversisporaceae
+208	Glomerellaceae
+208	Helotiaceae
+208	Psyllidae
+208	Dicroglossidae
+208	Schizaeaceae
+209	Murein hydrolase regulation and cell death
+209	The Chv two-component regulatory system
+210	ESAT-6 proteins secretion system in Firmicutes extended
+210	Nickel-requiring
+211	Queuosine and archaeosine
+212	Adenosyl nucleosidases
+212	Metabolite repair
+213	Fibrobacteraceae
+213	Na-driven 2-hydroxyglutarate pathway
+213	Methanobacteriaceae
+213	Anaerotignaceae
+213	Dethiobacteraceae
+214	tRNA aminoacylation, Thr
+214	Biotin synthesis cluster
+215	Lipoylation-related cluster
+215	Planococcaceae
+215	Alicyclobacillaceae
+216	NADH ubiquinone oxidoreductase vs. multi-subunit cation antiporter
+216	NADH ubiquinone oxidoreductase
+216	Respiratory Complex I
+217	Pyruvate metabolism I: anaplerotic reactions, PEP
+217	D-Galacturonate and D-Glucuronate Utilization
+218	Menaquinone biosynthesis from chorismate via 1,4-dihydroxy-6-naphthoate
+218	Muconate lactonizing enzyme family
+219	Pyridoxin (Vitamin B6) Biosynthesis
+219	Oligopeptide degradation cluster
+219	Modification of eukaryotic initiation factor 5A
+219	Biosynthesis of thiamin antivitamin Bacimethrin
+220	Protein chaperones
+221	Methylthiotransferases
+221	Ribosomal protein S12p Asp methylthiotransferase
+222	Branched-chain amino acids and alpha-keto acids utilization as energy sources
+223	Prolixibacteraceae
+223	Dysgonomonadaceae
+223	Utilization systems for glycans and polysaccharides (PULs, SUS)
+223	BtuS-PduT gene cluster for metalloporphyrine salvage
+223	Conjugative transposon, Bacteroidales
+223	Bacterial Sphingolipids
+224	Bacteroides capsular polysaccharide transcription antitermination proteins
+224	2-ketoacid oxidoreductases disambiguation
+224	Haliscomenobacteraceae
+224	Bacteroidaceae
+224	Prevotellaceae
+224	Rikenellaceae
+224	Paludibacteraceae
+224	Muribaculaceae
+224	Barnesiellaceae
+224	Pyruvate:ferredoxin oxidoreductase
+225	Protein degradation
+225	Ribosomal hibernation related cluster
+226	Predicted secretion system W clustering with cell division proteins
+227	Aerotolerance operon
+228	Nucleoside uptake and degradation cluster
+229	Inositol-containing phospholipids
+230	Thiotrichaceae
+230	Acetyl-CoA Pathway Wood-Ljungdahl
+230	Encapsulation of DyP-type peroxidase or ferritin-like protein oligomers
+231	Cob(I)alamin adenosyltransferase
+231	Colanic acid synthesis
+231	KDO2-Lipid A biosynthesis
+231	Na-translocating NADH-quinone oxidoreductase
+231	tRNA aminoacylation, Gln
+231	Lipopolysaccharide transporter LptABC
+231	tRNA aminoacylation, Glu
+231	Possible RNA modification and stress response cluster
+232	Glutamate dehydrogenases
+233	Translation initiation factors, eukaryotic and archaeal
+234	Carabidae
+234	Mortierellaceae
+234	Erythrobacteraceae
+234	Bathycoccaceae
+234	Sporormiaceae
+234	Coleochaetaceae
+234	Chaetocerotaceae
+234	Perkinsidae
+234	Catenariaceae
+234	Leptosphaeriaceae
+235	Orbiliaceae
+235	Trypetheliaceae
+235	Ancylistaceae
+235	Schizosaccharomycetaceae
+235	Argasidae
+235	Diphthamide biosynthesis
+235	Hepatosporidae
+235	Trigonopsidaceae
+235	Metschnikowiaceae
+235	Neolectaceae
+236	Mytilinidiaceae
+236	Harrimaniidae
+236	Phoridae
+236	Leucothoidae
+236	Talitridae
+236	Sympoventuriaceae
+236	Aplosporellaceae
+236	Cicadellidae
+236	Thermoascaceae
+237	Phylloxeridae
+237	Mebrane bound hydrogenases
+237	Lichtheimiaceae
+237	Cixiidae
+237	Gnomoniaceae
+237	Albuginaceae
+237	Energy conserving hydrogenase b, Methanococcales-Methanobacteriales-Methanopyrales
+237	Ascobolaceae
+237	Lipomycetaceae
+237	Nolidae
+237	Dothidotthiaceae
+237	Haplosporidiidae
+237	Clytiidae
+237	Chlorellaceae
+237	Archaeal membrane bound hydrogenases
+237	Parastacidae
+237	Dermestidae
+237	Fabreidae
+238	Pichiaceae
+238	Phaffomycetaceae
+238	Dipodascaceae
+238	Debaryomycetaceae
+238	Ascoideaceae
+238	Ribosome LSU, eukaryotic and archaeal
+238	RNA polymerase, archaeal initiation factors
+238	Pleistophoridae
+238	Kickxellaceae
+238	Ribosome SSU, eukaryotic and archaeal
+238	Lysine Biosynthesis via alpha-aminoadipate AAA
+238	Ribosome biogenesis, archaeal
+238	Box C-D RNA-guided RNA methyltransferase
+238	Exosome
+239	Legeriomycetaceae
+239	Chytriomycetaceae
+239	Heme O and Heme A biosynthesis (with selected terminal oxidases)
+239	Nitrogen fixation
+239	Cynipidae
+239	Lindgomycetaceae
+239	Niphatidae
+239	Pneumocystaceae
+239	Hypsibiidae
+239	Cerambycidae
+239	Calliphoridae
+239	Translation elongation factors, eukaryotic and archaeal
+239	Graphidaceae
+240	Indriidae
+240	Portunidae
+240	Anaeroplasmataceae
+240	Synchytriaceae
+240	Oweniidae
+240	Tribonemataceae
+240	Percolomonadidae
+240	Plexauridae
+240	Chthonomonadaceae
+240	Ploettnerulaceae
+240	Mucoraceae
+241	Acidimicrobiaceae
+241	Nototheniidae
+241	Acrididae
+242	Hydrogenothermaceae
+242	Tichowtungiaceae
+242	Morchellaceae
+242	Lottiidae
+242	Tulasnellaceae
+242	Desulfonatronovibrionaceae
+242	Natronoarchaeaceae
+242	Testudinidae
+242	Sparidae
+242	Sisoridae
+242	Actiniidae
+243	Thraustochytriaceae
+243	Burseraceae
+243	Bipolaricaulaceae
+243	Crassulaceae
+243	Trichogrammatidae
+243	Botryobasidiaceae
+243	Amaryllidaceae
+243	Emydidae
+243	Metastrongylidae
+243	Aminoglycoside modifying enzymes: N-acetyltransferases
+243	Hipposideridae
+243	Acroporidae
+243	Thermosporotrichaceae
+244	DNA repair, bacterial UmuCD system
+244	An Arabinose Sensor
+244	Quorum sensing in Yersinia
+244	Phototrophicaceae
+244	Succinivibrionaceae
+244	Bifidobacteriaceae
+244	Egibacteraceae
+244	Strombidinopsidae
+244	Labyrinthulaceae
+244	Holosporaceae
+244	Ignavibacteriaceae
+245	Fluviibacteraceae
+245	Amidase clustered with urea and nitrile hydratase functions
+245	Mamiellaceae
+245	Geminigeraceae
+245	Aestuariivirgaceae
+245	Obscuribacteraceae
+245	Planorbidae
+245	Wallemiaceae
+245	Physciaceae
+245	Heteroderidae
+245	Dermateaceae
+245	Odontophoridae
+245	Cavenderiaceae
+245	Barnase-barstar complex
+245	Moorellaceae
+245	Algiphilaceae
+245	Filobasidiaceae
+245	Owenweeksiaceae
+245	Endogonaceae
+245	Kangiellaceae
+245	Rhizopodaceae
+245	AttEFGH ABC Transport System
+245	Mollisiaceae
+245	Arthrodermataceae
+245	Rhinotermitidae
+245	Melioribacteraceae
+245	Thripidae
+245	Botryosphaeriaceae
+245	Fibroporiaceae
+246	Brachybasidiaceae
+246	Marivirgaceae
+246	Pleioneaceae
+246	Baetidae
+246	Trichocoleusaceae
+246	Ancylostomatidae
+246	Hippeaceae
+246	Cryptococcaceae
+246	Gonapodyaceae
+246	Salinivirgaceae
+247	Pleuroascaceae
+247	Timematidae
+247	Parmeliaceae
+247	Chironomidae
+247	Lamiaceae
+247	Myxotrichaceae
+247	Powellomycetaceae
+247	Dioscoreaceae
+247	Musophagidae
+247	Tabanidae
+247	Anaplasmataceae
+247	Araucariaceae
+247	Dioxygenolytic carbon monoxide-forming enzymes
+247	Cyclopteridae
+247	Marasmiaceae
+248	Rutstroemiaceae
+248	Melampsoraceae
+248	Pezizaceae
+248	Trichomonascaceae
+248	Peltospiridae
+248	Tremellaceae
+248	Trichosporonaceae
+248	Nephtheidae
+248	Juglanconidaceae
+248	Mormyridae
+248	Ascosphaeraceae
+248	Xylonaceae
+248	Cyphellophoraceae
+248	Paxillaceae
+249	Cryptosporidiidae
+249	Strongylidae
+249	Rhizosoleniaceae
+249	Pomacentridae
+249	Podosporaceae
+249	Ceratopogonidae
+249	Cecidomyiidae
+250	Tolypothrichaceae
+250	Biofilm Adhesin Biosynthesis
+250	Phospholipid and Fatty acid biosynthesis related cluster
+250	Oceanospirillaceae
+250	Heterorhabditidae
+250	Cellvibrionaceae
+250	Delphacidae
+250	ABC transporter YeiABEF
+250	Chromatiaceae
+250	Xanthomonadaceae
+250	Gallionellaceae
+250	Gesneriaceae
+250	Halieaceae
+250	Osmotic stress cluster
+250	Beta-lactamases Ambler class B
+251	L-rhamnonate utilization cluster
+251	Comamonadaceae
+251	Rhodanobacteraceae
+251	Aquaspirillaceae
+251	Nitrobacteraceae
+251	Cyclic Di-GMP Turnover Proteins
+251	Chitinibacteraceae
+251	Hyphomicrobiaceae
+251	mRNA 3-end processing factor containing cluster
+251	Molybdopterin cytosine dinucleotide
+251	Tripartite multidrug efflux systems (of RND type) AcrAB-TolC and related transporters
+251	Rhodocyclaceae
+251	Siderophore Aerobactin
+251	Anaeromyxobacteraceae
+251	Proteorhodopsin
+251	Paracoccaceae
+252	Sphaerotilaceae
+252	Chloramphenicol resistance
+252	Burkholderiaceae
+252	Halothiobacillaceae
+252	Phenylacetyl-CoA catabolic pathway (core)
+252	Ectothiorhodospiraceae
+252	tRNA splicing
+252	Lampyridae
+252	Mu-like phage
+252	Solirubrobacteraceae
+252	Lambdoid phage
+252	Moraxellaceae
+252	Methylococcaceae
+252	Morganellaceae
+252	Halomonadaceae
+253	Sphingomonadaceae
+253	Gemmataceae
+253	Calotrichaceae
+253	Leptolyngbyaceae
+253	Sporomusaceae
+253	Pirellulaceae
+253	Schitoviridae
+253	Caulobacteraceae
+253	Malasseziaceae
+253	Pseudobdellovibrionaceae
+253	Bacteriovoracaceae
+253	Balneolaceae
+253	Sphingobacteriaceae
+253	Chitinophagaceae
+253	Weeksellaceae
+253	Crocinitomicaceae
+253	Acidithiobacillaceae
+253	Mixiaceae
+253	Autographiviridae
+253	Sutterellaceae
+253	Thermoleophilaceae
+253	Tectiviridae
+253	Solibacteraceae
+253	Natrialbaceae
+253	Oxalobacteraceae
+253	Sugar-phosphate stress regulation
+253	Aspergillaceae
+253	Herpotrichiellaceae
+253	Spore germination
+253	Siderophore Achromobactin
+253	Chromulinaceae
+253	Pleosporaceae
+253	Oppiidae
+253	Glossinidae
+253	Hexose phosphate transport system
+253	Endozoicomonadaceae
+253	Nevskiaceae
+253	Erysiphaceae
+253	Shewanellaceae
+253	Alteromonadaceae
+253	Thyridiaceae
+253	Idiomarinaceae
+253	Psychromonadaceae
+253	Aeromonadaceae
+253	Competibacteraceae
+253	AaeAB efflux system for hydroxylated, aromatic carboxylic acids
+253	Gene Transfer Agent
+253	Casjensviridae
+254	Piedraiaceae
+254	Hemiselmidaceae
+254	Darwinulidae
+254	Chlorophyll Biosynthesis in plants and prokaryotes
+254	Cebidae
+254	Plasmodiidae
+254	Caldilineaceae
+254	Methylophilaceae
+254	Caligidae
+254	Curculionidae
+254	L-galactonate utilization
+254	MukBEF Chromosome Condensation
+254	Teratosphaeriaceae
+254	Xylariaceae
+254	Saccotheciaceae
+254	Psychodidae
+254	Peptide ABC transport system Sap
+254	Rhizobiaceae
+254	Phocidae
+254	Hymenobacteraceae
+254	Cercopithecidae
+254	Microthrixaceae
+254	Rhodothermaceae
+254	Sulfolobaceae
+254	Spirosomataceae
+254	Halorubraceae
+254	Haloferacaceae
+254	Haloarculaceae
+254	Desulfocapsaceae
+254	CytR regulation
+254	Brucellaceae
+254	Geobacteraceae
+254	Flexistipitaceae
+254	Trimethylamine-N-oxide operon
+254	Trimorphomycetaceae
+254	Shikimate kinase SK3 cluster
+254	Oscillatoriaceae
+255	Cytherideidae
+255	Halteriidae
+255	Cobalamin synthesis, Precorin-2 to Cob(II)yrinate a,c diamide, aerobic
+255	Type 4 secretion and conjugative transfer
+255	Ktedonobacteraceae
+256	Hominidae
+256	2,3-diacetamido-2,3-dideoxy-d-mannuronic acid
+256	Rarobacteraceae
+256	Nymphonidae
+256	Siderophore Yersiniabactin Biosynthesis
+256	Demequinaceae
+256	Lysine fermentation to crotonoyl-CoA
+256	Cyclobacteriaceae
+256	Thermotogaceae
+256	Fructoselysine and glucoselysine
+256	Desulfobacteraceae
+256	Anaerolineaceae
+257	Saccharospirillaceae
+257	Phr peptides - Rap phosphatases signaling
+257	Predicted secretion system X
+257	Leeiaceae
+257	Plutellidae
+257	Crambidae
+257	Thiobacillaceae
+257	Orchesellidae
+257	Ixodidae
+257	Geomitridae
+257	Pectinidae
+257	Spraguidae
+257	Chattonellaceae
+257	Hafniaceae
+257	Reticulomyxidae
+257	Waddliaceae
+257	Calcidiscaceae
+257	Oceanococcaceae
+257	Cholesterol catabolism
+257	Perlucidibacaceae
+257	Camelidae
+257	Phosphonoalanine utilization
+257	Desulfofervidaceae
+257	Wenzhouxiangellaceae
+257	Iridoviridae
+257	Phosphonate (phosphite) dehydrogenase
+257	Cheirogaleidae
+257	Sirenicapillariaceae
+257	Sedimenticolaceae
+258	Labilitrichaceae
+258	Paceibacteraceae
+258	Granulosicoccaceae
+258	Alcaligenaceae
+258	Rcs two-component regulator of capsule synthesis
+258	Resistance to chromium compounds
+258	Elioraeaceae
+258	Fortieaceae
+258	Azonexaceae
+258	Tetrathionate respiration
+258	Tricarballylate Utilization
+258	Vir-like type 4 secretion system
+258	Desulfonatronaceae
+258	Piscirickettsiaceae
+258	Sciaridae
+258	Zavarziniaceae
+258	Nicotinic acid utilization
+258	Indoleacetamide metabolism
+258	Conjugative transfer
+258	Integrons
+258	Nitrilase
+258	Cordycipitaceae
+258	Indole-pyruvate oxidoreductase complex
+258	Agrobacterium opine transport
+258	Aromatic amino acid interconversions with aryl acids
+258	Oxygen-sensing diguanylate cyclase and phosphodiesterase couple for c-di-GMP control
+258	A new toxin - antitoxin system
+258	Microdochiaceae
+258	Methylhydantoinase
+258	Copper uptake system CopCD
+259	Scytonemataceae
+259	Pseudanabaenaceae
+259	Kosmotogaceae
+259	Spirulinaceae
+259	Neosynechococcaceae
+259	Herpetosiphonaceae
+259	Ustilaginaceae
+259	Castoridae
+259	Trebouxiaceae
+259	Parachlamydiaceae
+259	Agaricaceae
+259	Elsinoaceae
+259	Cryosericaceae
+259	Cloacimonadaceae
+259	Cryomorphaceae
+259	Peniophoraceae
+259	Reichenbachiellaceae
+259	Williamwhitmaniaceae
+259	Roseiflexaceae
+259	Thermaceae
+259	Fistulinaceae
+259	D-glucosaminate utilization
+259	Novispirillaceae
+259	Sphingosinicellaceae
+259	Grifolaceae
+259	Gloeophyllaceae
+259	Procellariidae
+259	Straboviridae
+259	Budviciaceae
+259	Microbotryaceae
+259	Hahellaceae
+259	Sporidiobolaceae
+259	Coenzyme F420 synthesis
+259	Gekkonidae
+259	Roseobacteraceae
+259	Mariprofundaceae
+259	Iodidimonadaceae
+259	Pleomorphomonadaceae
+259	Parvibaculaceae
+259	Lichenihabitantaceae
+259	Chelatococcaceae
+259	Beijerinckiaceae
+259	Ahrensiaceae
+259	Anelloviridae
+259	Archangiaceae
+259	Vespertilionidae
+259	Togniniaceae
+259	Criblamydiaceae
+259	Pycnococcaceae
+259	Halococcaceae
+259	Actinidiaceae
+259	Piptocephalidaceae
+259	ZraPRS-based zinc resistance
+259	Betulaceae
+259	Braconidae
+259	Mycobacterial multidrug efflux systems implicated in AMR 
+259	Sapindaceae
+259	Transcriptional regulator AfsR
+259	TonB-ExbBD energy transducing system
+259	Tricladiaceae
+259	Spore germinant receptors
+259	Phaeosphaeriaceae
+259	Hyalellidae
+259	Penaeidae
+259	Ranunculaceae
+259	Papaveraceae
+259	Myrtaceae
+259	Eremomycetaceae
+259	Microthyriaceae
+259	Proteaceae
+259	Apiaceae
+259	Thermoproteaceae
+259	Hericiaceae
+259	Hoyosellaceae
+259	Korobacteraceae
+259	Desulfurobacteriaceae
+259	Prasinodermaceae
+259	Fimbriimonadaceae
+259	Halanaerobiaceae
+259	Rubrobacteraceae
+259	Gaiellaceae
+259	Isoniazid inductible proteins cluster
+259	Diaporthaceae
+259	Iamiaceae
+259	Conexibacteraceae
+260	Kiloniellaceae
+260	Anacardiaceae
+260	RuBisCO operon
+260	Acetobacteraceae
+260	Fodinicurvataceae
+260	Oleaceae
+260	Acidobacteriaceae
+260	Carotenogenesis related cluster
+260	Capsulimonadaceae
+260	Adaptation to d-cysteine
+260	Pteridaceae
+260	Arionidae
+260	Magnetovibrionaceae
+260	Photosystem II
+260	Hemiscylliidae
+260	Oceanibaculaceae
+260	Cannabaceae
+260	Pyruvate Alanine Serine Interconversions
+260	Parvularculaceae
+260	Kordiimonadaceae
+260	Ethylmalonyl-CoA pathway of C2 assimilation
+260	Ectoine, hydroxyectoine uptake and catabolism
+260	Brassicaceae
+260	Geodermatophilaceae
+260	Chenopodiaceae
+260	Isosphaeraceae
+260	Emcibacteraceae
+260	Halobacteriaceae
+260	Geminicoccaceae
+260	Paracaedibacteraceae
+260	Cucurbitaceae
+260	Trichinellidae
+260	Ancalomicrobiaceae
+260	D-allose utilzation
+260	Zingiberaceae
+260	Hopanoid biosynthesis
+260	Kaistiaceae
+260	Dermacoccaceae
+260	Phyllobacteriaceae
+260	Stellaceae
+260	Cytochrome b6-f complex in plants (plastidial) and cyanobacteria
+260	Rhodovibrionaceae
+260	Stappiaceae
+260	Dietziaceae
+260	Nostocaceae
+260	Boseaceae
+260	Methylobacteriaceae
+260	Numididae
+260	Sneathiellaceae
+260	Syntrophobacteraceae
+260	Acetomicrobiaceae
+260	Tephritidae
+260	Pucciniaceae
+260	Salmonidae
+260	Mycosphaerellaceae
+261	Heterocyst formation in cyanobacteria
+261	Buprestidae
+261	Macrolides, lincosamides, streptogramins, ketolides, oxazolidinones (MLSKO) resistance: enzymatic degradation
+261	Exosporium
+261	Maliibacteriaceae
+261	Vespidae
+261	Elachuridae
+261	Amanitaceae
+261	Bacillibactin Siderophore
+261	Blattellidae
+261	Rountreeviridae
+261	Steroidobacteraceae
+261	Ichthyobacteriaceae
+261	Aphididae
+262	Cavosteliaceae
+262	Desulforegulaceae
+262	Scophthalmidae
+262	Skeletonemataceae
+262	Lythraceae
+262	Pentalenolactone Biosynthesis and Resistance
+262	Eresidae
+262	Longimicrobiaceae
+262	Olpidiaceae
+262	Harpellaceae
+262	Macrolides, lincosamides, streptogramins, ketolides, oxazolidinones (MLSKO) resistance: rRNA methylases
+262	Thermosulfidibacteraceae
+262	Troglotrematidae
+262	Aotidae
+262	Pieridae
+262	Chrysiogenaceae
+262	Mcinerneyibacteriaceae
+262	Petromyzontidae
+262	Gelechiidae
+262	Bombycidae
+262	Desulfurisporaceae
+262	Pelagicoccaceae
+262	Schleiferiaceae
+262	Phycomycetaceae
+263	Aeolococcaceae
+263	Thermococcaceae
+263	Cenarchaeaceae
+263	Limisphaeraceae
+263	Bryopsidaceae
+263	Propanediol utilization
+263	Styelidae
+263	Cionidae
+263	Persicobacteraceae
+263	Tepidibacteraceae
+263	Thermoflexaceae
+263	Aquicultoraceae
+263	Flavobacteriaceae
+263	Blattabacteriaceae
+263	Clupeidae
+263	Coprobacillaceae
+263	Clostridiales Family XVI. Incertae Sedis
+263	Acidilutibacteraceae
+263	Adiutricaceae
+263	Lutisporaceae
+263	Desulfarculaceae
+263	Pterulaceae
+263	Phyllostomidae
+263	Gottschalkiaceae
+263	L-2-amino-adipate to lysine module
+263	Thermosediminibacteraceae
+263	Salsipaludibacteraceae
+263	Zymomonadaceae
+263	Amoebophryaceae
+264	Ferroplasmaceae
+264	Activation of fatty acids as acyl-adenylates cluster subgroup FadD10
+264	Denticipitidae
+264	Rubricoccaceae
+264	Vannellidae
+264	Termititenacaceae
+264	Philasteridae
+264	Icacinaceae
+264	Natranaerobiaceae
+264	Crenotrichaceae
+264	Deianiraeaceae
+264	Psalteriomonadidae
+264	Outer membrane porins in Mycobacteria
+264	Membrane bound hydrogenase Mbh -- gjo
+264	Membrane bound hydrogenase Mbh
+264	Sagittidae
+264	Geoalkalibacteraceae
+264	Pseudomassariaceae
+264	Megophryidae
+264	Amphipleuraceae
+264	Balanidae
+264	Pulicidae
+264	ESAT-6 proteins secretion system in Mycobacteria (locus ESX-3)
+264	Heligmosomidae
+264	Caldicoprobacteraceae
+264	Mycofactocin system cluster
+265	Vicingaceae
+265	Alloionematidae
+265	Desulfitibacteraceae
+265	Nanobdellaceae
+265	Mallomonadaceae
+265	Termitidae
+265	Hexamitidae
+265	Streblomastigidae
+265	Sporulation gene orphans
+265	Cuniculiplasmataceae
+265	Monomastigaceae
+265	Geovibrionaceae
+265	Pollicipedidae
+265	Anthocerotibacteraceae
+265	Ardenticatenaceae
+265	Potyviridae
+265	Breznakiellaceae
+265	Coat proteins CotJABC
+265	Saccharomycetaceae
+265	Pseudocohnilembidae
+266	Carboxysome
+266	Ochromonadaceae
+266	Charadriidae
+266	Tinamidae
+266	Eimeriidae
+266	Theileriidae
+266	Dinophilidae
+266	Cuculidae
+266	Clavariaceae
+266	Accessory colonization factor
+266	Phocoenidae
+266	Sphaerophragmiaceae
+266	Varanidae
+266	Fritschiellaceae
+266	Peptoniphilaceae
+266	Pachyviridae
+266	Opisthocomidae
+266	Stanwilliamsviridae
+266	Treponemataceae
+266	NADP-reducing [FeFe]-hydrogenase
+266	Plumbaginaceae
+266	Chaetodontidae
+266	Nartheciaceae
+266	Chalcididae
+266	Potamogetonaceae
+266	Halictidae
+266	Syrphidae
+266	Abditibacteriaceae
+266	Toluene 4-monooxygenase (T4MO)
+266	Nemacheilidae
+266	Thermotaleaceae
+266	Sporulation proteins SpoIIIAA-SpoIIIAH
+266	Sporulation Cluster III A
+266	Romeriaceae
+266	Argynnaceae
+266	Periconiaceae
+266	Mucispirillaceae
+266	Thermoflexibacteraceae
+267	Diopsidae
+267	Scenedesmaceae
+267	Acutalibacteraceae
+267	Autoinducer 2 (AI-2) transport and processing (lsrACDBFGE operon)
+267	Harpacticidae
+267	Wall polysaccharide pyruvylation
+267	Trichomonadidae
+267	Thoreaceae
+267	Rickettsiaceae
+267	Eschrichtiidae
+267	Vecturitrichaceae
+267	Desulfatiglandaceae
+267	Ostreidae
+268	Saccharomycodaceae
+268	Brevinemataceae
+268	Plasmodiophoridae
+268	Oxyrrhinaceae
+268	Ectoine synthesis
+268	Forespore to mother cell channel
+268	Eleutherodactylidae
+268	Varroidae
+268	Schizophyllaceae
+269	Echinostomatidae
+269	Mesoaciditogaceae
+269	Hakubellaceae
+269	Methanoperedenaceae
+269	Strombidiidae
+269	Sulfurovaceae
+270	Brachyspiraceae
+270	Lentisphaeraceae
+270	Anoxymicrobiaceae
+270	Dictyoglomaceae
+270	Proteinivoraceae
+270	Synergistaceae
+270	Spirochaetaceae
+270	Culicoidibacteraceae
+270	Tindalliaceae
+270	Koleobacteraceae
+270	Veillonellaceae
+270	Vahlkampfiidae
+271	Geopsychrobacteraceae
+271	Desulfatibacillaceae
+271	Eubacteriales Family XIII. Incertae Sedis
+271	Methanomicrobiaceae
+271	Atopobiaceae
+271	Coriobacteriaceae
+271	Toxocaridae
+271	Glutamate fermentation
+271	Egicoccaceae
+271	Anaerovoracaceae
+271	Butyricicoccaceae
+271	Electron-bifurcating caffeyl-CoA reductase-Etf complex
+271	Caulochytriaceae
+271	Magnetaquicoccaceae
+271	Coelosphaeriaceae
+272	Bianqueaceae
+272	Hujiaoplasmataceae
+272	Thermoanaerobacterales Family IV. Incertae Sedis
+272	Thermohalobacteraceae
+272	Sedimentisphaeraceae
+272	Leporidae
+272	NiFe hydrogenase maturation
+272	Lachnospiraceae
+272	Coraliomargaritaceae
+272	Desulfurellaceae
+272	Coprothermobacteraceae
+272	Cantharellaceae
+272	Tissierellaceae
+272	Entophysalidaceae
+272	Peptoclostridiaceae
+273	Tannerellaceae
+273	Muscidae
+273	Peptostreptococcaceae
+273	Erysipelotrichaceae
+273	Muscicapidae
+273	Butyrate kinase pathway
+273	Methanocorpusculaceae
+273	Christensenellaceae
+273	Lentimicrobiaceae
+273	Cerasicoccaceae
+273	Compsopogonaceae
+273	Methanomethylicaceae
+273	Monodopsidaceae
+274	Methanomethylophilaceae
+274	Dethiosulfovibrionaceae
+274	Deferribacteraceae
+274	Thermonemataceae
+274	Suessiaceae
+274	Microviridae
+275	Brachionidae
+275	Triparmaceae
+275	Parameciidae
+275	Methanocalculaceae
+275	Hydridae
+275	Onagraceae
+275	Spizellomycetaceae
+275	Chrysopidae
+275	Colubridae
+275	Dotillidae
+275	Saparoviridae
+275	Betaflexiviridae
+275	Phakopsoraceae
+275	Ascidiidae
+275	Menispermaceae
+275	Methanogenesis
+275	Soricidae
+276	Methanospirillaceae
+276	Gobiesocidae
+276	Sphaerochaetaceae
+277	Canidae
+277	Thiazole.oxazole-modified microcins
+277	Gelidiaceae
+277	Mitoviridae
+278	NhaA, NhaD and Sodium-dependent phosphate transporters
+279	dTDP-rhamnose synthesis -- gjo
+279	dTDP-rhamnose synthesis
+280	Transcription factors, cyanobacterial RpoD-like sigma factors
+281	Translation elongation factors, bacterial
+282	Pocilloporidae
+282	Chlorobiaceae
+282	Akkermansiaceae
+282	Hepatoplasmataceae
+282	Chloroherpetonaceae
+282	Flammeovirgaceae
+283	Balneicellaceae
+283	Odoribacteraceae
+283	Possible DNA repair related cluster
+283	Marinilabiliaceae
+284	Sanguibacteraceae
+284	Actinomycetaceae
+284	Galactosamine Substituent of Arabinogalactan in Mycobacteria
+284	Platysternidae
+284	Nanopelagicaceae
+285	Iron(III) dicitrate transport system Fec
+285	Cell wall-associated cluster in Mycobacterium
+286	Acanthasteridae
+286	Tilletiariaceae
+286	Ophiostomataceae
+286	Iron transport system including ABC transporter
+286	Acidothermaceae
+286	Pyramimonadaceae
+286	ESAT-6 proteins secretion system in Mycobacteria (locus ESX-4)
+286	Ceratobasidiaceae
+287	L-fucose dissimilation cluster
+287	L-fucose utilization
+288	Anaerobic glycerol-3-phosphate dehydrogenase subunits
+288	Eggerthellaceae
+289	Beutenbergiaceae
+289	Ruaniaceae
+289	Inositol catabolism
+289	Merismopediaceae
+289	Streptosporangiaceae
+289	Jonesiaceae
+289	Sigma54-dependent transcription related gene cluster 2
+289	Dermabacteraceae
+289	Tsukamurellaceae
+289	Lipid-linked oligosaccharide synthesis related cluster
+289	Blastocystidae
+289	Carbonactinosporaceae
+289	Kineosporiaceae
+290	Cobalamin synthesis from Cob(II)yrinate a,c diamide
+290	Phosphatidylinositol mannosides biosynthesis related cluster
+291	Caedimonadaceae
+291	Hirudinidae
+291	Marinifilaceae
+291	Flexibacteraceae
+291	Porphyromonadaceae
+292	Cyclophoraceae
+292	Chrysochromulinaceae
+292	Prymnesiaceae
+292	Chloropicaceae
+292	Dubosqiidae
+292	Catalimonadaceae
+292	Opisthorchiidae
+292	Acrospermaceae
+292	Dendrobatidae
+292	Fulvivirgaceae
+292	Porphyridiaceae
+292	Antibiotic anticapsin - bacilysin
+292	Immundisolibacteraceae
+292	Naemateliaceae
+293	Stylonemataceae
+293	Parilichlamydiaceae
+293	Cymodoceaceae
+293	Caldarchaeaceae
+293	Bacteriocins in Lactobacilli
+293	Conopidae
+293	Pteromalidae
+293	Microscillaceae
+293	Mycobacterial lipid and multidrug efflux system proteins MmpL, MmpS
+293	Stentoridae
+293	Paramoebidae
+293	Drosophilidae
+293	Steccherinaceae
+293	Vombatidae
+293	Lactobacillaceae
+293	Ackermannviridae
+294	Glycerol ABC transporter
+294	Ergothioneine biosynthesis
+294	Apidae
+295	Pseudourostylidae
+295	Sysuiplasmataceae
+295	Miltoncostaeaceae
+295	Chrysoviridae
+295	Desulfallaceae
+295	Dihydroxyacetone kinases
+295	Caricaceae
+295	Euzebyaceae
+295	Nannocystaceae
+295	Retroviridae
+295	Peptococcaceae
+295	Didymosphaeriaceae
+295	Limnochordaceae
+295	Tropherymataceae
+295	Poeciliidae
+295	Catenulisporaceae
+295	Vitaceae
+295	Mesocestoididae
+295	Thiohalobacteraceae
+295	Cryptosporangiaceae
+295	Antricoccaceae
+295	Oikopleuridae
+295	Rhizopogonaceae
+295	Prasiolaceae
+296	Aggregatilineaceae
+296	Sporichthyaceae
+296	Polyangiaceae
+297	Cimicidae
+297	Ornithinimicrobiaceae
+297	Kytococcaceae
+297	Thermogemmatisporaceae
+297	Nitriliruptoraceae
+297	Microcystaceae
+297	Hydnangiaceae
+297	Carnitine operon
+297	Kribbellaceae
+297	Tetracycline resistance, ribosomal protection type
+297	Alydidae
+297	Picocystaceae
+298	Pyrodictiaceae
+298	Jatrophihabitantaceae
+298	Strophariaceae
+298	Agrocinopine utilization
+298	Parodontellaceae
+298	Inner membrane proteins of MarC family, not involved in antibiotic resistance
+298	Fastidiosibacteraceae
+298	Desulfobulbaceae
+299	Defluviitaleaceae
+299	Cobalamin synthesis
+299	Cobalamin synthesis, Precorin-2 to Cob(II)yrinate a,c diamide, anaerobic
+299	Tepidanaerobacteraceae
+299	Vallitaleaceae
+299	Methanogenesis from methylated compounds
+299	Teichuronic acid biosynthesis
+299	Ramalinaceae
+299	Nicotinate catabolism, anaerobic
+299	Caldicellulosiruptoraceae
+299	Chitinivibrionaceae
+299	Fusobacteriaceae
+299	NAD-reducing [NiFe] hydrogenase HoxFUYH(E)
+299	Leptotrichiaceae
+299	Thermodesulforhabdaceae
+299	Lysianassidae
+299	Oligosphaeraceae
+299	Thermoanaerobacterales Family III. Incertae Sedis
+299	Selaginellaceae
+299	Xeniidae
+299	Pseudodiaptomidae
+299	Methanosarcinaceae
+300	Liparidae
+300	Verrucomicrobiaceae
+300	Balamuthiidae
+300	Conexivisphaeraceae
+300	Dactyloidae
+300	Isotomidae
+300	Gordoniaceae
+300	Dissulfuribacteraceae
+300	Halarsenatibacteraceae
+300	Tetrabaenaceae
+300	Stachybotryaceae
+300	Tritrichomonadidae
+300	Arcellidae
+300	Propionibacteriaceae
+300	Bugulidae
+300	Thalassiosiraceae
+300	Bovichtidae
+300	Pythiaceae
