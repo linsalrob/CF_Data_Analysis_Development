@@ -1,0 +1,900 @@
+--- Cluster 1 : Length 6 ---
+['Universal GTPases', 'CtsR and MscAB regulation of protein degradation', 'DNA internalization-related cluster', 'RNA pseudouridine synthases', 'Thiamin, thiazole, hydroxymethylpyrimidine salvage and uptake', 'Trk and Ktr potassium uptake systems']
+
+--- Cluster 2 : Length 5 ---
+['Purine nucleotide synthesis regulator', 'Sex pheromones in Enterococcus faecalis and other Firmicutes', 'Ribonuclease J family', 'Cell envelope-associated LytR-CpsA-Psr transcriptional attenuators', 'Threonine synthase cluster']
+
+--- Cluster 3 : Length 5 ---
+['tRNA aminoacylation, Arg', 'Undecaprenyl-diphosphatases', 'Lactose utilization', 'tRNA aminoacylation, Ala', 'tRNA aminoacylation, Met']
+
+--- Cluster 4 : Length 2 ---
+['NAD and NADP cofactor biosynthesis bacterial', 'NAD and NADP cofactor biosynthesis global']
+
+--- Cluster 5 : Length 5 ---
+['Resistance to Triclosan', 'Fatty Acid Biosynthesis cluster', 'Aminoglycoside modifying enzymes: O-nucleotidyltransferases', 'Peptide methionine sulfoxide reductase', 'Enoyl-[ACP] reductases disambiguation']
+
+--- Cluster 6 : Length 2 ---
+['tRNA aminoacylation, Ser', 'Chorismate Synthesis']
+
+--- Cluster 7 : Length 4 ---
+['Lysine DAP biosynthetic pathway', 'DeNovo Purine Biosynthesis', 'Lysine leader peptide', 'Diaminopimelate Synthesis ']
+
+--- Cluster 8 : Length 5 ---
+['Branched-Chain Amino Acid Biosynthesis', 'Coenzyme A', 'Thiamin, hydroxymethylpyrimidine selected transporters', 'Tryptophan synthesis', 'Coenzyme A -- gjo']
+
+--- Cluster 9 : Length 3 ---
+['S-Adenosyl-L-homocysteine recycling', 'Rcn nickel and cobalt homeostasis system', 'CMP-legionaminic acid synthesis']
+
+--- Cluster 10 : Length 2 ---
+['DNA repair, bacterial DinG and relatives', 'High affinity phosphate transporter and control of PHO regulon']
+
+--- Cluster 11 : Length 7 ---
+['PEB1, the major cell-binding factor of Campylobacter jejuni', 'Pseudoalteromonadaceae', 'Cadmium resistance', '2-O-alpha-mannosyl-D-glycerate utilization', 'Efflux ABC transporter MdlAB', 'Efflux ABC transporters BmrCD and LmrCD involved in multidrug resistance', 'Macrolides, lincosamides, streptogramins, ketolides, oxazolidinones (MLSKO) resistance: efflux systems']
+
+--- Cluster 12 : Length 2 ---
+['ATP-dependent RNA helicases, bacterial', 'Fatty acid synthesis']
+
+--- Cluster 13 : Length 2 ---
+['Magnesium transport', 'Glutathione: Redox cycle']
+
+--- Cluster 14 : Length 6 ---
+['EcsAB transporter affecting expression and secretion of secretory preproteins', 'L-serine dehydratase subunits', 'D-alanylation of teichoic acid', 'Late competence', 'Control of cell elongation - division cycle in Bacilli', 'HPr catabolite repression system']
+
+--- Cluster 15 : Length 6 ---
+['BarA-UvrY(SirA) two-component regulatory system', 'Stress response and cell wall lysis cluster', 'Glycyl-tRNA synthetase', 'Argulidae', 'Streptococcaceae', 'Fatty Acid Biosynthesis FASII']
+
+--- Cluster 16 : Length 22 ---
+['mag_39000', 'mag_46179', 'mag_47635', 'mag_56337', 'mag_43196', 'mag_42084', 'mag_39902', 'mag_39261', 'mag_38322', 'Methanocaldococcaceae', 'mag_38580', 'mag_42626', 'mag_39058', 'mag_45832', 'mag_39991', 'mag_41059', 'mag_42394', 'BOX elements in Streptococci', 'mag_44345', 'mag_38916', 'mag_45856', 'Macrolides, lincosamides, streptogramins, ketolides, oxazolidinones (MLSKO) resistance: ribosomal protection']
+
+--- Cluster 17 : Length 62 ---
+['mag_42786', 'mag_37857', 'mag_44876', 'mag_38510', 'mag_39063', 'mag_38659', 'mag_40014', 'mag_39550', 'mag_39249', 'mag_38628', 'mag_43670', 'mag_39377', 'mag_43477', 'mag_40852', 'mag_37788', 'mag_38589', 'mag_42457', 'mag_40256', 'mag_41945', 'mag_44800', 'mag_43076', 'mag_41164', 'mag_39897', 'mag_39982', 'mag_38917', 'mag_39863', 'mag_38340', 'mag_38296', 'mag_38129', 'mag_39491', 'mag_38109', 'mag_38868', 'mag_38430', 'mag_40208', 'mag_41268', 'mag_40755', 'mag_40152', 'mag_37846', 'mag_41025', 'mag_41036', 'mag_37886', 'mag_38915', 'mag_40173', 'mag_44396', 'mag_39477', 'mag_38808', 'mag_39508', 'mag_40241', 'mag_38703', 'mag_45405', 'mag_39606', 'mag_41761', 'mag_40281', 'mag_40317', 'mag_38723', 'mag_39620', 'mag_42902', 'mag_41404', 'mag_38144', 'mag_38366', 'mag_39845', 'mag_38087']
+
+--- Cluster 18 : Length 5 ---
+['Proline Synthesis', 'Pyruvate formate-lyase cluster with possible role in choline utilization', 'GMP synthase', 'Ribosome activity modulation', 'Fermentations: Mixed acid']
+
+--- Cluster 19 : Length 3 ---
+['tRNA aminoacylation, Leu', 'Pyruvate formate-lyase cluster', 'Threonine anaerobic catabolism gene cluster']
+
+--- Cluster 20 : Length 5 ---
+['Bacterial checkpoint-control-related cluster', 'N-acetylneuraminate utilization', 'Mevalonate metabolic pathway', 'Theridiidae', 'tRNA aminoacylation, Asp']
+
+--- Cluster 21 : Length 8 ---
+['VraTSR and LiaFSR three-component regulatory systems', 'ATP-dependent Nuclease', 'Tagatose utilization', 'Resistance to Daptomycin', 'tRNA thiolation', 'Ferrous iron transporter EfeUOB, low-pH-induced', 'Bacitracin resistance', 'Paenibacillaceae']
+
+--- Cluster 22 : Length 2 ---
+['Twin-arginine translocation system', 'SecY2-SecA2 Specialized Transport System']
+
+--- Cluster 23 : Length 3 ---
+['Folate Biosynthesis', 'The Chv two-component regulatory system', 'CoA disulfide thiol-disulfide redox system']
+
+--- Cluster 24 : Length 4 ---
+['Type I restriction-modification systems', 'tRNA aminoacylation, Cys', 'Damaged nicotinamide nucleotide NAD(P)HX repair', 'Isoprenoid Biosynthesis: Interconversions']
+
+--- Cluster 25 : Length 4 ---
+['DNA repair, bacterial MutHLS system', '5-methylaminomethyl-2-thiouridine', 'tRNA aminoacylation, Asn', 'Hyperosmotic potassium uptake']
+
+--- Cluster 26 : Length 1 ---
+['IMP and Xanthine conversion to XMP and GMP module']
+
+--- Cluster 27 : Length 35 ---
+['Ethanolamine utilization', 'mag_45847', 'mag_44313', 'mag_41448', 'mag_42208', 'mag_42130', 'mag_43093', 'mag_42574', 'mag_44019', 'mag_42107', 'mag_38713', 'mag_49571', 'mag_42531', 'mag_40094', 'mag_39413', 'mag_40133', 'mag_42355', 'mag_40167', 'mag_44953', 'mag_40662', 'mag_41264', 'mag_45988', 'mag_40015', 'mag_39044', 'mag_40005', 'mag_42934', 'mag_43282', 'mag_38885', 'mag_41486', 'mag_42253', 'mag_43537', 'mag_65224', 'mag_49007', 'mag_42816', 'mag_44483']
+
+--- Cluster 28 : Length 58 ---
+['mag_46538', 'mag_42724', 'mag_45800', 'mag_25069', 'mag_44427', 'mag_41373', 'mag_39052', 'mag_43327', 'mag_42821', 'mag_44827', 'mag_44859', 'mag_39679', 'mag_40090', 'mag_46277', 'mag_39241', 'mag_41973', 'mag_44284', 'mag_43999', 'mag_41485', 'mag_41445', 'mag_41674', 'mag_38028', 'mag_40776', 'mag_44625', 'mag_38962', 'mag_44237', 'mag_39435', 'mag_46138', 'mag_41653', 'mag_37994', 'mag_41649', 'mag_40244', 'mag_44788', 'mag_42054', 'mag_39712', 'mag_40782', 'mag_40570', 'mag_41885', 'mag_41259', 'mag_38521', 'mag_51172', 'mag_42498', 'mag_43159', 'mag_77836', 'mag_43530', 'mag_49290', 'mag_41604', 'mag_45237', 'mag_42832', 'mag_49157', 'mag_42128', 'mag_40846', 'mag_41928', 'mag_40885', 'mag_43896', 'mag_43656', 'mag_42177', 'mag_55868']
+
+--- Cluster 29 : Length 34 ---
+['mag_46108', 'mag_44182', 'mag_47087', 'mag_39769', 'mag_38225', 'mag_42834', 'mag_40500', 'mag_40752', 'mag_36705', 'mag_38107', 'mag_39609', 'mag_44052', 'mag_44076', 'mag_44077', 'mag_39507', 'mag_50104', 'mag_40831', 'mag_42805', 'mag_44907', 'mag_39917', 'mag_43551', 'mag_45980', 'mag_39050', 'mag_44380', 'mag_40257', 'Gloeobacteraceae', 'mag_40639', 'mag_44853', 'mag_49124', 'mag_45419', 'Magnetobacteriaceae', 'mag_37988', 'mag_43037', 'mag_46733']
+
+--- Cluster 30 : Length 49 ---
+['mag_42200', 'mag_44159', 'mag_45613', 'mag_51622', 'mag_43002', 'mag_40408', 'mag_43167', 'mag_44586', 'mag_40899', 'mag_39130', 'mag_39951', 'mag_42367', 'mag_43111', 'mag_45680', 'mag_40289', 'mag_41037', 'mag_39298', 'mag_39492', 'mag_40541', 'mag_42958', 'mag_40121', 'mag_42192', 'mag_42232', 'mag_41175', 'mag_57077', 'mag_44769', 'mag_43869', 'mag_42186', 'mag_43541', 'mag_41405', 'mag_45194', 'mag_48491', 'mag_41423', 'mag_56135', 'mag_43935', 'mag_43473', 'mag_39071', 'mag_40689', 'mag_41050', 'mag_45553', 'mag_43369', 'mag_43420', 'mag_38755', 'mag_41501', 'mag_41359', 'mag_44089', 'mag_45330', 'mag_41844', 'mag_38752']
+
+--- Cluster 31 : Length 78 ---
+['mag_40013', 'mag_42153', 'mag_38888', 'mag_41159', 'mag_38877', 'mag_50766', 'mag_44858', 'mag_41596', 'mag_45396', 'mag_52988', 'mag_40272', 'mag_43556', 'mag_43561', 'mag_40876', 'mag_52975', 'mag_44925', 'mag_41584', 'mag_40489', 'mag_41655', 'mag_41226', 'mag_45152', 'mag_44740', 'mag_40034', 'mag_39132', 'mag_42946', 'mag_38993', 'mag_45156', 'mag_39017', 'mag_42645', 'mag_40215', 'mag_39277', 'mag_44826', 'mag_40746', 'mag_41879', 'mag_44360', 'mag_44690', 'mag_39741', 'mag_40634', 'mag_58978', 'mag_40949', 'mag_40450', 'mag_45094', 'mag_53205', 'mag_41168', 'mag_42303', 'mag_44138', 'mag_45332', 'mag_40788', 'mag_40117', 'mag_39860', 'mag_43432', 'mag_40940', 'mag_44015', 'mag_40531', 'mag_42776', 'mag_56628', 'mag_38479', 'mag_40423', 'mag_40585', 'mag_40417', 'mag_41193', 'mag_40830', 'mag_41612', 'mag_40767', 'mag_40138', 'mag_46722', 'mag_27852', 'mag_42690', 'mag_45774', 'mag_39752', 'mag_46571', 'mag_41671', 'mag_39744', 'mag_61174', 'mag_46492', 'mag_43367', 'mag_42275', 'mag_39729']
+
+--- Cluster 32 : Length 32 ---
+['mag_43980', 'mag_39077', 'mag_38428', 'mag_40105', 'mag_38514', 'mag_42102', 'mag_38996', 'mag_38339', 'mag_38379', 'mag_40080', 'mag_40429', 'mag_38271', 'mag_45603', 'mag_38487', 'mag_38881', 'PE multigene family in Mycobacterium tuberculosis complex (MTBC)', 'mag_40904', 'PPE multigene family in Mycobacterium tuberculosis complex (MTBC)', 'mag_39028', 'mag_42315', 'mag_38156', 'mag_38042', 'mag_38562', 'mag_39961', 'mag_38930', 'mag_38143', 'mag_39954', 'mag_41233', 'mag_37792', 'mag_38633', 'mag_39524', 'mag_40901']
+
+--- Cluster 33 : Length 7 ---
+['mag_42231', 'mag_43770', 'mag_42172', 'mag_41333', 'mag_40385', 'V-Type ATP synthase', 'mag_46313']
+
+--- Cluster 34 : Length 22 ---
+['mag_37807', 'mag_38859', 'mag_37795', 'Sporulation proteins SigEG cluster', 'mag_51007', 'S-methylmethionine', 'mag_3088', 'mag_39678', 'mag_42321', 'mag_39334', 'mag_38245', 'mag_40124', 'mag_42334', 'mag_42415', 'Patulibacteraceae', 'Moschidae', 'mag_39338', 'mag_38532', 'mag_40457', 'mag_44638', 'Exidiaceae', 'mag_3029']
+
+--- Cluster 35 : Length 28 ---
+['mag_45806', 'mag_42168', 'mag_42151', 'mag_42201', 'mag_40589', 'mag_39544', 'mag_39174', 'mag_39422', 'mag_45071', 'mag_42926', 'mag_41591', 'mag_42931', 'mag_43647', 'mag_43336', 'mag_46204', 'mag_37721', 'mag_61863', 'mag_43524', 'mag_44104', 'mag_38933', 'mag_38927', 'mag_43724', 'mag_44179', 'mag_40909', 'mag_40694', 'mag_43789', 'mag_47766', 'mag_41210']
+
+--- Cluster 36 : Length 25 ---
+['mag_37812', 'Glutathione: Biosynthesis and gamma-glutamyl cycle', 'mag_39853', 'mag_43124', 'mag_42207', 'mag_45044', 'mag_46940', 'mag_42492', 'mag_43422', 'mag_46532', 'mag_59318', 'mag_45843', 'mag_39879', 'mag_38171', 'mag_40214', 'mag_66866', 'mag_42188', 'mag_43721', 'mag_37852', 'mag_41903', 'mag_44958', 'mag_61979', 'mag_39135', 'Programmed cell death toxin-antitoxin PezAT', 'mag_52662']
+
+--- Cluster 37 : Length 35 ---
+['mag_38620', 'mag_38615', 'mag_38140', 'mag_39286', 'mag_41983', 'mag_45697', 'mag_47668', 'mag_43969', 'mag_38721', 'mag_37934', 'mag_38677', 'mag_38654', 'mag_42974', 'mag_39457', 'mag_38801', 'mag_40184', 'mag_39326', 'mag_38006', 'mag_43297', 'mag_38796', 'mag_42252', 'mag_40642', 'mag_46416', 'mag_44295', 'mag_38988', 'mag_40190', 'mag_43332', 'mag_38462', 'mag_39337', 'mag_40235', 'mag_72938', 'mag_40769', 'mag_45742', 'mag_39057', 'mag_40968']
+
+--- Cluster 38 : Length 69 ---
+['mag_41139', 'mag_45493', 'mag_40273', 'mag_43295', 'mag_42758', 'mag_41817', 'mag_38581', 'mag_41582', 'mag_45551', 'mag_41414', 'mag_43617', 'mag_41253', 'mag_41413', 'mag_40869', 'mag_37967', 'mag_40309', 'mag_38525', 'mag_41111', 'mag_55404', 'mag_55618', 'mag_38194', 'mag_39971', 'mag_40661', 'mag_43965', 'mag_43118', 'mag_41543', 'mag_50734', 'mag_46611', 'mag_44199', 'mag_41211', 'mag_38845', 'mag_44283', 'mag_42036', 'mag_44293', 'mag_39725', 'Neocallimastigaceae', 'mag_46390', 'mag_44299', 'mag_45002', 'mag_37929', 'mag_42592', 'mag_44639', 'mag_40471', 'mag_38990', 'mag_42096', 'mag_42087', 'mag_42938', 'mag_46022', 'mag_41227', 'mag_41231', 'mag_39778', 'mag_41311', 'mag_49626', 'mag_41946', 'mag_45114', 'mag_49054', 'mag_38667', 'mag_42115', 'Fermentations: Lactate', 'mag_42194', 'mag_40815', 'mag_38702', 'mag_38711', 'mag_42287', 'mag_39430', 'mag_44139', 'mag_46743', 'mag_42311', 'mag_48140']
+
+--- Cluster 39 : Length 4 ---
+['Sporolactobacillaceae', 'Trichuridae', 'Noctuidae', 'Enterococcaceae']
+
+--- Cluster 40 : Length 20 ---
+['mag_39240', 'mag_38464', 'mag_41145', 'mag_39226', 'mag_37876', 'mag_42330', 'mag_38560', 'Turicibacteraceae', 'mag_45387', 'mag_38319', 'mag_45273', 'mag_39059', 'mag_41374', 'mag_42063', 'mag_40139', 'mag_42752', 'mag_41707', 'mag_41245', 'mag_39928', 'mag_45657']
+
+--- Cluster 41 : Length 73 ---
+['Spalacidae', 'mag_38524', 'mag_296', 'mag_38497', 'mag_43809', 'mag_3902', 'Betaine lipids in bactera', 'mag_326', 'mag_39395', 'mag_40487', 'Rubiaceae', 'mag_37620', 'Biddulphiaceae', 'mag_46157', 'mag_343', 'mag_44565', 'mag_44463', 'Cryptobasidiaceae', 'mag_40114', 'Phenol hydroxylase', 'Ophirinidae', 'Goodeniaceae', 'mag_39136', 'mag_38239', 'mag_52261', 'mag_37783', 'mag_39537', 'mag_39541', 'Syngnathidae', 'Protopteridae', 'Coelacanthidae', 'mag_50', 'Salisaetaceae', 'mag_37985', 'Oceanipulchritudinaceae', 'mag_3421', 'mag_2958', 'Chlorosome', 'Heteromyidae', 'mag_41633', 'mag_39092', 'Halorubellaceae', 'mag_38543', 'mag_39076', 'mag_40469', 'Ozemobacteraceae', 'Pyralidae', 'mag_38753', 'mag_37723', 'mag_44285', 'Panagrolaimidae', 'mag_7427', 'Flaviviridae', '4-hydroxybenzoyl-CoA reductase', 'Rhopaluridae', 'mag_370', 'Fredfastierviridae', 'Aiptasiidae', 'Assiduviridae', 'mag_1191', 'mag_45241', 'mag_37757', 'mag_5951', 'Pipridae', 'mag_38122', 'mag_37910', 'mag_39353', 'mag_363', 'mag_38736', 'mag_39330', 'Phaeocystidibacteraceae', 'Methanofuran biosynthesis', 'mag_41984']
+
+--- Cluster 42 : Length 26 ---
+['mag_39555', 'mag_40091', 'mag_40318', 'mag_38147', 'mag_41114', 'mag_42198', 'mag_39814', 'mag_38189', 'mag_38255', 'mag_42616', 'mag_41165', 'mag_40978', '2-phosphoglycolate salvage', 'mag_42293', 'mag_43709', 'mag_40158', 'mag_40039', 'mag_38025', 'mag_39267', 'mag_45771', 'mag_41138', 'mag_40984', 'mag_431', 'mag_41852', 'HipAB system implicated in growth arrest, persistence and drug tolerance', 'mag_44472']
+
+--- Cluster 43 : Length 31 ---
+['mag_42284', 'mag_39084', 'mag_38557', 'mag_38855', 'mag_45802', 'mag_39554', 'mag_46618', 'mag_37913', 'mag_37726', 'mag_44422', 'mag_40591', 'mag_39284', 'mag_38290', 'mag_37850', 'mag_39724', 'mag_41246', 'mag_37890', 'mag_37896', 'mag_41075', 'Mycoplasmoidaceae', 'mag_37949', 'mag_43843', 'mag_43839', 'mag_42245', 'mag_41935', 'mag_45075', 'mag_40741', 'mag_43292', 'mag_39018', 'mag_470', 'mag_44811']
+
+--- Cluster 44 : Length 36 ---
+['mag_42799', 'Sporanaerobacteraceae', 'mag_43738', 'mag_44503', 'mag_44574', 'mag_40751', 'mag_43760', 'mag_42282', 'mag_40801', 'mag_43047', 'mag_38626', 'mag_42933', 'mag_43837', 'mag_39006', 'mag_49875', 'mag_44040', 'Iron acquisition in Streptococcus', 'mag_43717', 'mag_51790', 'mag_45967', 'mag_50264', 'mag_40274', 'mag_39568', 'mag_58391', 'mag_45577', 'mag_40636', 'mag_42875', 'mag_61847', 'mag_40044', 'mag_45173', 'Smithellaceae', 'mag_43536', 'mag_3031', 'mag_41355', 'mag_37914', 'mag_38466']
+
+--- Cluster 45 : Length 3 ---
+['Toxin-Antitoxin system HigAB', 'One-carbon metabolism by tetrahydropterines', 'Hfl operon']
+
+--- Cluster 46 : Length 2 ---
+['Glycerolipid and Glycerophospholipid Metabolism in Bacteria', 'Type IV pilus']
+
+--- Cluster 47 : Length 1 ---
+['Cyanate hydrolysis']
+
+--- Cluster 48 : Length 6 ---
+['mag_46181', 'mag_41260', 'mag_40101', 'mag_46023', 'mag_41334', 'Mycoplasmataceae']
+
+--- Cluster 49 : Length 2 ---
+['Glycogen metabolism', 'Ribosomal protein S5p acylation']
+
+--- Cluster 50 : Length 10 ---
+['Eresidae', 'mag_37663', 'mag_72', 'Thiohalomonadaceae', 'Thiohalorhabdaceae', 'Coniochaetaceae', 'mag_37636', 'Pentalenolactone Biosynthesis and Resistance', 'mag_3264', 'Massarinaceae']
+
+--- Cluster 51 : Length 81 ---
+['mag_35', 'mag_3171', 'mag_5', 'Aquificaceae', 'mag_280', 'mag_39010', 'mag_325', 'Zosteraceae', 'Ajellomycetaceae', 'mag_39391', 'Tupaiidae', 'Leptosomidae', 'mag_13', 'Mesitornithidae', 'mag_3150', 'Plantaginaceae', 'Pedaliaceae', 'Myricaceae', 'Kalotermitidae', 'mag_10458', 'Rallidae', 'Cobitidae', 'Zosteropidae', 'Sulphoglycolysis', 'mag_42728', 'Nitratiruptoraceae', 'mag_623', 'Epitheliaceae', 'Neodiplogasteridae', 'Thraupidae', 'Psittacidae', 'Mesostigmataceae', 'Musaceae', 'Scotocercidae', 'Lasso peptide maturation cluster', 'Multiple Antibiotic Resistance MAR locus', 'Sporulation proteins SpoVA cluster', 'Struthionidae', 'Trogonidae', 'mag_41194', 'mag_40807', 'Maluridae', 'Zobellviridae', 'mag_37704', 'mag_37703', 'mag_10446', 'Fringillidae', 'Bromeliaceae', 'Corvidae', 'mag_44420', 'Stemonaceae', 'Strigidae', 'Hydrangeaceae', 'mag_40646', 'mag_2907', 'Methylothermaceae', 'Podargidae', 'Thermotomaculaceae', 'Tenrecidae', 'Arecaceae', 'Quorum-sensing related cluster', 'Fervidicoccaceae', 'Viperidae', 'DNA phosphorothioation-dependent restriction system DptFGH', 'Alligatoridae', 'Orchidaceae', 'mag_40652', 'Crocodylidae', 'mag_37924', 'Asteriidae', 'Drepanopezizaceae', 'mag_19492', 'mag_2904', 'mag_37637', 'mag_17161', 'mag_294', 'Scolopacidae', 'Hyaenidae', 'Amborellaceae', 'Glyceridae', 'Geothermincolaceae']
+
+--- Cluster 52 : Length 42 ---
+['Ulmaceae', 'mag_2906', 'Brocadiaceae', 'mag_37820', 'Teiidae', 'Poaceae', 'mag_37862', 'Laetiporaceae', 'mag_39272', 'Phasianidae', 'Dendrobatidae', 'mag_3028', 'Linotaeniidae', 'Thermoplasmataceae', 'mag_38292', 'mag_3158', 'mag_41202', 'Nymphaeaceae', 'Anatidae', 'Passerellidae', 'Bataceae', 'Persicobacteraceae', 'Eimeriidae', 'Nyssaceae', 'Carboxysome', 'Thermochlorobacteriaceae', 'Celerinatantimonadaceae', 'Nelumbonaceae', 'Dacrymycetaceae', 'mag_37921', 'Talpidae', 'Tritrichomonadidae', 'Orthoherpesviridae', 'Apterygidae', 'Respiratory complex I in plants (plastidial) and cyanobacteria', 'Ceraceosoraceae', 'Orobanchaceae', 'Ascarididae', 'Mycosporine synthesis cluster', 'mag_28', 'mag_37955', 'NADP-reducing [FeFe]-hydrogenase']
+
+--- Cluster 53 : Length 3 ---
+['Acetoin, butanediol metabolism', 'Pyruvate metabolism II: acetyl-CoA, acetogenesis from pyruvate', 'Anisakidae']
+
+--- Cluster 54 : Length 1 ---
+['Dehydrogenase complexes']
+
+--- Cluster 55 : Length 24 ---
+['Alsobacteraceae', 'Rhamnaceae', 'Powellomycetaceae', 'Photosystem II', 'Arionidae', 'Paracaedibacteraceae', 'Marasmiaceae', 'Chthoniobacteraceae', 'Musophagidae', 'Pucciniaceae', 'mag_47111', 'Bangiaceae', 'Trichinellidae', 'Parmeliaceae', 'Atribacteraceae', 'Tripartite multidrug efflux systems (of RND type) CmeABC and CmeDEF', 'Tortricidae', 'Reticulibacteraceae', 'Holophagaceae', 'Desulfurobacteriaceae', 'Dioscoreaceae', 'mag_816', 'Penaeidae', 'Capsulimonadaceae']
+
+--- Cluster 56 : Length 71 ---
+['Acidobacteriaceae', 'Mycosphaerellaceae', 'Pyridoxin(Vitamin B6) Degradation Pathway', 'Gloeomargaritaceae', 'Salinibacteraceae', 'mag_38004', 'Pteridaceae', 'Emcibacteraceae', 'L-Amino acid oxidases: lysine-epsilon oxidase LodA', 'Desulfonatronaceae', 'D-altritol utilization', 'Sox thiosulfate oxidation system', 'Cannabaceae', 'Isosphaeraceae', 'Oligoflexaceae', 'Thiocyanate hydrolase', 'Trueperaceae', 'Syntrophobacteraceae', 'Manganitrophaceae', 'Anacardiaceae', 'Kofleriaceae', 'Acetomicrobiaceae', 'Geminicoccaceae', 'Aurantimonadaceae', 'Roseobacteraceae', 'Afifellaceae', 'Propylenellaceae', 'Pseudoxanthobacteraceae', 'Numididae', 'RuBisCO operon', 'Rhodovibrionaceae', 'Oleaceae', 'Roseiarcaceae', 'Stappiaceae', 'Tepidamorphaceae', 'Sneathiellaceae', 'Hyphomonadaceae', 'Rhodothalassiaceae', 'Kordiimonadaceae', 'Magnetococcaceae', 'Parvularculaceae', 'Zavarziniaceae', 'Acetobacteraceae', 'Thalassobaculaceae', 'Ethylmalonyl-CoA pathway of C2 assimilation', 'Kiloniellaceae', 'Stellaceae', 'Rhodospirillaceae', 'Magnetovibrionaceae', 'Phage shock protein operon', 'Phyllobacteriaceae', 'Salinisphaeraceae', 'Timaliidae', 'Amorphaceae', 'Ancalomicrobiaceae', 'Plasmid replication', 'mag_69', 'Gallaecimonadaceae', 'Blastochloridaceae', 'Granulosicoccaceae', 'Boseaceae', 'Breoghaniaceae', 'Phreatobacteraceae', 'Tephritidae', 'Cohaesibacteraceae', 'Oceanibaculaceae', 'Lichenibacteriaceae', 'Methylobacteriaceae', 'Notoacmeibacteraceae', 'Kaistiaceae', 'Ectoine, hydroxyectoine uptake and catabolism']
+
+--- Cluster 57 : Length 6 ---
+['mag_6372', 'mag_37798', 'Segniliparaceae', 'mag_315', 'Marchantiaceae', 'mag_38342']
+
+--- Cluster 58 : Length 21 ---
+['Salmonidae', 'mag_38250', 'Lentibulariaceae', 'Theaceae', 'mag_38329', 'Araceae', 'Cucurbitaceae', 'Dietziaceae', 'mag_37624', 'Miridae', 'mag_37787', 'Polystomatidae', 'Pyruvate Alanine Serine Interconversions', 'mag_37853', 'Anarhichadidae', 'Adaptation to d-cysteine', 'Fonticulaceae', 'Dermacoccaceae', 'Sox sulfur oxidation genes', 'Chelydridae', 'Coenzyme B synthesis']
+
+--- Cluster 59 : Length 42 ---
+['mag_38137', 'Thermosynechococcaceae', 'mag_3230', 'Comchoanobacteraceae', 'mag_38789', 'Turdidae', 'Monodontidae', 'Deferrivibrionaceae', 'Coenzyme F420-H2 dehydrogenase (methanophenazine)', 'mag_37822', 'Callipallenidae', 'Rhodellaceae', 'mag_37746', 'Megachilidae', 'mag_41187', 'mag_4665', 'mag_37941', 'mag_2936', 'mag_39839', 'Phaeotrichaceae', 'Polyomaviridae', 'Pseudococcidae', 'mag_33193', 'mag_37623', 'mag_14144', 'Trochilidae', 'Halimedaceae', 'mag_62', 'Pteroclidae', 'Rivulidae', 'Polarisedimenticolaceae', 'mag_39565', 'mag_40554', 'mag_38068', 'mag_56', 'Cuniculitremaceae', 'Haloferuviridae', 'Characidae', 'Mangrovivirgaceae', 'Labridae', 'Cyprinodontidae', 'mag_124']
+
+--- Cluster 60 : Length 3 ---
+['Sphaerobacteraceae', 'Acetolactate synthase subunits', 'mag_42350']
+
+--- Cluster 61 : Length 38 ---
+['mag_37665', 'Crypthecodiniaceae', 'Pyronemataceae', 'mag_2926', 'Chlorogloeopsidaceae', 'mag_83', 'Lyophyllaceae', 'Euplectellidae', 'Suolaviridae', 'Nyctotheridae', 'Tenuifilaceae', 'mag_37963', 'Syncephalastraceae', 'Vancomycin resistance, D-Ala-D-Ser, D-Ala-Lac ligases', 'DNA Helicase of Unknown Function', 'Paridae', 'Rhinatrematidae', 'mag_38062', 'Sodium-transporting ATPase', 'mag_38727', 'Scatophagidae', 'Apocynaceae', 'mag_37745', 'Sturnidae', 'Naviculaceae', 'mag_37854', 'Diprionidae', 'Limulidae', 'Dehalococcoidaceae', 'Narnaviridae', 'Capillimicrobiaceae', 'Motilibacteraceae', 'Ostreobiaceae', 'Tyrannidae', 'Cambaridae', 'mag_437', 'DNA recombination, archaeal', 'mag_39302']
+
+--- Cluster 62 : Length 26 ---
+['Diphyllobothriidae', 'Haloplasmataceae', 'Convolvulaceae', 'Elusimicrobiaceae', 'Ilumatobacteraceae', 'Zooshikellaceae', 'Philodinidae', 'Anaerohalosphaeraceae', 'Bacillus cannibalism system', 'Muridae', 'DevBCA efflux pump transporter (of ABC type) cyanobacterial', 'Magnetomoraceae', 'Thermodesulfatatoraceae', 'mag_44950', 'Halothermotrichaceae', 'Halobacteroidaceae', 'mag_40097', 'Ericaceae', 'Desulfolunaceae', 'Ferrimonadaceae', 'Aequoreidae', 'Thermodesulfovibrionaceae', 'Celastraceae', 'Hymenochaetaceae', 'Nautiliaceae', 'Tetracycline resistance, all mechanisms']
+
+--- Cluster 63 : Length 82 ---
+['Saprolegniaceae', 'Thermincolaceae', 'mag_40925', 'mag_41947', 'Albulidae', 'mag_41952', 'mag_42385', 'mag_39355', 'mag_38502', 'mag_40069', 'mag_39629', 'Cyanophoraceae', 'mag_40052', 'mag_43435', 'Xylanivirgaceae', 'mag_39434', 'mag_85', 'mag_40942', 'mag_42260', 'mag_37887', 'mag_38948', 'mag_57687', 'mag_39402', 'mag_38463', 'mag_38113', 'mag_40118', 'mag_38460', 'mag_41556', 'mag_38909', 'mag_39908', 'mag_38770', 'mag_43480', 'Haliotidae', 'mag_42228', 'mag_307', 'mag_41218', 'mag_38208', 'mag_38020', 'mag_45983', 'mag_38601', 'mag_45483', 'Corynebacteriaceae', 'mag_38195', 'mag_38243', 'Cyprididae', 'mag_38193', 'Moduliflexaceae', 'mag_41665', 'mag_44813', 'mag_46035', 'Coleofasciculaceae', 'mag_44787', 'Abyssicoccaceae', 'mag_42749', 'mag_40605', 'mag_38080', 'mag_41249', 'mag_38547', 'mag_42662', 'mag_43176', 'Corethraceae', 'mag_38073', 'mag_40593', 'mag_39579', 'mag_39721', 'mag_40712', 'mag_38416', 'mag_37932', 'Caldisericaceae', 'mag_40460', 'mag_3032', 'mag_38051', 'mag_37993', 'mag_38874', 'mag_40412', 'mag_39848', 'mag_38737', 'mag_38369', 'mag_426', 'mag_38857', 'mag_37708', 'mag_45288']
+
+--- Cluster 64 : Length 104 ---
+['Cyanothecaceae', 'Desulfovibrio high-molecular-weight cytochrome cluster', 'Aliterellaceae', 'Baekduiaceae', 'mag_34', 'mag_42658', 'Ginkgoaceae', 'Comatulidae', 'Taphrinaceae', 'Balsaminaceae', 'mag_38414', 'Phaeolaceae', 'Hydrogenedentaceae', 'Adinetidae', 'Psathyrellaceae', 'Culicosporidae', 'Rhabdochlamydiaceae', 'Fagaceae', 'Juglandaceae', 'Cucurbitariaceae', 'Sporulation Cluster III A', 'mag_37630', 'Fomitopsidaceae', 'Chromeraceae', 'Amniculicolaceae', 'Pleurotaceae', 'Chlorophyll Degradation', 'Haladaptataceae', 'Actinopolysporaceae', 'Araliaceae', 'Prenylated indole derivatives in actinomycetes', 'Serpulaceae', 'Selenastraceae', 'Rhinolophidae', 'Meruliaceae', 'Demerecviridae', 'Promineifilaceae', 'mag_47', 'Luteibaculaceae', 'mag_14852', 'mag_37720', 'Lujinxingiaceae', 'mag_545', 'Bovidae', 'Lymnaeidae', 'Punctulariaceae', 'Geminocystaceae', 'Meloidogynidae', 'Lawsonellaceae', 'Cactaceae', 'Trochodendraceae', 'Allomimiviridae', 'Desulfohalobiaceae', 'Hydrogen-sensing hydrogenase system', 'Polygonaceae', 'ABC transporter tungstate (TC 3.A.1.6.2)', 'mag_2930', 'Encyrtidae', 'Atheliaceae', 'mag_37835', 'Cervidae', 'Chroococcaceae', 'Cleomaceae', 'Chitobiose', 'Boletaceae', 'Asparagaceae', 'Hymenogastraceae', 'Cephalotaceae', 'mag_285', 'Postiaceae', 'Galeropsidaceae', 'Clariidae', 'Dimargaritaceae', 'Osteoglossidae', 'Moraceae', 'Prochlorotrichaceae', 'Gregarinidae', 'Leucosporidiaceae', 'G-protein-coupled receptor (GPCR) system in Actinobacteria', 'Mannosylglucosylglycerate synthesis', 'Rosaceae', 'Sparassidaceae', 'Bondarzewiaceae', 'Bolbitiaceae', 'Hapalosiphonaceae', 'Salinarimonadaceae', 'mag_11', 'Devosiaceae', 'Polyporaceae', 'Psychidae', 'Mycenaceae', 'Estrildidae', 'Phanerochaetaceae', 'Nodosilineaceae', 'Hirundinidae', 'Pinaceae', 'Tricholomataceae', 'Pisolithaceae', 'Sporulation proteins SpoIIIAA-SpoIIIAH', 'Coniophoraceae', 'RNA polymerase, archaeal', 'Physalacriaceae', 'Caulimoviridae', 'Anguillidae']
+
+--- Cluster 65 : Length 55 ---
+['Armadillidiidae', 'Chromulinivoraceae', 'Gelatoporiaceae', 'Cyperaceae', 'mag_37718', 'Hydrocharitaceae', 'Caulerpaceae', 'mag_3121', 'Volvocaceae', 'Cladosporiaceae', 'Mycobacteriaceae', 'mag_38007', 'mag_15904', 'mag_38876', 'mag_3024', 'Desulfuromonadaceae', 'mag_37909', 'Dasyatidae', 'Acanthamoebidae', 'mag_42099', 'Schizoparmaceae', 'Adenoviridae', 'Deferrisomataceae', 'Lacipirellulaceae', 'Litorivicinaceae', 'Clavichlamydiaceae', 'Bartonellaceae', 'Casimicrobiaceae', 'Coenobitidae', 'Umbelopsidaceae', 'mag_38838', 'Dixoniellaceae', 'Taeniidae', 'mag_27', 'Tachyglossidae', 'Verrucomicrobia subdivision 6', 'Usitatibacteraceae', 'Noctilucaceae', 'Amphiacanthidae', 'mag_38008', 'mag_38030', 'Ichneumonidae', 'Stratiomyidae', 'mag_46075', 'Elephantidae', 'mag_37780', 'Raineyaceae', 'mag_41105', 'Lauraceae', 'mag_104', 'Nitrosopumilaceae', 'Phaeocystaceae', 'mag_38052', 'mag_45001', 'Fervidobacteriaceae']
+
+--- Cluster 66 : Length 66 ---
+['Physeteridae', 'Esocidae', 'mag_37823', 'mag_38528', 'mag_41235', 'Methanofastidiosaceae', 'mag_3041', 'mag_54', 'Gongylonematidae', 'Streptolysin S', 'Aminobacteriaceae', 'Dugesiidae', 'mag_38061', 'mag_37634', 'mag_38300', 'Pleuronectidae', 'Prometheoarchaeaceae', 'Trombidiidae', 'mag_2949', 'mag_128', 'mag_281', 'mag_38029', 'mag_37786', 'Geoemydidae', 'Trombiculidae', 'mag_3214', 'Danionidae', 'mag_3046', 'mag_38294', 'Polyascidae', 'mag_41019', 'mag_41704', 'mag_2910', 'mag_38605', 'Passeridae', 'mag_38984', 'Urticaceae', 'mag_1140', 'mag_38910', 'mag_356', 'Halomagnusviridae', 'mag_38627', 'mag_37702', 'mag_4916', 'mag_38191', 'mag_37875', 'Verbenaceae', 'mag_39637', 'mag_38602', 'Stephanosporaceae', 'Azoamicaceae', 'Chaseviridae', 'Oocystaceae', 'mag_41204', 'Tepidiformaceae', 'mag_38738', 'mag_38832', 'mag_2912', 'mag_41908', 'Auribacteraceae', 'mag_37727', 'mag_38758', 'Laspinemataceae', 'Petrachlorosaceae', 'mag_38206', 'mag_38588']
+
+--- Cluster 67 : Length 21 ---
+['mag_38494', 'Felidae', 'mag_41107', 'mag_3216', 'Nephropidae', 'mag_38330', 'mag_48436', 'mag_39872', 'mag_41400', 'mag_42680', 'mag_42016', 'Bodonidae', 'Resistance to Vancomycin and Teicoplanin', 'mag_38745', 'mag_38183', 'Thiohalospiraceae', 'mag_39016', 'mag_44979', 'mag_38199', 'mag_323', 'mag_37642']
+
+--- Cluster 68 : Length 4 ---
+['ESAT-6 proteins secretion system in Mycobacteria (locus ESX-1)', 'ESAT-6 proteins secretion system in Firmicutes and Actinobacteria', 'ESAT-6 protein secretion system in Mycobacteria (locus ESX-5)', 'YoeB-YefM toxin-antitoxin system']
+
+--- Cluster 69 : Length 9 ---
+['Cyclonatronaceae', 'Toxin-antitoxin replicon stabilization systems', 'mag_84', 'Mesoaciditogaceae', 'Bignoniaceae', 'Odontellaceae', 'mag_95', 'Methanoperedenaceae', 'Nitrososphaeraceae']
+
+--- Cluster 70 : Length 30 ---
+['Mugilidae', 'mag_295', 'Fiersviridae', 'mag_39891', 'mag_39419', 'mag_38437', 'mag_2923', 'mag_42760', 'Desulfurisporaceae', 'mag_37692', 'mag_38658', 'mag_87', 'mag_38718', 'Gelechiidae', 'Xenococcaceae', 'mag_3043', 'Paulinellidae', 'mag_40621', 'Lophiostomataceae', 'mag_38685', 'mag_38837', 'mag_249', 'mag_3049', 'Phycomycetaceae', 'mag_38405', 'mag_38613', 'Majidae', 'O-methyl phosphoramidate modification in capsular polysaccharide', 'Gloniaceae', 'mag_183']
+
+--- Cluster 71 : Length 15 ---
+['Hyaluronate utilization', 'mag_43412', 'mag_38776', 'Mrakiaceae', 'mag_38232', 'Xenocyprididae', 'Cavosteliaceae', 'mag_42160', 'Arginine decarboxylase and Agmatinase cluster', 'Nanosyncoccacae', 'mag_43033', 'Aphanizomenonaceae', 'mag_43533', 'mag_41785', 'Blastocladiaceae']
+
+--- Cluster 72 : Length 24 ---
+['mag_40207', 'Helicobacteraceae', 'mag_43105', 'mag_42440', 'mag_38475', 'mag_46328', 'mag_39764', 'Acholeplasmataceae', 'mag_40098', 'mag_38320', 'Nanogingivalaceae', 'mag_37870', 'Nanosynbacteraceae', 'mag_46052', 'mag_517', 'Clostridiaceae', 'mag_41689', 'mag_38105', 'Coccolithaceae', 'mag_11411', 'mag_38100', 'mag_38664', 'mag_38518', 'mag_42104']
+
+--- Cluster 73 : Length 48 ---
+['mag_38102', 'mag_37883', 'mag_41431', 'mag_38643', 'mag_40333', 'mag_43630', 'mag_37989', 'mag_38248', 'mag_40344', 'mag_37808', 'mag_39921', 'mag_45979', 'Neisseriaceae', 'mag_37790', 'mag_3033', 'mag_39365', 'mag_37898', 'mag_42638', 'mag_38561', 'mag_38593', 'mag_37940', 'mag_2983', 'mag_41587', 'mag_38227', 'mag_37923', 'mag_37799', 'mag_38018', 'mag_6163', 'mag_37695', 'mag_37621', 'mag_41216', 'mag_38931', 'mag_38504', 'mag_40822', 'mag_37879', 'mag_45108', 'Inoviridae', 'mag_40738', 'mag_44399', 'DNA sulfur modification cluster', 'mag_39806', 'mag_38458', 'mag_38314', 'mag_39307', 'mag_37739', 'Yeguiaceae', 'mag_40645', 'mag_41042']
+
+--- Cluster 74 : Length 12 ---
+['Didymellaceae', 'mag_41523', 'mag_92', 'Orbaceae', 'Colletidae', 'Callorhinchidae', 'Desulfovibrionaceae', 'Thermoanaerobacteraceae', 'Moritellaceae', 'Saprospiraceae', 'Dictyobacteraceae', 'Metamycoplasmataceae']
+
+--- Cluster 75 : Length 60 ---
+['Sumerlaeaceae', 'mag_40456', 'Microcoleaceae', 'mag_165', 'Thermoflexaceae', 'mag_3054', 'Termititenacaceae', 'mag_39103', 'mag_42624', 'Lineolataceae', 'Poxviridae', 'Sphingidae', 'Absconditicoccaceae', 'Thermoanaerobaculaceae', 'Prasinococcaceae', 'mag_3050', 'Lycaenidae', 'Cionidae', 'Halothecacae', 'mag_52', 'mag_1390', 'mag_351', 'mag_37700', 'mag_39427', 'mag_37800', 'mag_4491', 'mag_38844', 'Araneidae', 'Anabantidae', 'mag_37796', 'mag_38091', 'Micrarchaeaceae', 'Phrymaceae', 'mag_17', 'Thalassarchaeaceae', 'mag_39614', 'Cryptomonadaceae', 'mag_4283', 'mag_26', 'Steigviridae', 'Elaphomycetaceae', 'mag_10010', 'mag_37865', 'Thermostichaceae', 'Gadidae', 'Mesyanzhinovviridae', 'mag_37713', 'mag_1050', 'Bracteacoccaceae', 'mag_38148', 'Vulgatibacteraceae', 'Surirellaceae', 'Caldicoprobacteraceae', 'mag_37894', 'Blenniidae', 'mag_38299', 'mag_39195', 'mag_40040', 'mag_37849', 'Puniceispirillaceae']
+
+--- Cluster 76 : Length 74 ---
+['mag_38159', 'Myxinidae', 'mag_37874', 'mag_37927', 'Grammatophoraceae', 'Veneridae', 'Chinchillidae', 'Rickenellaceae', 'Magnaporthaceae', 'mag_38015', 'Otididae', 'mag_37970', 'Tubulinosematidae', 'Ramphastidae', 'Corynesporascaceae', 'Shiraiaceae', 'Megalonychidae', 'Cynocephalidae', 'Toxopneustidae', 'mag_43066', 'mag_38835', 'Haemonchidae', 'mag_41720', 'mag_39039', 'mag_40692', 'Basidiobolaceae', 'Gymnodiniaceae', 'mag_4144', 'mag_42', 'mag_37758', 'mag_273', 'Prochlorococcaceae', 'mag_46', 'mag_37763', 'mag_39117', 'mag_37647', 'Tymoviridae', 'Methanopyraceae', 'mag_39209', 'mag_37625', 'mag_39658', 'mag_10766', 'mag_37779', 'mag_39600', 'mag_318', 'mag_39506', 'mag_39501', 'Arenicellaceae', 'mag_41593', 'mag_19752', 'Sulfhydrogenase', 'mag_289', 'mag_73', 'mag_38800', 'mag_38546', 'SpoVS protein family', 'Peduoviridae', 'mag_3098', 'Coccinellidae', 'mag_37682', 'mag_42257', 'Coronaviridae', 'Hypoviridae', 'mag_38436', 'mag_38444', 'mag_40707', 'Silphidae', 'mag_38370', 'mag_3155', 'Amoebophilaceae', 'mag_41394', 'mag_37818', 'mag_37824', 'mag_3040']
+
+--- Cluster 77 : Length 17 ---
+['mag_39212', 'mag_13842', 'mag_42872', 'mag_136', 'Selenomonadaceae', 'Parvicellaceae', 'Cephidae', 'mag_44577', 'mag_39196', 'Kiritimatiellaceae', 'Izemoplasmataceae', 'mag_37725', 'mag_39085', 'mag_39068', 'Rubritaleaceae', 'Sclerodermataceae', 'Chloroflexaceae']
+
+--- Cluster 78 : Length 89 ---
+['mag_39329', 'Bacillariaceae', 'mag_37697', 'Calderihabitantaceae', 'Mastigamoebidae', 'mag_38093', 'mag_37781', 'Nanoperiomorbaceae', 'Gottschalkiaceae', 'Pseudomassariaceae', 'mag_37866', 'mag_37733', 'Druskaviridae', 'mag_28155', 'mag_39361', 'Clupeidae', 'mag_35375', 'mag_37738', 'mag_38816', 'Endomicrobiaceae', 'mag_37653', 'mag_43006', 'Methanonatronarchaeaceae', 'Methanococcaceae', 'mag_38854', 'mag_37900', 'Methanollivieraceae', 'mag_37889', 'mag_37740', 'Ferroplasmaceae', 'Ichthyobodonidae', 'Icacinaceae', 'Papillomaviridae', 'mag_39230', 'mag_39268', 'mag_42984', 'Catenulaceae', 'Sagittidae', 'mag_42126', 'Thermotaleaceae', 'mag_6420', 'mag_595', 'Patellidae', 'Geoalkalibacteraceae', 'mag_6248', 'mag_5888', 'mag_1255', 'ESAT-6 proteins secretion system in Mycobacteria (locus ESX-3)', 'mag_1965', 'Gracilariaceae', 'mag_37797', 'Galdieriaceae', 'mag_38457', 'Desulfosudaceae', 'Gigasporaceae', 'mag_38413', 'mag_3027', 'mag_37839', 'mag_37959', 'Halictidae', 'mag_3053', 'Nymphalidae', 'Trichostrongylidae', 'mag_38355', 'mag_42429', 'mag_37826', 'Balanidae', 'mag_3074', 'mag_37943', 'Desulfosalsimonadaceae', 'Natranaerobiaceae', 'mag_39694', 'mag_18239', 'mag_39641', 'Tetraodontidae', 'mag_40844', 'Mycofactocin system cluster', 'mag_37859', 'Treponemataceae', 'Membrane bound hydrogenase Mbh -- gjo', 'mag_39627', 'Membrane bound hydrogenase Mbh', 'Crenotrichaceae', 'mag_38009', 'mag_327', 'mag_19765', 'mag_21212', 'Outer membrane porins in Mycobacteria', 'Rubricoccaceae']
+
+--- Cluster 79 : Length 9 ---
+['Bacteriocin resistance related cluster', 'mag_109', 'Elapidae', 'mag_43166', 'Sulfur transport related cluster', 'Inner membrane proteins of MarC family, not involved in antibiotic resistance', 'Trypanosomatidae', 'Sulfurtransferase and Ssec cluster', 'Pyrinomonadaceae']
+
+--- Cluster 80 : Length 4 ---
+['Stichopodidae', 'Macrostomidae', 'Vitrellaceae', 'Suidae']
+
+--- Cluster 81 : Length 15 ---
+['Saccharospirillaceae', 'Perlucidibacaceae', 'Crambidae', 'Formicidae', 'Porticoccaceae', 'Pseudohongiellaceae', 'Balneatrichaceae', 'Dongiaceae', 'Desulfomicrobiaceae', 'Azospirillaceae', 'Terasakiellaceae', 'Micropepsaceae', 'Symbiodiniaceae', 'GlrKR two-component regulatory system', 'Siderophore Mycobactin']
+
+--- Cluster 82 : Length 47 ---
+['mag_37916', 'mag_400', 'mag_6634', 'mag_37631', 'mag_40275', 'Jatrophihabitantaceae', 'mag_49', 'mag_48', 'Camelidae', 'mag_39889', 'Cheirogaleidae', 'mag_37656', 'mag_37891', 'mag_39054', 'mag_101', 'mag_331', 'mag_2989', 'mag_39751', 'mag_3317', 'mag_40008', 'Cholesterol catabolism', 'mag_970', 'mag_38098', 'mag_38655', 'Geomitridae', 'mag_38238', 'Strophariaceae', 'mag_38769', 'mag_38281', 'Chrysiogenaceae', 'Desulfofervidaceae', 'mag_37806', 'Parodontellaceae', 'Desulfobulbaceae', 'Echinostomatidae', 'mag_38391', 'mag_43684', 'Ixodidae', 'Leeiaceae', 'mag_38237', 'Fastidiosibacteraceae', 'Plutellidae', 'mag_37815', 'mag_37709', 'Thiobacillaceae', 'mag_37855', 'Reticulomyxidae']
+
+--- Cluster 83 : Length 41 ---
+['Hafniaceae', 'mag_5063', 'Bradymonadaceae', 'mag_60', 'Desulfosarcinaceae', 'Methanoregulaceae', 'Cheloniidae', 'mag_135', 'Wenzhouxiangellaceae', 'mag_40890', 'Salpingoecidae', 'mag_37776', 'mag_2924', 'mag_237', 'mag_3307', 'mag_6356', 'Sedimenticolaceae', 'Spraguidae', 'mag_998', 'mag_38280', 'mag_2960', 'Microdochiaceae', 'mag_304', 'mag_38234', 'Klebsormidiaceae', 'Lingulidae', 'mag_303', 'Phosphonoalanine utilization', 'Phosphonate (phosphite) dehydrogenase', 'Predicted secretion system X', 'Salinicoccaceae', 'mag_40684', 'Photosystem I', 'Sirenicapillariaceae', 'mag_41140', 'Pectinidae', 'mag_40047', 'Bernardetiaceae', 'Solanaceae', 'Priapulidae', 'mag_16']
+
+--- Cluster 84 : Length 69 ---
+['mag_41786', 'Borreliaceae', 'mag_42095', 'mag_45595', 'mag_41129', 'mag_38592', 'mag_42078', 'mag_43114', 'mag_43719', 'mag_45741', 'mag_46579', 'mag_39750', 'mag_43801', 'mag_40529', 'mag_38630', 'mag_45667', 'Listeria surface proteins: Internalin-like proteins', 'mag_46396', 'mag_38040', 'mag_45677', 'mag_42812', 'mag_37926', 'mag_39379', 'mag_46707', 'mag_40854', 'mag_37951', 'mag_42628', 'mag_40653', 'mag_47902', 'mag_54866', 'mag_39082', 'mag_44142', 'mag_39025', 'mag_41779', 'mag_40297', 'mag_41524', 'Gemellaceae', 'mag_41357', 'mag_38384', 'mag_40172', 'mag_38972', 'mag_40733', 'mag_44298', 'mag_37712', 'mag_44311', 'mag_44584', 'mag_40736', 'mag_38333', 'mag_44939', 'mag_43961', 'mag_37975', 'mag_42209', 'mag_37789', 'mag_45329', 'Sulfuricellaceae', 'mag_40373', 'mag_46051', 'mag_40583', 'mag_40359', 'mag_41867', 'mag_37986', 'mag_40939', 'mag_38069', 'mag_37928', 'mag_39193', 'mag_39996', 'mag_43410', 'mag_43007', 'mag_43887']
+
+--- Cluster 85 : Length 33 ---
+['mag_5011', 'mag_3239', 'mag_7626', 'Hydrogenophilaceae', 'mag_40906', 'mag_3202', 'Glycerol utilization cluster', 'Syntrophotaleaceae', 'mag_46246', 'Schistosomatidae', 'mag_3256', 'mag_366', 'mag_40073', 'mag_42505', 'mag_43301', 'mag_37707', 'mag_36235', 'mag_43726', 'mag_162', 'Euphorbiaceae', 'mag_277', 'mag_25344', 'Oxytrichidae', 'mag_39442', 'Aerosakkonemataceae', 'mag_36', 'mag_41444', 'Polyunsaturated Fatty Acids synthesis', 'mag_19133', 'mag_317', 'Accipitridae', 'mag_38892', 'mag_40501']
+
+--- Cluster 86 : Length 7 ---
+['Phd-Doc, YdcE-YdcD toxin-antitoxin (programmed cell death) systems', 'MukBEF Chromosome Condensation', 'Lambdoid phage', 'Periplasmic disulfide interchange', 'Methionine Salvage', '2-aminophenol Metabolism', 'mag_45924']
+
+--- Cluster 87 : Length 35 ---
+['mag_2905', 'Comamonadaceae', 'mRNA 3-end processing factor containing cluster', 'Cyclic Di-GMP Turnover Proteins', 'Paracoccaceae', 'mag_2914', 'Aquaspirillaceae', 'Nitrobacteraceae', 'Hyphomicrobiaceae', 'Anaeromyxobacteraceae', 'mag_20', 'Tripartite multidrug efflux systems (of RND type) AcrAB-TolC and related transporters', 'mag_37677', 'mag_41857', 'Botryosphaeriaceae', 'Lampyridae', 'mag_37679', 'mag_37678', 'Rhodocyclaceae', 'Endozoicomonadaceae', 'Alteromonadaceae', 'Kangiellaceae', 'mag_38031', 'L-rhamnonate utilization cluster', 'Proteorhodopsin', 'Siderophore Aerobactin', 'mag_275', 'mag_274', 'mag_46288', 'Molybdopterin cytosine dinucleotide', 'Aeromonadaceae', 'Rhodanobacteraceae', 'Chromatiaceae', 'Oceanospirillaceae', 'Mu-like phage']
+
+--- Cluster 88 : Length 8 ---
+['Cercopithecidae', 'Brucellaceae', 'Methylophilaceae', 'Moraxellaceae', 'Haloarculaceae', 'Myxococcaceae', 'Cebidae', 'mag_3076']
+
+--- Cluster 89 : Length 19 ---
+['Methylococcaceae', 'ABC transporter YeiABEF', 'Solirubrobacteraceae', 'Phenylacetyl-CoA catabolic pathway (core)', 'Delphacidae', 'Nitrospiraceae', 'Chloramphenicol resistance', 'Cellvibrionaceae', 'Chattonellaceae', 'Halieaceae', 'Ectothiorhodospiraceae', 'Halothiobacillaceae', 'Chitinibacteraceae', 'tRNA splicing', 'Sphaerotilaceae', 'D-threonate, L-threonate and D-erythronate utilization', 'Burkholderiaceae', 'Xanthobacteraceae', 'Morganellaceae']
+
+--- Cluster 90 : Length 106 ---
+['Papaveraceae', 'Tectiviridae', 'Autographiviridae', 'mag_37737', 'Casjensviridae', 'Chenopodiaceae', 'mag_41980', 'Schitoviridae', 'mag_286', 'mag_2029', 'mag_3232', 'Zingiberaceae', 'mag_37701', 'Brassicaceae', 'Rhodothermaceae', 'Psychromonadaceae', 'Weeksellaceae', 'Sphingobacteriaceae', 'Mixiaceae', 'Sugar-phosphate stress regulation', 'Spore germination', 'Cytherideidae', 'Trimorphomycetaceae', 'Balneolaceae', 'Bacteriovoracaceae', 'Malasseziaceae', 'Siderophore Achromobactin', 'Shikimate kinase SK3 cluster', 'Sulfurimonadaceae', 'Caldilineaceae', 'Ktedonobacteraceae', 'Trebouxiaceae', 'Phospholipid and Fatty acid biosynthesis related cluster', 'Leptolyngbyaceae', 'Osmotic stress cluster', 'Psychodidae', 'Pseudobdellovibrionaceae', 'Piedraiaceae', 'Saccotheciaceae', 'Teratosphaeriaceae', 'Solibacteraceae', 'Natrialbaceae', 'Xylariaceae', 'Thyridiaceae', 'Haloferacaceae', 'Microthrixaceae', 'Geodermatophilaceae', 'Halobacteriaceae', 'Rubrobacteraceae', 'Thermoleophilaceae', 'Erysiphaceae', 'Type 4 secretion and conjugative transfer', 'Halanaerobiaceae', 'Trimethylamine-N-oxide operon', 'Sporomusaceae', 'Aspergillaceae', 'Herpotrichiellaceae', 'Pleosporaceae', 'Chitinophagaceae', 'Hymenobacteraceae', 'Crocinitomicaceae', 'Calotrichaceae', 'Glossinidae', 'Sulfolobaceae', 'mag_38453', 'Curculionidae', 'D-allose utilzation', 'Desulfocapsaceae', 'Cytochrome b6-f complex in plants (plastidial) and cyanobacteria', 'Novispirillaceae', 'Desulfobacteraceae', 'Sphingomonadaceae', 'Sphingosinicellaceae', 'Oxalobacteraceae', 'Sutterellaceae', 'Gallionellaceae', 'Carotenogenesis related cluster', 'Biofilm Adhesin Biosynthesis', 'Phocidae', 'Competibacteraceae', 'Nevskiaceae', 'mag_38631', 'mag_38649', 'Idiomarinaceae', 'AaeAB efflux system for hydroxylated, aromatic carboxylic acids', 'Shewanellaceae', 'Geobacteraceae', 'Gene Transfer Agent', 'Iodidimonadaceae', 'Caulobacteraceae', 'Gemmataceae', 'Pirellulaceae', 'Caligidae', 'Parvibaculaceae', 'Acidithiobacillaceae', 'Plasmodiidae', 'Thermaceae', 'Oppiidae', 'mag_38732', 'mag_46699', 'Chromulinaceae', 'Flexistipitaceae', 'Hexose phosphate transport system', 'Chelatococcaceae', 'mag_39815', 'Hemiselmidaceae']
+
+--- Cluster 91 : Length 29 ---
+['Cordycipitaceae', 'Sciaridae', 'Darwinulidae', 'Piscirickettsiaceae', 'Azonexaceae', 'Iridoviridae', 'Alcaligenaceae', 'Beijerinckiaceae', 'Elioraeaceae', 'Labilitrichaceae', 'Fortieaceae', 'mag_2', 'Conjugative transfer', 'Tetrathionate respiration', 'Rcs two-component regulator of capsule synthesis', 'Integrons', 'Methylhydantoinase', 'Tricarballylate Utilization', 'Indoleacetamide metabolism', 'Nicotinic acid utilization', 'Vir-like type 4 secretion system', 'Nitrilase', 'Oxygen-sensing diguanylate cyclase and phosphodiesterase couple for c-di-GMP control', 'Indole-pyruvate oxidoreductase complex', 'A new toxin - antitoxin system', 'Carbon monoxide induced hydrogenase', 'Agrobacterium opine transport', 'Aromatic amino acid interconversions with aryl acids', 'Resistance to chromium compounds']
+
+--- Cluster 92 : Length 92 ---
+['Thermoproteaceae', 'Braconidae', 'Isoniazid inductible proteins cluster', 'Archangiaceae', 'Sapindaceae', 'L-galactonate utilization', 'Prasinodermaceae', 'Spirulinaceae', 'Piptocephalidaceae', 'Pseudanabaenaceae', 'Oscillatoriaceae', 'Scytonemataceae', 'Nostocaceae', 'Mycobacterial multidrug efflux systems implicated in AMR ', 'Neosynechococcaceae', 'Anelloviridae', 'Peptide ABC transport system Sap', 'Togniniaceae', 'Proteaceae', 'Thermithiobacillaceae', 'Betulaceae', 'Budviciaceae', 'Vespertilionidae', 'Hahellaceae', 'Sterolibacteriaceae', 'Castoridae', 'Ferrovaceae', 'Chlorophyll Biosynthesis in plants and prokaryotes', 'Mariprofundaceae', 'Gekkonidae', 'Coenzyme F420 synthesis', 'Ranunculaceae', 'Copper uptake system CopCD', 'Hemiscylliidae', 'Apiaceae', 'D-glucosaminate utilization', 'Procellariidae', 'Rhizobiaceae', 'Pleomorphomonadaceae', 'Kosmotogaceae', 'Myrtaceae', 'Lichenihabitantaceae', 'Ahrensiaceae', 'Hopanoid biosynthesis', 'CytR regulation', 'Chamaesiphonaceae', 'Cryomorphaceae', 'Herpetosiphonaceae', 'Microbotryaceae', 'Tricladiaceae', 'Gaiellaceae', 'Eremomycetaceae', 'Microthyriaceae', 'Conexibacteraceae', 'TonB-ExbBD energy transducing system', 'Agaricaceae', 'Elsinoaceae', 'Peniophoraceae', 'Spirosomataceae', 'Ktedonosporobacteraceae', 'Fimbriimonadaceae', 'Hericiaceae', 'Melanommataceae', 'Transcriptional regulator AfsR', 'Phaeosphaeriaceae', 'Fistulinaceae', 'Actinidiaceae', 'Williamwhitmaniaceae', 'Gloeophyllaceae', 'Grifolaceae', 'ZraPRS-based zinc resistance', 'mag_43286', 'Aliceevansviridae', 'Roseiflexaceae', 'Parachlamydiaceae', 'Coenagrionidae', 'Criblamydiaceae', 'Paceibacteraceae', 'Cryosericaceae', 'Sporidiobolaceae', 'Hyalellidae', 'Pycnococcaceae', 'Korobacteraceae', 'Ustilaginaceae', 'Diaporthaceae', 'Halorubraceae', 'mag_74', 'Spore germinant receptors', 'Halococcaceae', 'Hoyosellaceae', 'Iamiaceae', 'Straboviridae']
+
+--- Cluster 93 : Length 45 ---
+['mag_54377', 'mag_38645', 'mag_44774', 'mag_40706', 'mag_40287', 'mag_41841', 'mag_39169', 'mag_40440', 'mag_41416', 'mag_44167', 'mag_39420', 'mag_38817', 'mag_40534', 'mag_42309', 'mag_39376', 'mag_39653', 'mag_46240', 'mag_39339', 'mag_39735', 'mag_39970', 'mag_46522', 'mag_45513', 'mag_41673', 'mag_44235', 'mag_46635', 'mag_40444', 'mag_46737', 'mag_40430', 'mag_41420', 'mag_39953', 'mag_42165', 'mag_39755', 'mag_39599', 'mag_41787', 'mag_38157', 'Dictyosteliaceae', 'mag_38106', 'mag_38501', 'mag_40945', 'mag_43762', 'mag_38516', 'mag_43360', 'mag_38352', 'mag_43217', 'mag_38363']
+
+--- Cluster 94 : Length 46 ---
+['mag_39649', 'mag_48712', 'mag_38354', 'mag_39957', 'mag_48771', 'mag_40922', 'mag_43985', 'mag_42399', 'mag_48322', 'mag_42398', 'L-ascorbate utilization (and related gene clusters)', 'mag_44151', 'mag_43300', 'mag_43411', 'mag_41995', 'mag_40453', 'mag_39870', 'mag_39867', 'Fasciolidae', 'mag_38026', 'mag_44227', 'mag_42088', 'mag_43523', 'mag_43891', 'mag_42692', 'mag_43170', 'mag_3106', 'mag_43099', 'mag_45020', 'mag_39165', 'mag_57968', 'Carnobacteriaceae', 'mag_41432', 'mag_40326', 'mag_44521', 'mag_39828', 'mag_45745', 'mag_41212', 'mag_45424', 'mag_42915', 'mag_45540', 'mag_42327', 'mag_45229', 'mag_45701', 'mag_42481', 'mag_42376']
+
+--- Cluster 95 : Length 18 ---
+['mag_38357', 'mag_37657', 'mag_39645', 'Aerococcaceae', 'mag_38963', 'alpha-glucoside ABC transporter', 'mag_38252', 'mag_46289', 'Bacillales Family X. Incertae Sedis', 'mag_41639', 'mag_37661', 'mag_37774', 'Thermovirgaceae', 'Phytoseiidae', 'mag_41424', 'mag_40961', 'Citrate lyase', 'mag_37802']
+
+--- Cluster 96 : Length 21 ---
+['Desulfonauticaceae', 'Hadarchaeaceae', 'Picrophilaceae', 'mag_3025', 'mag_3030', 'mag_24718', 'Acaryochloridaceae', 'Cyprinidae', 'mag_179', 'Mustelidae', 'Bryobacteraceae', 'Symphyonemataceae', 'mag_3078', 'Psilotaceae', 'mag_38432', 'Entomoplasmataceae', 'Serrasalmidae', 'Pipidae', 'Desulfoplanaceae', 'Sigmoideomycetaceae', 'Pontiellaceae']
+
+--- Cluster 97 : Length 12 ---
+['Lewinellaceae', 'Trichocomaceae', 'Symbiobacteriaceae', 'Calditrichaceae', 'Natranaerofabaceae', 'Opitutaceae', 'Cellulosilyticaceae', 'D-arabinitol utilization', 'Desulfitobacteriaceae', 'Glycerol ABC transporter', 'mag_37730', 'MazEF toxin-antitoxing (programmed cell death) system']
+
+--- Cluster 98 : Length 25 ---
+['Polypteridae', 'Cardiobacteriaceae', 'Hyellaceae', 'Stegostomatidae', 'Natronincolaceae', 'Ictaluridae', 'mag_42145', 'Roseivirgaceae', 'mag_39387', 'Aphanothecaceae', 'mag_37938', 'Tepidimicrobiaceae', 'Spiroplasmataceae', 'Manidae', 'Alopiidae', 'mag_45946', 'mag_42894', 'Scyliorhinidae', 'Sulfurospirillaceae', 'mag_18', 'mag_37684', 'Pyroglyphidae', 'Aminiphilaceae', 'mag_3137', 'Pseudobacteriovoracaceae']
+
+--- Cluster 99 : Length 27 ---
+['Hylobatidae', 'Ketobacteraceae', 'mag_39276', 'mag_8', 'mag_37977', 'Attheyaceae', 'Dasyuridae', 'Ramazzottiidae', 'Leuciscidae', 'Tetranychidae', 'Gobiidae', 'Cichlidae', 'Circaeasteraceae', 'Buthidae', 'Apusomonadidae', 'Varunidae', 'Tilletiaceae', 'Ditrichaceae', 'Scarabaeidae', 'mag_39364', 'Desertifilaceae', 'Nitidulidae', 'mag_44317', 'Rhincodontidae', 'Rajidae', 'Parvoviridae', 'Adrianichthyidae']
+
+--- Cluster 100 : Length 5 ---
+['Eubacteriales Family XII. Incertae Sedis', 'Campylobacteraceae', 'Syntrophomonadaceae', 'Heliobacteriaceae', 'Oxaloacetate decarboxylase Na-pump']
+
+--- Cluster 101 : Length 3 ---
+['dTDP-rhamnose synthesis -- gjo', 'dTDP-rhamnose synthesis', 'DAP (1,3-diaminopropane) production']
+
+--- Cluster 102 : Length 2 ---
+['Translation initiation factors, bacterial', 'RNA processing and degradation, bacterial']
+
+--- Cluster 103 : Length 3 ---
+['Mupirocin resistance', 'tRNA aminoacylation, Ile', 'Antibiotic targets in protein synthesis']
+
+--- Cluster 104 : Length 3 ---
+['tRNA aminoacylation, Pro', 'Galactose utilization', 'Riboflavin, FMN and FAD biosynthesis in Archaea']
+
+--- Cluster 105 : Length 4 ---
+['Streptococcal Hyaluronic Acid Capsule', 'Sulfoquinovose biosynthesis cluster', 'Dpp dipeptide ABC transport system', 'Two cell division clusters relating to chromosome partitioning']
+
+--- Cluster 106 : Length 2 ---
+['Aspartate to Homoserine module', 'Ribonuclease H']
+
+--- Cluster 107 : Length 2 ---
+['Pentose phosphate pathway', 'DNA repair, bacterial RecBCD pathway']
+
+--- Cluster 108 : Length 4 ---
+['DNA repair system including RecA, MutS and a hypothetical protein', 'Folate biosynthesis cluster', 'tRNA aminoacylation, Phe', 'Phenylalanine and Tyrosine synthesis 1']
+
+--- Cluster 109 : Length 4 ---
+['Fe-S cluster assembly', 'Aspartate to Threonine Module', 'tRNA aminoacylation, Trp', 'rRNA modification related cluster including tlyA']
+
+--- Cluster 110 : Length 3 ---
+['Heat shock dnaK gene cluster extended', 'Glycolysis and Gluconeogenesis, including Archaeal enzymes', 'Cluster containing Glutathione synthetase']
+
+--- Cluster 111 : Length 4 ---
+['Copper homeostasis: copper tolerance', 'Colicin V and Bacteriocin Production Cluster', 'Ribosome LSU, bacterial', 'Ribosomal proteins, single-copy']
+
+--- Cluster 112 : Length 4 ---
+['Translation termination factors, bacterial', 'RNA polymerase, bacterial', 'A Hypothetical Protein Related to Proline Metabolism', 'Antibiotic targets in cell wall biosynthesis']
+
+--- Cluster 113 : Length 5 ---
+['Cardiolipin biosynthesis', 'Stringent Response, (p)ppGpp metabolism', 'D-tyrosyl-tRNA(Tyr) deacylase', 'Biogenesis of c-type cytochromes', 'Sporulation-associated proteins with broader functions']
+
+--- Cluster 114 : Length 3 ---
+['Cluster related to 2-thiouridine modification of tRNAs', 'tRNA aminoacylation, His', 'Amino acid racemase']
+
+--- Cluster 115 : Length 2 ---
+['tRNA aminoacylation, Tyr', 'Poly-gamma-glutamate biosynthesis']
+
+--- Cluster 116 : Length 2 ---
+['Threonylcarbamoyladenosine', 'Cell division cluster']
+
+--- Cluster 117 : Length 3 ---
+['Antibiotic targets in transcription', 'tRNA aminoacylation, Gly', 'Sucrose to levan conversions']
+
+--- Cluster 118 : Length 3 ---
+['DNA repair, bacterial', 'Translation elongation factor G family', 'Fusidic acid resistance']
+
+--- Cluster 119 : Length 3 ---
+['Methylenetetrahydrofolate reductase', 'DNA Repair Base Excision', 'Repair of Iron Centers']
+
+--- Cluster 120 : Length 4 ---
+['Chaperones GroEL GroES and Thermosome', 'Biosynthesis of Arabinogalactan in Mycobacteria', 'Nudix proteins (nucleoside triphosphate hydrolases)', 'Cell division initiation related cluster']
+
+--- Cluster 121 : Length 3 ---
+['RecA and RecX', 'Osmoregulation', 'DNA repair, bacterial RecFOR pathway']
+
+--- Cluster 122 : Length 1 ---
+['Sulfur metabolism related cluster']
+
+--- Cluster 123 : Length 17 ---
+['mag_53284', 'mag_45896', 'mag_43229', 'mag_53256', 'mag_51150', 'mag_38085', 'mag_45978', 'mag_45888', 'mag_42887', 'mag_40651', 'mag_39698', 'mag_38783', 'mag_38174', 'mag_38071', 'mag_40482', 'mag_37628', 'mag_38055']
+
+--- Cluster 124 : Length 34 ---
+['mag_39014', 'mag_43141', 'mag_38794', 'mag_38219', 'mag_39448', 'mag_39285', 'mag_39141', 'mag_38101', 'Aminoglycoside modifying enzymes: O-phosphotransferases', 'mag_43931', 'mag_38000', 'mag_38681', 'Apogonidae', 'mag_38424', 'mag_37991', 'mag_39552', 'mag_43182', 'mag_37635', 'mag_38950', 'mag_37971', 'mag_39569', 'mag_57192', 'mag_39927', 'mag_44310', 'mag_43912', 'mag_49115', 'Pasteuriaceae', 'mag_45481', 'Enterocytozoonidae', 'mag_43049', 'mag_53958', 'mag_43767', 'mag_44370', 'mag_41300']
+
+--- Cluster 125 : Length 18 ---
+['mag_38814', 'mag_39896', 'mag_39738', 'mag_38531', 'mag_42648', 'mag_38032', 'mag_38426', 'mag_39636', 'mag_40564', 'mag_38904', 'mag_40594', 'mag_40305', 'mag_38951', 'mag_40839', 'mag_38872', 'mag_40100', 'mag_40667', 'mag_38563']
+
+--- Cluster 126 : Length 44 ---
+['mag_39007', 'mag_38553', 'mag_42437', 'mag_38353', 'mag_39895', 'mag_38348', 'mag_46135', 'mag_42052', 'mag_37965', 'mag_37915', 'mag_38585', 'mag_39155', 'mag_40650', 'mag_43156', 'mag_39722', 'mag_38642', 'mag_39093', 'mag_38399', 'mag_38033', 'mag_37922', 'mag_41133', 'mag_39894', 'mag_39915', 'mag_42784', 'mag_39239', 'mag_38089', 'mag_37714', 'mag_44421', 'mag_39289', 'mag_38929', 'mag_40515', 'mag_38154', 'mag_40026', 'mag_43237', 'mag_41695', 'mag_38935', 'mag_42970', 'mag_38953', 'Midichloriaceae', 'mag_38074', 'mag_43291', 'mag_38343', 'mag_38903', 'mag_38902']
+
+--- Cluster 127 : Length 73 ---
+['Glutathionylspermidine and Trypanothione', 'mag_38748', 'mag_38002', 'mag_39969', 'mag_38438', 'mag_37957', 'mag_799', 'mag_40254', 'mag_40792', 'mag_43774', 'mag_40283', 'mag_39911', 'mag_40142', 'Babesiidae', 'mag_41277', 'Fe(III) respiration - Shewanella type', 'Herpestidae', 'Ostreibacteriaceae', 'Branchiostomatidae', 'mag_41705', 'mag_40130', 'mag_40149', 'mag_37769', 'mag_41884', 'mag_41683', 'mag_40847', 'mag_38552', 'mag_40702', 'mag_41458', 'mag_39595', 'mag_99', 'mag_100', 'mag_45310', 'mag_41320', 'mag_41203', 'mag_37832', 'mag_37884', 'mag_17750', 'mag_39545', 'mag_18010', 'mag_43275', 'mag_41087', 'mag_28345', 'mag_41301', 'mag_39458', 'mag_39366', 'mag_38864', 'Selenoprotein O', 'mag_39812', 'mag_39403', 'mag_38323', 'mag_38964', 'mag_37693', 'mag_80', 'Columbidae', 'Paraconexibacteraceae', 'mag_39061', 'mag_39106', 'mag_553', 'mag_38221', 'mag_37813', 'mag_39128', 'Gymnotidae', 'mag_38375', 'mag_37861', 'mag_37864', 'mag_38276', 'mag_38362', 'mag_42849', 'mag_40618', 'mag_38815', 'mag_38992', 'mag_37953']
+
+--- Cluster 128 : Length 21 ---
+['Desulfatirhabdiaceae', 'mag_38121', 'Anaerobic Oxidative Degradation of L-Ornithine', 'mag_40168', 'mag_38164', 'mag_43624', 'mag_37877', 'Thermofilaceae', 'Ignatzschineriaceae', 'Saccharimonadaceae', 'mag_40367', 'mag_39934', 'mag_44105', 'mag_38344', 'mag_41286', 'mag_39437', 'mag_41627', 'mag_39825', 'mag_48754', 'mag_41739', 'mag_44248']
+
+--- Cluster 129 : Length 86 ---
+['mag_38360', 'mag_39695', 'mag_9508', 'mag_40147', 'mag_38158', 'mag_38169', 'mag_38701', 'mag_37773', 'mag_38764', 'mag_38407', 'mag_39793', 'mag_39113', 'mag_39111', 'mag_37958', 'mag_39109', 'mag_40226', 'mag_39826', 'mag_40231', 'mag_38013', 'mag_38230', 'mag_39047', 'mag_38590', 'mag_38037', 'mag_37778', 'mag_41106', 'mag_38083', 'mag_39398', 'mag_38540', 'mag_38693', 'mag_41752', 'mag_38095', 'mag_38104', 'mag_3231', 'mag_38694', 'mag_38324', 'mag_39498', 'mag_39211', 'mag_38887', 'mag_39958', 'mag_38285', 'mag_37829', 'mag_39932', 'mag_38499', 'mag_39573', 'mag_41341', 'mag_38954', 'mag_11966', 'mag_38235', 'mag_39640', 'mag_40862', 'mag_38010', 'mag_82829', 'mag_45490', 'mag_42778', 'Anaerobic dimethyl sulfoxide reductase (EC 1.8.5.3)', 'mag_43157', 'Dissulfurispiraceae', 'mag_45309', 'mag_45673', 'mag_45037', 'mag_2968', 'Glycine reductase, sarcosine reductase and betaine reductase', 'mag_43996', 'mag_44742', 'mag_43433', 'mag_48840', 'mag_42949', 'mag_45712', 'mag_48496', 'mag_52913', 'mag_43722', 'mag_42507', 'mag_45952', 'ABC transporter of unknown substrate X', 'Pasteurellaceae', 'HU-alpha and dsDNA mimic protein interaction', 'mag_47597', 'mag_43508', 'Plakobranchidae', 'Nitrospinaceae', 'mag_3037', 'mag_43384', 'mag_43885', 'mag_44532', 'mag_46502', 'mag_59210']
+
+--- Cluster 130 : Length 26 ---
+['mag_43096', 'mag_40466', 'mag_39399', 'Petrotogaceae', 'mag_39571', 'mag_38161', 'mag_70473', 'mag_40780', 'mag_39691', 'mag_48373', 'mag_41954', 'mag_38907', 'mag_21649', 'mag_68728', 'mag_38583', 'mag_38201', 'mag_43906', 'mag_24283', 'mag_39483', 'mag_38914', 'mag_38669', 'mag_44768', 'mag_44819', 'mag_41103', 'mag_42670', 'mag_41447']
+
+--- Cluster 131 : Length 20 ---
+['mag_43865', 'mag_39669', 'mag_42480', 'mag_38334', 'mag_38579', 'Thermodesulfobiaceae', 'mag_42383', 'mag_37856', 'mag_40332', 'mag_41099', 'mag_54891', 'mag_43324', 'mag_38970', 'mag_38894', 'Isochrysidaceae', 'mag_40084', 'mag_38134', 'mag_43381', 'mag_41234', 'mag_38961']
+
+--- Cluster 132 : Length 136 ---
+['mag_44643', 'Crevaviridae', 'mag_37998', 'mag_38249', 'mag_41474', 'mag_41463', 'mag_43005', 'mag_38663', 'mag_38899', 'mag_37719', 'Carangidae', 'Iflaviridae', 'Alloherpesviridae', 'Marseilleviridae', 'Phycodnaviridae', 'mag_38036', 'Molycolviridae', 'mag_37992', 'mag_3', 'mag_41230', 'Thiohalophilaceae', 'mag_77', 'Percidae', 'Lepisosteidae', 'Mastacembelidae', 'mag_40191', 'Methylohalomonadaceae', 'mag_38288', 'mag_39857', 'mag_38022', 'Ranidae', 'mag_38', 'mag_41110', 'mag_25', 'mag_38258', 'mag_21', 'mag_38016', 'mag_44431', 'mag_39469', 'Suoliviridae', 'Neomegalonemataceae', 'mag_43956', 'mag_38088', 'Rhodomelaceae', 'Asterinidae', 'mag_42388', 'Cyanidiaceae', 'mag_38756', 'mag_37809', 'Vibrioferrin synthesis', 'Thelaziidae', 'Serendipitaceae', 'mag_38754', 'mag_41180', 'mag_39232', 'mag_40368', 'mag_37842', 'mag_37848', 'Odinarchaeaceae', 'Thalassionemataceae', 'mag_37878', 'mag_39156', 'Suillaceae', 'Stereaceae', 'mag_44970', 'mag_38115', 'mag_38834', 'Solenidae', 'mag_41263', 'mag_39033', 'mag_38224', 'mag_37751', 'mag_37936', 'Gallic acid utilization', 'Euplotidae', 'mag_37761', 'Sandaracinaceae', 'mag_37764', 'mag_39098', 'mag_37917', 'mag_44229', 'mag_45574', 'mag_38192', 'mag_45504', 'mag_39115', 'mag_38112', 'mag_39898', 'mag_37904', 'mag_42927', 'Chroococcidiopsidaceae', 'Rhabdoviridae', 'mag_18298', 'Hepatozoidae', 'mag_2925', 'Glossiphoniidae', 'Libellulidae', 'mag_3418', 'mag_2911', 'mag_278', 'mag_308', 'Lentitheciaceae', 'mag_2931', 'mag_381', 'mag_39993', 'Figitidae', 'mag_43725', 'mag_24594', 'mag_906', 'Eremiobacteraceae', 'Terrimicrobiaceae', 'mag_6626', 'mag_7573', 'mag_41672', 'mag_297', 'mag_40213', 'mag_39584', 'mag_3060', 'mag_3056', 'mag_39823', 'mag_3039', 'mag_310', 'mag_38595', 'mag_38449', 'mag_16175', 'Mycobacterial signal transduction system MprAB required for persistent infections', 'mag_38573', 'mag_32368', 'mag_339', 'Scolopendridae', 'Sarcoptidae', 'Hyaluronic Acid-containing Cell Walls', 'Lecudinidae', 'Outer membrane proteases (Omptins)', 'mag_2998', 'mag_41865', 'Eriophyidae']
+
+--- Cluster 133 : Length 43 ---
+['mag_38184', 'mag_44120', 'mag_39621', 'mag_39356', 'mag_39693', 'mag_39663', 'mag_38699', 'Geometridae', 'mag_45118', 'mag_42452', 'mag_41681', 'Desulfuribacillaceae', 'mag_42788', 'mag_43406', 'mag_43431', 'mag_38057', 'mag_44676', 'Thermoactinomycetaceae', 'Sarcocystidae', 'mag_38500', 'mag_39099', 'mag_39105', 'mag_37899', 'mag_37885', 'mag_38530', 'Pavlovaceae', 'mag_40633', 'mag_46429', 'mag_562', 'mag_6698', 'mag_38172', 'Schizoporaceae', 'Tenebrionidae', 'mag_38317', 'mag_40337', 'mag_43251', 'mag_41060', 'mag_38301', 'Psittacicellaceae', 'mag_41542', 'mag_38599', 'mag_20244', 'mag_39494']
+
+--- Cluster 134 : Length 42 ---
+['mag_38629', 'mag_23', 'mag_45984', 'mag_38167', 'mag_67', 'Cosmopterigidae', 'Dracunculidae', 'mag_103', 'mag_3010', 'Annonaceae', 'Polyodontidae', 'Sciaenidae', 'mag_37825', 'mag_38749', 'Anthracoideaceae', 'mag_43882', 'Oculatellaceae', 'Energy-conserving hydrogenase (ferredoxin)', 'Dermocarpellaceae', 'Nephroselmidaceae', 'Leptocylindraceae', 'Scalinduaceae', 'mag_3022', 'Holocentridae', 'mag_38268', 'mag_38265', 'mag_38536', 'Reduviidae', 'mag_41685', 'mag_39732', 'Resistance to Ethambutol', 'mag_39455', 'Microvenatoraceae', 'mag_37662', 'Peribunyaviridae', 'mag_39822', 'Bufonidae', 'Zierdtviridae', 'Particulate methane monooxygenase (pMMO)', 'Methanoliparaceae', 'Caminicellaceae', 'mag_132']
+
+--- Cluster 135 : Length 35 ---
+['mag_39129', 'mag_29341', 'mag_2959', 'mag_37686', 'mag_39222', 'Hydrogenimonadaceae', 'mag_288', 'Salibacteraceae', 'Polysulfide reductase EC 1.12.98.4 and Thiosulfate reductase', 'mag_3647', 'mag_43012', 'Pentatomidae', 'mag_105', 'Methanomassiliicoccaceae', 'Mytilidae', 'mag_38637', 'Hemiaulaceae', 'mag_40109', 'Echinimonadaceae', 'mag_3218', 'mag_38179', 'mag_38989', 'mag_38582', 'Desulfomonilaceae', 'mag_3091', 'Uabimicrobiaceae', 'mag_37743', 'Zhaonellaceae', 'mag_37753', 'mag_38572', 'mag_43732', 'mag_39681', 'mag_45480', 'mag_38273', 'mag_41409']
+
+--- Cluster 136 : Length 40 ---
+['mag_38023', 'mag_38571', 'mag_40448', 'mag_38866', 'mag_42971', 'mag_39977', 'mag_40695', 'mag_38297', 'mag_37840', 'mag_41134', 'mag_2903', 'mag_39303', 'mag_39515', 'mag_40566', 'mag_41572', 'mag_42224', 'mag_3728', 'mag_39731', 'mag_38017', 'mag_3047', 'mag_37766', 'mag_42953', 'mag_45125', 'mag_1963', 'mag_38241', 'mag_9833', 'mag_38077', 'mag_39032', 'Halobacteriovoraceae', 'mag_38550', 'mag_3283', 'mag_38813', 'mag_10183', 'mag_40421', 'mag_40479', 'Methanocellaceae', 'mag_38474', 'mag_41658', 'mag_38852', 'mag_44210']
+
+--- Cluster 137 : Length 50 ---
+['Lemuridae', 'mag_96', 'mag_4064', 'Jaapiaceae', 'mag_42820', 'Babeliaceae', 'mag_40849', 'mag_39901', 'mag_206', 'mag_37654', 'Trionychidae', 'Silvanigrellaceae', 'mag_59', 'Feifaniaceae', 'mag_40328', 'Enteromyxidae', 'Pinguiochrysidaceae', 'Ursidae', 'Molossidae', 'Hydroxyaromatic decarboxylase family', 'mag_2916', 'Megalopidae', 'Prorocentraceae', 'mag_37996', 'Ardeidae', 'mag_300', 'mag_1246', 'mag_336', 'mag_38710', 'Nanohalobiaceae', 'Choanephoraceae', 'Corsiaceae', 'Aplysiidae', 'mag_5525', 'mag_38326', 'Cymatosiraceae', 'Pediculidae', 'mag_37698', 'mag_24041', 'mag_287', 'mag_39945', 'Geitlerinemataceae', 'mag_7724', 'mag_37731', 'Protomycetaceae', 'Ascodesmidaceae', 'Trichoplacidae', 'mag_540', 'Paramyxoviridae', 'Mycobacterial cell wall virulence lipid phthiocerol dimycocerosate (PDIM)']
+
+--- Cluster 138 : Length 9 ---
+['Actinopolymorphaceae', 'Synechococcaceae', 'Syntrophaceae', 'mag_39030', 'Noelaerhabdaceae', 'Francisellaceae', 'mag_3848', 'mag_2913', 'Lithodesmiaceae']
+
+--- Cluster 139 : Length 5 ---
+['Sigma54-dependent transcription related gene cluster', 'Nakamurellaceae', 'Nocardiaceae', 'Twin-arginine translocation system related cluster', 'Dermatophilaceae']
+
+--- Cluster 140 : Length 6 ---
+['Reyranellaceae', 'mag_38283', 'Fermentibacteraceae', 'mag_55', 'Caldisphaeraceae', 'Archaeoglobaceae']
+
+--- Cluster 141 : Length 6 ---
+['Rut pathway of pyrimidine degradation', 'Cyanobacterial bypass in the TCA', 'mag_38412', 'mag_39102', 'mag_57327', 'mag_501']
+
+--- Cluster 142 : Length 21 ---
+['mag_38045', 'Head-to-head olefinic hydrocarbon biosynthesis', 'Mycobacterial HadABC proteins ((3R)-hydroxyacyl-ACP dehydrates of FASII)', 'mag_41667', 'mag_44342', 'Glutathione analogs: mycothiol', 'mag_43729', 'mag_42392', 'Glycerol fermentation to 1,3-propanediol', 'mag_41634', 'Possible stress related actinobacterial cluster', 'Alkane synthesis in bacteria 2', 'Legionellaceae', 'Onygenaceae', 'Treboniaceae', 'mag_39043', 'mag_3407', 'mag_39065', 'Micrococcaceae', 'Orchitophryidae', 'mag_42397']
+
+--- Cluster 143 : Length 4 ---
+['Programmed frameshift', 'tRNA nucleotidyltransferase', "Protein-O-mannosyltransferase and 16S rRNA (cytidine(1402)-2'-O)-methyltransferase cluster", '3-amino-5-hydroxybenzoic Acid Synthesis']
+
+--- Cluster 144 : Length 13 ---
+["N,N'-diacetylbacillosamine", 'Diphtheria toxin', 'Chaoboridae', 'mag_42444', 'Mycobacterial heme acquisition system', 'mag_38082', 'mag_38170', 'Glycomycetaceae', 'mag_19647', 'mag_39461', 'Widespread colonization island', 'Brevibacteriaceae', 'Actinobacterial signal transduction system MtrAB-LpqB']
+
+--- Cluster 145 : Length 3 ---
+['Iron Scavenging cluster in Thermus', 'Acyl carrier protein', 'Molybdenum cofactor biosynthesis']
+
+--- Cluster 146 : Length 3 ---
+['Lipopolysaccharide-related cluster in Alphaproteobacteria', 'Nonmevalonate Branch of Isoprenoid Biosynthesis', 'Nucleoside triphosphate pyrophosphohydrolase MazG']
+
+--- Cluster 147 : Length 4 ---
+['GDP-fucose to mannose-1P module', 'Cell division related cluster', 'Glutamine synthetases', 'Na(+) H(+) antiporter']
+
+--- Cluster 148 : Length 3 ---
+['Benzoyl-CoA pathway of anaerobic aromatic metabolism', 'mag_44119', 'Riboflavin, FMN and FAD metabolism with fusion events']
+
+--- Cluster 149 : Length 2 ---
+['Tripartite efflux system (of RND type) associated with Geranylgeranyl-PP synthase', 'tRNA aminoacylation, Lys']
+
+--- Cluster 150 : Length 3 ---
+['Bacterial cell division related cluster 2', 'tRNA aminoacylation, Val', 'Glycolysis and Gluconeogenesis']
+
+--- Cluster 151 : Length 7 ---
+['Antibiotic targets in DNA processing', 'Peptidase clustering with DAP', 'De Novo Pyrimidine Synthesis', 'Calvin-Benson cycle', 'DNA processing cluster', 'DNA topoisomerases, Type II, ATP-dependent', 'Quinolone (Fluoroquinolone) resistance via Pentapeptide repeat proteins']
+
+--- Cluster 152 : Length 3 ---
+['Replication-associated recombination protein RarA', 'YrdC-YciO-Sua5 and associated protein families', 'Possible new toxin-antitoxin system including DivIC']
+
+--- Cluster 153 : Length 2 ---
+['Mycobacterial lipoproteins (LPR group)', 'Signal peptidase']
+
+--- Cluster 154 : Length 5 ---
+['Mechanisms of PAS resistance', 'DNA repair, bacterial UvrD and related helicases', 'Antibiotic targets in metabolic pathways', 'Gram-negative cluster', 'dTDP-3-acetamido-3,6-dideoxy-alpha-D-galactose synthesis']
+
+--- Cluster 155 : Length 3 ---
+['Degradation of branched-chain amino acids and alpha-keto acids [Leu, Val]', 'Biotin synthesis & utilization', 'Photorespiration (oxidative C2 cycle)']
+
+--- Cluster 156 : Length 3 ---
+['Acyl-CoA thioesterase II', 'FtsEX cell-division-associated signaling system', 'Multidrug resistance RND efflux system MexEFOprN']
+
+--- Cluster 157 : Length 4 ---
+['Siderophore assembly kit', 'Quinone oxidoreductase family', 'Rhabditidae', 'Homoprotocatechuate degradative cluster']
+
+--- Cluster 158 : Length 2 ---
+['Dissimilatory nitrite reductase', 'Choline uptake and conversion to betaine clusters']
+
+--- Cluster 159 : Length 3 ---
+['Oxygen-sensing two-component regulatory system NreABC', 'Resistance to the fluoroquinolones norfloxacin and ciprofloxacin', 'Denitrifying reductase gene clusters']
+
+--- Cluster 160 : Length 2 ---
+['Coenzyme A Biosynthesis cluster', 'Clostridiales Family XVII. Incertae Sedis']
+
+--- Cluster 161 : Length 3 ---
+['Resistance to Ethionamide and Isoniazid', 'Alginate biosynthesis', 'Fatty acid degradation']
+
+--- Cluster 162 : Length 3 ---
+['TCA Cycle', 'Glycine cleavage system', 'Post-translational modification of proteins']
+
+--- Cluster 163 : Length 5 ---
+['Biotin biosynthesis', 'RuvABC plus a hypothetical', 'Succinate dehydrogenase and Fumarate reductase cpmlexes', 'Chlorophyll a synthase and phytol kinase cluster', 'Cytochrome d ubiquinol oxidase operon']
+
+--- Cluster 164 : Length 4 ---
+['Menaquinone biosynthesis from chorismate via 1,4-dihydroxy-2-naphthoate', 'Bicyclomycin resistance cluster', 'Metal chelatases', 'Heme Biosynthesis: protoporphyrin-, coproporphyrin- and siroheme-dependent pathways']
+
+--- Cluster 165 : Length 2 ---
+['Lipoic acid metabolism', 'Lipoylated proteins']
+
+--- Cluster 166 : Length 40 ---
+['mag_39149', 'mag_38828', 'mag_45011', 'mag_42605', 'mag_38211', 'mag_42557', 'mag_39590', 'mag_39577', 'mag_44645', 'mag_39167', 'mag_42163', 'mag_34606', 'mag_42783', 'mag_40268', 'mag_43238', 'mag_40612', 'mag_43826', 'mag_38641', 'mag_45204', 'mag_38647', 'mag_59689', 'mag_39816', 'mag_45038', 'mag_38117', 'mag_41801', 'mag_41270', 'mag_44686', 'mag_8720', 'mag_41257', 'mag_41299', 'mag_37946', 'mag_41897', 'mag_38349', 'mag_44711', 'mag_43455', 'mag_44629', 'mag_39980', 'mag_43277', 'mag_40483', 'mag_44887']
+
+--- Cluster 167 : Length 4 ---
+['mag_39634', 'mag_41505', '2-ketoacid oxidoreductases disambiguation', 'mag_44665']
+
+--- Cluster 168 : Length 75 ---
+['mag_41127', 'mag_62337', 'mag_53896', 'mag_38388', 'mag_41496', 'mag_41455', 'mag_39466', 'mag_41889', 'mag_46620', 'mag_43852', 'mag_41781', 'mag_45705', 'mag_39779', 'mag_45686', 'mag_39869', 'mag_43860', 'mag_46519', 'mag_52242', 'mag_70256', 'mag_68519', 'mag_43328', 'mag_46698', 'mag_41888', 'mag_41657', 'mag_43593', 'mag_43546', 'mag_41546', 'mag_42190', 'mag_40343', 'mag_43746', 'mag_39716', 'mag_40195', 'mag_40194', 'mag_41529', 'mag_39800', 'mag_39717', 'mag_40185', 'mag_43184', 'mag_41830', 'mag_7142', 'mag_41796', 'mag_38913', 'mag_55767', 'Muribaculaceae', 'mag_37962', 'mag_44263', 'mag_44560', 'mag_38001', 'mag_48438', 'mag_40616', 'mag_39041', 'mag_38985', 'mag_39877', 'mag_40716', 'mag_39170', 'mag_44166', 'mag_44882', 'mag_54565', 'mag_41307', 'mag_42634', 'Paludibacteraceae', 'mag_44919', 'mag_44906', 'Haliscomenobacteraceae', 'mag_38946', 'mag_41289', 'mag_43155', 'mag_40403', 'mag_44036', 'mag_42826', 'mag_61311', 'mag_40538', 'mag_38027', 'mag_44375', 'mag_44091']
+
+--- Cluster 169 : Length 10 ---
+['Pyruvate:ferredoxin oxidoreductase', 'Prevotellaceae', 'Prolixibacteraceae', 'Bacteroidaceae', 'Rikenellaceae', 'BtuS-PduT gene cluster for metalloporphyrine salvage', 'Utilization systems for glycans and polysaccharides (PULs, SUS)', 'mag_41425', 'Bacterial Sphingolipids', 'Bacteroides capsular polysaccharide transcription antitermination proteins']
+
+--- Cluster 170 : Length 25 ---
+['mag_40203', 'mag_39615', 'mag_63288', 'mag_38791', 'mag_40817', 'mag_41890', 'mag_39617', 'mag_40824', 'mag_38882', 'Barnesiellaceae', 'Mitoviridae', 'mag_42543', 'mag_43787', 'mag_45048', 'Gelidiaceae', 'mag_45221', 'mag_40567', 'mag_45900', 'mag_38041', 'mag_6447', 'mag_43034', 'mag_41533', 'mag_39220', 'mag_46580', 'mag_37672']
+
+--- Cluster 171 : Length 7 ---
+['Balneicellaceae', 'Conjugative transposon, Bacteroidales', 'Possible DNA repair related cluster', 'Odoribacteraceae', 'Marinilabiliaceae', 'Anaerobic glycerol-3-phosphate dehydrogenase subunits', 'Dysgonomonadaceae']
+
+--- Cluster 172 : Length 2 ---
+['Canidae', 'NhaA, NhaD and Sodium-dependent phosphate transporters']
+
+--- Cluster 173 : Length 1 ---
+['Transcription factors, cyanobacterial RpoD-like sigma factors']
+
+--- Cluster 174 : Length 1 ---
+['Translation elongation factors, bacterial']
+
+--- Cluster 175 : Length 7 ---
+['Lpt lipopolysaccharide transport system', 'Lipoprotein transporter to outer membrane Lol', 'Peptidyl-prolyl cis-trans isomerase', 'Outer membrane', 'Type I secretion systems disambiguation', 'beta-Barrel Assembly Machinery', 'Pyrroloquinoline Quinone biosynthesis']
+
+--- Cluster 176 : Length 1 ---
+['D-3-phosphoglycerate to phosphoserine module']
+
+--- Cluster 177 : Length 1 ---
+['Nucleoside uptake and degradation cluster']
+
+--- Cluster 178 : Length 3 ---
+['Inositol-containing phospholipids', 'Aerotolerance operon', 'mag_40396']
+
+--- Cluster 179 : Length 11 ---
+['Encapsulation of DyP-type peroxidase or ferritin-like protein oligomers', 'tRNA aminoacylation, Gln', 'tRNA aminoacylation, Glu', 'Possible RNA modification and stress response cluster', 'Thiotrichaceae', 'Colanic acid synthesis', 'Lipopolysaccharide transporter LptABC', 'Cob(I)alamin adenosyltransferase', 'Acetyl-CoA Pathway Wood-Ljungdahl', 'Na-translocating NADH-quinone oxidoreductase', 'KDO2-Lipid A biosynthesis']
+
+--- Cluster 180 : Length 2 ---
+['Respiratory Complex I', 'NADH ubiquinone oxidoreductase']
+
+--- Cluster 181 : Length 5 ---
+['D-Galacturonate and D-Glucuronate Utilization', 'Menaquinone biosynthesis from chorismate via 1,4-dihydroxy-6-naphthoate', 'NADH ubiquinone oxidoreductase vs. multi-subunit cation antiporter', 'Pyruvate metabolism I: anaplerotic reactions, PEP', '2-oxoglutarate dehydrogenase ']
+
+--- Cluster 182 : Length 2 ---
+['Ribosomal protein S12p Asp methylthiotransferase', 'Methylthiotransferases']
+
+--- Cluster 183 : Length 2 ---
+['Branched-chain amino acids and alpha-keto acids utilization as energy sources', 'Muconate lactonizing enzyme family']
+
+--- Cluster 184 : Length 3 ---
+['Modification of eukaryotic initiation factor 5A', 'Pyridoxin (Vitamin B6) Biosynthesis', 'Biosynthesis of thiamin antivitamin Bacimethrin']
+
+--- Cluster 185 : Length 2 ---
+['Oligopeptide degradation cluster', 'Protein chaperones']
+
+--- Cluster 186 : Length 13 ---
+['Emydidae', 'Burseraceae', 'Aminoglycoside modifying enzymes: N-acetyltransferases', 'Erythrobacteraceae', 'Amaryllidaceae', 'Metastrongylidae', 'Thraustochytriaceae', 'mag_37831', 'Botryobasidiaceae', 'Acroporidae', 'Egibacteraceae', 'Thermosporotrichaceae', 'Crassulaceae']
+
+--- Cluster 187 : Length 20 ---
+['Phototrophicaceae', 'mag_39967', 'mag_39371', 'Succinivibrionaceae', 'Bifidobacteriaceae', 'mag_39803', 'mag_38994', 'Quorum sensing in Yersinia', 'Ignavibacteriaceae', 'Holosporaceae', 'Labyrinthulaceae', 'Leptosphaeriaceae', 'mag_1703', 'mag_3067', 'mag_70', 'mag_43', 'mag_38125', 'mag_15', 'mag_1693', 'Strombidinopsidae']
+
+--- Cluster 188 : Length 4 ---
+['Phosphatidylinositol mannosides biosynthesis related cluster', 'An Arabinose Sensor', 'Bathycoccaceae', 'DNA repair, bacterial UmuCD system']
+
+--- Cluster 189 : Length 18 ---
+['mag_41613', 'mag_37982', 'mag_38965', 'mag_37920', 'mag_38376', 'mag_40887', 'mag_39197', 'mag_38373', 'mag_38254', 'mag_39368', 'mag_38498', 'mag_38371', 'mag_305', 'Anaeroplasmataceae', 'mag_40781', 'mag_41918', 'mag_643', 'mag_40247']
+
+--- Cluster 190 : Length 12 ---
+['mag_3097', 'Ploettnerulaceae', 'mag_41837', 'mag_44854', 'Indriidae', 'mag_301', 'mag_40358', 'mag_39963', 'mag_12966', 'mag_44234', 'mag_313', 'mag_76']
+
+--- Cluster 191 : Length 2 ---
+['Macromolecular synthesis operon', 'Translation initiation factors, eukaryotic and archaeal']
+
+--- Cluster 192 : Length 23 ---
+['Hipposideridae', 'Trichogrammatidae', 'Testudinidae', 'Sisoridae', 'Morchellaceae', 'Lottiidae', 'Actiniidae', 'Portunidae', 'Desulfonatronovibrionaceae', 'Bipolaricaulaceae', 'Sparidae', 'Chthonomonadaceae', 'Tulasnellaceae', 'Percolomonadidae', 'Hydrogenothermaceae', 'mag_38442', 'mag_19', 'mag_3246', 'mag_213', 'mag_367', 'mag_333', 'mag_39464', 'Natronoarchaeaceae']
+
+--- Cluster 193 : Length 28 ---
+['Nitrogen fixation', 'mag_14', 'Pneumocystaceae', 'Ascoideaceae', 'Lindgomycetaceae', 'Dipodascaceae', 'Lysine Biosynthesis via alpha-aminoadipate AAA', 'Cerambycidae', 'Phaffomycetaceae', 'Debaryomycetaceae', 'mag_3181', 'RNA polymerase, archaeal initiation factors', 'Kickxellaceae', 'Niphatidae', 'Pleistophoridae', 'mag_3038', 'mag_42377', 'Box C-D RNA-guided RNA methyltransferase', 'Ribosome LSU, eukaryotic and archaeal', 'Cynipidae', 'Exosome', 'Translation elongation factors, eukaryotic and archaeal', 'mag_3023', 'Legeriomycetaceae', 'Chytriomycetaceae', 'Ribosome biogenesis, archaeal', 'Ribosome SSU, eukaryotic and archaeal', 'Pichiaceae']
+
+--- Cluster 194 : Length 29 ---
+['Neolectaceae', 'Metschnikowiaceae', 'Orbiliaceae', 'Perkinsidae', 'Schizosaccharomycetaceae', 'Chaetocerotaceae', 'mag_39841', 'Catenariaceae', 'Diphthamide biosynthesis', 'mag_42114', 'Ancylistaceae', 'Coleochaetaceae', 'Harrimaniidae', 'Hepatosporidae', 'Trigonopsidaceae', 'Mortierellaceae', 'mag_39827', 'Leucothoidae', 'Sporormiaceae', 'Thermoascaceae', 'Phoridae', 'Argasidae', 'Trypetheliaceae', 'Aplosporellaceae', 'Carabidae', 'Cicadellidae', 'Mytilinidiaceae', 'Sympoventuriaceae', 'Talitridae']
+
+--- Cluster 195 : Length 10 ---
+['mag_3052', 'Phr peptides - Rap phosphatases signaling', 'mag_3115', 'Trichocoleusaceae', 'mag_38616', 'Paxillaceae', 'mag_140', 'Pulicidae', 'Ascosphaeraceae', 'mag_37803']
+
+--- Cluster 196 : Length 10 ---
+['Lachnaceae', 'Nephtheidae', 'Trichomonascaceae', 'Trichosporonaceae', 'Rutstroemiaceae', 'mag_48723', 'Xylonaceae', 'Tremellaceae', 'Juglanconidaceae', 'Mormyridae']
+
+--- Cluster 197 : Length 9 ---
+['Beta-lactamases Ambler class B', 'Tolypothrichaceae', 'Barnase-barstar complex', 'mag_39411', 'mag_42305', 'Xanthomonadaceae', 'Planorbidae', 'Heterorhabditidae', 'Gesneriaceae']
+
+--- Cluster 198 : Length 14 ---
+['Tabanidae', 'Ancylostomatidae', 'Haplosporidiidae', 'Timematidae', 'Lamiaceae', 'Chironomidae', 'Dioxygenolytic carbon monoxide-forming enzymes', 'Pleuroascaceae', 'Araucariaceae', 'Cyclopteridae', 'Pleioneaceae', 'Anaplasmataceae', 'Fodinicurvataceae', 'Salinivirgaceae']
+
+--- Cluster 199 : Length 25 ---
+['mag_5487', 'mag_41', 'mag_10114', 'mag_40', 'mag_4616', 'Dothidotthiaceae', 'mag_1251', 'Lichtheimiaceae', 'mag_13914', 'Cixiidae', 'mag_1', 'Clytiidae', 'Nolidae', 'Energy conserving hydrogenase b, Methanococcales-Methanobacteriales-Methanopyrales', 'Archaeal membrane bound hydrogenases', 'Lipomycetaceae', 'Phylloxeridae', 'Parastacidae', 'Ascobolaceae', 'Fabreidae', 'Mebrane bound hydrogenases', 'mag_11275', 'Gnomoniaceae', 'mag_40951', 'Dermestidae']
+
+--- Cluster 200 : Length 7 ---
+['mag_39083', 'Heme O and Heme A biosynthesis (with selected terminal oxidases)', 'mag_40527', 'Calliphoridae', 'Hypsibiidae', 'mag_42262', 'Graphidaceae']
+
+--- Cluster 201 : Length 3 ---
+['Nosematidae', 'mag_38142', 'Glutamate dehydrogenases']
+
+--- Cluster 202 : Length 34 ---
+['Ergothioneine biosynthesis', 'Thripidae', 'Wallemiaceae', 'Owenweeksiaceae', 'Baetidae', 'mag_311', 'mag_40521', 'Endogonaceae', 'mag_37717', 'Rhizopodaceae', 'Heteroderidae', 'Moorellaceae', 'Odontophoridae', 'Mamiellaceae', 'Filobasidiaceae', 'Physciaceae', 'Cavenderiaceae', 'Aestuariivirgaceae', 'AttEFGH ABC Transport System', 'Arthrodermataceae', 'Amidase clustered with urea and nitrile hydratase functions', 'Fibroporiaceae', 'Fluviibacteraceae', 'mag_29', 'Mollisiaceae', 'Obscuribacteraceae', 'Algiphilaceae', 'Melioribacteraceae', 'Drosophilidae', 'Geminigeraceae', 'Brachybasidiaceae', 'Dermateaceae', 'mag_33', 'Rhinotermitidae']
+
+--- Cluster 203 : Length 5 ---
+['Umbilicariaceae', 'Homogentisate pathway', 'Cunninghamellaceae', 'Omphalotaceae', 'mag_37759']
+
+--- Cluster 204 : Length 8 ---
+['Albuginaceae', 'Acrididae', 'Hippeaceae', 'mag_8090', 'Chlorellaceae', 'mag_589', 'Acidimicrobiaceae', 'Cryptococcaceae']
+
+--- Cluster 205 : Length 52 ---
+['Oxyrrhinaceae', 'Balaenopteridae', 'Lacertidae', 'mag_38726', 'Spheniscidae', 'Tayassuidae', 'Delphinidae', 'Clastopteridae', 'Equidae', 'Pteropodidae', 'mag_39200', 'mag_38223', 'Rhinocerotidae', 'mag_17931', 'mag_91', 'mag_38287', 'mag_37858', 'mag_137', 'mag_18663', 'mag_23300', 'Anaerobic toluene and ethylbenzene degradation', 'mag_340', 'Menuridae', 'Acetophenone carboxylase 1', 'mag_37767', 'mag_39088', 'mag_42005', 'Nothobranchiidae', 'Acanthisittidae', 'mag_38795', 'mag_39095', 'mag_37741', 'Dissoconiaceae', 'mag_38079', 'mag_38385', 'Nanopusillaceae', 'mag_37666', 'mag_38862', 'mag_39433', 'mag_58457', 'mag_154', 'Sedoreoviridae', 'Eleutherodactylidae', 'mag_38853', 'mag_40786', 'mag_2944', 'mag_38456', 'mag_41375', 'mag_44392', 'Echinometridae', 'mag_38773', 'mag_39923']
+
+--- Cluster 206 : Length 16 ---
+['Melampsoraceae', 'Myxotrichaceae', 'Alloionematidae', 'Podosporaceae', 'Adelgidae', 'Streblomastigidae', 'Pezizaceae', 'Dubosqiidae', 'Pomacentridae', 'Cyphellophoraceae', 'Peltospiridae', 'Rhizosoleniaceae', 'Ascidiidae', 'Ceratopogonidae', 'Strongylidae', 'Saccharomycetaceae']
+
+--- Cluster 207 : Length 13 ---
+['Plexauridae', 'mag_37869', 'Synchytriaceae', 'mag_38034', 'Cecidomyiidae', 'mag_37902', 'Tribonemataceae', 'mag_38741', 'mag_40031', 'Chrysopidae', 'mag_312', 'mag_39623', 'mag_39256']
+
+--- Cluster 208 : Length 30 ---
+['mag_39535', 'Acanthopleuribacteraceae', 'Vicinamibacteraceae', 'Acipenseridae', 'ABC transporter YxeMNO', 'Elateridae', 'Nidulariaceae', 'mag_39811', 'mag_38608', 'Methylocystaceae', 'Chlamydiaceae', 'mag_40991', 'Chlamydomonadaceae', 'mag_546', 'Orussidae', 'Myxobolidae', 'mag_41723', 'Rivulariaceae', 'Rhodobiaceae', 'Soboliphymatidae', 'Kyanoviridae', 'Pyrocystaceae', 'mag_39643', 'Salasmaviridae', 'mag_314', 'Ornithorhynchidae', 'Verrucariaceae', 'Bathyergidae', 'Erebidae', 'Cafeteriaceae']
+
+--- Cluster 209 : Length 40 ---
+['mag_37754', 'Stanwilliamsviridae', 'Gigartinaceae', 'Toxin-Antitoxin MT1', 'Ectocarpaceae', 'Baculoviridae', 'Mimiviridae', 'mag_39439', 'mag_39208', 'mag_40632', 'mag_40875', 'Nitrosocaldaceae', 'mag_39438', 'mag_40537', 'mag_41503', 'Monoglobaceae', 'mag_355', 'Romeriaceae', 'mag_2908', 'Phocoenidae', 'mag_39655', 'mag_37942', 'Cell invasion-related virulence operon MCE', 'Sciuridae', 'mag_41619', 'mag_298', 'Cryptosporidiidae', 'mag_41086', 'mag_41214', 'mag_38404', 'mag_3135', 'mag_38272', 'Oscillochloridaceae', 'mag_38356', 'mag_38680', 'Merulinidae', 'mag_38289', 'mag_43211', 'mag_39531', 'mag_38692']
+
+--- Cluster 210 : Length 42 ---
+['Simkaniaceae', 'Rutaceae', 'mag_410', 'Cynoglossidae', 'Combretaceae', 'mag_40055', 'mag_8237', 'Herelleviridae', 'Gentianaceae', 'Hymenolepididae', 'Amylocorticiaceae', 'Sporocadaceae', 'mag_38389', 'Dromaiidae', 'Chrysocapsaceae', 'Chloropicaceae', 'mag_681', 'Staphyleaceae', 'mag_38175', 'Centropomidae', 'Meropidae', 'Pittosporaceae', 'Falconidae', 'mag_39108', 'Papilionidae', 'mag_37912', 'Thermomicrobiaceae', 'mag_37659', 'Methanotrichaceae', 'mag_90', 'Todidae', 'Laelapidae', 'mag_42681', 'mag_37760', 'Tytonidae', 'mag_37749', 'mag_37968', 'Desulfocucumaceae', 'Aphelenchoididae', 'Motacillidae', 'mag_37838', 'Dasypodidae']
+
+--- Cluster 211 : Length 6 ---
+['DNA repair, bacterial SbcCD exonuclease', 'Coliidae', 'Didelphidae', 'Phrynosomatidae', 'Pleomassariaceae', 'Aulographaceae']
+
+--- Cluster 212 : Length 1 ---
+['Sporulation Cluster']
+
+--- Cluster 213 : Length 1 ---
+['Heme, hemin uptake and utilization systems in GramPositives']
+
+--- Cluster 214 : Length 9 ---
+['Saccharomycodaceae', 'Polyangiaceae', 'Thalassiosiraceae', 'Limnochordaceae', 'Aggregatilineaceae', 'Plasmodiophoridae', 'Schizophyllaceae', 'Nephilidae', 'Forespore to mother cell channel']
+
+--- Cluster 215 : Length 9 ---
+['mag_38086', 'mag_42248', 'mag_37908', 'mag_37919', 'mag_41437', 'mag_42213', 'mag_39452', 'mag_40115', 'mag_38912']
+
+--- Cluster 216 : Length 24 ---
+['mag_88', 'Ackermannviridae', 'mag_37689', 'mag_7', 'mag_31', 'Conopidae', 'mag_30', 'mag_4831', 'Mycobacterial lipid and multidrug efflux system proteins MmpL, MmpS', 'mag_37893', 'Stentoridae', 'Caldarchaeaceae', 'Parilichlamydiaceae', 'Steccherinaceae', 'mag_39893', 'Lactobacillaceae', 'Pteromalidae', 'Bacteriocins in Lactobacilli', 'Microscillaceae', 'Stylonemataceae', 'Paramoebidae', 'Vombatidae', 'Sporichthyaceae', 'Cymodoceaceae']
+
+--- Cluster 217 : Length 6 ---
+['Pseudonocardiaceae', 'Frankiaceae', 'Microbacteriaceae', 'Nocardiopsaceae', 'Nocardioidaceae', 'Micromonosporaceae']
+
+--- Cluster 218 : Length 17 ---
+['mag_43592', 'Nitriliruptoraceae', 'mag_42860', 'Tetracycline resistance, ribosomal protection type', 'mag_42759', 'Trans-translation by stalled ribosomes', 'mag_41747', 'mag_39192', 'Cimicidae', 'mag_38110', 'Copper Transport System', 'Blastocystidae', 'Andaluciidae', 'Kribbellaceae', 'Pumilibacteraceae', 'mag_39607', 'Sphaerobolaceae']
+
+--- Cluster 219 : Length 4 ---
+['Thermomonosporaceae', 'Entner-Doudoroff Pathway', 'Streptomycetaceae', 'Cluster related to PAS - para-aminosalicylic acid resistance']
+
+--- Cluster 220 : Length 13 ---
+['Sigma54-dependent transcription related gene cluster 2', 'Streptosporangiaceae', 'mag_37897', 'Ruaniaceae', 'Jonesiaceae', 'Intrasporangiaceae', 'Dermabacteraceae', 'Cellulomonadaceae', 'Bogoriellaceae', 'Promicromonosporaceae', 'Inositol catabolism', 'Kineosporiaceae', 'Jiangellaceae']
+
+--- Cluster 221 : Length 27 ---
+['mag_63355', 'mag_40794', 'mag_44073', 'mag_43723', 'mag_38383', 'Eggerthellaceae', 'mag_45561', 'mag_42042', 'mag_39313', 'mag_39384', 'mag_40491', 'mag_39947', 'mag_42280', 'mag_40569', 'mag_37905', 'mag_38434', 'mag_43039', 'mag_41738', 'mag_39069', 'mag_39081', 'mag_46236', 'mag_38596', 'mag_38757', 'mag_40505', 'mag_899', 'mag_39255', 'mag_39045']
+
+--- Cluster 222 : Length 2 ---
+['Protein degradation', 'Ribosomal hibernation related cluster']
+
+--- Cluster 223 : Length 7 ---
+['mag_40989', 'mag_38670', 'mag_40355', 'mag_40225', 'Cerasicoccaceae', 'mag_41956', 'mag_40748']
+
+--- Cluster 224 : Length 20 ---
+['mag_38689', 'Muscicapidae', 'mag_43998', 'Tichowtungiaceae', 'mag_43137', 'mag_43104', 'mag_53276', 'mag_41963', 'mag_43100', 'mag_293', 'mag_43437', 'Butyrate kinase pathway', 'mag_39983', 'mag_42109', 'mag_53', 'mag_40294', 'mag_29418', 'mag_37906', 'mag_42370', 'mag_41526']
+
+--- Cluster 225 : Length 51 ---
+['mag_38785', 'mag_41480', 'Hexamitidae', 'mag_38763', 'mag_41727', 'mag_39166', 'mag_37705', 'mag_43836', 'mag_41101', 'Methanocorpusculaceae', 'Methanomethylicaceae', 'mag_41026', 'mag_3016', 'mag_37810', 'Autoinducer 2 (AI-2) transport and processing (lsrACDBFGE operon)', 'Geovibrionaceae', 'Chitinivibrionaceae', 'mag_38724', 'mag_37736', 'mag_39304', 'mag_38295', 'Amoebophryaceae', 'Diopsidae', 'mag_4420', 'mag_42747', 'mag_43218', 'mag_337', 'Acutalibacteraceae', 'mag_40279', 'mag_44689', 'mag_42074', 'mag_14230', 'Egicoccaceae', 'mag_40074', 'mag_357', 'Caulochytriaceae', 'mag_1259', 'mag_49616', 'mag_44444', 'mag_41244', 'mag_44288', 'mag_71', 'mag_38313', 'Dinophilidae', 'Pseudocohnilembidae', 'mag_38830', 'Pocilloporidae', 'mag_40085', 'mag_44725', 'mag_39046', 'mag_38526']
+
+--- Cluster 226 : Length 38 ---
+['mag_57777', 'mag_40291', 'mag_47342', 'Blattellidae', 'Methanogenesis', 'mag_40761', 'Vecturitrichaceae', 'mag_38672', 'mag_43817', 'Brevinemataceae', 'Desulfatiglandaceae', 'Triparmaceae', 'Varroidae', 'Dotillidae', 'mag_41057', 'Phakopsoraceae', 'mag_46418', 'mag_38035', 'mag_44418', 'mag_37995', 'Parameciidae', 'mag_42495', 'mag_37841', 'mag_37817', 'Trichomonadidae', 'Thoreaceae', 'Menispermaceae', 'Betaflexiviridae', 'mag_37706', 'mag_44', 'mag_316', 'mag_2544', 'mag_2917', 'Soricidae', 'mag_44504', 'Hydridae', 'mag_39184', 'mag_40511']
+
+--- Cluster 227 : Length 45 ---
+['mag_44866', 'mag_37805', 'mag_45736', 'mag_37830', 'mag_39381', 'mag_37873', 'mag_42554', 'mag_37903', 'mag_40666', 'Strombidiidae', 'mag_37952', 'Siderophore Yersiniabactin Biosynthesis', 'mag_38038', 'mag_38059', 'mag_38075', 'mag_39263', 'mag_40129', 'Brachionidae', 'mag_37782', 'mag_37777', 'mag_41763', 'mag_41839', 'mag_3015', 'mag_2920', 'mag_897', 'mag_364', 'mag_41608', 'mag_38260', 'mag_279', 'mag_94', 'mag_58', 'mag_39', 'mag_37683', 'mag_37694', 'mag_37734', 'mag_37750', 'mag_170', 'Fructoselysine and glucoselysine', 'mag_38103', 'Coelosphaeriaceae', 'mag_39127', 'mag_39124', 'mag_43439', 'Erysipelotrichaceae', 'mag_39924']
+
+--- Cluster 228 : Length 15 ---
+['mag_41407', 'mag_41435', 'mag_40162', 'Microviridae', 'mag_43810', 'mag_40327', 'mag_64', 'mag_41615', 'mag_40520', 'mag_292', 'mag_45110', 'mag_38196', 'mag_39660', 'mag_38316', 'mag_38270']
+
+--- Cluster 229 : Length 24 ---
+['Atopobiaceae', 'mag_41387', 'Coprothermobacteraceae', 'Chloroherpetonaceae', 'Coriobacteriaceae', 'Chlorobiaceae', 'mag_40587', 'mag_37867', 'mag_42519', 'Electron-bifurcating caffeyl-CoA reductase-Etf complex', 'mag_40850', 'Flammeovirgaceae', 'Tannerellaceae', 'mag_38879', 'mag_38928', 'Methanomicrobiaceae', 'mag_44981', 'Lentimicrobiaceae', 'mag_40549', 'mag_309', 'mag_44911', 'mag_23620', 'Akkermansiaceae', 'mag_37627']
+
+--- Cluster 230 : Length 8 ---
+['Saparoviridae', 'mag_37907', 'Methanospirillaceae', 'Methanocalculaceae', 'mag_37868', 'Sphaerochaetaceae', 'Monodopsidaceae', 'Colubridae']
+
+--- Cluster 231 : Length 30 ---
+['mag_38740', 'mag_40071', 'mag_41569', 'mag_40063', 'mag_40122', 'mag_42827', 'mag_38176', 'mag_41121', 'mag_41686', 'mag_40657', 'Christensenellaceae', 'mag_47968', 'mag_40553', 'mag_56111', 'mag_38401', 'mag_44987', 'mag_38804', 'mag_37828', 'Onagraceae', 'mag_39534', 'mag_38661', 'mag_40533', 'mag_42349', 'mag_38778', 'mag_40843', 'mag_37819', 'Muscidae', 'mag_39467', 'mag_42281', 'Compsopogonaceae']
+
+--- Cluster 232 : Length 12 ---
+['mag_38392', 'mag_40243', 'mag_39648', 'mag_9', 'mag_41626', 'mag_81', 'mag_39539', 'mag_41537', 'mag_38634', 'mag_42596', 'mag_38165', 'mag_40856']
+
+--- Cluster 233 : Length 20 ---
+['mag_52804', 'mag_41976', 'mag_41337', 'mag_40439', 'mag_40350', 'mag_46143', 'mag_2941', 'Spizellomycetaceae', 'mag_38747', 'Deferribacteraceae', 'mag_11674', 'mag_160', 'Thermonemataceae', 'mag_38178', 'mag_9488', 'mag_40164', 'mag_38541', 'mag_39463', 'mag_37811', 'mag_38078']
+
+--- Cluster 234 : Length 22 ---
+['Thiazole.oxazole-modified microcins', 'mag_42337', 'mag_39994', 'mag_38072', 'mag_38890', 'mag_246', 'mag_10472', 'mag_38807', 'mag_44160', 'Methanomethylophilaceae', 'mag_68', 'Aphididae', 'mag_50364', 'mag_38515', 'mag_38648', 'mag_38439', 'Dethiosulfovibrionaceae', 'mag_40079', 'mag_40227', 'mag_40053', 'mag_40062', 'mag_40883']
+
+--- Cluster 235 : Length 4 ---
+['Oweniidae', 'mag_37735', 'Aleyrodidae', 'mag_37619']
+
+--- Cluster 236 : Length 13 ---
+['mag_41137', 'mag_43147', 'mag_6', 'mag_2919', 'mag_38181', 'mag_37729', 'mag_3143', 'mag_38798', 'mag_37901', 'mag_44152', 'mag_321', 'mag_37711', 'mag_93']
+
+--- Cluster 237 : Length 34 ---
+['Tsukamurellaceae', 'mag_38549', 'mag_37931', 'mag_38145', 'mag_38527', 'mag_39576', 'mag_38081', 'mag_39142', 'Tilletiariaceae', 'mag_38136', 'mag_39428', 'mag_38039', 'mag_3140', 'mag_39060', 'Merismopediaceae', 'mag_38332', 'mag_43376', 'mag_43333', 'mag_13218', 'mag_38410', 'mag_38565', 'mag_37860', 'mag_41397', 'Pyramimonadaceae', 'Lipid-linked oligosaccharide synthesis related cluster', 'mag_41147', 'mag_37895', 'mag_41535', 'mag_41921', 'mag_282', 'Ophiostomataceae', 'mag_39616', 'Carbonactinosporaceae', 'Beutenbergiaceae']
+
+--- Cluster 238 : Length 27 ---
+['mag_38173', 'mag_38150', 'mag_44333', 'mag_38244', 'Nanopelagicaceae', 'mag_38269', 'mag_37979', 'Actinomycetaceae', 'Platysternidae', 'Galactosamine Substituent of Arabinogalactan in Mycobacteria', 'mag_42568', 'mag_8555', 'mag_37732', 'mag_42509', 'ESAT-6 proteins secretion system in Mycobacteria (locus ESX-4)', 'L-fucose utilization', 'mag_383', 'mag_41919', 'mag_37784', 'mag_39939', 'Acanthasteridae', 'mag_39362', 'mag_2921', 'mag_3059', 'L-fucose dissimilation cluster', 'mag_63', 'Iron transport system including ABC transporter']
+
+--- Cluster 239 : Length 36 ---
+['mag_10149', 'mag_38402', 'mag_39048', 'mag_38398', 'mag_38705', 'mag_33566', 'mag_40361', 'mag_43444', 'mag_38325', 'mag_38251', 'mag_40370', 'mag_19208', 'mag_38390', 'mag_37836', 'mag_40390', 'mag_37834', 'mag_38555', 'mag_39314', 'mag_40586', 'mag_40286', 'mag_38598', 'mag_41291', 'mag_40900', 'mag_1597', 'mag_39601', 'mag_39468', 'Cobalamin synthesis from Cob(II)yrinate a,c diamide', 'mag_38452', 'mag_40497', 'Ceratobasidiaceae', 'mag_42992', 'mag_38118', 'mag_38128', 'mag_38130', 'mag_39151', 'mag_3553']
+
+--- Cluster 240 : Length 25 ---
+['mag_38470', 'mag_39955', 'mag_44048', 'mag_41789', 'mag_38696', 'mag_40372', 'mag_38960', 'mag_38873', 'mag_41305', 'mag_39341', 'mag_39204', 'Nototheniidae', 'mag_37794', 'Desulfurococcaceae', 'mag_37768', 'mag_40405', 'mag_39628', 'mag_40472', 'mag_40864', 'mag_37618', 'mag_42256', 'mag_41358', 'mag_43281', 'mag_38214', 'mag_41152']
+
+--- Cluster 241 : Length 51 ---
+['mag_41192', 'mag_42837', 'mag_299', 'mag_41066', 'mag_38253', 'mag_38166', 'mag_43134', 'mag_43259', 'mag_37771', 'mag_42944', 'mag_42530', 'mag_38048', 'mag_38467', 'mag_42661', 'Xeniidae', 'mag_38450', 'mag_41574', 'mag_43695', 'mag_42621', 'mag_43460', 'mag_39306', 'mag_38695', 'Cobalamin synthesis, Precorin-2 to Cob(II)yrinate a,c diamide, anaerobic', 'mag_40522', 'mag_50004', 'mag_38806', 'mag_38823', 'Eubacteriaceae', 'mag_39186', 'Teichuronic acid biosynthesis', 'mag_38949', 'mag_45767', 'mag_38983', 'mag_39804', 'mag_39168', 'mag_40700', 'mag_39773', 'mag_39605', 'mag_39147', 'mag_44717', 'mag_44113', 'mag_39221', 'mag_46078', 'mag_40145', 'mag_39282', 'mag_40552', 'mag_40212', 'mag_39345', 'mag_44972', 'Cobalamin synthesis', 'mag_40840']
+
+--- Cluster 242 : Length 31 ---
+['Blattabacteriaceae', 'mag_39920', 'mag_46819', 'mag_45171', 'mag_38919', 'mag_39885', 'mag_43294', 'Tropherymataceae', 'Dunaliellaceae', 'mag_37999', 'mag_31208', 'mag_40434', 'Thermosediminibacteraceae', 'Lutisporaceae', 'Propanediol utilization', 'mag_39597', 'mag_40395', 'mag_534', 'mag_38318', 'mag_37772', 'mag_41728', 'Oligosphaeraceae', 'Flavobacteriaceae', 'mag_38374', 'mag_39189', 'Thermodesulforhabdaceae', 'Dihydroxyacetone kinases', 'F0F1-type ATP synthase', 'Dictyochaceae', 'Adiutricaceae', 'mag_40966']
+
+--- Cluster 243 : Length 13 ---
+['Thermodesulfobacteriaceae', 'Acidaminobacteraceae', 'Dictyoglomaceae', 'Spirochaetaceae', 'mag_56754', 'Koleobacteraceae', 'Gracilibacteraceae', 'Desulfobacteriaceae', 'Sulfurovaceae', 'Desulfallaceae', 'Vahlkampfiidae', 'Hakubellaceae', 'Euzebyaceae']
+
+--- Cluster 244 : Length 100 ---
+['mag_42532', 'mag_37827', 'mag_37691', 'mag_37821', 'Pseudourostylidae', 'Styelidae', 'mag_39390', 'mag_37710', 'Conexivisphaeraceae', 'mag_37722', 'Balamuthiidae', 'mag_37791', 'mag_37748', 'Oikopleuridae', 'Bovichtidae', 'mag_37775', 'Catenulisporaceae', 'Mesocestoididae', 'mag_40028', 'mag_302', 'mag_4789', 'mag_4679', 'mag_4393', 'mag_342', 'mag_450', 'mag_572', 'mag_1064', 'mag_41744', 'mag_3073', 'mag_40182', 'mag_2948', 'mag_3068', 'mag_75531', 'mag_3026', 'mag_2954', 'mag_283', 'mag_37680', 'mag_11253', 'mag_47169', 'mag_37638', 'Caricaceae', 'Vitaceae', 'Retroviridae', 'Chrysoviridae', 'Schizomimiviridae', 'mag_34893', 'mag_42283', 'mag_40556', 'mag_27157', 'mag_57', 'L-2-amino-adipate to lysine module', 'mag_65', 'mag_86', 'mag_89', 'mag_98', 'mag_16415', 'mag_12434', 'mag_51', 'mag_3017', 'mag_42918', 'mag_37961', 'mag_2990', 'mag_38012', 'mag_38686', 'mag_38978', 'Ramalinaceae', 'mag_44669', 'Rhizopogonaceae', 'Fusobacteriaceae', 'mag_39015', 'mag_39119', 'mag_39042', 'Desulfarculaceae', 'mag_38337', 'Defluviitaleaceae', 'Limisphaeraceae', 'mag_40835', 'Peptococcaceae', 'mag_38638', 'mag_37954', 'mag_40964', 'mag_37933', 'mag_37847', 'Bryopsidaceae', 'mag_40775', 'Thiohalobacteraceae', 'mag_37871', 'Prasiolaceae', 'Pseudodiaptomidae', 'Deianiraeaceae', 'mag_38538', 'mag_41088', 'mag_38309', 'mag_37888', 'Sanguibacteraceae', 'mag_37911', 'mag_38387', 'mag_38869', 'Nannocystaceae', 'mag_38275']
+
+--- Cluster 245 : Length 17 ---
+['mag_39874', 'Porphyromonadaceae', 'Marinifilaceae', 'Catalimonadaceae', 'Flexibacteraceae', 'Cyclophoraceae', 'Fulvivirgaceae', 'Hirudinidae', 'mag_40083', 'Immundisolibacteraceae', 'Opisthorchiidae', 'mag_38338', 'Poeciliidae', 'mag_38594', 'Kytococcaceae', 'mag_3233', 'mag_38610']
+
+--- Cluster 246 : Length 19 ---
+['mag_9607', 'Thermogemmatisporaceae', 'Sysuiplasmataceae', 'Antibiotic anticapsin - bacilysin', 'Alydidae', 'Microcystaceae', 'mag_3133', 'Carnitine operon', 'mag_39736', 'Picocystaceae', 'Hydnangiaceae', 'Prymnesiaceae', 'mag_54371', 'Naemateliaceae', 'Porphyridiaceae', 'mag_344', 'Chrysochromulinaceae', 'Acrospermaceae', 'Octopodidae']
+
+--- Cluster 247 : Length 41 ---
+['mag_1061', 'Rickettsiaceae', 'mag_38578', 'mag_40995', 'mag_38496', 'Hepatoplasmataceae', 'mag_2660', 'Synergistaceae', 'mag_40323', 'mag_306', 'Acidilutibacteraceae', 'mag_38298', 'Miltoncostaeaceae', 'mag_38046', 'mag_39180', 'mag_37728', 'mag_45564', 'mag_37947', 'Caldicellulosiruptoraceae', 'Wall polysaccharide pyruvylation', 'mag_37882', 'mag_37881', 'mag_37880', 'Antricoccaceae', 'mag_37863', 'Cryptosporangiaceae', 'mag_37918', 'NAD-reducing [NiFe] hydrogenase HoxFUYH(E)', 'Ostreidae', 'mag_43818', 'mag_39683', 'Selaginellaceae', 'Methanogenesis from methylated compounds', 'Proteinivoraceae', 'mag_38279', 'Stachybotryaceae', 'mag_38263', 'Acidothermaceae', 'mag_40655', 'mag_32', 'Iron(III) dicitrate transport system Fec']
+
+--- Cluster 248 : Length 9 ---
+['Cyclobacteriaceae', 'Ectoine synthesis', 'Cobalamin synthesis, Precorin-2 to Cob(II)yrinate a,c diamide, aerobic', 'Hominidae', 'Lysine fermentation', 'Lysine fermentation to crotonoyl-CoA', 'Nymphonidae', 'Suessiaceae', '2,3-diacetamido-2,3-dideoxy-d-mannuronic acid']
+
+--- Cluster 249 : Length 30 ---
+['Caedimonadaceae', 'Cloacimonadaceae', 'Anaerolineaceae', 'Planctomycetaceae', 'Thermotogaceae', 'Verrucomicrobiaceae', 'mag_290', 'Isotomidae', 'Didymosphaeriaceae', 'mag_97', 'Bugulidae', 'Tetrabaenaceae', 'Liparidae', 'Dactyloidae', 'Gonapodyaceae', 'Tetrahymenidae', 'Halteriidae', 'mag_40102', 'Pythiaceae', 'Arcellidae', 'Reichenbachiellaceae', 'Marivirgaceae', 'Dissulfuribacteraceae', 'Sporulation gene orphans', 'Propionibacteriaceae', 'Agrocinopine utilization', 'Demequinaceae', 'Ornithinimicrobiaceae', 'Rarobacteraceae', 'Gordoniaceae']
+
+--- Cluster 250 : Length 30 ---
+['Tepidanaerobacteraceae', 'mag_44772', 'mag_46634', 'mag_8679', 'Lysianassidae', 'mag_38226', 'mag_38215', 'mag_43028', 'mag_41021', 'mag_42899', 'mag_37837', 'mag_39388', 'Pyrodictiaceae', 'mag_39484', 'mag_45159', 'mag_37643', 'mag_41163', 'mag_7297', 'mag_38277', 'mag_3380', 'Leptotrichiaceae', 'mag_3306', 'Nicotinate catabolism, anaerobic', 'Desulfatibacillaceae', 'mag_341', 'mag_40859', 'Culicoidibacteraceae', 'Butyricicoccaceae', 'mag_37542', 'mag_39064']
+
+--- Cluster 251 : Length 39 ---
+['mag_41502', 'Peptostreptococcaceae', 'mag_39423', 'mag_39397', 'mag_40719', 'mag_42722', 'Toxocaridae', 'Anaerovoracaceae', 'mag_37804', 'mag_39262', 'mag_45933', 'mag_41495', 'Veillonellaceae', 'mag_38417', 'mag_43483', 'mag_38054', 'mag_38064', 'mag_40017', 'Glutamate fermentation', 'mag_44640', 'mag_39905', 'Magnetaquicoccaceae', 'Brachyspiraceae', 'mag_38488', 'mag_38256', 'mag_41040', 'Geopsychrobacteraceae', 'Eubacteriales Family XIII. Incertae Sedis', 'NiFe hydrogenase maturation', 'mag_41583', 'mag_45563', 'mag_15689', 'mag_26662', 'mag_42125', 'mag_2934', 'mag_23027', 'mag_127', 'mag_291', 'mag_334']
+
+--- Cluster 252 : Length 21 ---
+['Thermohalobacteraceae', 'Acidaminococcaceae', 'Thermoanaerobacterales Family IV. Incertae Sedis', 'mag_37724', 'Peptoclostridiaceae', 'mag_38202', 'Lachnospiraceae', 'mag_48423', 'Bianqueaceae', 'mag_42716', 'mag_40067', 'mag_39549', 'mag_40720', 'mag_37690', 'Entophysalidaceae', 'mag_40749', 'Sedimentisphaeraceae', 'Hujiaoplasmataceae', 'mag_40766', 'Desulfurellaceae', 'mag_284']
+
+--- Cluster 253 : Length 18 ---
+['mag_3751', 'mag_39293', 'mag_43990', 'Ribonucleotide reduction', 'mag_75', 'mag_39163', 'mag_40528', 'Oscillospiraceae', 'Tissierellaceae', 'mag_3018', 'mag_38445', 'mag_40881', 'mag_276', 'Coraliomargaritaceae', 'Thermoanaerobacterales Family III. Incertae Sedis', 'Filifactoraceae', 'Vallitaleaceae', 'mag_41688']
+
+--- Cluster 254 : Length 1 ---
+['DNA repair, UvrABC system']
+
+--- Cluster 255 : Length 18 ---
+['Pelagicoccaceae', 'Heterocyst formation in cyanobacteria', 'Elachuridae', 'Steroidobacteraceae', 'Anoxymicrobiaceae', 'mag_43830', 'Bacillibactin Siderophore', 'Exosporium', 'Maliibacteriaceae', 'Macrolides, lincosamides, streptogramins, ketolides, oxazolidinones (MLSKO) resistance: enzymatic degradation', 'Halarsenatibacteraceae', 'mag_39217', 'Lentisphaeraceae', 'mag_22', 'Rountreeviridae', 'Mucoraceae', 'Olpidiaceae', 'mag_4']
+
+--- Cluster 256 : Length 29 ---
+['Aotidae', 'Mcinerneyibacteriaceae', 'Macrolides, lincosamides, streptogramins, ketolides, oxazolidinones (MLSKO) resistance: rRNA methylases', 'Leporidae', 'Lythraceae', 'Cantharellaceae', 'mag_78', 'Petromyzontidae', 'mag_7782', 'mag_37801', 'mag_38310', 'Scophthalmidae', 'Buprestidae', 'Harpellaceae', 'Thermosulfidibacteraceae', 'mag_41872', 'mag_42473', 'Vespidae', 'Amanitaceae', 'Pieridae', 'Desulforegulaceae', 'Troglotrematidae', 'mag_34099', 'Ichthyobacteriaceae', 'Schleiferiaceae', 'Longimicrobiaceae', 'Skeletonemataceae', 'mag_39785', 'Tindalliaceae']
+
+--- Cluster 257 : Length 38 ---
+['Tepidibacteraceae', 'mag_1875', 'Vallicoccaceae', 'Haematococcaceae', 'Fritschiellaceae', 'Scenedesmaceae', 'mag_38185', 'mag_38577', 'Nartheciaceae', 'Sphaerophragmiaceae', 'Chalcididae', 'Syrphidae', 'Potamogetonaceae', 'Argynnaceae', 'mag_38127', 'mag_38651', 'Phaeodactylaceae', 'Plumbaginaceae', 'Clavariaceae', 'Chrysomelidae', 'Accessory colonization factor', 'Theileriidae', 'mag_42197', 'Cricetidae', 'Toluene 4-monooxygenase (T4MO)', 'Tinamidae', 'Sulfomarinibacteraceae', 'Cuculidae', 'Charadriidae', 'Thermoguttaceae', 'Periconiaceae', 'Pachyviridae', 'mag_66', 'Mucispirillaceae', 'mag_40300', 'Aeolococcaceae', 'Thermococcaceae', 'Nemacheilidae']
+
+--- Cluster 258 : Length 33 ---
+['mag_49861', 'mag_38765', 'mag_2953', 'mag_38160', 'mag_39553', 'mag_44977', 'Abditibacteriaceae', 'mag_349', 'mag_3020', 'mag_24', 'mag_37716', 'mag_390', 'mag_38621', 'Chaetodontidae', 'mag_31228', 'mag_38141', 'Gobiesocidae', 'mag_82', 'mag_37851', 'mag_41759', 'Peptoniphilaceae', 'mag_10', 'mag_37816', 'mag_39181', 'mag_42320', 'Ochromonadaceae', 'Opisthocomidae', 'mag_45', 'Varanidae', 'Eschrichtiidae', 'mag_3348', 'mag_39868', 'mag_38622']
+
+--- Cluster 259 : Length 41 ---
+['mag_3021', 'Characeae', 'Acerentomidae', 'Anthocerotibacteraceae', 'Pervagoviridae', 'Coprobacillaceae', 'mag_1132', 'mag_38311', 'mag_41670', 'mag_38420', 'Thermoflexibacteraceae', 'mag_38461', 'Breznakiellaceae', 'mag_946', 'Choreocolacaceae', 'mag_38774', 'mag_44196', 'Armatimonadaceae', 'mag_115', 'mag_37960', 'mag_37785', 'Cenarchaeaceae', 'Zymomonadaceae', 'Aquicultoraceae', 'Phyllostomidae', 'mag_2946', 'mag_37685', 'mag_39270', 'Salsipaludibacteraceae', 'mag_354', 'mag_39150', 'mag_3070', 'mag_38162', 'Channichthyidae', 'mag_37696', 'mag_37688', 'AMP to 3-phosphoglycerate', 'mag_39120', 'mag_37699', 'mag_43154', 'mag_41607']
+
+--- Cluster 260 : Length 48 ---
+['Psalteriomonadidae', 'Potyviridae', 'Mallomonadaceae', 'Nanobdellaceae', 'Megophryidae', 'Waddliaceae', 'Coat proteins CotJABC', 'mag_3795', 'mag_1063', 'mag_42610', 'mag_37667', 'mag_37', 'mag_3833', 'mag_39843', 'Vicingaceae', 'mag_79', 'Vannellidae', 'Philasteridae', 'mag_37752', 'mag_42223', 'mag_39049', 'Methanosarcinaceae', 'Heligmosomidae', 'Oceanococcaceae', 'mag_61', 'Desulfitibacteraceae', 'mag_2602', 'Clostridiales Family XVI. Incertae Sedis', 'Pollicipedidae', 'mag_38535', 'Cuniculiplasmataceae', 'mag_40821', 'mag_2918', 'Ardenticatenaceae', 'Amphipleuraceae', 'mag_38262', 'Calcidiscaceae', 'Termitidae', 'mag_38307', 'mag_17650', 'Denticipitidae', 'Activation of fatty acids as acyl-adenylates cluster subgroup FadD10', 'Orchesellidae', 'mag_38019', 'mag_2922', 'Monomastigaceae', 'Pterulaceae', 'Harpacticidae']
+
+--- Cluster 261 : Length 10 ---
+['Carnitine metabolism and transport', 'Arginine biosynthesis', 'Fatty acid catabolic operon fadN-fadA-fadE (yusJKL)', 'BactLuciferaseComplex', 'Yersiniaceae', 'D-gluconate and ketogluconates metabolism', 'Chromobacteriaceae', 'Methylglyoxal Metabolism', 'Cyanophycin Metabolism', 'Cysteine synthesis']
+
+--- Cluster 262 : Length 2 ---
+['Cold shock proteins of CSP family', 'Proline, 4-hydroxyproline uptake and utilization']
+
+--- Cluster 263 : Length 4 ---
+['Erwiniaceae', 'Putative oxidase COG2907', 'Glyoxylate bypass', 'Heme O and Heme A biosynthesis']
+
+--- Cluster 264 : Length 7 ---
+['Citrate uptake cluster', 'DNA repair, bacterial photolyase', 'Proline biosynthesis (for review)', 'Potassium-transporting ATPase', 'Pectobacteriaceae', 'Urea carboxylase and Allophanate hydrolase cluster', 'Glycine betaine synthesis from choline']
+
+--- Cluster 265 : Length 4 ---
+['Enterobacteriaceae', 'Anaerobic module of TCA', 'Pterin synthesis related cluster', 'Arcobacteraceae']
+
+--- Cluster 266 : Length 3 ---
+['Alkane biosynthesis in bacteria', 'Urease subunits', 'Listeriaceae']
+
+--- Cluster 267 : Length 55 ---
+['Type III secretion system orphans', 'Trans-envelope signaling system VreARI in Pseudomonas', 'Acyclic terpene utilization', 'mag_3096', 'Adenylylsulfate reductase', 'Quorum sensing regulation in Pseudomonas', 'Rhamnolipids in Pseudomonas', 'Salmochelin-mediated Iron Acquisition', 'Sulfur transfer pathway CsdAEL', 'Stress proteins YciF, YciE', 'Outer membrane porins in Pseudomonas and Acinetobacter', 'tRNA modification, 5-oxyacetyl uridine (cmo5U34)', 'mag_2909', 'Phenazine biosynthesis', 'Type III secretion system', 'MexXY System of Pseudomonas aeruginosa', 'Siderophore Pyoverdine', 'Mycobacterial FadD proteins (fatty acid CoA- and AMP- ligases)', 'Two partner secretion pathway (TPS)', 'ABC-type iron transport system', 'Type 4 conjugative transfer system, IncI1 type', 'Mycobacterial gene cluster associated with resistance against FAS-II antibiotics', 'mag_457', 'Type VI secretion system', 'Type III secretion systems', 'Potential DNA repair cluster', 'Taurine and alkanesulfonate utilization as sulfur sources', 'L-2-amino-4-methoxy-trans-3-butenoic acid synthesis', 'mag_129', 'Lipotidae', 'Biogenesis of cbb3-type cytochrome c oxidases', 'Cytochrome c oxidase EC 1.9.3.1', 'Coenzyme PQQ synthesis', 'Capitellidae', 'IbrA and IbrB: co-activators of prophage gene expression', 'Pseudomonadaceae', 'Marinobacteraceae', 'Edwardsiidae', 'Acytosteliaceae', 'Sulfate assimilation related cluster', 'Aestuariirhabdaceae', 'Heme and heme d1 biosynthesis from siroheme', 'Cholera toxin', 'mag_167', 'Geothermobacteraceae', 'CMP-pseudaminic acid synthesis', 'Malonate decarboxylase', 'EnvZ and OmpR regulon', 'Onchocercidae', 'Extracellular matrix proteins (PEL) involved in glucose-rich biofilm formation in Pseudomonas', 'Beta-lactamases Ambler class D', 'Colwelliaceae', 'Extracellular matrix proteins (PSL) involved in mannose-rich biofilm formation in Pseudomonas', 'mag_118', 'mag_12']
+
+--- Cluster 268 : Length 22 ---
+['Glutathione: Non-redox reactions', 'Protection from Reactive Oxygen Species', 'Tolerance to colicin E2 and CreBC signal transduction system', 'Efflux ABC transporter YadGH', 'Putrescine utilization', 'Flagellum', 'Polymyxin resistance, lipid A modifications with 4-amino-4-deoxy-L-arabinose', 'Polymyxin resistance, lipid A modifications with phosphoethanolamine', 'Malvaceae', 'Fusaric acid resistance cluster', 'General Secretion Pathway', 'Tol-Pal Cell Envelope Complex', 'Glutathione-dependent pathway of formaldehyde detoxification', 'HMG CoA Synthesis', 'Tripartite multidrug efflux systems (of MFS type) in Gram-negative bacteria', 'Polyadenylation, bacterial', 'Tripartite multidrug efflux systems (of MFS type) EmrKY-TolC and EmrAB-TolC', 'Iron siderophore sensor & receptor system', 'Putative TldE-TldD proteolytic complex', 'Multidrug Resistance, Tripartite Systems Found in Gram Negative Bacteria TEMP', 'Spongiibacteraceae', 'Chemotaxis in Escherichia coli and Bacillus subtilis']
+
+--- Cluster 269 : Length 27 ---
+['Bacterial pathways for dimethylsulfoniopropionate and acrylate catabolism', 'Mycobacterial FadE proteins Acyl-CoA dehydrogenase', 'Sepiidae', 'Tricarboxylate transport system', 'Possible heterocyst differentiation related cluster', 'Vanillate and syringate utilization', 'Ephemeridae', 'Dihydropyrimidine dehydrogenase', 'Carbon storage regulator', 'Polymyxin resistance', 'Tripartite multidrug efflux systems (of RND type) MdtABC-TolC', 'Microbulbiferaceae', 'Formate dehydrogenase', 'Asteraceae', 'Fabaceae', 'Proteasome bacterial', 'Nitrosomonadaceae', 'Respiratory Systems - Shewanella (updated)', 'Copper transport and blue copper proteins', 'Daphniidae', 'D-arabinose utilization', 'Rhizophoraceae', 'Phosphoenolpyruvate phosphomutase', 'Sarcosine oxidases, monomeric and heterotetrameric', 'Phosphonate metabolism', 'Maricaulaceae', 'Periplasmic nitrate reductase EC 1.7.99.4']
+
+--- Cluster 270 : Length 12 ---
+['Bruguierivoracaceae', 'Sulfate reduction-associated complexes', 'Ubiquinone biosynthesis', 'Glycolate, glyoxylate interconversions', 'mag_38240', 'Tocopherols and tocotrienols (vitamin E) in plants and cyanobacteria', 'Ribitol utilization', 'Puniceicoccaceae', 'Cytochrome bo ubiquinol oxidase ', 'Culicidae', 'Biogenesis of cytochrome c oxidases', 'Entamoebidae']
+
+--- Cluster 271 : Length 21 ---
+['TAM transport system', 'Funariaceae', 'Magnetospirillaceae', 'Phycisphaeraceae', 'Acidiferrobacteraceae', 'mag_23210', 'Salicaceae', 'Selenocysteine metabolism', 'Strongyloididae', 'mag_25310', 'Delta(6)-desaturase containing cluster', 'Beta-lactamases Ambler class C', 'D-galacturonate utilization, oxidative pathway', 'mag_1373', 'Gentisate pathway', 'Halomonadaceae', 'Glutaconate CoA-transferase or 3-oxoadipate CoA-transferase Subunits', 'Mycolic acid synthesis 2', 'Siderophore Enterobactin', 'Steinernematidae', 'Cysteine dioxygenase containing cluster 1']
+
+--- Cluster 272 : Length 6 ---
+['Cell wall-associated cluster in Mycobacterium', 'Xanthine dehydrogenase subunits', 'Lipopolysaccharide in K12', 'Zoogloeaceae', 'Gemmatimonadaceae', 'Alcanivoracaceae']
+
+--- Cluster 273 : Length 1 ---
+['Predicted secretion system W clustering with cell division proteins']
+
+--- Cluster 274 : Length 4 ---
+['Tripartite multidrug efflux systems (of RND type) in Pseudomonas', 'Maintenance of outer membrane lipid asymmetry', 'Uridine to beta-Alanine and Thymine to 3-aminoisobutanoate module', 'Nucleoside ABC transporter cluster']
+
+--- Cluster 275 : Length 3 ---
+['mag_19473', 'Cesiribacteraceae', 'Arginine succinyltransferase pathway']
+
+--- Cluster 276 : Length 6 ---
+['Victivallaceae', 'Thorselliaceae', 'Raperosteliaceae', 'Oleiphilaceae', 'Robiginitomaculaceae', 'Tuberaceae']
+
+--- Cluster 277 : Length 3 ---
+['Sminthuridae', 'P2-like phage', 'Carbonic anhydrase']
+
+--- Cluster 278 : Length 14 ---
+['mag_319', 'Siderophore pyochelin', 'mag_38567', 'Coxiellaceae', 'Termopsidae', 'Natronospirillaceae', 'Xystonellidae', 'Ventosimonadaceae', 'Dissulfurirhabdaceae', 'Microbiotheriidae', 'Desulfobaccaceae', 'Thiofilaceae', 'Entericidin', 'Small efflux transporters of SMR family']
+
+--- Cluster 279 : Length 4 ---
+['Lipid orphans', 'Syntrophorhabdaceae', 'Universal stress protein family', 'Woeseiaceae']
+
+--- Cluster 280 : Length 2 ---
+['Purine catabolism in Bacillus subtilis', 'Arsenic resistance']
+
+--- Cluster 281 : Length 1 ---
+['Cell division related cluster including coaD']
+
+--- Cluster 282 : Length 1 ---
+['Polyamine Metabolism']
+
+--- Cluster 283 : Length 6 ---
+['mag_27238', 'Cytolysin and Lipase operon in Vibrio', 'Bile hydrolysis', 'Multi-subunit cation antiporter', 'mag_5385', 'mag_40160']
+
+--- Cluster 284 : Length 6 ---
+['Urea cycle', 'Fet iron export system', 'Histidine Biosynthesis', 'Hydroxy-fatty acid production as stress response', 'Arginine biosynthesis via N-acetyl-L-citrulline', 'Histidine Biosynthesis -- gjo']
+
+--- Cluster 285 : Length 117 ---
+['mag_45602', 'mag_40146', 'mag_39876', 'mag_46049', 'mag_39862', 'mag_39791', 'mag_39630', 'Biofilm formation in Staphylococcus', 'mag_46087', 'Methylglyoxal resistance in Bacillus subtilis', 'mag_39723', 'mag_39765', 'mag_39887', 'Siderophore Anthrachelin', 'mag_39936', 'mag_40107', 'mag_40025', 'mag_45706', 'mag_39602', 'mag_40021', 'Bacillithiol synthesis', 'mag_40000', 'mag_39944', 'mag_39938', "Biosynthesis of 4,4'-diapolycopene dialdehyde", 'mag_49155', 'mag_40486', 'mag_39937', 'Formaldehyde assimilation: Ribulose monophosphate pathway', 'Adhesins in Staphylococcus', 'Siderophore Staphylobactin', 'Pore-forming cytolytic toxins', 'mag_3019', 'mag_38733', 'mag_38537', 'mag_37687', 'mag_37681', 'mag_43853', 'mag_38587', 'mag_37626', 'mag_40838', 'mag_38683', 'mag_38684', 'mag_41548', 'mag_38698', 'mag_41549', 'mag_43143', 'mag_41564', 'mag_38751', 'mag_44155', 'mag_41577', 'mag_41597', 'mag_40770', 'mag_38519', 'mag_41433', 'mag_40916', 'mag_42637', 'mag_43152', 'mag_41188', 'mag_43023', 'mag_43208', 'mag_38097', 'mag_40494', 'mag_43271', 'mag_38084', 'mag_42937', 'mag_38840', 'mag_41323', 'mag_37833', 'mag_42720', 'mag_41069', 'mag_38386', 'mag_43476', 'mag_43612', 'Desulfococcaceae', 'mag_38472', 'mag_40246', 'mag_41325', 'mag_38920', 'mag_41186', 'mag_41618', 'mag_39143', 'mag_42170', 'mag_42167', 'mag_16103', 'mag_3282', 'mag_39152', 'mag_40619', 'mag_39187', 'mag_40744', 'mag_44865', 'mag_41948', 'mag_41881', 'mag_39202', 'mag_41776', 'mag_40571', 'mag_3072', 'Actinospicaceae', 'mag_39271', 'mag_39349', 'mag_39140', 'p-Aminobenzoyl-Glutamate Utilization', 'Staphylococcaceae', 'mag_39485', 'mag_38923', 'mag_38924', 'mag_38973', 'mag_44376', 'mag_45498', 'Desulfotomaculaceae', 'mag_39019', 'mag_39036', 'mag_40699', 'Teicoplanin resistance in Staphylococci', 'mag_39097', 'mag_39116', 'mag_45019']
+
+--- Cluster 286 : Length 10 ---
+['Fosfomycin resistance', 'Listeria Pathogenicity Island LIPI-1 extended', 'mag_38451', 'mag_38967', 'mag_44162', 'mag_37980', 'mag_44242', 'mag_43321', 'Toxins', 'Alpha-acetolactate operon']
+
+--- Cluster 287 : Length 2 ---
+['Enterobacterial common antigen (LPS O-antigen)', 'Histidine Degradation']
+
+--- Cluster 288 : Length 13 ---
+['Trematosphaeriaceae', 'Dipicolinate Synthesis', 'mag_43050', 'mag_38485', 'Beta-lactamases Ambler class A', 'Dethiobacteraceae', 'mag_39672', 'Anaerotignaceae', 'Fibrobacteraceae', 'mag_39582', 'mag_39123', 'Pelagibacteraceae', 'mag_37765']
+
+--- Cluster 289 : Length 17 ---
+['mag_37622', 'mag_3247', 'Microascaceae', 'Ceratocystidaceae', 'Pseudodiploosporaceae', 'Diversisporaceae', 'Diatrypaceae', 'mag_2975', 'Lophiotremataceae', 'mag_38267', 'Bionectriaceae', 'Zopfiaceae', 'Phaeomoniellaceae', 'Amorphothecaceae', 'Cryphonectriaceae', 'Hyaloscyphaceae', 'Methylacidiphilaceae']
+
+--- Cluster 290 : Length 14 ---
+['mag_329', 'mag_41382', 'Temoridae', 'Sordariaceae', 'Psyllidae', 'Chaetomiaceae', 'mag_43693', 'mag_37756', 'Calditerrivibrionaceae', 'Glomerellaceae', 'Ophiocordycipitaceae', 'Strongylocentrotidae', 'Clavicipitaceae', 'mag_37974']
+
+--- Cluster 291 : Length 4 ---
+['Queuosine and archaeosine', 'Murein hydrolase regulation and cell death', 'Nickel-requiring', 'ESAT-6 proteins secretion system in Firmicutes extended']
+
+--- Cluster 292 : Length 2 ---
+['Metabolite repair', 'Adenosyl nucleosidases']
+
+--- Cluster 293 : Length 20 ---
+['mag_269', 'mag_352', 'mag_42234', 'mag_38784', 'mag_1001', 'mag_39198', 'mag_39242', 'mag_3104', 'Schizaeaceae', 'mag_2933', 'mag_40216', 'mag_37641', 'mag_37650', 'mag_102', 'Ampullariidae', 'mag_40234', 'mag_40089', 'mag_39788', 'Bombycidae', 'Psittaculidae']
+
+--- Cluster 294 : Length 7 ---
+['Oxyuridae', 'Bacillaceae', 'Planococcaceae', 'Alicyclobacillaceae', 'Lipoylation-related cluster', 'mag_2915', 'Deinococcaceae']
+
+--- Cluster 295 : Length 6 ---
+['Glomeraceae', 'Hydrolysis of sphingomyelin', 'Chlorodendraceae', 'Thalassospiraceae', 'Vibrionaceae', 'Valsaceae']
+
+--- Cluster 296 : Length 2 ---
+['Methanobacteriaceae', 'Na-driven 2-hydroxyglutarate pathway']
+
+--- Cluster 297 : Length 5 ---
+['RSF1010 like IncQ broad-host-range plasmids', 'mag_44938', 'mag_3316', 'mag_45782', 'mag_39074']
+
+--- Cluster 298 : Length 2 ---
+['tRNA aminoacylation, Thr', 'Biotin synthesis cluster']
+
+--- Cluster 299 : Length 2 ---
+['Hypoxylaceae', 'Sclerotiniaceae']
+
+--- Cluster 300 : Length 12 ---
+['Apidae', 'Hypocreaceae', 'Peronosporaceae', 'Nectriaceae', 'Leptospiraceae', 'Dicroglossidae', 'Pyriculariaceae', 'Helotiaceae', 'Cytophagaceae', 'Pseudeurotiaceae', 'Venturiaceae', 'Plectosphaerellaceae']
+
