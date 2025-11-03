@@ -1,0 +1,5841 @@
+Feature	Cluster
+Universal GTPases	1
+CtsR and MscAB regulation of protein degradation	1
+DNA internalization-related cluster	1
+RNA pseudouridine synthases	1
+Thiamin, thiazole, hydroxymethylpyrimidine salvage and uptake	1
+Trk and Ktr potassium uptake systems	1
+Purine nucleotide synthesis regulator	2
+Sex pheromones in Enterococcus faecalis and other Firmicutes	2
+Ribonuclease J family	2
+Cell envelope-associated LytR-CpsA-Psr transcriptional attenuators	2
+Threonine synthase cluster	2
+tRNA aminoacylation, Arg	3
+Undecaprenyl-diphosphatases	3
+Lactose utilization	3
+tRNA aminoacylation, Ala	3
+tRNA aminoacylation, Met	3
+NAD and NADP cofactor biosynthesis bacterial	4
+NAD and NADP cofactor biosynthesis global	4
+Resistance to Triclosan	5
+Fatty Acid Biosynthesis cluster	5
+Aminoglycoside modifying enzymes: O-nucleotidyltransferases	5
+Peptide methionine sulfoxide reductase	5
+Enoyl-[ACP] reductases disambiguation	5
+tRNA aminoacylation, Ser	6
+Chorismate Synthesis	6
+Lysine DAP biosynthetic pathway	7
+DeNovo Purine Biosynthesis	7
+Lysine leader peptide	7
+Diaminopimelate Synthesis 	7
+Branched-Chain Amino Acid Biosynthesis	8
+Coenzyme A	8
+Thiamin, hydroxymethylpyrimidine selected transporters	8
+Tryptophan synthesis	8
+Coenzyme A -- gjo	8
+S-Adenosyl-L-homocysteine recycling	9
+Rcn nickel and cobalt homeostasis system	9
+CMP-legionaminic acid synthesis	9
+DNA repair, bacterial DinG and relatives	10
+High affinity phosphate transporter and control of PHO regulon	10
+PEB1, the major cell-binding factor of Campylobacter jejuni	11
+Pseudoalteromonadaceae	11
+Cadmium resistance	11
+2-O-alpha-mannosyl-D-glycerate utilization	11
+Efflux ABC transporter MdlAB	11
+Efflux ABC transporters BmrCD and LmrCD involved in multidrug resistance	11
+Macrolides, lincosamides, streptogramins, ketolides, oxazolidinones (MLSKO) resistance: efflux systems	11
+ATP-dependent RNA helicases, bacterial	12
+Fatty acid synthesis	12
+Magnesium transport	13
+Glutathione: Redox cycle	13
+EcsAB transporter affecting expression and secretion of secretory preproteins	14
+L-serine dehydratase subunits	14
+D-alanylation of teichoic acid	14
+Late competence	14
+Control of cell elongation - division cycle in Bacilli	14
+HPr catabolite repression system	14
+BarA-UvrY(SirA) two-component regulatory system	15
+Stress response and cell wall lysis cluster	15
+Glycyl-tRNA synthetase	15
+Argulidae	15
+Streptococcaceae	15
+Fatty Acid Biosynthesis FASII	15
+mag_39000	16
+mag_46179	16
+mag_47635	16
+mag_56337	16
+mag_43196	16
+mag_42084	16
+mag_39902	16
+mag_39261	16
+mag_38322	16
+Methanocaldococcaceae	16
+mag_38580	16
+mag_42626	16
+mag_39058	16
+mag_45832	16
+mag_39991	16
+mag_41059	16
+mag_42394	16
+BOX elements in Streptococci	16
+mag_44345	16
+mag_38916	16
+mag_45856	16
+Macrolides, lincosamides, streptogramins, ketolides, oxazolidinones (MLSKO) resistance: ribosomal protection	16
+mag_42786	17
+mag_37857	17
+mag_44876	17
+mag_38510	17
+mag_39063	17
+mag_38659	17
+mag_40014	17
+mag_39550	17
+mag_39249	17
+mag_38628	17
+mag_43670	17
+mag_39377	17
+mag_43477	17
+mag_40852	17
+mag_37788	17
+mag_38589	17
+mag_42457	17
+mag_40256	17
+mag_41945	17
+mag_44800	17
+mag_43076	17
+mag_41164	17
+mag_39897	17
+mag_39982	17
+mag_38917	17
+mag_39863	17
+mag_38340	17
+mag_38296	17
+mag_38129	17
+mag_39491	17
+mag_38109	17
+mag_38868	17
+mag_38430	17
+mag_40208	17
+mag_41268	17
+mag_40755	17
+mag_40152	17
+mag_37846	17
+mag_41025	17
+mag_41036	17
+mag_37886	17
+mag_38915	17
+mag_40173	17
+mag_44396	17
+mag_39477	17
+mag_38808	17
+mag_39508	17
+mag_40241	17
+mag_38703	17
+mag_45405	17
+mag_39606	17
+mag_41761	17
+mag_40281	17
+mag_40317	17
+mag_38723	17
+mag_39620	17
+mag_42902	17
+mag_41404	17
+mag_38144	17
+mag_38366	17
+mag_39845	17
+mag_38087	17
+Proline Synthesis	18
+Pyruvate formate-lyase cluster with possible role in choline utilization	18
+GMP synthase	18
+Ribosome activity modulation	18
+Fermentations: Mixed acid	18
+tRNA aminoacylation, Leu	19
+Pyruvate formate-lyase cluster	19
+Threonine anaerobic catabolism gene cluster	19
+Bacterial checkpoint-control-related cluster	20
+N-acetylneuraminate utilization	20
+Mevalonate metabolic pathway	20
+Theridiidae	20
+tRNA aminoacylation, Asp	20
+VraTSR and LiaFSR three-component regulatory systems	21
+ATP-dependent Nuclease	21
+Tagatose utilization	21
+Resistance to Daptomycin	21
+tRNA thiolation	21
+Ferrous iron transporter EfeUOB, low-pH-induced	21
+Bacitracin resistance	21
+Paenibacillaceae	21
+Twin-arginine translocation system	22
+SecY2-SecA2 Specialized Transport System	22
+Folate Biosynthesis	23
+The Chv two-component regulatory system	23
+CoA disulfide thiol-disulfide redox system	23
+Type I restriction-modification systems	24
+tRNA aminoacylation, Cys	24
+Damaged nicotinamide nucleotide NAD(P)HX repair	24
+Isoprenoid Biosynthesis: Interconversions	24
+DNA repair, bacterial MutHLS system	25
+5-methylaminomethyl-2-thiouridine	25
+tRNA aminoacylation, Asn	25
+Hyperosmotic potassium uptake	25
+IMP and Xanthine conversion to XMP and GMP module	26
+Ethanolamine utilization	27
+mag_45847	27
+mag_44313	27
+mag_41448	27
+mag_42208	27
+mag_42130	27
+mag_43093	27
+mag_42574	27
+mag_44019	27
+mag_42107	27
+mag_38713	27
+mag_49571	27
+mag_42531	27
+mag_40094	27
+mag_39413	27
+mag_40133	27
+mag_42355	27
+mag_40167	27
+mag_44953	27
+mag_40662	27
+mag_41264	27
+mag_45988	27
+mag_40015	27
+mag_39044	27
+mag_40005	27
+mag_42934	27
+mag_43282	27
+mag_38885	27
+mag_41486	27
+mag_42253	27
+mag_43537	27
+mag_65224	27
+mag_49007	27
+mag_42816	27
+mag_44483	27
+mag_46538	28
+mag_42724	28
+mag_45800	28
+mag_25069	28
+mag_44427	28
+mag_41373	28
+mag_39052	28
+mag_43327	28
+mag_42821	28
+mag_44827	28
+mag_44859	28
+mag_39679	28
+mag_40090	28
+mag_46277	28
+mag_39241	28
+mag_41973	28
+mag_44284	28
+mag_43999	28
+mag_41485	28
+mag_41445	28
+mag_41674	28
+mag_38028	28
+mag_40776	28
+mag_44625	28
+mag_38962	28
+mag_44237	28
+mag_39435	28
+mag_46138	28
+mag_41653	28
+mag_37994	28
+mag_41649	28
+mag_40244	28
+mag_44788	28
+mag_42054	28
+mag_39712	28
+mag_40782	28
+mag_40570	28
+mag_41885	28
+mag_41259	28
+mag_38521	28
+mag_51172	28
+mag_42498	28
+mag_43159	28
+mag_77836	28
+mag_43530	28
+mag_49290	28
+mag_41604	28
+mag_45237	28
+mag_42832	28
+mag_49157	28
+mag_42128	28
+mag_40846	28
+mag_41928	28
+mag_40885	28
+mag_43896	28
+mag_43656	28
+mag_42177	28
+mag_55868	28
+mag_46108	29
+mag_44182	29
+mag_47087	29
+mag_39769	29
+mag_38225	29
+mag_42834	29
+mag_40500	29
+mag_40752	29
+mag_36705	29
+mag_38107	29
+mag_39609	29
+mag_44052	29
+mag_44076	29
+mag_44077	29
+mag_39507	29
+mag_50104	29
+mag_40831	29
+mag_42805	29
+mag_44907	29
+mag_39917	29
+mag_43551	29
+mag_45980	29
+mag_39050	29
+mag_44380	29
+mag_40257	29
+Gloeobacteraceae	29
+mag_40639	29
+mag_44853	29
+mag_49124	29
+mag_45419	29
+Magnetobacteriaceae	29
+mag_37988	29
+mag_43037	29
+mag_46733	29
+mag_42200	30
+mag_44159	30
+mag_45613	30
+mag_51622	30
+mag_43002	30
+mag_40408	30
+mag_43167	30
+mag_44586	30
+mag_40899	30
+mag_39130	30
+mag_39951	30
+mag_42367	30
+mag_43111	30
+mag_45680	30
+mag_40289	30
+mag_41037	30
+mag_39298	30
+mag_39492	30
+mag_40541	30
+mag_42958	30
+mag_40121	30
+mag_42192	30
+mag_42232	30
+mag_41175	30
+mag_57077	30
+mag_44769	30
+mag_43869	30
+mag_42186	30
+mag_43541	30
+mag_41405	30
+mag_45194	30
+mag_48491	30
+mag_41423	30
+mag_56135	30
+mag_43935	30
+mag_43473	30
+mag_39071	30
+mag_40689	30
+mag_41050	30
+mag_45553	30
+mag_43369	30
+mag_43420	30
+mag_38755	30
+mag_41501	30
+mag_41359	30
+mag_44089	30
+mag_45330	30
+mag_41844	30
+mag_38752	30
+mag_40013	31
+mag_42153	31
+mag_38888	31
+mag_41159	31
+mag_38877	31
+mag_50766	31
+mag_44858	31
+mag_41596	31
+mag_45396	31
+mag_52988	31
+mag_40272	31
+mag_43556	31
+mag_43561	31
+mag_40876	31
+mag_52975	31
+mag_44925	31
+mag_41584	31
+mag_40489	31
+mag_41655	31
+mag_41226	31
+mag_45152	31
+mag_44740	31
+mag_40034	31
+mag_39132	31
+mag_42946	31
+mag_38993	31
+mag_45156	31
+mag_39017	31
+mag_42645	31
+mag_40215	31
+mag_39277	31
+mag_44826	31
+mag_40746	31
+mag_41879	31
+mag_44360	31
+mag_44690	31
+mag_39741	31
+mag_40634	31
+mag_58978	31
+mag_40949	31
+mag_40450	31
+mag_45094	31
+mag_53205	31
+mag_41168	31
+mag_42303	31
+mag_44138	31
+mag_45332	31
+mag_40788	31
+mag_40117	31
+mag_39860	31
+mag_43432	31
+mag_40940	31
+mag_44015	31
+mag_40531	31
+mag_42776	31
+mag_56628	31
+mag_38479	31
+mag_40423	31
+mag_40585	31
+mag_40417	31
+mag_41193	31
+mag_40830	31
+mag_41612	31
+mag_40767	31
+mag_40138	31
+mag_46722	31
+mag_27852	31
+mag_42690	31
+mag_45774	31
+mag_39752	31
+mag_46571	31
+mag_41671	31
+mag_39744	31
+mag_61174	31
+mag_46492	31
+mag_43367	31
+mag_42275	31
+mag_39729	31
+mag_43980	32
+mag_39077	32
+mag_38428	32
+mag_40105	32
+mag_38514	32
+mag_42102	32
+mag_38996	32
+mag_38339	32
+mag_38379	32
+mag_40080	32
+mag_40429	32
+mag_38271	32
+mag_45603	32
+mag_38487	32
+mag_38881	32
+PE multigene family in Mycobacterium tuberculosis complex (MTBC)	32
+mag_40904	32
+PPE multigene family in Mycobacterium tuberculosis complex (MTBC)	32
+mag_39028	32
+mag_42315	32
+mag_38156	32
+mag_38042	32
+mag_38562	32
+mag_39961	32
+mag_38930	32
+mag_38143	32
+mag_39954	32
+mag_41233	32
+mag_37792	32
+mag_38633	32
+mag_39524	32
+mag_40901	32
+mag_42231	33
+mag_43770	33
+mag_42172	33
+mag_41333	33
+mag_40385	33
+V-Type ATP synthase	33
+mag_46313	33
+mag_37807	34
+mag_38859	34
+mag_37795	34
+Sporulation proteins SigEG cluster	34
+mag_51007	34
+S-methylmethionine	34
+mag_3088	34
+mag_39678	34
+mag_42321	34
+mag_39334	34
+mag_38245	34
+mag_40124	34
+mag_42334	34
+mag_42415	34
+Patulibacteraceae	34
+Moschidae	34
+mag_39338	34
+mag_38532	34
+mag_40457	34
+mag_44638	34
+Exidiaceae	34
+mag_3029	34
+mag_45806	35
+mag_42168	35
+mag_42151	35
+mag_42201	35
+mag_40589	35
+mag_39544	35
+mag_39174	35
+mag_39422	35
+mag_45071	35
+mag_42926	35
+mag_41591	35
+mag_42931	35
+mag_43647	35
+mag_43336	35
+mag_46204	35
+mag_37721	35
+mag_61863	35
+mag_43524	35
+mag_44104	35
+mag_38933	35
+mag_38927	35
+mag_43724	35
+mag_44179	35
+mag_40909	35
+mag_40694	35
+mag_43789	35
+mag_47766	35
+mag_41210	35
+mag_37812	36
+Glutathione: Biosynthesis and gamma-glutamyl cycle	36
+mag_39853	36
+mag_43124	36
+mag_42207	36
+mag_45044	36
+mag_46940	36
+mag_42492	36
+mag_43422	36
+mag_46532	36
+mag_59318	36
+mag_45843	36
+mag_39879	36
+mag_38171	36
+mag_40214	36
+mag_66866	36
+mag_42188	36
+mag_43721	36
+mag_37852	36
+mag_41903	36
+mag_44958	36
+mag_61979	36
+mag_39135	36
+Programmed cell death toxin-antitoxin PezAT	36
+mag_52662	36
+mag_38620	37
+mag_38615	37
+mag_38140	37
+mag_39286	37
+mag_41983	37
+mag_45697	37
+mag_47668	37
+mag_43969	37
+mag_38721	37
+mag_37934	37
+mag_38677	37
+mag_38654	37
+mag_42974	37
+mag_39457	37
+mag_38801	37
+mag_40184	37
+mag_39326	37
+mag_38006	37
+mag_43297	37
+mag_38796	37
+mag_42252	37
+mag_40642	37
+mag_46416	37
+mag_44295	37
+mag_38988	37
+mag_40190	37
+mag_43332	37
+mag_38462	37
+mag_39337	37
+mag_40235	37
+mag_72938	37
+mag_40769	37
+mag_45742	37
+mag_39057	37
+mag_40968	37
+mag_41139	38
+mag_45493	38
+mag_40273	38
+mag_43295	38
+mag_42758	38
+mag_41817	38
+mag_38581	38
+mag_41582	38
+mag_45551	38
+mag_41414	38
+mag_43617	38
+mag_41253	38
+mag_41413	38
+mag_40869	38
+mag_37967	38
+mag_40309	38
+mag_38525	38
+mag_41111	38
+mag_55404	38
+mag_55618	38
+mag_38194	38
+mag_39971	38
+mag_40661	38
+mag_43965	38
+mag_43118	38
+mag_41543	38
+mag_50734	38
+mag_46611	38
+mag_44199	38
+mag_41211	38
+mag_38845	38
+mag_44283	38
+mag_42036	38
+mag_44293	38
+mag_39725	38
+Neocallimastigaceae	38
+mag_46390	38
+mag_44299	38
+mag_45002	38
+mag_37929	38
+mag_42592	38
+mag_44639	38
+mag_40471	38
+mag_38990	38
+mag_42096	38
+mag_42087	38
+mag_42938	38
+mag_46022	38
+mag_41227	38
+mag_41231	38
+mag_39778	38
+mag_41311	38
+mag_49626	38
+mag_41946	38
+mag_45114	38
+mag_49054	38
+mag_38667	38
+mag_42115	38
+Fermentations: Lactate	38
+mag_42194	38
+mag_40815	38
+mag_38702	38
+mag_38711	38
+mag_42287	38
+mag_39430	38
+mag_44139	38
+mag_46743	38
+mag_42311	38
+mag_48140	38
+Sporolactobacillaceae	39
+Trichuridae	39
+Noctuidae	39
+Enterococcaceae	39
+mag_39240	40
+mag_38464	40
+mag_41145	40
+mag_39226	40
+mag_37876	40
+mag_42330	40
+mag_38560	40
+Turicibacteraceae	40
+mag_45387	40
+mag_38319	40
+mag_45273	40
+mag_39059	40
+mag_41374	40
+mag_42063	40
+mag_40139	40
+mag_42752	40
+mag_41707	40
+mag_41245	40
+mag_39928	40
+mag_45657	40
+Spalacidae	41
+mag_38524	41
+mag_296	41
+mag_38497	41
+mag_43809	41
+mag_3902	41
+Betaine lipids in bactera	41
+mag_326	41
+mag_39395	41
+mag_40487	41
+Rubiaceae	41
+mag_37620	41
+Biddulphiaceae	41
+mag_46157	41
+mag_343	41
+mag_44565	41
+mag_44463	41
+Cryptobasidiaceae	41
+mag_40114	41
+Phenol hydroxylase	41
+Ophirinidae	41
+Goodeniaceae	41
+mag_39136	41
+mag_38239	41
+mag_52261	41
+mag_37783	41
+mag_39537	41
+mag_39541	41
+Syngnathidae	41
+Protopteridae	41
+Coelacanthidae	41
+mag_50	41
+Salisaetaceae	41
+mag_37985	41
+Oceanipulchritudinaceae	41
+mag_3421	41
+mag_2958	41
+Chlorosome	41
+Heteromyidae	41
+mag_41633	41
+mag_39092	41
+Halorubellaceae	41
+mag_38543	41
+mag_39076	41
+mag_40469	41
+Ozemobacteraceae	41
+Pyralidae	41
+mag_38753	41
+mag_37723	41
+mag_44285	41
+Panagrolaimidae	41
+mag_7427	41
+Flaviviridae	41
+4-hydroxybenzoyl-CoA reductase	41
+Rhopaluridae	41
+mag_370	41
+Fredfastierviridae	41
+Aiptasiidae	41
+Assiduviridae	41
+mag_1191	41
+mag_45241	41
+mag_37757	41
+mag_5951	41
+Pipridae	41
+mag_38122	41
+mag_37910	41
+mag_39353	41
+mag_363	41
+mag_38736	41
+mag_39330	41
+Phaeocystidibacteraceae	41
+Methanofuran biosynthesis	41
+mag_41984	41
+mag_39555	42
+mag_40091	42
+mag_40318	42
+mag_38147	42
+mag_41114	42
+mag_42198	42
+mag_39814	42
+mag_38189	42
+mag_38255	42
+mag_42616	42
+mag_41165	42
+mag_40978	42
+2-phosphoglycolate salvage	42
+mag_42293	42
+mag_43709	42
+mag_40158	42
+mag_40039	42
+mag_38025	42
+mag_39267	42
+mag_45771	42
+mag_41138	42
+mag_40984	42
+mag_431	42
+mag_41852	42
+HipAB system implicated in growth arrest, persistence and drug tolerance	42
+mag_44472	42
+mag_42284	43
+mag_39084	43
+mag_38557	43
+mag_38855	43
+mag_45802	43
+mag_39554	43
+mag_46618	43
+mag_37913	43
+mag_37726	43
+mag_44422	43
+mag_40591	43
+mag_39284	43
+mag_38290	43
+mag_37850	43
+mag_39724	43
+mag_41246	43
+mag_37890	43
+mag_37896	43
+mag_41075	43
+Mycoplasmoidaceae	43
+mag_37949	43
+mag_43843	43
+mag_43839	43
+mag_42245	43
+mag_41935	43
+mag_45075	43
+mag_40741	43
+mag_43292	43
+mag_39018	43
+mag_470	43
+mag_44811	43
+mag_42799	44
+Sporanaerobacteraceae	44
+mag_43738	44
+mag_44503	44
+mag_44574	44
+mag_40751	44
+mag_43760	44
+mag_42282	44
+mag_40801	44
+mag_43047	44
+mag_38626	44
+mag_42933	44
+mag_43837	44
+mag_39006	44
+mag_49875	44
+mag_44040	44
+Iron acquisition in Streptococcus	44
+mag_43717	44
+mag_51790	44
+mag_45967	44
+mag_50264	44
+mag_40274	44
+mag_39568	44
+mag_58391	44
+mag_45577	44
+mag_40636	44
+mag_42875	44
+mag_61847	44
+mag_40044	44
+mag_45173	44
+Smithellaceae	44
+mag_43536	44
+mag_3031	44
+mag_41355	44
+mag_37914	44
+mag_38466	44
+Toxin-Antitoxin system HigAB	45
+One-carbon metabolism by tetrahydropterines	45
+Hfl operon	45
+Glycerolipid and Glycerophospholipid Metabolism in Bacteria	46
+Type IV pilus	46
+Cyanate hydrolysis	47
+mag_46181	48
+mag_41260	48
+mag_40101	48
+mag_46023	48
+mag_41334	48
+Mycoplasmataceae	48
+Glycogen metabolism	49
+Ribosomal protein S5p acylation	49
+Eresidae	50
+mag_37663	50
+mag_72	50
+Thiohalomonadaceae	50
+Thiohalorhabdaceae	50
+Coniochaetaceae	50
+mag_37636	50
+Pentalenolactone Biosynthesis and Resistance	50
+mag_3264	50
+Massarinaceae	50
+mag_35	51
+mag_3171	51
+mag_5	51
+Aquificaceae	51
+mag_280	51
+mag_39010	51
+mag_325	51
+Zosteraceae	51
+Ajellomycetaceae	51
+mag_39391	51
+Tupaiidae	51
+Leptosomidae	51
+mag_13	51
+Mesitornithidae	51
+mag_3150	51
+Plantaginaceae	51
+Pedaliaceae	51
+Myricaceae	51
+Kalotermitidae	51
+mag_10458	51
+Rallidae	51
+Cobitidae	51
+Zosteropidae	51
+Sulphoglycolysis	51
+mag_42728	51
+Nitratiruptoraceae	51
+mag_623	51
+Epitheliaceae	51
+Neodiplogasteridae	51
+Thraupidae	51
+Psittacidae	51
+Mesostigmataceae	51
+Musaceae	51
+Scotocercidae	51
+Lasso peptide maturation cluster	51
+Multiple Antibiotic Resistance MAR locus	51
+Sporulation proteins SpoVA cluster	51
+Struthionidae	51
+Trogonidae	51
+mag_41194	51
+mag_40807	51
+Maluridae	51
+Zobellviridae	51
+mag_37704	51
+mag_37703	51
+mag_10446	51
+Fringillidae	51
+Bromeliaceae	51
+Corvidae	51
+mag_44420	51
+Stemonaceae	51
+Strigidae	51
+Hydrangeaceae	51
+mag_40646	51
+mag_2907	51
+Methylothermaceae	51
+Podargidae	51
+Thermotomaculaceae	51
+Tenrecidae	51
+Arecaceae	51
+Quorum-sensing related cluster	51
+Fervidicoccaceae	51
+Viperidae	51
+DNA phosphorothioation-dependent restriction system DptFGH	51
+Alligatoridae	51
+Orchidaceae	51
+mag_40652	51
+Crocodylidae	51
+mag_37924	51
+Asteriidae	51
+Drepanopezizaceae	51
+mag_19492	51
+mag_2904	51
+mag_37637	51
+mag_17161	51
+mag_294	51
+Scolopacidae	51
+Hyaenidae	51
+Amborellaceae	51
+Glyceridae	51
+Geothermincolaceae	51
+Ulmaceae	52
+mag_2906	52
+Brocadiaceae	52
+mag_37820	52
+Teiidae	52
+Poaceae	52
+mag_37862	52
+Laetiporaceae	52
+mag_39272	52
+Phasianidae	52
+Dendrobatidae	52
+mag_3028	52
+Linotaeniidae	52
+Thermoplasmataceae	52
+mag_38292	52
+mag_3158	52
+mag_41202	52
+Nymphaeaceae	52
+Anatidae	52
+Passerellidae	52
+Bataceae	52
+Persicobacteraceae	52
+Eimeriidae	52
+Nyssaceae	52
+Carboxysome	52
+Thermochlorobacteriaceae	52
+Celerinatantimonadaceae	52
+Nelumbonaceae	52
+Dacrymycetaceae	52
+mag_37921	52
+Talpidae	52
+Tritrichomonadidae	52
+Orthoherpesviridae	52
+Apterygidae	52
+Respiratory complex I in plants (plastidial) and cyanobacteria	52
+Ceraceosoraceae	52
+Orobanchaceae	52
+Ascarididae	52
+Mycosporine synthesis cluster	52
+mag_28	52
+mag_37955	52
+NADP-reducing [FeFe]-hydrogenase	52
+Acetoin, butanediol metabolism	53
+Pyruvate metabolism II: acetyl-CoA, acetogenesis from pyruvate	53
+Anisakidae	53
+Dehydrogenase complexes	54
+Alsobacteraceae	55
+Rhamnaceae	55
+Powellomycetaceae	55
+Photosystem II	55
+Arionidae	55
+Paracaedibacteraceae	55
+Marasmiaceae	55
+Chthoniobacteraceae	55
+Musophagidae	55
+Pucciniaceae	55
+mag_47111	55
+Bangiaceae	55
+Trichinellidae	55
+Parmeliaceae	55
+Atribacteraceae	55
+Tripartite multidrug efflux systems (of RND type) CmeABC and CmeDEF	55
+Tortricidae	55
+Reticulibacteraceae	55
+Holophagaceae	55
+Desulfurobacteriaceae	55
+Dioscoreaceae	55
+mag_816	55
+Penaeidae	55
+Capsulimonadaceae	55
+Acidobacteriaceae	56
+Mycosphaerellaceae	56
+Pyridoxin(Vitamin B6) Degradation Pathway	56
+Gloeomargaritaceae	56
+Salinibacteraceae	56
+mag_38004	56
+Pteridaceae	56
+Emcibacteraceae	56
+L-Amino acid oxidases: lysine-epsilon oxidase LodA	56
+Desulfonatronaceae	56
+D-altritol utilization	56
+Sox thiosulfate oxidation system	56
+Cannabaceae	56
+Isosphaeraceae	56
+Oligoflexaceae	56
+Thiocyanate hydrolase	56
+Trueperaceae	56
+Syntrophobacteraceae	56
+Manganitrophaceae	56
+Anacardiaceae	56
+Kofleriaceae	56
+Acetomicrobiaceae	56
+Geminicoccaceae	56
+Aurantimonadaceae	56
+Roseobacteraceae	56
+Afifellaceae	56
+Propylenellaceae	56
+Pseudoxanthobacteraceae	56
+Numididae	56
+RuBisCO operon	56
+Rhodovibrionaceae	56
+Oleaceae	56
+Roseiarcaceae	56
+Stappiaceae	56
+Tepidamorphaceae	56
+Sneathiellaceae	56
+Hyphomonadaceae	56
+Rhodothalassiaceae	56
+Kordiimonadaceae	56
+Magnetococcaceae	56
+Parvularculaceae	56
+Zavarziniaceae	56
+Acetobacteraceae	56
+Thalassobaculaceae	56
+Ethylmalonyl-CoA pathway of C2 assimilation	56
+Kiloniellaceae	56
+Stellaceae	56
+Rhodospirillaceae	56
+Magnetovibrionaceae	56
+Phage shock protein operon	56
+Phyllobacteriaceae	56
+Salinisphaeraceae	56
+Timaliidae	56
+Amorphaceae	56
+Ancalomicrobiaceae	56
+Plasmid replication	56
+mag_69	56
+Gallaecimonadaceae	56
+Blastochloridaceae	56
+Granulosicoccaceae	56
+Boseaceae	56
+Breoghaniaceae	56
+Phreatobacteraceae	56
+Tephritidae	56
+Cohaesibacteraceae	56
+Oceanibaculaceae	56
+Lichenibacteriaceae	56
+Methylobacteriaceae	56
+Notoacmeibacteraceae	56
+Kaistiaceae	56
+Ectoine, hydroxyectoine uptake and catabolism	56
+mag_6372	57
+mag_37798	57
+Segniliparaceae	57
+mag_315	57
+Marchantiaceae	57
+mag_38342	57
+Salmonidae	58
+mag_38250	58
+Lentibulariaceae	58
+Theaceae	58
+mag_38329	58
+Araceae	58
+Cucurbitaceae	58
+Dietziaceae	58
+mag_37624	58
+Miridae	58
+mag_37787	58
+Polystomatidae	58
+Pyruvate Alanine Serine Interconversions	58
+mag_37853	58
+Anarhichadidae	58
+Adaptation to d-cysteine	58
+Fonticulaceae	58
+Dermacoccaceae	58
+Sox sulfur oxidation genes	58
+Chelydridae	58
+Coenzyme B synthesis	58
+mag_38137	59
+Thermosynechococcaceae	59
+mag_3230	59
+Comchoanobacteraceae	59
+mag_38789	59
+Turdidae	59
+Monodontidae	59
+Deferrivibrionaceae	59
+Coenzyme F420-H2 dehydrogenase (methanophenazine)	59
+mag_37822	59
+Callipallenidae	59
+Rhodellaceae	59
+mag_37746	59
+Megachilidae	59
+mag_41187	59
+mag_4665	59
+mag_37941	59
+mag_2936	59
+mag_39839	59
+Phaeotrichaceae	59
+Polyomaviridae	59
+Pseudococcidae	59
+mag_33193	59
+mag_37623	59
+mag_14144	59
+Trochilidae	59
+Halimedaceae	59
+mag_62	59
+Pteroclidae	59
+Rivulidae	59
+Polarisedimenticolaceae	59
+mag_39565	59
+mag_40554	59
+mag_38068	59
+mag_56	59
+Cuniculitremaceae	59
+Haloferuviridae	59
+Characidae	59
+Mangrovivirgaceae	59
+Labridae	59
+Cyprinodontidae	59
+mag_124	59
+Sphaerobacteraceae	60
+Acetolactate synthase subunits	60
+mag_42350	60
+mag_37665	61
+Crypthecodiniaceae	61
+Pyronemataceae	61
+mag_2926	61
+Chlorogloeopsidaceae	61
+mag_83	61
+Lyophyllaceae	61
+Euplectellidae	61
+Suolaviridae	61
+Nyctotheridae	61
+Tenuifilaceae	61
+mag_37963	61
+Syncephalastraceae	61
+Vancomycin resistance, D-Ala-D-Ser, D-Ala-Lac ligases	61
+DNA Helicase of Unknown Function	61
+Paridae	61
+Rhinatrematidae	61
+mag_38062	61
+Sodium-transporting ATPase	61
+mag_38727	61
+Scatophagidae	61
+Apocynaceae	61
+mag_37745	61
+Sturnidae	61
+Naviculaceae	61
+mag_37854	61
+Diprionidae	61
+Limulidae	61
+Dehalococcoidaceae	61
+Narnaviridae	61
+Capillimicrobiaceae	61
+Motilibacteraceae	61
+Ostreobiaceae	61
+Tyrannidae	61
+Cambaridae	61
+mag_437	61
+DNA recombination, archaeal	61
+mag_39302	61
+Diphyllobothriidae	62
+Haloplasmataceae	62
+Convolvulaceae	62
+Elusimicrobiaceae	62
+Ilumatobacteraceae	62
+Zooshikellaceae	62
+Philodinidae	62
+Anaerohalosphaeraceae	62
+Bacillus cannibalism system	62
+Muridae	62
+DevBCA efflux pump transporter (of ABC type) cyanobacterial	62
+Magnetomoraceae	62
+Thermodesulfatatoraceae	62
+mag_44950	62
+Halothermotrichaceae	62
+Halobacteroidaceae	62
+mag_40097	62
+Ericaceae	62
+Desulfolunaceae	62
+Ferrimonadaceae	62
+Aequoreidae	62
+Thermodesulfovibrionaceae	62
+Celastraceae	62
+Hymenochaetaceae	62
+Nautiliaceae	62
+Tetracycline resistance, all mechanisms	62
+Saprolegniaceae	63
+Thermincolaceae	63
+mag_40925	63
+mag_41947	63
+Albulidae	63
+mag_41952	63
+mag_42385	63
+mag_39355	63
+mag_38502	63
+mag_40069	63
+mag_39629	63
+Cyanophoraceae	63
+mag_40052	63
+mag_43435	63
+Xylanivirgaceae	63
+mag_39434	63
+mag_85	63
+mag_40942	63
+mag_42260	63
+mag_37887	63
+mag_38948	63
+mag_57687	63
+mag_39402	63
+mag_38463	63
+mag_38113	63
+mag_40118	63
+mag_38460	63
+mag_41556	63
+mag_38909	63
+mag_39908	63
+mag_38770	63
+mag_43480	63
+Haliotidae	63
+mag_42228	63
+mag_307	63
+mag_41218	63
+mag_38208	63
+mag_38020	63
+mag_45983	63
+mag_38601	63
+mag_45483	63
+Corynebacteriaceae	63
+mag_38195	63
+mag_38243	63
+Cyprididae	63
+mag_38193	63
+Moduliflexaceae	63
+mag_41665	63
+mag_44813	63
+mag_46035	63
+Coleofasciculaceae	63
+mag_44787	63
+Abyssicoccaceae	63
+mag_42749	63
+mag_40605	63
+mag_38080	63
+mag_41249	63
+mag_38547	63
+mag_42662	63
+mag_43176	63
+Corethraceae	63
+mag_38073	63
+mag_40593	63
+mag_39579	63
+mag_39721	63
+mag_40712	63
+mag_38416	63
+mag_37932	63
+Caldisericaceae	63
+mag_40460	63
+mag_3032	63
+mag_38051	63
+mag_37993	63
+mag_38874	63
+mag_40412	63
+mag_39848	63
+mag_38737	63
+mag_38369	63
+mag_426	63
+mag_38857	63
+mag_37708	63
+mag_45288	63
+Cyanothecaceae	64
+Desulfovibrio high-molecular-weight cytochrome cluster	64
+Aliterellaceae	64
+Baekduiaceae	64
+mag_34	64
+mag_42658	64
+Ginkgoaceae	64
+Comatulidae	64
+Taphrinaceae	64
+Balsaminaceae	64
+mag_38414	64
+Phaeolaceae	64
+Hydrogenedentaceae	64
+Adinetidae	64
+Psathyrellaceae	64
+Culicosporidae	64
+Rhabdochlamydiaceae	64
+Fagaceae	64
+Juglandaceae	64
+Cucurbitariaceae	64
+Sporulation Cluster III A	64
+mag_37630	64
+Fomitopsidaceae	64
+Chromeraceae	64
+Amniculicolaceae	64
+Pleurotaceae	64
+Chlorophyll Degradation	64
+Haladaptataceae	64
+Actinopolysporaceae	64
+Araliaceae	64
+Prenylated indole derivatives in actinomycetes	64
+Serpulaceae	64
+Selenastraceae	64
+Rhinolophidae	64
+Meruliaceae	64
+Demerecviridae	64
+Promineifilaceae	64
+mag_47	64
+Luteibaculaceae	64
+mag_14852	64
+mag_37720	64
+Lujinxingiaceae	64
+mag_545	64
+Bovidae	64
+Lymnaeidae	64
+Punctulariaceae	64
+Geminocystaceae	64
+Meloidogynidae	64
+Lawsonellaceae	64
+Cactaceae	64
+Trochodendraceae	64
+Allomimiviridae	64
+Desulfohalobiaceae	64
+Hydrogen-sensing hydrogenase system	64
+Polygonaceae	64
+ABC transporter tungstate (TC 3.A.1.6.2)	64
+mag_2930	64
+Encyrtidae	64
+Atheliaceae	64
+mag_37835	64
+Cervidae	64
+Chroococcaceae	64
+Cleomaceae	64
+Chitobiose	64
+Boletaceae	64
+Asparagaceae	64
+Hymenogastraceae	64
+Cephalotaceae	64
+mag_285	64
+Postiaceae	64
+Galeropsidaceae	64
+Clariidae	64
+Dimargaritaceae	64
+Osteoglossidae	64
+Moraceae	64
+Prochlorotrichaceae	64
+Gregarinidae	64
+Leucosporidiaceae	64
+G-protein-coupled receptor (GPCR) system in Actinobacteria	64
+Mannosylglucosylglycerate synthesis	64
+Rosaceae	64
+Sparassidaceae	64
+Bondarzewiaceae	64
+Bolbitiaceae	64
+Hapalosiphonaceae	64
+Salinarimonadaceae	64
+mag_11	64
+Devosiaceae	64
+Polyporaceae	64
+Psychidae	64
+Mycenaceae	64
+Estrildidae	64
+Phanerochaetaceae	64
+Nodosilineaceae	64
+Hirundinidae	64
+Pinaceae	64
+Tricholomataceae	64
+Pisolithaceae	64
+Sporulation proteins SpoIIIAA-SpoIIIAH	64
+Coniophoraceae	64
+RNA polymerase, archaeal	64
+Physalacriaceae	64
+Caulimoviridae	64
+Anguillidae	64
+Armadillidiidae	65
+Chromulinivoraceae	65
+Gelatoporiaceae	65
+Cyperaceae	65
+mag_37718	65
+Hydrocharitaceae	65
+Caulerpaceae	65
+mag_3121	65
+Volvocaceae	65
+Cladosporiaceae	65
+Mycobacteriaceae	65
+mag_38007	65
+mag_15904	65
+mag_38876	65
+mag_3024	65
+Desulfuromonadaceae	65
+mag_37909	65
+Dasyatidae	65
+Acanthamoebidae	65
+mag_42099	65
+Schizoparmaceae	65
+Adenoviridae	65
+Deferrisomataceae	65
+Lacipirellulaceae	65
+Litorivicinaceae	65
+Clavichlamydiaceae	65
+Bartonellaceae	65
+Casimicrobiaceae	65
+Coenobitidae	65
+Umbelopsidaceae	65
+mag_38838	65
+Dixoniellaceae	65
+Taeniidae	65
+mag_27	65
+Tachyglossidae	65
+Verrucomicrobia subdivision 6	65
+Usitatibacteraceae	65
+Noctilucaceae	65
+Amphiacanthidae	65
+mag_38008	65
+mag_38030	65
+Ichneumonidae	65
+Stratiomyidae	65
+mag_46075	65
+Elephantidae	65
+mag_37780	65
+Raineyaceae	65
+mag_41105	65
+Lauraceae	65
+mag_104	65
+Nitrosopumilaceae	65
+Phaeocystaceae	65
+mag_38052	65
+mag_45001	65
+Fervidobacteriaceae	65
+Physeteridae	66
+Esocidae	66
+mag_37823	66
+mag_38528	66
+mag_41235	66
+Methanofastidiosaceae	66
+mag_3041	66
+mag_54	66
+Gongylonematidae	66
+Streptolysin S	66
+Aminobacteriaceae	66
+Dugesiidae	66
+mag_38061	66
+mag_37634	66
+mag_38300	66
+Pleuronectidae	66
+Prometheoarchaeaceae	66
+Trombidiidae	66
+mag_2949	66
+mag_128	66
+mag_281	66
+mag_38029	66
+mag_37786	66
+Geoemydidae	66
+Trombiculidae	66
+mag_3214	66
+Danionidae	66
+mag_3046	66
+mag_38294	66
+Polyascidae	66
+mag_41019	66
+mag_41704	66
+mag_2910	66
+mag_38605	66
+Passeridae	66
+mag_38984	66
+Urticaceae	66
+mag_1140	66
+mag_38910	66
+mag_356	66
+Halomagnusviridae	66
+mag_38627	66
+mag_37702	66
+mag_4916	66
+mag_38191	66
+mag_37875	66
+Verbenaceae	66
+mag_39637	66
+mag_38602	66
+Stephanosporaceae	66
+Azoamicaceae	66
+Chaseviridae	66
+Oocystaceae	66
+mag_41204	66
+Tepidiformaceae	66
+mag_38738	66
+mag_38832	66
+mag_2912	66
+mag_41908	66
+Auribacteraceae	66
+mag_37727	66
+mag_38758	66
+Laspinemataceae	66
+Petrachlorosaceae	66
+mag_38206	66
+mag_38588	66
+mag_38494	67
+Felidae	67
+mag_41107	67
+mag_3216	67
+Nephropidae	67
+mag_38330	67
+mag_48436	67
+mag_39872	67
+mag_41400	67
+mag_42680	67
+mag_42016	67
+Bodonidae	67
+Resistance to Vancomycin and Teicoplanin	67
+mag_38745	67
+mag_38183	67
+Thiohalospiraceae	67
+mag_39016	67
+mag_44979	67
+mag_38199	67
+mag_323	67
+mag_37642	67
+ESAT-6 proteins secretion system in Mycobacteria (locus ESX-1)	68
+ESAT-6 proteins secretion system in Firmicutes and Actinobacteria	68
+ESAT-6 protein secretion system in Mycobacteria (locus ESX-5)	68
+YoeB-YefM toxin-antitoxin system	68
+Cyclonatronaceae	69
+Toxin-antitoxin replicon stabilization systems	69
+mag_84	69
+Mesoaciditogaceae	69
+Bignoniaceae	69
+Odontellaceae	69
+mag_95	69
+Methanoperedenaceae	69
+Nitrososphaeraceae	69
+Mugilidae	70
+mag_295	70
+Fiersviridae	70
+mag_39891	70
+mag_39419	70
+mag_38437	70
+mag_2923	70
+mag_42760	70
+Desulfurisporaceae	70
+mag_37692	70
+mag_38658	70
+mag_87	70
+mag_38718	70
+Gelechiidae	70
+Xenococcaceae	70
+mag_3043	70
+Paulinellidae	70
+mag_40621	70
+Lophiostomataceae	70
+mag_38685	70
+mag_38837	70
+mag_249	70
+mag_3049	70
+Phycomycetaceae	70
+mag_38405	70
+mag_38613	70
+Majidae	70
+O-methyl phosphoramidate modification in capsular polysaccharide	70
+Gloniaceae	70
+mag_183	70
+Hyaluronate utilization	71
+mag_43412	71
+mag_38776	71
+Mrakiaceae	71
+mag_38232	71
+Xenocyprididae	71
+Cavosteliaceae	71
+mag_42160	71
+Arginine decarboxylase and Agmatinase cluster	71
+Nanosyncoccacae	71
+mag_43033	71
+Aphanizomenonaceae	71
+mag_43533	71
+mag_41785	71
+Blastocladiaceae	71
+mag_40207	72
+Helicobacteraceae	72
+mag_43105	72
+mag_42440	72
+mag_38475	72
+mag_46328	72
+mag_39764	72
+Acholeplasmataceae	72
+mag_40098	72
+mag_38320	72
+Nanogingivalaceae	72
+mag_37870	72
+Nanosynbacteraceae	72
+mag_46052	72
+mag_517	72
+Clostridiaceae	72
+mag_41689	72
+mag_38105	72
+Coccolithaceae	72
+mag_11411	72
+mag_38100	72
+mag_38664	72
+mag_38518	72
+mag_42104	72
+mag_38102	73
+mag_37883	73
+mag_41431	73
+mag_38643	73
+mag_40333	73
+mag_43630	73
+mag_37989	73
+mag_38248	73
+mag_40344	73
+mag_37808	73
+mag_39921	73
+mag_45979	73
+Neisseriaceae	73
+mag_37790	73
+mag_3033	73
+mag_39365	73
+mag_37898	73
+mag_42638	73
+mag_38561	73
+mag_38593	73
+mag_37940	73
+mag_2983	73
+mag_41587	73
+mag_38227	73
+mag_37923	73
+mag_37799	73
+mag_38018	73
+mag_6163	73
+mag_37695	73
+mag_37621	73
+mag_41216	73
+mag_38931	73
+mag_38504	73
+mag_40822	73
+mag_37879	73
+mag_45108	73
+Inoviridae	73
+mag_40738	73
+mag_44399	73
+DNA sulfur modification cluster	73
+mag_39806	73
+mag_38458	73
+mag_38314	73
+mag_39307	73
+mag_37739	73
+Yeguiaceae	73
+mag_40645	73
+mag_41042	73
+Didymellaceae	74
+mag_41523	74
+mag_92	74
+Orbaceae	74
+Colletidae	74
+Callorhinchidae	74
+Desulfovibrionaceae	74
+Thermoanaerobacteraceae	74
+Moritellaceae	74
+Saprospiraceae	74
+Dictyobacteraceae	74
+Metamycoplasmataceae	74
+Sumerlaeaceae	75
+mag_40456	75
+Microcoleaceae	75
+mag_165	75
+Thermoflexaceae	75
+mag_3054	75
+Termititenacaceae	75
+mag_39103	75
+mag_42624	75
+Lineolataceae	75
+Poxviridae	75
+Sphingidae	75
+Absconditicoccaceae	75
+Thermoanaerobaculaceae	75
+Prasinococcaceae	75
+mag_3050	75
+Lycaenidae	75
+Cionidae	75
+Halothecacae	75
+mag_52	75
+mag_1390	75
+mag_351	75
+mag_37700	75
+mag_39427	75
+mag_37800	75
+mag_4491	75
+mag_38844	75
+Araneidae	75
+Anabantidae	75
+mag_37796	75
+mag_38091	75
+Micrarchaeaceae	75
+Phrymaceae	75
+mag_17	75
+Thalassarchaeaceae	75
+mag_39614	75
+Cryptomonadaceae	75
+mag_4283	75
+mag_26	75
+Steigviridae	75
+Elaphomycetaceae	75
+mag_10010	75
+mag_37865	75
+Thermostichaceae	75
+Gadidae	75
+Mesyanzhinovviridae	75
+mag_37713	75
+mag_1050	75
+Bracteacoccaceae	75
+mag_38148	75
+Vulgatibacteraceae	75
+Surirellaceae	75
+Caldicoprobacteraceae	75
+mag_37894	75
+Blenniidae	75
+mag_38299	75
+mag_39195	75
+mag_40040	75
+mag_37849	75
+Puniceispirillaceae	75
+mag_38159	76
+Myxinidae	76
+mag_37874	76
+mag_37927	76
+Grammatophoraceae	76
+Veneridae	76
+Chinchillidae	76
+Rickenellaceae	76
+Magnaporthaceae	76
+mag_38015	76
+Otididae	76
+mag_37970	76
+Tubulinosematidae	76
+Ramphastidae	76
+Corynesporascaceae	76
+Shiraiaceae	76
+Megalonychidae	76
+Cynocephalidae	76
+Toxopneustidae	76
+mag_43066	76
+mag_38835	76
+Haemonchidae	76
+mag_41720	76
+mag_39039	76
+mag_40692	76
+Basidiobolaceae	76
+Gymnodiniaceae	76
+mag_4144	76
+mag_42	76
+mag_37758	76
+mag_273	76
+Prochlorococcaceae	76
+mag_46	76
+mag_37763	76
+mag_39117	76
+mag_37647	76
+Tymoviridae	76
+Methanopyraceae	76
+mag_39209	76
+mag_37625	76
+mag_39658	76
+mag_10766	76
+mag_37779	76
+mag_39600	76
+mag_318	76
+mag_39506	76
+mag_39501	76
+Arenicellaceae	76
+mag_41593	76
+mag_19752	76
+Sulfhydrogenase	76
+mag_289	76
+mag_73	76
+mag_38800	76
+mag_38546	76
+SpoVS protein family	76
+Peduoviridae	76
+mag_3098	76
+Coccinellidae	76
+mag_37682	76
+mag_42257	76
+Coronaviridae	76
+Hypoviridae	76
+mag_38436	76
+mag_38444	76
+mag_40707	76
+Silphidae	76
+mag_38370	76
+mag_3155	76
+Amoebophilaceae	76
+mag_41394	76
+mag_37818	76
+mag_37824	76
+mag_3040	76
+mag_39212	77
+mag_13842	77
+mag_42872	77
+mag_136	77
+Selenomonadaceae	77
+Parvicellaceae	77
+Cephidae	77
+mag_44577	77
+mag_39196	77
+Kiritimatiellaceae	77
+Izemoplasmataceae	77
+mag_37725	77
+mag_39085	77
+mag_39068	77
+Rubritaleaceae	77
+Sclerodermataceae	77
+Chloroflexaceae	77
+mag_39329	78
+Bacillariaceae	78
+mag_37697	78
+Calderihabitantaceae	78
+Mastigamoebidae	78
+mag_38093	78
+mag_37781	78
+Nanoperiomorbaceae	78
+Gottschalkiaceae	78
+Pseudomassariaceae	78
+mag_37866	78
+mag_37733	78
+Druskaviridae	78
+mag_28155	78
+mag_39361	78
+Clupeidae	78
+mag_35375	78
+mag_37738	78
+mag_38816	78
+Endomicrobiaceae	78
+mag_37653	78
+mag_43006	78
+Methanonatronarchaeaceae	78
+Methanococcaceae	78
+mag_38854	78
+mag_37900	78
+Methanollivieraceae	78
+mag_37889	78
+mag_37740	78
+Ferroplasmaceae	78
+Ichthyobodonidae	78
+Icacinaceae	78
+Papillomaviridae	78
+mag_39230	78
+mag_39268	78
+mag_42984	78
+Catenulaceae	78
+Sagittidae	78
+mag_42126	78
+Thermotaleaceae	78
+mag_6420	78
+mag_595	78
+Patellidae	78
+Geoalkalibacteraceae	78
+mag_6248	78
+mag_5888	78
+mag_1255	78
+ESAT-6 proteins secretion system in Mycobacteria (locus ESX-3)	78
+mag_1965	78
+Gracilariaceae	78
+mag_37797	78
+Galdieriaceae	78
+mag_38457	78
+Desulfosudaceae	78
+Gigasporaceae	78
+mag_38413	78
+mag_3027	78
+mag_37839	78
+mag_37959	78
+Halictidae	78
+mag_3053	78
+Nymphalidae	78
+Trichostrongylidae	78
+mag_38355	78
+mag_42429	78
+mag_37826	78
+Balanidae	78
+mag_3074	78
+mag_37943	78
+Desulfosalsimonadaceae	78
+Natranaerobiaceae	78
+mag_39694	78
+mag_18239	78
+mag_39641	78
+Tetraodontidae	78
+mag_40844	78
+Mycofactocin system cluster	78
+mag_37859	78
+Treponemataceae	78
+Membrane bound hydrogenase Mbh -- gjo	78
+mag_39627	78
+Membrane bound hydrogenase Mbh	78
+Crenotrichaceae	78
+mag_38009	78
+mag_327	78
+mag_19765	78
+mag_21212	78
+Outer membrane porins in Mycobacteria	78
+Rubricoccaceae	78
+Bacteriocin resistance related cluster	79
+mag_109	79
+Elapidae	79
+mag_43166	79
+Sulfur transport related cluster	79
+Inner membrane proteins of MarC family, not involved in antibiotic resistance	79
+Trypanosomatidae	79
+Sulfurtransferase and Ssec cluster	79
+Pyrinomonadaceae	79
+Stichopodidae	80
+Macrostomidae	80
+Vitrellaceae	80
+Suidae	80
+Saccharospirillaceae	81
+Perlucidibacaceae	81
+Crambidae	81
+Formicidae	81
+Porticoccaceae	81
+Pseudohongiellaceae	81
+Balneatrichaceae	81
+Dongiaceae	81
+Desulfomicrobiaceae	81
+Azospirillaceae	81
+Terasakiellaceae	81
+Micropepsaceae	81
+Symbiodiniaceae	81
+GlrKR two-component regulatory system	81
+Siderophore Mycobactin	81
+mag_37916	82
+mag_400	82
+mag_6634	82
+mag_37631	82
+mag_40275	82
+Jatrophihabitantaceae	82
+mag_49	82
+mag_48	82
+Camelidae	82
+mag_39889	82
+Cheirogaleidae	82
+mag_37656	82
+mag_37891	82
+mag_39054	82
+mag_101	82
+mag_331	82
+mag_2989	82
+mag_39751	82
+mag_3317	82
+mag_40008	82
+Cholesterol catabolism	82
+mag_970	82
+mag_38098	82
+mag_38655	82
+Geomitridae	82
+mag_38238	82
+Strophariaceae	82
+mag_38769	82
+mag_38281	82
+Chrysiogenaceae	82
+Desulfofervidaceae	82
+mag_37806	82
+Parodontellaceae	82
+Desulfobulbaceae	82
+Echinostomatidae	82
+mag_38391	82
+mag_43684	82
+Ixodidae	82
+Leeiaceae	82
+mag_38237	82
+Fastidiosibacteraceae	82
+Plutellidae	82
+mag_37815	82
+mag_37709	82
+Thiobacillaceae	82
+mag_37855	82
+Reticulomyxidae	82
+Hafniaceae	83
+mag_5063	83
+Bradymonadaceae	83
+mag_60	83
+Desulfosarcinaceae	83
+Methanoregulaceae	83
+Cheloniidae	83
+mag_135	83
+Wenzhouxiangellaceae	83
+mag_40890	83
+Salpingoecidae	83
+mag_37776	83
+mag_2924	83
+mag_237	83
+mag_3307	83
+mag_6356	83
+Sedimenticolaceae	83
+Spraguidae	83
+mag_998	83
+mag_38280	83
+mag_2960	83
+Microdochiaceae	83
+mag_304	83
+mag_38234	83
+Klebsormidiaceae	83
+Lingulidae	83
+mag_303	83
+Phosphonoalanine utilization	83
+Phosphonate (phosphite) dehydrogenase	83
+Predicted secretion system X	83
+Salinicoccaceae	83
+mag_40684	83
+Photosystem I	83
+Sirenicapillariaceae	83
+mag_41140	83
+Pectinidae	83
+mag_40047	83
+Bernardetiaceae	83
+Solanaceae	83
+Priapulidae	83
+mag_16	83
+mag_41786	84
+Borreliaceae	84
+mag_42095	84
+mag_45595	84
+mag_41129	84
+mag_38592	84
+mag_42078	84
+mag_43114	84
+mag_43719	84
+mag_45741	84
+mag_46579	84
+mag_39750	84
+mag_43801	84
+mag_40529	84
+mag_38630	84
+mag_45667	84
+Listeria surface proteins: Internalin-like proteins	84
+mag_46396	84
+mag_38040	84
+mag_45677	84
+mag_42812	84
+mag_37926	84
+mag_39379	84
+mag_46707	84
+mag_40854	84
+mag_37951	84
+mag_42628	84
+mag_40653	84
+mag_47902	84
+mag_54866	84
+mag_39082	84
+mag_44142	84
+mag_39025	84
+mag_41779	84
+mag_40297	84
+mag_41524	84
+Gemellaceae	84
+mag_41357	84
+mag_38384	84
+mag_40172	84
+mag_38972	84
+mag_40733	84
+mag_44298	84
+mag_37712	84
+mag_44311	84
+mag_44584	84
+mag_40736	84
+mag_38333	84
+mag_44939	84
+mag_43961	84
+mag_37975	84
+mag_42209	84
+mag_37789	84
+mag_45329	84
+Sulfuricellaceae	84
+mag_40373	84
+mag_46051	84
+mag_40583	84
+mag_40359	84
+mag_41867	84
+mag_37986	84
+mag_40939	84
+mag_38069	84
+mag_37928	84
+mag_39193	84
+mag_39996	84
+mag_43410	84
+mag_43007	84
+mag_43887	84
+mag_5011	85
+mag_3239	85
+mag_7626	85
+Hydrogenophilaceae	85
+mag_40906	85
+mag_3202	85
+Glycerol utilization cluster	85
+Syntrophotaleaceae	85
+mag_46246	85
+Schistosomatidae	85
+mag_3256	85
+mag_366	85
+mag_40073	85
+mag_42505	85
+mag_43301	85
+mag_37707	85
+mag_36235	85
+mag_43726	85
+mag_162	85
+Euphorbiaceae	85
+mag_277	85
+mag_25344	85
+Oxytrichidae	85
+mag_39442	85
+Aerosakkonemataceae	85
+mag_36	85
+mag_41444	85
+Polyunsaturated Fatty Acids synthesis	85
+mag_19133	85
+mag_317	85
+Accipitridae	85
+mag_38892	85
+mag_40501	85
+Phd-Doc, YdcE-YdcD toxin-antitoxin (programmed cell death) systems	86
+MukBEF Chromosome Condensation	86
+Lambdoid phage	86
+Periplasmic disulfide interchange	86
+Methionine Salvage	86
+2-aminophenol Metabolism	86
+mag_45924	86
+mag_2905	87
+Comamonadaceae	87
+mRNA 3-end processing factor containing cluster	87
+Cyclic Di-GMP Turnover Proteins	87
+Paracoccaceae	87
+mag_2914	87
+Aquaspirillaceae	87
+Nitrobacteraceae	87
+Hyphomicrobiaceae	87
+Anaeromyxobacteraceae	87
+mag_20	87
+Tripartite multidrug efflux systems (of RND type) AcrAB-TolC and related transporters	87
+mag_37677	87
+mag_41857	87
+Botryosphaeriaceae	87
+Lampyridae	87
+mag_37679	87
+mag_37678	87
+Rhodocyclaceae	87
+Endozoicomonadaceae	87
+Alteromonadaceae	87
+Kangiellaceae	87
+mag_38031	87
+L-rhamnonate utilization cluster	87
+Proteorhodopsin	87
+Siderophore Aerobactin	87
+mag_275	87
+mag_274	87
+mag_46288	87
+Molybdopterin cytosine dinucleotide	87
+Aeromonadaceae	87
+Rhodanobacteraceae	87
+Chromatiaceae	87
+Oceanospirillaceae	87
+Mu-like phage	87
+Cercopithecidae	88
+Brucellaceae	88
+Methylophilaceae	88
+Moraxellaceae	88
+Haloarculaceae	88
+Myxococcaceae	88
+Cebidae	88
+mag_3076	88
+Methylococcaceae	89
+ABC transporter YeiABEF	89
+Solirubrobacteraceae	89
+Phenylacetyl-CoA catabolic pathway (core)	89
+Delphacidae	89
+Nitrospiraceae	89
+Chloramphenicol resistance	89
+Cellvibrionaceae	89
+Chattonellaceae	89
+Halieaceae	89
+Ectothiorhodospiraceae	89
+Halothiobacillaceae	89
+Chitinibacteraceae	89
+tRNA splicing	89
+Sphaerotilaceae	89
+D-threonate, L-threonate and D-erythronate utilization	89
+Burkholderiaceae	89
+Xanthobacteraceae	89
+Morganellaceae	89
+Papaveraceae	90
+Tectiviridae	90
+Autographiviridae	90
+mag_37737	90
+Casjensviridae	90
+Chenopodiaceae	90
+mag_41980	90
+Schitoviridae	90
+mag_286	90
+mag_2029	90
+mag_3232	90
+Zingiberaceae	90
+mag_37701	90
+Brassicaceae	90
+Rhodothermaceae	90
+Psychromonadaceae	90
+Weeksellaceae	90
+Sphingobacteriaceae	90
+Mixiaceae	90
+Sugar-phosphate stress regulation	90
+Spore germination	90
+Cytherideidae	90
+Trimorphomycetaceae	90
+Balneolaceae	90
+Bacteriovoracaceae	90
+Malasseziaceae	90
+Siderophore Achromobactin	90
+Shikimate kinase SK3 cluster	90
+Sulfurimonadaceae	90
+Caldilineaceae	90
+Ktedonobacteraceae	90
+Trebouxiaceae	90
+Phospholipid and Fatty acid biosynthesis related cluster	90
+Leptolyngbyaceae	90
+Osmotic stress cluster	90
+Psychodidae	90
+Pseudobdellovibrionaceae	90
+Piedraiaceae	90
+Saccotheciaceae	90
+Teratosphaeriaceae	90
+Solibacteraceae	90
+Natrialbaceae	90
+Xylariaceae	90
+Thyridiaceae	90
+Haloferacaceae	90
+Microthrixaceae	90
+Geodermatophilaceae	90
+Halobacteriaceae	90
+Rubrobacteraceae	90
+Thermoleophilaceae	90
+Erysiphaceae	90
+Type 4 secretion and conjugative transfer	90
+Halanaerobiaceae	90
+Trimethylamine-N-oxide operon	90
+Sporomusaceae	90
+Aspergillaceae	90
+Herpotrichiellaceae	90
+Pleosporaceae	90
+Chitinophagaceae	90
+Hymenobacteraceae	90
+Crocinitomicaceae	90
+Calotrichaceae	90
+Glossinidae	90
+Sulfolobaceae	90
+mag_38453	90
+Curculionidae	90
+D-allose utilzation	90
+Desulfocapsaceae	90
+Cytochrome b6-f complex in plants (plastidial) and cyanobacteria	90
+Novispirillaceae	90
+Desulfobacteraceae	90
+Sphingomonadaceae	90
+Sphingosinicellaceae	90
+Oxalobacteraceae	90
+Sutterellaceae	90
+Gallionellaceae	90
+Carotenogenesis related cluster	90
+Biofilm Adhesin Biosynthesis	90
+Phocidae	90
+Competibacteraceae	90
+Nevskiaceae	90
+mag_38631	90
+mag_38649	90
+Idiomarinaceae	90
+AaeAB efflux system for hydroxylated, aromatic carboxylic acids	90
+Shewanellaceae	90
+Geobacteraceae	90
+Gene Transfer Agent	90
+Iodidimonadaceae	90
+Caulobacteraceae	90
+Gemmataceae	90
+Pirellulaceae	90
+Caligidae	90
+Parvibaculaceae	90
+Acidithiobacillaceae	90
+Plasmodiidae	90
+Thermaceae	90
+Oppiidae	90
+mag_38732	90
+mag_46699	90
+Chromulinaceae	90
+Flexistipitaceae	90
+Hexose phosphate transport system	90
+Chelatococcaceae	90
+mag_39815	90
+Hemiselmidaceae	90
+Cordycipitaceae	91
+Sciaridae	91
+Darwinulidae	91
+Piscirickettsiaceae	91
+Azonexaceae	91
+Iridoviridae	91
+Alcaligenaceae	91
+Beijerinckiaceae	91
+Elioraeaceae	91
+Labilitrichaceae	91
+Fortieaceae	91
+mag_2	91
+Conjugative transfer	91
+Tetrathionate respiration	91
+Rcs two-component regulator of capsule synthesis	91
+Integrons	91
+Methylhydantoinase	91
+Tricarballylate Utilization	91
+Indoleacetamide metabolism	91
+Nicotinic acid utilization	91
+Vir-like type 4 secretion system	91
+Nitrilase	91
+Oxygen-sensing diguanylate cyclase and phosphodiesterase couple for c-di-GMP control	91
+Indole-pyruvate oxidoreductase complex	91
+A new toxin - antitoxin system	91
+Carbon monoxide induced hydrogenase	91
+Agrobacterium opine transport	91
+Aromatic amino acid interconversions with aryl acids	91
+Resistance to chromium compounds	91
+Thermoproteaceae	92
+Braconidae	92
+Isoniazid inductible proteins cluster	92
+Archangiaceae	92
+Sapindaceae	92
+L-galactonate utilization	92
+Prasinodermaceae	92
+Spirulinaceae	92
+Piptocephalidaceae	92
+Pseudanabaenaceae	92
+Oscillatoriaceae	92
+Scytonemataceae	92
+Nostocaceae	92
+Mycobacterial multidrug efflux systems implicated in AMR 	92
+Neosynechococcaceae	92
+Anelloviridae	92
+Peptide ABC transport system Sap	92
+Togniniaceae	92
+Proteaceae	92
+Thermithiobacillaceae	92
+Betulaceae	92
+Budviciaceae	92
+Vespertilionidae	92
+Hahellaceae	92
+Sterolibacteriaceae	92
+Castoridae	92
+Ferrovaceae	92
+Chlorophyll Biosynthesis in plants and prokaryotes	92
+Mariprofundaceae	92
+Gekkonidae	92
+Coenzyme F420 synthesis	92
+Ranunculaceae	92
+Copper uptake system CopCD	92
+Hemiscylliidae	92
+Apiaceae	92
+D-glucosaminate utilization	92
+Procellariidae	92
+Rhizobiaceae	92
+Pleomorphomonadaceae	92
+Kosmotogaceae	92
+Myrtaceae	92
+Lichenihabitantaceae	92
+Ahrensiaceae	92
+Hopanoid biosynthesis	92
+CytR regulation	92
+Chamaesiphonaceae	92
+Cryomorphaceae	92
+Herpetosiphonaceae	92
+Microbotryaceae	92
+Tricladiaceae	92
+Gaiellaceae	92
+Eremomycetaceae	92
+Microthyriaceae	92
+Conexibacteraceae	92
+TonB-ExbBD energy transducing system	92
+Agaricaceae	92
+Elsinoaceae	92
+Peniophoraceae	92
+Spirosomataceae	92
+Ktedonosporobacteraceae	92
+Fimbriimonadaceae	92
+Hericiaceae	92
+Melanommataceae	92
+Transcriptional regulator AfsR	92
+Phaeosphaeriaceae	92
+Fistulinaceae	92
+Actinidiaceae	92
+Williamwhitmaniaceae	92
+Gloeophyllaceae	92
+Grifolaceae	92
+ZraPRS-based zinc resistance	92
+mag_43286	92
+Aliceevansviridae	92
+Roseiflexaceae	92
+Parachlamydiaceae	92
+Coenagrionidae	92
+Criblamydiaceae	92
+Paceibacteraceae	92
+Cryosericaceae	92
+Sporidiobolaceae	92
+Hyalellidae	92
+Pycnococcaceae	92
+Korobacteraceae	92
+Ustilaginaceae	92
+Diaporthaceae	92
+Halorubraceae	92
+mag_74	92
+Spore germinant receptors	92
+Halococcaceae	92
+Hoyosellaceae	92
+Iamiaceae	92
+Straboviridae	92
+mag_54377	93
+mag_38645	93
+mag_44774	93
+mag_40706	93
+mag_40287	93
+mag_41841	93
+mag_39169	93
+mag_40440	93
+mag_41416	93
+mag_44167	93
+mag_39420	93
+mag_38817	93
+mag_40534	93
+mag_42309	93
+mag_39376	93
+mag_39653	93
+mag_46240	93
+mag_39339	93
+mag_39735	93
+mag_39970	93
+mag_46522	93
+mag_45513	93
+mag_41673	93
+mag_44235	93
+mag_46635	93
+mag_40444	93
+mag_46737	93
+mag_40430	93
+mag_41420	93
+mag_39953	93
+mag_42165	93
+mag_39755	93
+mag_39599	93
+mag_41787	93
+mag_38157	93
+Dictyosteliaceae	93
+mag_38106	93
+mag_38501	93
+mag_40945	93
+mag_43762	93
+mag_38516	93
+mag_43360	93
+mag_38352	93
+mag_43217	93
+mag_38363	93
+mag_39649	94
+mag_48712	94
+mag_38354	94
+mag_39957	94
+mag_48771	94
+mag_40922	94
+mag_43985	94
+mag_42399	94
+mag_48322	94
+mag_42398	94
+L-ascorbate utilization (and related gene clusters)	94
+mag_44151	94
+mag_43300	94
+mag_43411	94
+mag_41995	94
+mag_40453	94
+mag_39870	94
+mag_39867	94
+Fasciolidae	94
+mag_38026	94
+mag_44227	94
+mag_42088	94
+mag_43523	94
+mag_43891	94
+mag_42692	94
+mag_43170	94
+mag_3106	94
+mag_43099	94
+mag_45020	94
+mag_39165	94
+mag_57968	94
+Carnobacteriaceae	94
+mag_41432	94
+mag_40326	94
+mag_44521	94
+mag_39828	94
+mag_45745	94
+mag_41212	94
+mag_45424	94
+mag_42915	94
+mag_45540	94
+mag_42327	94
+mag_45229	94
+mag_45701	94
+mag_42481	94
+mag_42376	94
+mag_38357	95
+mag_37657	95
+mag_39645	95
+Aerococcaceae	95
+mag_38963	95
+alpha-glucoside ABC transporter	95
+mag_38252	95
+mag_46289	95
+Bacillales Family X. Incertae Sedis	95
+mag_41639	95
+mag_37661	95
+mag_37774	95
+Thermovirgaceae	95
+Phytoseiidae	95
+mag_41424	95
+mag_40961	95
+Citrate lyase	95
+mag_37802	95
+Desulfonauticaceae	96
+Hadarchaeaceae	96
+Picrophilaceae	96
+mag_3025	96
+mag_3030	96
+mag_24718	96
+Acaryochloridaceae	96
+Cyprinidae	96
+mag_179	96
+Mustelidae	96
+Bryobacteraceae	96
+Symphyonemataceae	96
+mag_3078	96
+Psilotaceae	96
+mag_38432	96
+Entomoplasmataceae	96
+Serrasalmidae	96
+Pipidae	96
+Desulfoplanaceae	96
+Sigmoideomycetaceae	96
+Pontiellaceae	96
+Lewinellaceae	97
+Trichocomaceae	97
+Symbiobacteriaceae	97
+Calditrichaceae	97
+Natranaerofabaceae	97
+Opitutaceae	97
+Cellulosilyticaceae	97
+D-arabinitol utilization	97
+Desulfitobacteriaceae	97
+Glycerol ABC transporter	97
+mag_37730	97
+MazEF toxin-antitoxing (programmed cell death) system	97
+Polypteridae	98
+Cardiobacteriaceae	98
+Hyellaceae	98
+Stegostomatidae	98
+Natronincolaceae	98
+Ictaluridae	98
+mag_42145	98
+Roseivirgaceae	98
+mag_39387	98
+Aphanothecaceae	98
+mag_37938	98
+Tepidimicrobiaceae	98
+Spiroplasmataceae	98
+Manidae	98
+Alopiidae	98
+mag_45946	98
+mag_42894	98
+Scyliorhinidae	98
+Sulfurospirillaceae	98
+mag_18	98
+mag_37684	98
+Pyroglyphidae	98
+Aminiphilaceae	98
+mag_3137	98
+Pseudobacteriovoracaceae	98
+Hylobatidae	99
+Ketobacteraceae	99
+mag_39276	99
+mag_8	99
+mag_37977	99
+Attheyaceae	99
+Dasyuridae	99
+Ramazzottiidae	99
+Leuciscidae	99
+Tetranychidae	99
+Gobiidae	99
+Cichlidae	99
+Circaeasteraceae	99
+Buthidae	99
+Apusomonadidae	99
+Varunidae	99
+Tilletiaceae	99
+Ditrichaceae	99
+Scarabaeidae	99
+mag_39364	99
+Desertifilaceae	99
+Nitidulidae	99
+mag_44317	99
+Rhincodontidae	99
+Rajidae	99
+Parvoviridae	99
+Adrianichthyidae	99
+Eubacteriales Family XII. Incertae Sedis	100
+Campylobacteraceae	100
+Syntrophomonadaceae	100
+Heliobacteriaceae	100
+Oxaloacetate decarboxylase Na-pump	100
+dTDP-rhamnose synthesis -- gjo	101
+dTDP-rhamnose synthesis	101
+DAP (1,3-diaminopropane) production	101
+Translation initiation factors, bacterial	102
+RNA processing and degradation, bacterial	102
+Mupirocin resistance	103
+tRNA aminoacylation, Ile	103
+Antibiotic targets in protein synthesis	103
+tRNA aminoacylation, Pro	104
+Galactose utilization	104
+Riboflavin, FMN and FAD biosynthesis in Archaea	104
+Streptococcal Hyaluronic Acid Capsule	105
+Sulfoquinovose biosynthesis cluster	105
+Dpp dipeptide ABC transport system	105
+Two cell division clusters relating to chromosome partitioning	105
+Aspartate to Homoserine module	106
+Ribonuclease H	106
+Pentose phosphate pathway	107
+DNA repair, bacterial RecBCD pathway	107
+DNA repair system including RecA, MutS and a hypothetical protein	108
+Folate biosynthesis cluster	108
+tRNA aminoacylation, Phe	108
+Phenylalanine and Tyrosine synthesis 1	108
+Fe-S cluster assembly	109
+Aspartate to Threonine Module	109
+tRNA aminoacylation, Trp	109
+rRNA modification related cluster including tlyA	109
+Heat shock dnaK gene cluster extended	110
+Glycolysis and Gluconeogenesis, including Archaeal enzymes	110
+Cluster containing Glutathione synthetase	110
+Copper homeostasis: copper tolerance	111
+Colicin V and Bacteriocin Production Cluster	111
+Ribosome LSU, bacterial	111
+Ribosomal proteins, single-copy	111
+Translation termination factors, bacterial	112
+RNA polymerase, bacterial	112
+A Hypothetical Protein Related to Proline Metabolism	112
+Antibiotic targets in cell wall biosynthesis	112
+Cardiolipin biosynthesis	113
+Stringent Response, (p)ppGpp metabolism	113
+D-tyrosyl-tRNA(Tyr) deacylase	113
+Biogenesis of c-type cytochromes	113
+Sporulation-associated proteins with broader functions	113
+Cluster related to 2-thiouridine modification of tRNAs	114
+tRNA aminoacylation, His	114
+Amino acid racemase	114
+tRNA aminoacylation, Tyr	115
+Poly-gamma-glutamate biosynthesis	115
+Threonylcarbamoyladenosine	116
+Cell division cluster	116
+Antibiotic targets in transcription	117
+tRNA aminoacylation, Gly	117
+Sucrose to levan conversions	117
+DNA repair, bacterial	118
+Translation elongation factor G family	118
+Fusidic acid resistance	118
+Methylenetetrahydrofolate reductase	119
+DNA Repair Base Excision	119
+Repair of Iron Centers	119
+Chaperones GroEL GroES and Thermosome	120
+Biosynthesis of Arabinogalactan in Mycobacteria	120
+Nudix proteins (nucleoside triphosphate hydrolases)	120
+Cell division initiation related cluster	120
+RecA and RecX	121
+Osmoregulation	121
+DNA repair, bacterial RecFOR pathway	121
+Sulfur metabolism related cluster	122
+mag_53284	123
+mag_45896	123
+mag_43229	123
+mag_53256	123
+mag_51150	123
+mag_38085	123
+mag_45978	123
+mag_45888	123
+mag_42887	123
+mag_40651	123
+mag_39698	123
+mag_38783	123
+mag_38174	123
+mag_38071	123
+mag_40482	123
+mag_37628	123
+mag_38055	123
+mag_39014	124
+mag_43141	124
+mag_38794	124
+mag_38219	124
+mag_39448	124
+mag_39285	124
+mag_39141	124
+mag_38101	124
+Aminoglycoside modifying enzymes: O-phosphotransferases	124
+mag_43931	124
+mag_38000	124
+mag_38681	124
+Apogonidae	124
+mag_38424	124
+mag_37991	124
+mag_39552	124
+mag_43182	124
+mag_37635	124
+mag_38950	124
+mag_37971	124
+mag_39569	124
+mag_57192	124
+mag_39927	124
+mag_44310	124
+mag_43912	124
+mag_49115	124
+Pasteuriaceae	124
+mag_45481	124
+Enterocytozoonidae	124
+mag_43049	124
+mag_53958	124
+mag_43767	124
+mag_44370	124
+mag_41300	124
+mag_38814	125
+mag_39896	125
+mag_39738	125
+mag_38531	125
+mag_42648	125
+mag_38032	125
+mag_38426	125
+mag_39636	125
+mag_40564	125
+mag_38904	125
+mag_40594	125
+mag_40305	125
+mag_38951	125
+mag_40839	125
+mag_38872	125
+mag_40100	125
+mag_40667	125
+mag_38563	125
+mag_39007	126
+mag_38553	126
+mag_42437	126
+mag_38353	126
+mag_39895	126
+mag_38348	126
+mag_46135	126
+mag_42052	126
+mag_37965	126
+mag_37915	126
+mag_38585	126
+mag_39155	126
+mag_40650	126
+mag_43156	126
+mag_39722	126
+mag_38642	126
+mag_39093	126
+mag_38399	126
+mag_38033	126
+mag_37922	126
+mag_41133	126
+mag_39894	126
+mag_39915	126
+mag_42784	126
+mag_39239	126
+mag_38089	126
+mag_37714	126
+mag_44421	126
+mag_39289	126
+mag_38929	126
+mag_40515	126
+mag_38154	126
+mag_40026	126
+mag_43237	126
+mag_41695	126
+mag_38935	126
+mag_42970	126
+mag_38953	126
+Midichloriaceae	126
+mag_38074	126
+mag_43291	126
+mag_38343	126
+mag_38903	126
+mag_38902	126
+Glutathionylspermidine and Trypanothione	127
+mag_38748	127
+mag_38002	127
+mag_39969	127
+mag_38438	127
+mag_37957	127
+mag_799	127
+mag_40254	127
+mag_40792	127
+mag_43774	127
+mag_40283	127
+mag_39911	127
+mag_40142	127
+Babesiidae	127
+mag_41277	127
+Fe(III) respiration - Shewanella type	127
+Herpestidae	127
+Ostreibacteriaceae	127
+Branchiostomatidae	127
+mag_41705	127
+mag_40130	127
+mag_40149	127
+mag_37769	127
+mag_41884	127
+mag_41683	127
+mag_40847	127
+mag_38552	127
+mag_40702	127
+mag_41458	127
+mag_39595	127
+mag_99	127
+mag_100	127
+mag_45310	127
+mag_41320	127
+mag_41203	127
+mag_37832	127
+mag_37884	127
+mag_17750	127
+mag_39545	127
+mag_18010	127
+mag_43275	127
+mag_41087	127
+mag_28345	127
+mag_41301	127
+mag_39458	127
+mag_39366	127
+mag_38864	127
+Selenoprotein O	127
+mag_39812	127
+mag_39403	127
+mag_38323	127
+mag_38964	127
+mag_37693	127
+mag_80	127
+Columbidae	127
+Paraconexibacteraceae	127
+mag_39061	127
+mag_39106	127
+mag_553	127
+mag_38221	127
+mag_37813	127
+mag_39128	127
+Gymnotidae	127
+mag_38375	127
+mag_37861	127
+mag_37864	127
+mag_38276	127
+mag_38362	127
+mag_42849	127
+mag_40618	127
+mag_38815	127
+mag_38992	127
+mag_37953	127
+Desulfatirhabdiaceae	128
+mag_38121	128
+Anaerobic Oxidative Degradation of L-Ornithine	128
+mag_40168	128
+mag_38164	128
+mag_43624	128
+mag_37877	128
+Thermofilaceae	128
+Ignatzschineriaceae	128
+Saccharimonadaceae	128
+mag_40367	128
+mag_39934	128
+mag_44105	128
+mag_38344	128
+mag_41286	128
+mag_39437	128
+mag_41627	128
+mag_39825	128
+mag_48754	128
+mag_41739	128
+mag_44248	128
+mag_38360	129
+mag_39695	129
+mag_9508	129
+mag_40147	129
+mag_38158	129
+mag_38169	129
+mag_38701	129
+mag_37773	129
+mag_38764	129
+mag_38407	129
+mag_39793	129
+mag_39113	129
+mag_39111	129
+mag_37958	129
+mag_39109	129
+mag_40226	129
+mag_39826	129
+mag_40231	129
+mag_38013	129
+mag_38230	129
+mag_39047	129
+mag_38590	129
+mag_38037	129
+mag_37778	129
+mag_41106	129
+mag_38083	129
+mag_39398	129
+mag_38540	129
+mag_38693	129
+mag_41752	129
+mag_38095	129
+mag_38104	129
+mag_3231	129
+mag_38694	129
+mag_38324	129
+mag_39498	129
+mag_39211	129
+mag_38887	129
+mag_39958	129
+mag_38285	129
+mag_37829	129
+mag_39932	129
+mag_38499	129
+mag_39573	129
+mag_41341	129
+mag_38954	129
+mag_11966	129
+mag_38235	129
+mag_39640	129
+mag_40862	129
+mag_38010	129
+mag_82829	129
+mag_45490	129
+mag_42778	129
+Anaerobic dimethyl sulfoxide reductase (EC 1.8.5.3)	129
+mag_43157	129
+Dissulfurispiraceae	129
+mag_45309	129
+mag_45673	129
+mag_45037	129
+mag_2968	129
+Glycine reductase, sarcosine reductase and betaine reductase	129
+mag_43996	129
+mag_44742	129
+mag_43433	129
+mag_48840	129
+mag_42949	129
+mag_45712	129
+mag_48496	129
+mag_52913	129
+mag_43722	129
+mag_42507	129
+mag_45952	129
+ABC transporter of unknown substrate X	129
+Pasteurellaceae	129
+HU-alpha and dsDNA mimic protein interaction	129
+mag_47597	129
+mag_43508	129
+Plakobranchidae	129
+Nitrospinaceae	129
+mag_3037	129
+mag_43384	129
+mag_43885	129
+mag_44532	129
+mag_46502	129
+mag_59210	129
+mag_43096	130
+mag_40466	130
+mag_39399	130
+Petrotogaceae	130
+mag_39571	130
+mag_38161	130
+mag_70473	130
+mag_40780	130
+mag_39691	130
+mag_48373	130
+mag_41954	130
+mag_38907	130
+mag_21649	130
+mag_68728	130
+mag_38583	130
+mag_38201	130
+mag_43906	130
+mag_24283	130
+mag_39483	130
+mag_38914	130
+mag_38669	130
+mag_44768	130
+mag_44819	130
+mag_41103	130
+mag_42670	130
+mag_41447	130
+mag_43865	131
+mag_39669	131
+mag_42480	131
+mag_38334	131
+mag_38579	131
+Thermodesulfobiaceae	131
+mag_42383	131
+mag_37856	131
+mag_40332	131
+mag_41099	131
+mag_54891	131
+mag_43324	131
+mag_38970	131
+mag_38894	131
+Isochrysidaceae	131
+mag_40084	131
+mag_38134	131
+mag_43381	131
+mag_41234	131
+mag_38961	131
+mag_44643	132
+Crevaviridae	132
+mag_37998	132
+mag_38249	132
+mag_41474	132
+mag_41463	132
+mag_43005	132
+mag_38663	132
+mag_38899	132
+mag_37719	132
+Carangidae	132
+Iflaviridae	132
+Alloherpesviridae	132
+Marseilleviridae	132
+Phycodnaviridae	132
+mag_38036	132
+Molycolviridae	132
+mag_37992	132
+mag_3	132
+mag_41230	132
+Thiohalophilaceae	132
+mag_77	132
+Percidae	132
+Lepisosteidae	132
+Mastacembelidae	132
+mag_40191	132
+Methylohalomonadaceae	132
+mag_38288	132
+mag_39857	132
+mag_38022	132
+Ranidae	132
+mag_38	132
+mag_41110	132
+mag_25	132
+mag_38258	132
+mag_21	132
+mag_38016	132
+mag_44431	132
+mag_39469	132
+Suoliviridae	132
+Neomegalonemataceae	132
+mag_43956	132
+mag_38088	132
+Rhodomelaceae	132
+Asterinidae	132
+mag_42388	132
+Cyanidiaceae	132
+mag_38756	132
+mag_37809	132
+Vibrioferrin synthesis	132
+Thelaziidae	132
+Serendipitaceae	132
+mag_38754	132
+mag_41180	132
+mag_39232	132
+mag_40368	132
+mag_37842	132
+mag_37848	132
+Odinarchaeaceae	132
+Thalassionemataceae	132
+mag_37878	132
+mag_39156	132
+Suillaceae	132
+Stereaceae	132
+mag_44970	132
+mag_38115	132
+mag_38834	132
+Solenidae	132
+mag_41263	132
+mag_39033	132
+mag_38224	132
+mag_37751	132
+mag_37936	132
+Gallic acid utilization	132
+Euplotidae	132
+mag_37761	132
+Sandaracinaceae	132
+mag_37764	132
+mag_39098	132
+mag_37917	132
+mag_44229	132
+mag_45574	132
+mag_38192	132
+mag_45504	132
+mag_39115	132
+mag_38112	132
+mag_39898	132
+mag_37904	132
+mag_42927	132
+Chroococcidiopsidaceae	132
+Rhabdoviridae	132
+mag_18298	132
+Hepatozoidae	132
+mag_2925	132
+Glossiphoniidae	132
+Libellulidae	132
+mag_3418	132
+mag_2911	132
+mag_278	132
+mag_308	132
+Lentitheciaceae	132
+mag_2931	132
+mag_381	132
+mag_39993	132
+Figitidae	132
+mag_43725	132
+mag_24594	132
+mag_906	132
+Eremiobacteraceae	132
+Terrimicrobiaceae	132
+mag_6626	132
+mag_7573	132
+mag_41672	132
+mag_297	132
+mag_40213	132
+mag_39584	132
+mag_3060	132
+mag_3056	132
+mag_39823	132
+mag_3039	132
+mag_310	132
+mag_38595	132
+mag_38449	132
+mag_16175	132
+Mycobacterial signal transduction system MprAB required for persistent infections	132
+mag_38573	132
+mag_32368	132
+mag_339	132
+Scolopendridae	132
+Sarcoptidae	132
+Hyaluronic Acid-containing Cell Walls	132
+Lecudinidae	132
+Outer membrane proteases (Omptins)	132
+mag_2998	132
+mag_41865	132
+Eriophyidae	132
+mag_38184	133
+mag_44120	133
+mag_39621	133
+mag_39356	133
+mag_39693	133
+mag_39663	133
+mag_38699	133
+Geometridae	133
+mag_45118	133
+mag_42452	133
+mag_41681	133
+Desulfuribacillaceae	133
+mag_42788	133
+mag_43406	133
+mag_43431	133
+mag_38057	133
+mag_44676	133
+Thermoactinomycetaceae	133
+Sarcocystidae	133
+mag_38500	133
+mag_39099	133
+mag_39105	133
+mag_37899	133
+mag_37885	133
+mag_38530	133
+Pavlovaceae	133
+mag_40633	133
+mag_46429	133
+mag_562	133
+mag_6698	133
+mag_38172	133
+Schizoporaceae	133
+Tenebrionidae	133
+mag_38317	133
+mag_40337	133
+mag_43251	133
+mag_41060	133
+mag_38301	133
+Psittacicellaceae	133
+mag_41542	133
+mag_38599	133
+mag_20244	133
+mag_39494	133
+mag_38629	134
+mag_23	134
+mag_45984	134
+mag_38167	134
+mag_67	134
+Cosmopterigidae	134
+Dracunculidae	134
+mag_103	134
+mag_3010	134
+Annonaceae	134
+Polyodontidae	134
+Sciaenidae	134
+mag_37825	134
+mag_38749	134
+Anthracoideaceae	134
+mag_43882	134
+Oculatellaceae	134
+Energy-conserving hydrogenase (ferredoxin)	134
+Dermocarpellaceae	134
+Nephroselmidaceae	134
+Leptocylindraceae	134
+Scalinduaceae	134
+mag_3022	134
+Holocentridae	134
+mag_38268	134
+mag_38265	134
+mag_38536	134
+Reduviidae	134
+mag_41685	134
+mag_39732	134
+Resistance to Ethambutol	134
+mag_39455	134
+Microvenatoraceae	134
+mag_37662	134
+Peribunyaviridae	134
+mag_39822	134
+Bufonidae	134
+Zierdtviridae	134
+Particulate methane monooxygenase (pMMO)	134
+Methanoliparaceae	134
+Caminicellaceae	134
+mag_132	134
+mag_39129	135
+mag_29341	135
+mag_2959	135
+mag_37686	135
+mag_39222	135
+Hydrogenimonadaceae	135
+mag_288	135
+Salibacteraceae	135
+Polysulfide reductase EC 1.12.98.4 and Thiosulfate reductase	135
+mag_3647	135
+mag_43012	135
+Pentatomidae	135
+mag_105	135
+Methanomassiliicoccaceae	135
+Mytilidae	135
+mag_38637	135
+Hemiaulaceae	135
+mag_40109	135
+Echinimonadaceae	135
+mag_3218	135
+mag_38179	135
+mag_38989	135
+mag_38582	135
+Desulfomonilaceae	135
+mag_3091	135
+Uabimicrobiaceae	135
+mag_37743	135
+Zhaonellaceae	135
+mag_37753	135
+mag_38572	135
+mag_43732	135
+mag_39681	135
+mag_45480	135
+mag_38273	135
+mag_41409	135
+mag_38023	136
+mag_38571	136
+mag_40448	136
+mag_38866	136
+mag_42971	136
+mag_39977	136
+mag_40695	136
+mag_38297	136
+mag_37840	136
+mag_41134	136
+mag_2903	136
+mag_39303	136
+mag_39515	136
+mag_40566	136
+mag_41572	136
+mag_42224	136
+mag_3728	136
+mag_39731	136
+mag_38017	136
+mag_3047	136
+mag_37766	136
+mag_42953	136
+mag_45125	136
+mag_1963	136
+mag_38241	136
+mag_9833	136
+mag_38077	136
+mag_39032	136
+Halobacteriovoraceae	136
+mag_38550	136
+mag_3283	136
+mag_38813	136
+mag_10183	136
+mag_40421	136
+mag_40479	136
+Methanocellaceae	136
+mag_38474	136
+mag_41658	136
+mag_38852	136
+mag_44210	136
+Lemuridae	137
+mag_96	137
+mag_4064	137
+Jaapiaceae	137
+mag_42820	137
+Babeliaceae	137
+mag_40849	137
+mag_39901	137
+mag_206	137
+mag_37654	137
+Trionychidae	137
+Silvanigrellaceae	137
+mag_59	137
+Feifaniaceae	137
+mag_40328	137
+Enteromyxidae	137
+Pinguiochrysidaceae	137
+Ursidae	137
+Molossidae	137
+Hydroxyaromatic decarboxylase family	137
+mag_2916	137
+Megalopidae	137
+Prorocentraceae	137
+mag_37996	137
+Ardeidae	137
+mag_300	137
+mag_1246	137
+mag_336	137
+mag_38710	137
+Nanohalobiaceae	137
+Choanephoraceae	137
+Corsiaceae	137
+Aplysiidae	137
+mag_5525	137
+mag_38326	137
+Cymatosiraceae	137
+Pediculidae	137
+mag_37698	137
+mag_24041	137
+mag_287	137
+mag_39945	137
+Geitlerinemataceae	137
+mag_7724	137
+mag_37731	137
+Protomycetaceae	137
+Ascodesmidaceae	137
+Trichoplacidae	137
+mag_540	137
+Paramyxoviridae	137
+Mycobacterial cell wall virulence lipid phthiocerol dimycocerosate (PDIM)	137
+Actinopolymorphaceae	138
+Synechococcaceae	138
+Syntrophaceae	138
+mag_39030	138
+Noelaerhabdaceae	138
+Francisellaceae	138
+mag_3848	138
+mag_2913	138
+Lithodesmiaceae	138
+Sigma54-dependent transcription related gene cluster	139
+Nakamurellaceae	139
+Nocardiaceae	139
+Twin-arginine translocation system related cluster	139
+Dermatophilaceae	139
+Reyranellaceae	140
+mag_38283	140
+Fermentibacteraceae	140
+mag_55	140
+Caldisphaeraceae	140
+Archaeoglobaceae	140
+Rut pathway of pyrimidine degradation	141
+Cyanobacterial bypass in the TCA	141
+mag_38412	141
+mag_39102	141
+mag_57327	141
+mag_501	141
+mag_38045	142
+Head-to-head olefinic hydrocarbon biosynthesis	142
+Mycobacterial HadABC proteins ((3R)-hydroxyacyl-ACP dehydrates of FASII)	142
+mag_41667	142
+mag_44342	142
+Glutathione analogs: mycothiol	142
+mag_43729	142
+mag_42392	142
+Glycerol fermentation to 1,3-propanediol	142
+mag_41634	142
+Possible stress related actinobacterial cluster	142
+Alkane synthesis in bacteria 2	142
+Legionellaceae	142
+Onygenaceae	142
+Treboniaceae	142
+mag_39043	142
+mag_3407	142
+mag_39065	142
+Micrococcaceae	142
+Orchitophryidae	142
+mag_42397	142
+Programmed frameshift	143
+tRNA nucleotidyltransferase	143
+Protein-O-mannosyltransferase and 16S rRNA (cytidine(1402)-2'-O)-methyltransferase cluster	143
+3-amino-5-hydroxybenzoic Acid Synthesis	143
+N,N'-diacetylbacillosamine	144
+Diphtheria toxin	144
+Chaoboridae	144
+mag_42444	144
+Mycobacterial heme acquisition system	144
+mag_38082	144
+mag_38170	144
+Glycomycetaceae	144
+mag_19647	144
+mag_39461	144
+Widespread colonization island	144
+Brevibacteriaceae	144
+Actinobacterial signal transduction system MtrAB-LpqB	144
+Iron Scavenging cluster in Thermus	145
+Acyl carrier protein	145
+Molybdenum cofactor biosynthesis	145
+Lipopolysaccharide-related cluster in Alphaproteobacteria	146
+Nonmevalonate Branch of Isoprenoid Biosynthesis	146
+Nucleoside triphosphate pyrophosphohydrolase MazG	146
+GDP-fucose to mannose-1P module	147
+Cell division related cluster	147
+Glutamine synthetases	147
+Na(+) H(+) antiporter	147
+Benzoyl-CoA pathway of anaerobic aromatic metabolism	148
+mag_44119	148
+Riboflavin, FMN and FAD metabolism with fusion events	148
+Tripartite efflux system (of RND type) associated with Geranylgeranyl-PP synthase	149
+tRNA aminoacylation, Lys	149
+Bacterial cell division related cluster 2	150
+tRNA aminoacylation, Val	150
+Glycolysis and Gluconeogenesis	150
+Antibiotic targets in DNA processing	151
+Peptidase clustering with DAP	151
+De Novo Pyrimidine Synthesis	151
+Calvin-Benson cycle	151
+DNA processing cluster	151
+DNA topoisomerases, Type II, ATP-dependent	151
+Quinolone (Fluoroquinolone) resistance via Pentapeptide repeat proteins	151
+Replication-associated recombination protein RarA	152
+YrdC-YciO-Sua5 and associated protein families	152
+Possible new toxin-antitoxin system including DivIC	152
+Mycobacterial lipoproteins (LPR group)	153
+Signal peptidase	153
+Mechanisms of PAS resistance	154
+DNA repair, bacterial UvrD and related helicases	154
+Antibiotic targets in metabolic pathways	154
+Gram-negative cluster	154
+dTDP-3-acetamido-3,6-dideoxy-alpha-D-galactose synthesis	154
+Degradation of branched-chain amino acids and alpha-keto acids [Leu, Val]	155
+Biotin synthesis & utilization	155
+Photorespiration (oxidative C2 cycle)	155
+Acyl-CoA thioesterase II	156
+FtsEX cell-division-associated signaling system	156
+Multidrug resistance RND efflux system MexEFOprN	156
+Siderophore assembly kit	157
+Quinone oxidoreductase family	157
+Rhabditidae	157
+Homoprotocatechuate degradative cluster	157
+Dissimilatory nitrite reductase	158
+Choline uptake and conversion to betaine clusters	158
+Oxygen-sensing two-component regulatory system NreABC	159
+Resistance to the fluoroquinolones norfloxacin and ciprofloxacin	159
+Denitrifying reductase gene clusters	159
+Coenzyme A Biosynthesis cluster	160
+Clostridiales Family XVII. Incertae Sedis	160
+Resistance to Ethionamide and Isoniazid	161
+Alginate biosynthesis	161
+Fatty acid degradation	161
+TCA Cycle	162
+Glycine cleavage system	162
+Post-translational modification of proteins	162
+Biotin biosynthesis	163
+RuvABC plus a hypothetical	163
+Succinate dehydrogenase and Fumarate reductase cpmlexes	163
+Chlorophyll a synthase and phytol kinase cluster	163
+Cytochrome d ubiquinol oxidase operon	163
+Menaquinone biosynthesis from chorismate via 1,4-dihydroxy-2-naphthoate	164
+Bicyclomycin resistance cluster	164
+Metal chelatases	164
+Heme Biosynthesis: protoporphyrin-, coproporphyrin- and siroheme-dependent pathways	164
+Lipoic acid metabolism	165
+Lipoylated proteins	165
+mag_39149	166
+mag_38828	166
+mag_45011	166
+mag_42605	166
+mag_38211	166
+mag_42557	166
+mag_39590	166
+mag_39577	166
+mag_44645	166
+mag_39167	166
+mag_42163	166
+mag_34606	166
+mag_42783	166
+mag_40268	166
+mag_43238	166
+mag_40612	166
+mag_43826	166
+mag_38641	166
+mag_45204	166
+mag_38647	166
+mag_59689	166
+mag_39816	166
+mag_45038	166
+mag_38117	166
+mag_41801	166
+mag_41270	166
+mag_44686	166
+mag_8720	166
+mag_41257	166
+mag_41299	166
+mag_37946	166
+mag_41897	166
+mag_38349	166
+mag_44711	166
+mag_43455	166
+mag_44629	166
+mag_39980	166
+mag_43277	166
+mag_40483	166
+mag_44887	166
+mag_39634	167
+mag_41505	167
+2-ketoacid oxidoreductases disambiguation	167
+mag_44665	167
+mag_41127	168
+mag_62337	168
+mag_53896	168
+mag_38388	168
+mag_41496	168
+mag_41455	168
+mag_39466	168
+mag_41889	168
+mag_46620	168
+mag_43852	168
+mag_41781	168
+mag_45705	168
+mag_39779	168
+mag_45686	168
+mag_39869	168
+mag_43860	168
+mag_46519	168
+mag_52242	168
+mag_70256	168
+mag_68519	168
+mag_43328	168
+mag_46698	168
+mag_41888	168
+mag_41657	168
+mag_43593	168
+mag_43546	168
+mag_41546	168
+mag_42190	168
+mag_40343	168
+mag_43746	168
+mag_39716	168
+mag_40195	168
+mag_40194	168
+mag_41529	168
+mag_39800	168
+mag_39717	168
+mag_40185	168
+mag_43184	168
+mag_41830	168
+mag_7142	168
+mag_41796	168
+mag_38913	168
+mag_55767	168
+Muribaculaceae	168
+mag_37962	168
+mag_44263	168
+mag_44560	168
+mag_38001	168
+mag_48438	168
+mag_40616	168
+mag_39041	168
+mag_38985	168
+mag_39877	168
+mag_40716	168
+mag_39170	168
+mag_44166	168
+mag_44882	168
+mag_54565	168
+mag_41307	168
+mag_42634	168
+Paludibacteraceae	168
+mag_44919	168
+mag_44906	168
+Haliscomenobacteraceae	168
+mag_38946	168
+mag_41289	168
+mag_43155	168
+mag_40403	168
+mag_44036	168
+mag_42826	168
+mag_61311	168
+mag_40538	168
+mag_38027	168
+mag_44375	168
+mag_44091	168
+Pyruvate:ferredoxin oxidoreductase	169
+Prevotellaceae	169
+Prolixibacteraceae	169
+Bacteroidaceae	169
+Rikenellaceae	169
+BtuS-PduT gene cluster for metalloporphyrine salvage	169
+Utilization systems for glycans and polysaccharides (PULs, SUS)	169
+mag_41425	169
+Bacterial Sphingolipids	169
+Bacteroides capsular polysaccharide transcription antitermination proteins	169
+mag_40203	170
+mag_39615	170
+mag_63288	170
+mag_38791	170
+mag_40817	170
+mag_41890	170
+mag_39617	170
+mag_40824	170
+mag_38882	170
+Barnesiellaceae	170
+Mitoviridae	170
+mag_42543	170
+mag_43787	170
+mag_45048	170
+Gelidiaceae	170
+mag_45221	170
+mag_40567	170
+mag_45900	170
+mag_38041	170
+mag_6447	170
+mag_43034	170
+mag_41533	170
+mag_39220	170
+mag_46580	170
+mag_37672	170
+Balneicellaceae	171
+Conjugative transposon, Bacteroidales	171
+Possible DNA repair related cluster	171
+Odoribacteraceae	171
+Marinilabiliaceae	171
+Anaerobic glycerol-3-phosphate dehydrogenase subunits	171
+Dysgonomonadaceae	171
+Canidae	172
+NhaA, NhaD and Sodium-dependent phosphate transporters	172
+Transcription factors, cyanobacterial RpoD-like sigma factors	173
+Translation elongation factors, bacterial	174
+Lpt lipopolysaccharide transport system	175
+Lipoprotein transporter to outer membrane Lol	175
+Peptidyl-prolyl cis-trans isomerase	175
+Outer membrane	175
+Type I secretion systems disambiguation	175
+beta-Barrel Assembly Machinery	175
+Pyrroloquinoline Quinone biosynthesis	175
+D-3-phosphoglycerate to phosphoserine module	176
+Nucleoside uptake and degradation cluster	177
+Inositol-containing phospholipids	178
+Aerotolerance operon	178
+mag_40396	178
+Encapsulation of DyP-type peroxidase or ferritin-like protein oligomers	179
+tRNA aminoacylation, Gln	179
+tRNA aminoacylation, Glu	179
+Possible RNA modification and stress response cluster	179
+Thiotrichaceae	179
+Colanic acid synthesis	179
+Lipopolysaccharide transporter LptABC	179
+Cob(I)alamin adenosyltransferase	179
+Acetyl-CoA Pathway Wood-Ljungdahl	179
+Na-translocating NADH-quinone oxidoreductase	179
+KDO2-Lipid A biosynthesis	179
+Respiratory Complex I	180
+NADH ubiquinone oxidoreductase	180
+D-Galacturonate and D-Glucuronate Utilization	181
+Menaquinone biosynthesis from chorismate via 1,4-dihydroxy-6-naphthoate	181
+NADH ubiquinone oxidoreductase vs. multi-subunit cation antiporter	181
+Pyruvate metabolism I: anaplerotic reactions, PEP	181
+2-oxoglutarate dehydrogenase 	181
+Ribosomal protein S12p Asp methylthiotransferase	182
+Methylthiotransferases	182
+Branched-chain amino acids and alpha-keto acids utilization as energy sources	183
+Muconate lactonizing enzyme family	183
+Modification of eukaryotic initiation factor 5A	184
+Pyridoxin (Vitamin B6) Biosynthesis	184
+Biosynthesis of thiamin antivitamin Bacimethrin	184
+Oligopeptide degradation cluster	185
+Protein chaperones	185
+Emydidae	186
+Burseraceae	186
+Aminoglycoside modifying enzymes: N-acetyltransferases	186
+Erythrobacteraceae	186
+Amaryllidaceae	186
+Metastrongylidae	186
+Thraustochytriaceae	186
+mag_37831	186
+Botryobasidiaceae	186
+Acroporidae	186
+Egibacteraceae	186
+Thermosporotrichaceae	186
+Crassulaceae	186
+Phototrophicaceae	187
+mag_39967	187
+mag_39371	187
+Succinivibrionaceae	187
+Bifidobacteriaceae	187
+mag_39803	187
+mag_38994	187
+Quorum sensing in Yersinia	187
+Ignavibacteriaceae	187
+Holosporaceae	187
+Labyrinthulaceae	187
+Leptosphaeriaceae	187
+mag_1703	187
+mag_3067	187
+mag_70	187
+mag_43	187
+mag_38125	187
+mag_15	187
+mag_1693	187
+Strombidinopsidae	187
+Phosphatidylinositol mannosides biosynthesis related cluster	188
+An Arabinose Sensor	188
+Bathycoccaceae	188
+DNA repair, bacterial UmuCD system	188
+mag_41613	189
+mag_37982	189
+mag_38965	189
+mag_37920	189
+mag_38376	189
+mag_40887	189
+mag_39197	189
+mag_38373	189
+mag_38254	189
+mag_39368	189
+mag_38498	189
+mag_38371	189
+mag_305	189
+Anaeroplasmataceae	189
+mag_40781	189
+mag_41918	189
+mag_643	189
+mag_40247	189
+mag_3097	190
+Ploettnerulaceae	190
+mag_41837	190
+mag_44854	190
+Indriidae	190
+mag_301	190
+mag_40358	190
+mag_39963	190
+mag_12966	190
+mag_44234	190
+mag_313	190
+mag_76	190
+Macromolecular synthesis operon	191
+Translation initiation factors, eukaryotic and archaeal	191
+Hipposideridae	192
+Trichogrammatidae	192
+Testudinidae	192
+Sisoridae	192
+Morchellaceae	192
+Lottiidae	192
+Actiniidae	192
+Portunidae	192
+Desulfonatronovibrionaceae	192
+Bipolaricaulaceae	192
+Sparidae	192
+Chthonomonadaceae	192
+Tulasnellaceae	192
+Percolomonadidae	192
+Hydrogenothermaceae	192
+mag_38442	192
+mag_19	192
+mag_3246	192
+mag_213	192
+mag_367	192
+mag_333	192
+mag_39464	192
+Natronoarchaeaceae	192
+Nitrogen fixation	193
+mag_14	193
+Pneumocystaceae	193
+Ascoideaceae	193
+Lindgomycetaceae	193
+Dipodascaceae	193
+Lysine Biosynthesis via alpha-aminoadipate AAA	193
+Cerambycidae	193
+Phaffomycetaceae	193
+Debaryomycetaceae	193
+mag_3181	193
+RNA polymerase, archaeal initiation factors	193
+Kickxellaceae	193
+Niphatidae	193
+Pleistophoridae	193
+mag_3038	193
+mag_42377	193
+Box C-D RNA-guided RNA methyltransferase	193
+Ribosome LSU, eukaryotic and archaeal	193
+Cynipidae	193
+Exosome	193
+Translation elongation factors, eukaryotic and archaeal	193
+mag_3023	193
+Legeriomycetaceae	193
+Chytriomycetaceae	193
+Ribosome biogenesis, archaeal	193
+Ribosome SSU, eukaryotic and archaeal	193
+Pichiaceae	193
+Neolectaceae	194
+Metschnikowiaceae	194
+Orbiliaceae	194
+Perkinsidae	194
+Schizosaccharomycetaceae	194
+Chaetocerotaceae	194
+mag_39841	194
+Catenariaceae	194
+Diphthamide biosynthesis	194
+mag_42114	194
+Ancylistaceae	194
+Coleochaetaceae	194
+Harrimaniidae	194
+Hepatosporidae	194
+Trigonopsidaceae	194
+Mortierellaceae	194
+mag_39827	194
+Leucothoidae	194
+Sporormiaceae	194
+Thermoascaceae	194
+Phoridae	194
+Argasidae	194
+Trypetheliaceae	194
+Aplosporellaceae	194
+Carabidae	194
+Cicadellidae	194
+Mytilinidiaceae	194
+Sympoventuriaceae	194
+Talitridae	194
+mag_3052	195
+Phr peptides - Rap phosphatases signaling	195
+mag_3115	195
+Trichocoleusaceae	195
+mag_38616	195
+Paxillaceae	195
+mag_140	195
+Pulicidae	195
+Ascosphaeraceae	195
+mag_37803	195
+Lachnaceae	196
+Nephtheidae	196
+Trichomonascaceae	196
+Trichosporonaceae	196
+Rutstroemiaceae	196
+mag_48723	196
+Xylonaceae	196
+Tremellaceae	196
+Juglanconidaceae	196
+Mormyridae	196
+Beta-lactamases Ambler class B	197
+Tolypothrichaceae	197
+Barnase-barstar complex	197
+mag_39411	197
+mag_42305	197
+Xanthomonadaceae	197
+Planorbidae	197
+Heterorhabditidae	197
+Gesneriaceae	197
+Tabanidae	198
+Ancylostomatidae	198
+Haplosporidiidae	198
+Timematidae	198
+Lamiaceae	198
+Chironomidae	198
+Dioxygenolytic carbon monoxide-forming enzymes	198
+Pleuroascaceae	198
+Araucariaceae	198
+Cyclopteridae	198
+Pleioneaceae	198
+Anaplasmataceae	198
+Fodinicurvataceae	198
+Salinivirgaceae	198
+mag_5487	199
+mag_41	199
+mag_10114	199
+mag_40	199
+mag_4616	199
+Dothidotthiaceae	199
+mag_1251	199
+Lichtheimiaceae	199
+mag_13914	199
+Cixiidae	199
+mag_1	199
+Clytiidae	199
+Nolidae	199
+Energy conserving hydrogenase b, Methanococcales-Methanobacteriales-Methanopyrales	199
+Archaeal membrane bound hydrogenases	199
+Lipomycetaceae	199
+Phylloxeridae	199
+Parastacidae	199
+Ascobolaceae	199
+Fabreidae	199
+Mebrane bound hydrogenases	199
+mag_11275	199
+Gnomoniaceae	199
+mag_40951	199
+Dermestidae	199
+mag_39083	200
+Heme O and Heme A biosynthesis (with selected terminal oxidases)	200
+mag_40527	200
+Calliphoridae	200
+Hypsibiidae	200
+mag_42262	200
+Graphidaceae	200
+Nosematidae	201
+mag_38142	201
+Glutamate dehydrogenases	201
+Ergothioneine biosynthesis	202
+Thripidae	202
+Wallemiaceae	202
+Owenweeksiaceae	202
+Baetidae	202
+mag_311	202
+mag_40521	202
+Endogonaceae	202
+mag_37717	202
+Rhizopodaceae	202
+Heteroderidae	202
+Moorellaceae	202
+Odontophoridae	202
+Mamiellaceae	202
+Filobasidiaceae	202
+Physciaceae	202
+Cavenderiaceae	202
+Aestuariivirgaceae	202
+AttEFGH ABC Transport System	202
+Arthrodermataceae	202
+Amidase clustered with urea and nitrile hydratase functions	202
+Fibroporiaceae	202
+Fluviibacteraceae	202
+mag_29	202
+Mollisiaceae	202
+Obscuribacteraceae	202
+Algiphilaceae	202
+Melioribacteraceae	202
+Drosophilidae	202
+Geminigeraceae	202
+Brachybasidiaceae	202
+Dermateaceae	202
+mag_33	202
+Rhinotermitidae	202
+Umbilicariaceae	203
+Homogentisate pathway	203
+Cunninghamellaceae	203
+Omphalotaceae	203
+mag_37759	203
+Albuginaceae	204
+Acrididae	204
+Hippeaceae	204
+mag_8090	204
+Chlorellaceae	204
+mag_589	204
+Acidimicrobiaceae	204
+Cryptococcaceae	204
+Oxyrrhinaceae	205
+Balaenopteridae	205
+Lacertidae	205
+mag_38726	205
+Spheniscidae	205
+Tayassuidae	205
+Delphinidae	205
+Clastopteridae	205
+Equidae	205
+Pteropodidae	205
+mag_39200	205
+mag_38223	205
+Rhinocerotidae	205
+mag_17931	205
+mag_91	205
+mag_38287	205
+mag_37858	205
+mag_137	205
+mag_18663	205
+mag_23300	205
+Anaerobic toluene and ethylbenzene degradation	205
+mag_340	205
+Menuridae	205
+Acetophenone carboxylase 1	205
+mag_37767	205
+mag_39088	205
+mag_42005	205
+Nothobranchiidae	205
+Acanthisittidae	205
+mag_38795	205
+mag_39095	205
+mag_37741	205
+Dissoconiaceae	205
+mag_38079	205
+mag_38385	205
+Nanopusillaceae	205
+mag_37666	205
+mag_38862	205
+mag_39433	205
+mag_58457	205
+mag_154	205
+Sedoreoviridae	205
+Eleutherodactylidae	205
+mag_38853	205
+mag_40786	205
+mag_2944	205
+mag_38456	205
+mag_41375	205
+mag_44392	205
+Echinometridae	205
+mag_38773	205
+mag_39923	205
+Melampsoraceae	206
+Myxotrichaceae	206
+Alloionematidae	206
+Podosporaceae	206
+Adelgidae	206
+Streblomastigidae	206
+Pezizaceae	206
+Dubosqiidae	206
+Pomacentridae	206
+Cyphellophoraceae	206
+Peltospiridae	206
+Rhizosoleniaceae	206
+Ascidiidae	206
+Ceratopogonidae	206
+Strongylidae	206
+Saccharomycetaceae	206
+Plexauridae	207
+mag_37869	207
+Synchytriaceae	207
+mag_38034	207
+Cecidomyiidae	207
+mag_37902	207
+Tribonemataceae	207
+mag_38741	207
+mag_40031	207
+Chrysopidae	207
+mag_312	207
+mag_39623	207
+mag_39256	207
+mag_39535	208
+Acanthopleuribacteraceae	208
+Vicinamibacteraceae	208
+Acipenseridae	208
+ABC transporter YxeMNO	208
+Elateridae	208
+Nidulariaceae	208
+mag_39811	208
+mag_38608	208
+Methylocystaceae	208
+Chlamydiaceae	208
+mag_40991	208
+Chlamydomonadaceae	208
+mag_546	208
+Orussidae	208
+Myxobolidae	208
+mag_41723	208
+Rivulariaceae	208
+Rhodobiaceae	208
+Soboliphymatidae	208
+Kyanoviridae	208
+Pyrocystaceae	208
+mag_39643	208
+Salasmaviridae	208
+mag_314	208
+Ornithorhynchidae	208
+Verrucariaceae	208
+Bathyergidae	208
+Erebidae	208
+Cafeteriaceae	208
+mag_37754	209
+Stanwilliamsviridae	209
+Gigartinaceae	209
+Toxin-Antitoxin MT1	209
+Ectocarpaceae	209
+Baculoviridae	209
+Mimiviridae	209
+mag_39439	209
+mag_39208	209
+mag_40632	209
+mag_40875	209
+Nitrosocaldaceae	209
+mag_39438	209
+mag_40537	209
+mag_41503	209
+Monoglobaceae	209
+mag_355	209
+Romeriaceae	209
+mag_2908	209
+Phocoenidae	209
+mag_39655	209
+mag_37942	209
+Cell invasion-related virulence operon MCE	209
+Sciuridae	209
+mag_41619	209
+mag_298	209
+Cryptosporidiidae	209
+mag_41086	209
+mag_41214	209
+mag_38404	209
+mag_3135	209
+mag_38272	209
+Oscillochloridaceae	209
+mag_38356	209
+mag_38680	209
+Merulinidae	209
+mag_38289	209
+mag_43211	209
+mag_39531	209
+mag_38692	209
+Simkaniaceae	210
+Rutaceae	210
+mag_410	210
+Cynoglossidae	210
+Combretaceae	210
+mag_40055	210
+mag_8237	210
+Herelleviridae	210
+Gentianaceae	210
+Hymenolepididae	210
+Amylocorticiaceae	210
+Sporocadaceae	210
+mag_38389	210
+Dromaiidae	210
+Chrysocapsaceae	210
+Chloropicaceae	210
+mag_681	210
+Staphyleaceae	210
+mag_38175	210
+Centropomidae	210
+Meropidae	210
+Pittosporaceae	210
+Falconidae	210
+mag_39108	210
+Papilionidae	210
+mag_37912	210
+Thermomicrobiaceae	210
+mag_37659	210
+Methanotrichaceae	210
+mag_90	210
+Todidae	210
+Laelapidae	210
+mag_42681	210
+mag_37760	210
+Tytonidae	210
+mag_37749	210
+mag_37968	210
+Desulfocucumaceae	210
+Aphelenchoididae	210
+Motacillidae	210
+mag_37838	210
+Dasypodidae	210
+DNA repair, bacterial SbcCD exonuclease	211
+Coliidae	211
+Didelphidae	211
+Phrynosomatidae	211
+Pleomassariaceae	211
+Aulographaceae	211
+Sporulation Cluster	212
+Heme, hemin uptake and utilization systems in GramPositives	213
+Saccharomycodaceae	214
+Polyangiaceae	214
+Thalassiosiraceae	214
+Limnochordaceae	214
+Aggregatilineaceae	214
+Plasmodiophoridae	214
+Schizophyllaceae	214
+Nephilidae	214
+Forespore to mother cell channel	214
+mag_38086	215
+mag_42248	215
+mag_37908	215
+mag_37919	215
+mag_41437	215
+mag_42213	215
+mag_39452	215
+mag_40115	215
+mag_38912	215
+mag_88	216
+Ackermannviridae	216
+mag_37689	216
+mag_7	216
+mag_31	216
+Conopidae	216
+mag_30	216
+mag_4831	216
+Mycobacterial lipid and multidrug efflux system proteins MmpL, MmpS	216
+mag_37893	216
+Stentoridae	216
+Caldarchaeaceae	216
+Parilichlamydiaceae	216
+Steccherinaceae	216
+mag_39893	216
+Lactobacillaceae	216
+Pteromalidae	216
+Bacteriocins in Lactobacilli	216
+Microscillaceae	216
+Stylonemataceae	216
+Paramoebidae	216
+Vombatidae	216
+Sporichthyaceae	216
+Cymodoceaceae	216
+Pseudonocardiaceae	217
+Frankiaceae	217
+Microbacteriaceae	217
+Nocardiopsaceae	217
+Nocardioidaceae	217
+Micromonosporaceae	217
+mag_43592	218
+Nitriliruptoraceae	218
+mag_42860	218
+Tetracycline resistance, ribosomal protection type	218
+mag_42759	218
+Trans-translation by stalled ribosomes	218
+mag_41747	218
+mag_39192	218
+Cimicidae	218
+mag_38110	218
+Copper Transport System	218
+Blastocystidae	218
+Andaluciidae	218
+Kribbellaceae	218
+Pumilibacteraceae	218
+mag_39607	218
+Sphaerobolaceae	218
+Thermomonosporaceae	219
+Entner-Doudoroff Pathway	219
+Streptomycetaceae	219
+Cluster related to PAS - para-aminosalicylic acid resistance	219
+Sigma54-dependent transcription related gene cluster 2	220
+Streptosporangiaceae	220
+mag_37897	220
+Ruaniaceae	220
+Jonesiaceae	220
+Intrasporangiaceae	220
+Dermabacteraceae	220
+Cellulomonadaceae	220
+Bogoriellaceae	220
+Promicromonosporaceae	220
+Inositol catabolism	220
+Kineosporiaceae	220
+Jiangellaceae	220
+mag_63355	221
+mag_40794	221
+mag_44073	221
+mag_43723	221
+mag_38383	221
+Eggerthellaceae	221
+mag_45561	221
+mag_42042	221
+mag_39313	221
+mag_39384	221
+mag_40491	221
+mag_39947	221
+mag_42280	221
+mag_40569	221
+mag_37905	221
+mag_38434	221
+mag_43039	221
+mag_41738	221
+mag_39069	221
+mag_39081	221
+mag_46236	221
+mag_38596	221
+mag_38757	221
+mag_40505	221
+mag_899	221
+mag_39255	221
+mag_39045	221
+Protein degradation	222
+Ribosomal hibernation related cluster	222
+mag_40989	223
+mag_38670	223
+mag_40355	223
+mag_40225	223
+Cerasicoccaceae	223
+mag_41956	223
+mag_40748	223
+mag_38689	224
+Muscicapidae	224
+mag_43998	224
+Tichowtungiaceae	224
+mag_43137	224
+mag_43104	224
+mag_53276	224
+mag_41963	224
+mag_43100	224
+mag_293	224
+mag_43437	224
+Butyrate kinase pathway	224
+mag_39983	224
+mag_42109	224
+mag_53	224
+mag_40294	224
+mag_29418	224
+mag_37906	224
+mag_42370	224
+mag_41526	224
+mag_38785	225
+mag_41480	225
+Hexamitidae	225
+mag_38763	225
+mag_41727	225
+mag_39166	225
+mag_37705	225
+mag_43836	225
+mag_41101	225
+Methanocorpusculaceae	225
+Methanomethylicaceae	225
+mag_41026	225
+mag_3016	225
+mag_37810	225
+Autoinducer 2 (AI-2) transport and processing (lsrACDBFGE operon)	225
+Geovibrionaceae	225
+Chitinivibrionaceae	225
+mag_38724	225
+mag_37736	225
+mag_39304	225
+mag_38295	225
+Amoebophryaceae	225
+Diopsidae	225
+mag_4420	225
+mag_42747	225
+mag_43218	225
+mag_337	225
+Acutalibacteraceae	225
+mag_40279	225
+mag_44689	225
+mag_42074	225
+mag_14230	225
+Egicoccaceae	225
+mag_40074	225
+mag_357	225
+Caulochytriaceae	225
+mag_1259	225
+mag_49616	225
+mag_44444	225
+mag_41244	225
+mag_44288	225
+mag_71	225
+mag_38313	225
+Dinophilidae	225
+Pseudocohnilembidae	225
+mag_38830	225
+Pocilloporidae	225
+mag_40085	225
+mag_44725	225
+mag_39046	225
+mag_38526	225
+mag_57777	226
+mag_40291	226
+mag_47342	226
+Blattellidae	226
+Methanogenesis	226
+mag_40761	226
+Vecturitrichaceae	226
+mag_38672	226
+mag_43817	226
+Brevinemataceae	226
+Desulfatiglandaceae	226
+Triparmaceae	226
+Varroidae	226
+Dotillidae	226
+mag_41057	226
+Phakopsoraceae	226
+mag_46418	226
+mag_38035	226
+mag_44418	226
+mag_37995	226
+Parameciidae	226
+mag_42495	226
+mag_37841	226
+mag_37817	226
+Trichomonadidae	226
+Thoreaceae	226
+Menispermaceae	226
+Betaflexiviridae	226
+mag_37706	226
+mag_44	226
+mag_316	226
+mag_2544	226
+mag_2917	226
+Soricidae	226
+mag_44504	226
+Hydridae	226
+mag_39184	226
+mag_40511	226
+mag_44866	227
+mag_37805	227
+mag_45736	227
+mag_37830	227
+mag_39381	227
+mag_37873	227
+mag_42554	227
+mag_37903	227
+mag_40666	227
+Strombidiidae	227
+mag_37952	227
+Siderophore Yersiniabactin Biosynthesis	227
+mag_38038	227
+mag_38059	227
+mag_38075	227
+mag_39263	227
+mag_40129	227
+Brachionidae	227
+mag_37782	227
+mag_37777	227
+mag_41763	227
+mag_41839	227
+mag_3015	227
+mag_2920	227
+mag_897	227
+mag_364	227
+mag_41608	227
+mag_38260	227
+mag_279	227
+mag_94	227
+mag_58	227
+mag_39	227
+mag_37683	227
+mag_37694	227
+mag_37734	227
+mag_37750	227
+mag_170	227
+Fructoselysine and glucoselysine	227
+mag_38103	227
+Coelosphaeriaceae	227
+mag_39127	227
+mag_39124	227
+mag_43439	227
+Erysipelotrichaceae	227
+mag_39924	227
+mag_41407	228
+mag_41435	228
+mag_40162	228
+Microviridae	228
+mag_43810	228
+mag_40327	228
+mag_64	228
+mag_41615	228
+mag_40520	228
+mag_292	228
+mag_45110	228
+mag_38196	228
+mag_39660	228
+mag_38316	228
+mag_38270	228
+Atopobiaceae	229
+mag_41387	229
+Coprothermobacteraceae	229
+Chloroherpetonaceae	229
+Coriobacteriaceae	229
+Chlorobiaceae	229
+mag_40587	229
+mag_37867	229
+mag_42519	229
+Electron-bifurcating caffeyl-CoA reductase-Etf complex	229
+mag_40850	229
+Flammeovirgaceae	229
+Tannerellaceae	229
+mag_38879	229
+mag_38928	229
+Methanomicrobiaceae	229
+mag_44981	229
+Lentimicrobiaceae	229
+mag_40549	229
+mag_309	229
+mag_44911	229
+mag_23620	229
+Akkermansiaceae	229
+mag_37627	229
+Saparoviridae	230
+mag_37907	230
+Methanospirillaceae	230
+Methanocalculaceae	230
+mag_37868	230
+Sphaerochaetaceae	230
+Monodopsidaceae	230
+Colubridae	230
+mag_38740	231
+mag_40071	231
+mag_41569	231
+mag_40063	231
+mag_40122	231
+mag_42827	231
+mag_38176	231
+mag_41121	231
+mag_41686	231
+mag_40657	231
+Christensenellaceae	231
+mag_47968	231
+mag_40553	231
+mag_56111	231
+mag_38401	231
+mag_44987	231
+mag_38804	231
+mag_37828	231
+Onagraceae	231
+mag_39534	231
+mag_38661	231
+mag_40533	231
+mag_42349	231
+mag_38778	231
+mag_40843	231
+mag_37819	231
+Muscidae	231
+mag_39467	231
+mag_42281	231
+Compsopogonaceae	231
+mag_38392	232
+mag_40243	232
+mag_39648	232
+mag_9	232
+mag_41626	232
+mag_81	232
+mag_39539	232
+mag_41537	232
+mag_38634	232
+mag_42596	232
+mag_38165	232
+mag_40856	232
+mag_52804	233
+mag_41976	233
+mag_41337	233
+mag_40439	233
+mag_40350	233
+mag_46143	233
+mag_2941	233
+Spizellomycetaceae	233
+mag_38747	233
+Deferribacteraceae	233
+mag_11674	233
+mag_160	233
+Thermonemataceae	233
+mag_38178	233
+mag_9488	233
+mag_40164	233
+mag_38541	233
+mag_39463	233
+mag_37811	233
+mag_38078	233
+Thiazole.oxazole-modified microcins	234
+mag_42337	234
+mag_39994	234
+mag_38072	234
+mag_38890	234
+mag_246	234
+mag_10472	234
+mag_38807	234
+mag_44160	234
+Methanomethylophilaceae	234
+mag_68	234
+Aphididae	234
+mag_50364	234
+mag_38515	234
+mag_38648	234
+mag_38439	234
+Dethiosulfovibrionaceae	234
+mag_40079	234
+mag_40227	234
+mag_40053	234
+mag_40062	234
+mag_40883	234
+Oweniidae	235
+mag_37735	235
+Aleyrodidae	235
+mag_37619	235
+mag_41137	236
+mag_43147	236
+mag_6	236
+mag_2919	236
+mag_38181	236
+mag_37729	236
+mag_3143	236
+mag_38798	236
+mag_37901	236
+mag_44152	236
+mag_321	236
+mag_37711	236
+mag_93	236
+Tsukamurellaceae	237
+mag_38549	237
+mag_37931	237
+mag_38145	237
+mag_38527	237
+mag_39576	237
+mag_38081	237
+mag_39142	237
+Tilletiariaceae	237
+mag_38136	237
+mag_39428	237
+mag_38039	237
+mag_3140	237
+mag_39060	237
+Merismopediaceae	237
+mag_38332	237
+mag_43376	237
+mag_43333	237
+mag_13218	237
+mag_38410	237
+mag_38565	237
+mag_37860	237
+mag_41397	237
+Pyramimonadaceae	237
+Lipid-linked oligosaccharide synthesis related cluster	237
+mag_41147	237
+mag_37895	237
+mag_41535	237
+mag_41921	237
+mag_282	237
+Ophiostomataceae	237
+mag_39616	237
+Carbonactinosporaceae	237
+Beutenbergiaceae	237
+mag_38173	238
+mag_38150	238
+mag_44333	238
+mag_38244	238
+Nanopelagicaceae	238
+mag_38269	238
+mag_37979	238
+Actinomycetaceae	238
+Platysternidae	238
+Galactosamine Substituent of Arabinogalactan in Mycobacteria	238
+mag_42568	238
+mag_8555	238
+mag_37732	238
+mag_42509	238
+ESAT-6 proteins secretion system in Mycobacteria (locus ESX-4)	238
+L-fucose utilization	238
+mag_383	238
+mag_41919	238
+mag_37784	238
+mag_39939	238
+Acanthasteridae	238
+mag_39362	238
+mag_2921	238
+mag_3059	238
+L-fucose dissimilation cluster	238
+mag_63	238
+Iron transport system including ABC transporter	238
+mag_10149	239
+mag_38402	239
+mag_39048	239
+mag_38398	239
+mag_38705	239
+mag_33566	239
+mag_40361	239
+mag_43444	239
+mag_38325	239
+mag_38251	239
+mag_40370	239
+mag_19208	239
+mag_38390	239
+mag_37836	239
+mag_40390	239
+mag_37834	239
+mag_38555	239
+mag_39314	239
+mag_40586	239
+mag_40286	239
+mag_38598	239
+mag_41291	239
+mag_40900	239
+mag_1597	239
+mag_39601	239
+mag_39468	239
+Cobalamin synthesis from Cob(II)yrinate a,c diamide	239
+mag_38452	239
+mag_40497	239
+Ceratobasidiaceae	239
+mag_42992	239
+mag_38118	239
+mag_38128	239
+mag_38130	239
+mag_39151	239
+mag_3553	239
+mag_38470	240
+mag_39955	240
+mag_44048	240
+mag_41789	240
+mag_38696	240
+mag_40372	240
+mag_38960	240
+mag_38873	240
+mag_41305	240
+mag_39341	240
+mag_39204	240
+Nototheniidae	240
+mag_37794	240
+Desulfurococcaceae	240
+mag_37768	240
+mag_40405	240
+mag_39628	240
+mag_40472	240
+mag_40864	240
+mag_37618	240
+mag_42256	240
+mag_41358	240
+mag_43281	240
+mag_38214	240
+mag_41152	240
+mag_41192	241
+mag_42837	241
+mag_299	241
+mag_41066	241
+mag_38253	241
+mag_38166	241
+mag_43134	241
+mag_43259	241
+mag_37771	241
+mag_42944	241
+mag_42530	241
+mag_38048	241
+mag_38467	241
+mag_42661	241
+Xeniidae	241
+mag_38450	241
+mag_41574	241
+mag_43695	241
+mag_42621	241
+mag_43460	241
+mag_39306	241
+mag_38695	241
+Cobalamin synthesis, Precorin-2 to Cob(II)yrinate a,c diamide, anaerobic	241
+mag_40522	241
+mag_50004	241
+mag_38806	241
+mag_38823	241
+Eubacteriaceae	241
+mag_39186	241
+Teichuronic acid biosynthesis	241
+mag_38949	241
+mag_45767	241
+mag_38983	241
+mag_39804	241
+mag_39168	241
+mag_40700	241
+mag_39773	241
+mag_39605	241
+mag_39147	241
+mag_44717	241
+mag_44113	241
+mag_39221	241
+mag_46078	241
+mag_40145	241
+mag_39282	241
+mag_40552	241
+mag_40212	241
+mag_39345	241
+mag_44972	241
+Cobalamin synthesis	241
+mag_40840	241
+Blattabacteriaceae	242
+mag_39920	242
+mag_46819	242
+mag_45171	242
+mag_38919	242
+mag_39885	242
+mag_43294	242
+Tropherymataceae	242
+Dunaliellaceae	242
+mag_37999	242
+mag_31208	242
+mag_40434	242
+Thermosediminibacteraceae	242
+Lutisporaceae	242
+Propanediol utilization	242
+mag_39597	242
+mag_40395	242
+mag_534	242
+mag_38318	242
+mag_37772	242
+mag_41728	242
+Oligosphaeraceae	242
+Flavobacteriaceae	242
+mag_38374	242
+mag_39189	242
+Thermodesulforhabdaceae	242
+Dihydroxyacetone kinases	242
+F0F1-type ATP synthase	242
+Dictyochaceae	242
+Adiutricaceae	242
+mag_40966	242
+Thermodesulfobacteriaceae	243
+Acidaminobacteraceae	243
+Dictyoglomaceae	243
+Spirochaetaceae	243
+mag_56754	243
+Koleobacteraceae	243
+Gracilibacteraceae	243
+Desulfobacteriaceae	243
+Sulfurovaceae	243
+Desulfallaceae	243
+Vahlkampfiidae	243
+Hakubellaceae	243
+Euzebyaceae	243
+mag_42532	244
+mag_37827	244
+mag_37691	244
+mag_37821	244
+Pseudourostylidae	244
+Styelidae	244
+mag_39390	244
+mag_37710	244
+Conexivisphaeraceae	244
+mag_37722	244
+Balamuthiidae	244
+mag_37791	244
+mag_37748	244
+Oikopleuridae	244
+Bovichtidae	244
+mag_37775	244
+Catenulisporaceae	244
+Mesocestoididae	244
+mag_40028	244
+mag_302	244
+mag_4789	244
+mag_4679	244
+mag_4393	244
+mag_342	244
+mag_450	244
+mag_572	244
+mag_1064	244
+mag_41744	244
+mag_3073	244
+mag_40182	244
+mag_2948	244
+mag_3068	244
+mag_75531	244
+mag_3026	244
+mag_2954	244
+mag_283	244
+mag_37680	244
+mag_11253	244
+mag_47169	244
+mag_37638	244
+Caricaceae	244
+Vitaceae	244
+Retroviridae	244
+Chrysoviridae	244
+Schizomimiviridae	244
+mag_34893	244
+mag_42283	244
+mag_40556	244
+mag_27157	244
+mag_57	244
+L-2-amino-adipate to lysine module	244
+mag_65	244
+mag_86	244
+mag_89	244
+mag_98	244
+mag_16415	244
+mag_12434	244
+mag_51	244
+mag_3017	244
+mag_42918	244
+mag_37961	244
+mag_2990	244
+mag_38012	244
+mag_38686	244
+mag_38978	244
+Ramalinaceae	244
+mag_44669	244
+Rhizopogonaceae	244
+Fusobacteriaceae	244
+mag_39015	244
+mag_39119	244
+mag_39042	244
+Desulfarculaceae	244
+mag_38337	244
+Defluviitaleaceae	244
+Limisphaeraceae	244
+mag_40835	244
+Peptococcaceae	244
+mag_38638	244
+mag_37954	244
+mag_40964	244
+mag_37933	244
+mag_37847	244
+Bryopsidaceae	244
+mag_40775	244
+Thiohalobacteraceae	244
+mag_37871	244
+Prasiolaceae	244
+Pseudodiaptomidae	244
+Deianiraeaceae	244
+mag_38538	244
+mag_41088	244
+mag_38309	244
+mag_37888	244
+Sanguibacteraceae	244
+mag_37911	244
+mag_38387	244
+mag_38869	244
+Nannocystaceae	244
+mag_38275	244
+mag_39874	245
+Porphyromonadaceae	245
+Marinifilaceae	245
+Catalimonadaceae	245
+Flexibacteraceae	245
+Cyclophoraceae	245
+Fulvivirgaceae	245
+Hirudinidae	245
+mag_40083	245
+Immundisolibacteraceae	245
+Opisthorchiidae	245
+mag_38338	245
+Poeciliidae	245
+mag_38594	245
+Kytococcaceae	245
+mag_3233	245
+mag_38610	245
+mag_9607	246
+Thermogemmatisporaceae	246
+Sysuiplasmataceae	246
+Antibiotic anticapsin - bacilysin	246
+Alydidae	246
+Microcystaceae	246
+mag_3133	246
+Carnitine operon	246
+mag_39736	246
+Picocystaceae	246
+Hydnangiaceae	246
+Prymnesiaceae	246
+mag_54371	246
+Naemateliaceae	246
+Porphyridiaceae	246
+mag_344	246
+Chrysochromulinaceae	246
+Acrospermaceae	246
+Octopodidae	246
+mag_1061	247
+Rickettsiaceae	247
+mag_38578	247
+mag_40995	247
+mag_38496	247
+Hepatoplasmataceae	247
+mag_2660	247
+Synergistaceae	247
+mag_40323	247
+mag_306	247
+Acidilutibacteraceae	247
+mag_38298	247
+Miltoncostaeaceae	247
+mag_38046	247
+mag_39180	247
+mag_37728	247
+mag_45564	247
+mag_37947	247
+Caldicellulosiruptoraceae	247
+Wall polysaccharide pyruvylation	247
+mag_37882	247
+mag_37881	247
+mag_37880	247
+Antricoccaceae	247
+mag_37863	247
+Cryptosporangiaceae	247
+mag_37918	247
+NAD-reducing [NiFe] hydrogenase HoxFUYH(E)	247
+Ostreidae	247
+mag_43818	247
+mag_39683	247
+Selaginellaceae	247
+Methanogenesis from methylated compounds	247
+Proteinivoraceae	247
+mag_38279	247
+Stachybotryaceae	247
+mag_38263	247
+Acidothermaceae	247
+mag_40655	247
+mag_32	247
+Iron(III) dicitrate transport system Fec	247
+Cyclobacteriaceae	248
+Ectoine synthesis	248
+Cobalamin synthesis, Precorin-2 to Cob(II)yrinate a,c diamide, aerobic	248
+Hominidae	248
+Lysine fermentation	248
+Lysine fermentation to crotonoyl-CoA	248
+Nymphonidae	248
+Suessiaceae	248
+2,3-diacetamido-2,3-dideoxy-d-mannuronic acid	248
+Caedimonadaceae	249
+Cloacimonadaceae	249
+Anaerolineaceae	249
+Planctomycetaceae	249
+Thermotogaceae	249
+Verrucomicrobiaceae	249
+mag_290	249
+Isotomidae	249
+Didymosphaeriaceae	249
+mag_97	249
+Bugulidae	249
+Tetrabaenaceae	249
+Liparidae	249
+Dactyloidae	249
+Gonapodyaceae	249
+Tetrahymenidae	249
+Halteriidae	249
+mag_40102	249
+Pythiaceae	249
+Arcellidae	249
+Reichenbachiellaceae	249
+Marivirgaceae	249
+Dissulfuribacteraceae	249
+Sporulation gene orphans	249
+Propionibacteriaceae	249
+Agrocinopine utilization	249
+Demequinaceae	249
+Ornithinimicrobiaceae	249
+Rarobacteraceae	249
+Gordoniaceae	249
+Tepidanaerobacteraceae	250
+mag_44772	250
+mag_46634	250
+mag_8679	250
+Lysianassidae	250
+mag_38226	250
+mag_38215	250
+mag_43028	250
+mag_41021	250
+mag_42899	250
+mag_37837	250
+mag_39388	250
+Pyrodictiaceae	250
+mag_39484	250
+mag_45159	250
+mag_37643	250
+mag_41163	250
+mag_7297	250
+mag_38277	250
+mag_3380	250
+Leptotrichiaceae	250
+mag_3306	250
+Nicotinate catabolism, anaerobic	250
+Desulfatibacillaceae	250
+mag_341	250
+mag_40859	250
+Culicoidibacteraceae	250
+Butyricicoccaceae	250
+mag_37542	250
+mag_39064	250
+mag_41502	251
+Peptostreptococcaceae	251
+mag_39423	251
+mag_39397	251
+mag_40719	251
+mag_42722	251
+Toxocaridae	251
+Anaerovoracaceae	251
+mag_37804	251
+mag_39262	251
+mag_45933	251
+mag_41495	251
+Veillonellaceae	251
+mag_38417	251
+mag_43483	251
+mag_38054	251
+mag_38064	251
+mag_40017	251
+Glutamate fermentation	251
+mag_44640	251
+mag_39905	251
+Magnetaquicoccaceae	251
+Brachyspiraceae	251
+mag_38488	251
+mag_38256	251
+mag_41040	251
+Geopsychrobacteraceae	251
+Eubacteriales Family XIII. Incertae Sedis	251
+NiFe hydrogenase maturation	251
+mag_41583	251
+mag_45563	251
+mag_15689	251
+mag_26662	251
+mag_42125	251
+mag_2934	251
+mag_23027	251
+mag_127	251
+mag_291	251
+mag_334	251
+Thermohalobacteraceae	252
+Acidaminococcaceae	252
+Thermoanaerobacterales Family IV. Incertae Sedis	252
+mag_37724	252
+Peptoclostridiaceae	252
+mag_38202	252
+Lachnospiraceae	252
+mag_48423	252
+Bianqueaceae	252
+mag_42716	252
+mag_40067	252
+mag_39549	252
+mag_40720	252
+mag_37690	252
+Entophysalidaceae	252
+mag_40749	252
+Sedimentisphaeraceae	252
+Hujiaoplasmataceae	252
+mag_40766	252
+Desulfurellaceae	252
+mag_284	252
+mag_3751	253
+mag_39293	253
+mag_43990	253
+Ribonucleotide reduction	253
+mag_75	253
+mag_39163	253
+mag_40528	253
+Oscillospiraceae	253
+Tissierellaceae	253
+mag_3018	253
+mag_38445	253
+mag_40881	253
+mag_276	253
+Coraliomargaritaceae	253
+Thermoanaerobacterales Family III. Incertae Sedis	253
+Filifactoraceae	253
+Vallitaleaceae	253
+mag_41688	253
+DNA repair, UvrABC system	254
+Pelagicoccaceae	255
+Heterocyst formation in cyanobacteria	255
+Elachuridae	255
+Steroidobacteraceae	255
+Anoxymicrobiaceae	255
+mag_43830	255
+Bacillibactin Siderophore	255
+Exosporium	255
+Maliibacteriaceae	255
+Macrolides, lincosamides, streptogramins, ketolides, oxazolidinones (MLSKO) resistance: enzymatic degradation	255
+Halarsenatibacteraceae	255
+mag_39217	255
+Lentisphaeraceae	255
+mag_22	255
+Rountreeviridae	255
+Mucoraceae	255
+Olpidiaceae	255
+mag_4	255
+Aotidae	256
+Mcinerneyibacteriaceae	256
+Macrolides, lincosamides, streptogramins, ketolides, oxazolidinones (MLSKO) resistance: rRNA methylases	256
+Leporidae	256
+Lythraceae	256
+Cantharellaceae	256
+mag_78	256
+Petromyzontidae	256
+mag_7782	256
+mag_37801	256
+mag_38310	256
+Scophthalmidae	256
+Buprestidae	256
+Harpellaceae	256
+Thermosulfidibacteraceae	256
+mag_41872	256
+mag_42473	256
+Vespidae	256
+Amanitaceae	256
+Pieridae	256
+Desulforegulaceae	256
+Troglotrematidae	256
+mag_34099	256
+Ichthyobacteriaceae	256
+Schleiferiaceae	256
+Longimicrobiaceae	256
+Skeletonemataceae	256
+mag_39785	256
+Tindalliaceae	256
+Tepidibacteraceae	257
+mag_1875	257
+Vallicoccaceae	257
+Haematococcaceae	257
+Fritschiellaceae	257
+Scenedesmaceae	257
+mag_38185	257
+mag_38577	257
+Nartheciaceae	257
+Sphaerophragmiaceae	257
+Chalcididae	257
+Syrphidae	257
+Potamogetonaceae	257
+Argynnaceae	257
+mag_38127	257
+mag_38651	257
+Phaeodactylaceae	257
+Plumbaginaceae	257
+Clavariaceae	257
+Chrysomelidae	257
+Accessory colonization factor	257
+Theileriidae	257
+mag_42197	257
+Cricetidae	257
+Toluene 4-monooxygenase (T4MO)	257
+Tinamidae	257
+Sulfomarinibacteraceae	257
+Cuculidae	257
+Charadriidae	257
+Thermoguttaceae	257
+Periconiaceae	257
+Pachyviridae	257
+mag_66	257
+Mucispirillaceae	257
+mag_40300	257
+Aeolococcaceae	257
+Thermococcaceae	257
+Nemacheilidae	257
+mag_49861	258
+mag_38765	258
+mag_2953	258
+mag_38160	258
+mag_39553	258
+mag_44977	258
+Abditibacteriaceae	258
+mag_349	258
+mag_3020	258
+mag_24	258
+mag_37716	258
+mag_390	258
+mag_38621	258
+Chaetodontidae	258
+mag_31228	258
+mag_38141	258
+Gobiesocidae	258
+mag_82	258
+mag_37851	258
+mag_41759	258
+Peptoniphilaceae	258
+mag_10	258
+mag_37816	258
+mag_39181	258
+mag_42320	258
+Ochromonadaceae	258
+Opisthocomidae	258
+mag_45	258
+Varanidae	258
+Eschrichtiidae	258
+mag_3348	258
+mag_39868	258
+mag_38622	258
+mag_3021	259
+Characeae	259
+Acerentomidae	259
+Anthocerotibacteraceae	259
+Pervagoviridae	259
+Coprobacillaceae	259
+mag_1132	259
+mag_38311	259
+mag_41670	259
+mag_38420	259
+Thermoflexibacteraceae	259
+mag_38461	259
+Breznakiellaceae	259
+mag_946	259
+Choreocolacaceae	259
+mag_38774	259
+mag_44196	259
+Armatimonadaceae	259
+mag_115	259
+mag_37960	259
+mag_37785	259
+Cenarchaeaceae	259
+Zymomonadaceae	259
+Aquicultoraceae	259
+Phyllostomidae	259
+mag_2946	259
+mag_37685	259
+mag_39270	259
+Salsipaludibacteraceae	259
+mag_354	259
+mag_39150	259
+mag_3070	259
+mag_38162	259
+Channichthyidae	259
+mag_37696	259
+mag_37688	259
+AMP to 3-phosphoglycerate	259
+mag_39120	259
+mag_37699	259
+mag_43154	259
+mag_41607	259
+Psalteriomonadidae	260
+Potyviridae	260
+Mallomonadaceae	260
+Nanobdellaceae	260
+Megophryidae	260
+Waddliaceae	260
+Coat proteins CotJABC	260
+mag_3795	260
+mag_1063	260
+mag_42610	260
+mag_37667	260
+mag_37	260
+mag_3833	260
+mag_39843	260
+Vicingaceae	260
+mag_79	260
+Vannellidae	260
+Philasteridae	260
+mag_37752	260
+mag_42223	260
+mag_39049	260
+Methanosarcinaceae	260
+Heligmosomidae	260
+Oceanococcaceae	260
+mag_61	260
+Desulfitibacteraceae	260
+mag_2602	260
+Clostridiales Family XVI. Incertae Sedis	260
+Pollicipedidae	260
+mag_38535	260
+Cuniculiplasmataceae	260
+mag_40821	260
+mag_2918	260
+Ardenticatenaceae	260
+Amphipleuraceae	260
+mag_38262	260
+Calcidiscaceae	260
+Termitidae	260
+mag_38307	260
+mag_17650	260
+Denticipitidae	260
+Activation of fatty acids as acyl-adenylates cluster subgroup FadD10	260
+Orchesellidae	260
+mag_38019	260
+mag_2922	260
+Monomastigaceae	260
+Pterulaceae	260
+Harpacticidae	260
+Carnitine metabolism and transport	261
+Arginine biosynthesis	261
+Fatty acid catabolic operon fadN-fadA-fadE (yusJKL)	261
+BactLuciferaseComplex	261
+Yersiniaceae	261
+D-gluconate and ketogluconates metabolism	261
+Chromobacteriaceae	261
+Methylglyoxal Metabolism	261
+Cyanophycin Metabolism	261
+Cysteine synthesis	261
+Cold shock proteins of CSP family	262
+Proline, 4-hydroxyproline uptake and utilization	262
+Erwiniaceae	263
+Putative oxidase COG2907	263
+Glyoxylate bypass	263
+Heme O and Heme A biosynthesis	263
+Citrate uptake cluster	264
+DNA repair, bacterial photolyase	264
+Proline biosynthesis (for review)	264
+Potassium-transporting ATPase	264
+Pectobacteriaceae	264
+Urea carboxylase and Allophanate hydrolase cluster	264
+Glycine betaine synthesis from choline	264
+Enterobacteriaceae	265
+Anaerobic module of TCA	265
+Pterin synthesis related cluster	265
+Arcobacteraceae	265
+Alkane biosynthesis in bacteria	266
+Urease subunits	266
+Listeriaceae	266
+Type III secretion system orphans	267
+Trans-envelope signaling system VreARI in Pseudomonas	267
+Acyclic terpene utilization	267
+mag_3096	267
+Adenylylsulfate reductase	267
+Quorum sensing regulation in Pseudomonas	267
+Rhamnolipids in Pseudomonas	267
+Salmochelin-mediated Iron Acquisition	267
+Sulfur transfer pathway CsdAEL	267
+Stress proteins YciF, YciE	267
+Outer membrane porins in Pseudomonas and Acinetobacter	267
+tRNA modification, 5-oxyacetyl uridine (cmo5U34)	267
+mag_2909	267
+Phenazine biosynthesis	267
+Type III secretion system	267
+MexXY System of Pseudomonas aeruginosa	267
+Siderophore Pyoverdine	267
+Mycobacterial FadD proteins (fatty acid CoA- and AMP- ligases)	267
+Two partner secretion pathway (TPS)	267
+ABC-type iron transport system	267
+Type 4 conjugative transfer system, IncI1 type	267
+Mycobacterial gene cluster associated with resistance against FAS-II antibiotics	267
+mag_457	267
+Type VI secretion system	267
+Type III secretion systems	267
+Potential DNA repair cluster	267
+Taurine and alkanesulfonate utilization as sulfur sources	267
+L-2-amino-4-methoxy-trans-3-butenoic acid synthesis	267
+mag_129	267
+Lipotidae	267
+Biogenesis of cbb3-type cytochrome c oxidases	267
+Cytochrome c oxidase EC 1.9.3.1	267
+Coenzyme PQQ synthesis	267
+Capitellidae	267
+IbrA and IbrB: co-activators of prophage gene expression	267
+Pseudomonadaceae	267
+Marinobacteraceae	267
+Edwardsiidae	267
+Acytosteliaceae	267
+Sulfate assimilation related cluster	267
+Aestuariirhabdaceae	267
+Heme and heme d1 biosynthesis from siroheme	267
+Cholera toxin	267
+mag_167	267
+Geothermobacteraceae	267
+CMP-pseudaminic acid synthesis	267
+Malonate decarboxylase	267
+EnvZ and OmpR regulon	267
+Onchocercidae	267
+Extracellular matrix proteins (PEL) involved in glucose-rich biofilm formation in Pseudomonas	267
+Beta-lactamases Ambler class D	267
+Colwelliaceae	267
+Extracellular matrix proteins (PSL) involved in mannose-rich biofilm formation in Pseudomonas	267
+mag_118	267
+mag_12	267
+Glutathione: Non-redox reactions	268
+Protection from Reactive Oxygen Species	268
+Tolerance to colicin E2 and CreBC signal transduction system	268
+Efflux ABC transporter YadGH	268
+Putrescine utilization	268
+Flagellum	268
+Polymyxin resistance, lipid A modifications with 4-amino-4-deoxy-L-arabinose	268
+Polymyxin resistance, lipid A modifications with phosphoethanolamine	268
+Malvaceae	268
+Fusaric acid resistance cluster	268
+General Secretion Pathway	268
+Tol-Pal Cell Envelope Complex	268
+Glutathione-dependent pathway of formaldehyde detoxification	268
+HMG CoA Synthesis	268
+Tripartite multidrug efflux systems (of MFS type) in Gram-negative bacteria	268
+Polyadenylation, bacterial	268
+Tripartite multidrug efflux systems (of MFS type) EmrKY-TolC and EmrAB-TolC	268
+Iron siderophore sensor & receptor system	268
+Putative TldE-TldD proteolytic complex	268
+Multidrug Resistance, Tripartite Systems Found in Gram Negative Bacteria TEMP	268
+Spongiibacteraceae	268
+Chemotaxis in Escherichia coli and Bacillus subtilis	268
+Bacterial pathways for dimethylsulfoniopropionate and acrylate catabolism	269
+Mycobacterial FadE proteins Acyl-CoA dehydrogenase	269
+Sepiidae	269
+Tricarboxylate transport system	269
+Possible heterocyst differentiation related cluster	269
+Vanillate and syringate utilization	269
+Ephemeridae	269
+Dihydropyrimidine dehydrogenase	269
+Carbon storage regulator	269
+Polymyxin resistance	269
+Tripartite multidrug efflux systems (of RND type) MdtABC-TolC	269
+Microbulbiferaceae	269
+Formate dehydrogenase	269
+Asteraceae	269
+Fabaceae	269
+Proteasome bacterial	269
+Nitrosomonadaceae	269
+Respiratory Systems - Shewanella (updated)	269
+Copper transport and blue copper proteins	269
+Daphniidae	269
+D-arabinose utilization	269
+Rhizophoraceae	269
+Phosphoenolpyruvate phosphomutase	269
+Sarcosine oxidases, monomeric and heterotetrameric	269
+Phosphonate metabolism	269
+Maricaulaceae	269
+Periplasmic nitrate reductase EC 1.7.99.4	269
+Bruguierivoracaceae	270
+Sulfate reduction-associated complexes	270
+Ubiquinone biosynthesis	270
+Glycolate, glyoxylate interconversions	270
+mag_38240	270
+Tocopherols and tocotrienols (vitamin E) in plants and cyanobacteria	270
+Ribitol utilization	270
+Puniceicoccaceae	270
+Cytochrome bo ubiquinol oxidase 	270
+Culicidae	270
+Biogenesis of cytochrome c oxidases	270
+Entamoebidae	270
+TAM transport system	271
+Funariaceae	271
+Magnetospirillaceae	271
+Phycisphaeraceae	271
+Acidiferrobacteraceae	271
+mag_23210	271
+Salicaceae	271
+Selenocysteine metabolism	271
+Strongyloididae	271
+mag_25310	271
+Delta(6)-desaturase containing cluster	271
+Beta-lactamases Ambler class C	271
+D-galacturonate utilization, oxidative pathway	271
+mag_1373	271
+Gentisate pathway	271
+Halomonadaceae	271
+Glutaconate CoA-transferase or 3-oxoadipate CoA-transferase Subunits	271
+Mycolic acid synthesis 2	271
+Siderophore Enterobactin	271
+Steinernematidae	271
+Cysteine dioxygenase containing cluster 1	271
+Cell wall-associated cluster in Mycobacterium	272
+Xanthine dehydrogenase subunits	272
+Lipopolysaccharide in K12	272
+Zoogloeaceae	272
+Gemmatimonadaceae	272
+Alcanivoracaceae	272
+Predicted secretion system W clustering with cell division proteins	273
+Tripartite multidrug efflux systems (of RND type) in Pseudomonas	274
+Maintenance of outer membrane lipid asymmetry	274
+Uridine to beta-Alanine and Thymine to 3-aminoisobutanoate module	274
+Nucleoside ABC transporter cluster	274
+mag_19473	275
+Cesiribacteraceae	275
+Arginine succinyltransferase pathway	275
+Victivallaceae	276
+Thorselliaceae	276
+Raperosteliaceae	276
+Oleiphilaceae	276
+Robiginitomaculaceae	276
+Tuberaceae	276
+Sminthuridae	277
+P2-like phage	277
+Carbonic anhydrase	277
+mag_319	278
+Siderophore pyochelin	278
+mag_38567	278
+Coxiellaceae	278
+Termopsidae	278
+Natronospirillaceae	278
+Xystonellidae	278
+Ventosimonadaceae	278
+Dissulfurirhabdaceae	278
+Microbiotheriidae	278
+Desulfobaccaceae	278
+Thiofilaceae	278
+Entericidin	278
+Small efflux transporters of SMR family	278
+Lipid orphans	279
+Syntrophorhabdaceae	279
+Universal stress protein family	279
+Woeseiaceae	279
+Purine catabolism in Bacillus subtilis	280
+Arsenic resistance	280
+Cell division related cluster including coaD	281
+Polyamine Metabolism	282
+mag_27238	283
+Cytolysin and Lipase operon in Vibrio	283
+Bile hydrolysis	283
+Multi-subunit cation antiporter	283
+mag_5385	283
+mag_40160	283
+Urea cycle	284
+Fet iron export system	284
+Histidine Biosynthesis	284
+Hydroxy-fatty acid production as stress response	284
+Arginine biosynthesis via N-acetyl-L-citrulline	284
+Histidine Biosynthesis -- gjo	284
+mag_45602	285
+mag_40146	285
+mag_39876	285
+mag_46049	285
+mag_39862	285
+mag_39791	285
+mag_39630	285
+Biofilm formation in Staphylococcus	285
+mag_46087	285
+Methylglyoxal resistance in Bacillus subtilis	285
+mag_39723	285
+mag_39765	285
+mag_39887	285
+Siderophore Anthrachelin	285
+mag_39936	285
+mag_40107	285
+mag_40025	285
+mag_45706	285
+mag_39602	285
+mag_40021	285
+Bacillithiol synthesis	285
+mag_40000	285
+mag_39944	285
+mag_39938	285
+Biosynthesis of 4,4'-diapolycopene dialdehyde	285
+mag_49155	285
+mag_40486	285
+mag_39937	285
+Formaldehyde assimilation: Ribulose monophosphate pathway	285
+Adhesins in Staphylococcus	285
+Siderophore Staphylobactin	285
+Pore-forming cytolytic toxins	285
+mag_3019	285
+mag_38733	285
+mag_38537	285
+mag_37687	285
+mag_37681	285
+mag_43853	285
+mag_38587	285
+mag_37626	285
+mag_40838	285
+mag_38683	285
+mag_38684	285
+mag_41548	285
+mag_38698	285
+mag_41549	285
+mag_43143	285
+mag_41564	285
+mag_38751	285
+mag_44155	285
+mag_41577	285
+mag_41597	285
+mag_40770	285
+mag_38519	285
+mag_41433	285
+mag_40916	285
+mag_42637	285
+mag_43152	285
+mag_41188	285
+mag_43023	285
+mag_43208	285
+mag_38097	285
+mag_40494	285
+mag_43271	285
+mag_38084	285
+mag_42937	285
+mag_38840	285
+mag_41323	285
+mag_37833	285
+mag_42720	285
+mag_41069	285
+mag_38386	285
+mag_43476	285
+mag_43612	285
+Desulfococcaceae	285
+mag_38472	285
+mag_40246	285
+mag_41325	285
+mag_38920	285
+mag_41186	285
+mag_41618	285
+mag_39143	285
+mag_42170	285
+mag_42167	285
+mag_16103	285
+mag_3282	285
+mag_39152	285
+mag_40619	285
+mag_39187	285
+mag_40744	285
+mag_44865	285
+mag_41948	285
+mag_41881	285
+mag_39202	285
+mag_41776	285
+mag_40571	285
+mag_3072	285
+Actinospicaceae	285
+mag_39271	285
+mag_39349	285
+mag_39140	285
+p-Aminobenzoyl-Glutamate Utilization	285
+Staphylococcaceae	285
+mag_39485	285
+mag_38923	285
+mag_38924	285
+mag_38973	285
+mag_44376	285
+mag_45498	285
+Desulfotomaculaceae	285
+mag_39019	285
+mag_39036	285
+mag_40699	285
+Teicoplanin resistance in Staphylococci	285
+mag_39097	285
+mag_39116	285
+mag_45019	285
+Fosfomycin resistance	286
+Listeria Pathogenicity Island LIPI-1 extended	286
+mag_38451	286
+mag_38967	286
+mag_44162	286
+mag_37980	286
+mag_44242	286
+mag_43321	286
+Toxins	286
+Alpha-acetolactate operon	286
+Enterobacterial common antigen (LPS O-antigen)	287
+Histidine Degradation	287
+Trematosphaeriaceae	288
+Dipicolinate Synthesis	288
+mag_43050	288
+mag_38485	288
+Beta-lactamases Ambler class A	288
+Dethiobacteraceae	288
+mag_39672	288
+Anaerotignaceae	288
+Fibrobacteraceae	288
+mag_39582	288
+mag_39123	288
+Pelagibacteraceae	288
+mag_37765	288
+mag_37622	289
+mag_3247	289
+Microascaceae	289
+Ceratocystidaceae	289
+Pseudodiploosporaceae	289
+Diversisporaceae	289
+Diatrypaceae	289
+mag_2975	289
+Lophiotremataceae	289
+mag_38267	289
+Bionectriaceae	289
+Zopfiaceae	289
+Phaeomoniellaceae	289
+Amorphothecaceae	289
+Cryphonectriaceae	289
+Hyaloscyphaceae	289
+Methylacidiphilaceae	289
+mag_329	290
+mag_41382	290
+Temoridae	290
+Sordariaceae	290
+Psyllidae	290
+Chaetomiaceae	290
+mag_43693	290
+mag_37756	290
+Calditerrivibrionaceae	290
+Glomerellaceae	290
+Ophiocordycipitaceae	290
+Strongylocentrotidae	290
+Clavicipitaceae	290
+mag_37974	290
+Queuosine and archaeosine	291
+Murein hydrolase regulation and cell death	291
+Nickel-requiring	291
+ESAT-6 proteins secretion system in Firmicutes extended	291
+Metabolite repair	292
+Adenosyl nucleosidases	292
+mag_269	293
+mag_352	293
+mag_42234	293
+mag_38784	293
+mag_1001	293
+mag_39198	293
+mag_39242	293
+mag_3104	293
+Schizaeaceae	293
+mag_2933	293
+mag_40216	293
+mag_37641	293
+mag_37650	293
+mag_102	293
+Ampullariidae	293
+mag_40234	293
+mag_40089	293
+mag_39788	293
+Bombycidae	293
+Psittaculidae	293
+Oxyuridae	294
+Bacillaceae	294
+Planococcaceae	294
+Alicyclobacillaceae	294
+Lipoylation-related cluster	294
+mag_2915	294
+Deinococcaceae	294
+Glomeraceae	295
+Hydrolysis of sphingomyelin	295
+Chlorodendraceae	295
+Thalassospiraceae	295
+Vibrionaceae	295
+Valsaceae	295
+Methanobacteriaceae	296
+Na-driven 2-hydroxyglutarate pathway	296
+RSF1010 like IncQ broad-host-range plasmids	297
+mag_44938	297
+mag_3316	297
+mag_45782	297
+mag_39074	297
+tRNA aminoacylation, Thr	298
+Biotin synthesis cluster	298
+Hypoxylaceae	299
+Sclerotiniaceae	299
+Apidae	300
+Hypocreaceae	300
+Peronosporaceae	300
+Nectriaceae	300
+Leptospiraceae	300
+Dicroglossidae	300
+Pyriculariaceae	300
+Helotiaceae	300
+Cytophagaceae	300
+Pseudeurotiaceae	300
+Venturiaceae	300
+Plectosphaerellaceae	300
