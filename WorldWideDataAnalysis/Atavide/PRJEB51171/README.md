@@ -28,6 +28,8 @@ Pallenberg ST, Pust M-M, Rosenboom I, Hansen G, Wiehlmann L, Dittrich A-M, Tumml
 - We analysed 63 metagenomic sequence runs.
 - We predicted 3 samples out of 63 (4.8%) have _Pseudomonas aeruginosa_
 
+The complete comparison of our predictions and the metadata from Pallenberg et al is available in [prediction_outcomes.tsv](prediction_outcomes.tsv)
+
 <details>
 <summary>
 ## Prediction outcomes
