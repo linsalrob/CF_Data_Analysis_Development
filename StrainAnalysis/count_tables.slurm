@@ -25,5 +25,5 @@ do
     reads=$(samtools idxstats "$bam" \
         | awk '$1 != "*" {sum += $3} END {print sum+0}')
 
-    echo -e "${sample}\t${reads}" >> read_counts.tsv
+    echo -e "${sample}\t${reads}" >> ${MAG}_read_counts.tsv
 done

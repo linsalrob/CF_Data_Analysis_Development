@@ -50,4 +50,4 @@ do
 			echo -e "\n$pwcf\nNumber of samples: $NS\nLow Quality (all) SNPs: $LQ\nHigh quality SNPs: $HQ\n"
 		fi
 	fi
-done > genotype_counts.txt
+done > ${MAG}_genotype_counts.txt
