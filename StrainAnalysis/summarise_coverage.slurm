@@ -15,6 +15,7 @@ eval "$(conda shell.bash hook)"
 conda activate /scratch/pawsey1018/edwa0468/software/miniconda3/36b7c7c353af
 
 MAG=$(basename "$SLURM_SUBMIT_DIR")
+echo -e "sample\tcovered_contigs\tcovered_contig_len\treads\tmean_coverage_pct\tweighted_mean_depth" > coverage_summary.tsv
 for f in $(find tables/${MAG}_coverage_summary/ -type f -name \*coverage.tsv); do
 	NZ=${f/coverage.tsv/coverage.nonzero.tsv}
 
@@ -32,7 +33,6 @@ for f in $(find tables/${MAG}_coverage_summary/ -type f -name \*coverage.tsv); d
 	}
 	END {
 	    OFS="\t"
-	    print "sample", "covered_contigs", "covered_contig_len", "reads", "mean_coverage_pct", "weighted_mean_depth"
 	    for (s in contigs) {
 		print s,
 		      contigs[s],
@@ -41,5 +41,5 @@ for f in $(find tables/${MAG}_coverage_summary/ -type f -name \*coverage.tsv); d
 		      100*covered_bases[s]/total_len[s],
 		      depth_sum[s]/total_len[s]
 	    }
-	}' $NZ 
+	}' $NZ >> coverage_summary.tsv
 done
