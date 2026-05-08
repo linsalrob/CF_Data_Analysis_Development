@@ -12,7 +12,7 @@ set -euo pipefail
 trap 's=$?; echo "$0: Error on line "$LINENO": $BASH_COMMAND"; exit $s' ERR
 
 eval "$(conda shell.bash hook)"
-conda activate /scratch/pawsey1018/edwa0468/software/miniconda3/36b7c7c353af
+conda activate /scratch/$PAWSEY_ACCOUNT/$USER/software/miniconda3/strain_analysis
 
 MAG=$(basename "$SLURM_SUBMIT_DIR")
 echo -e "near_ref_<0.05\tnear_alt_>0.95\tintermediate_0.2_to_0.8\tother_0.05_to_0.2_or_0.8_to_0.95\tNA" > ${MAG}_allele_frequencies.tsv

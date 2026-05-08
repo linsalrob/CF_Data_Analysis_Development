@@ -12,7 +12,7 @@ set -euo pipefail
 trap 's=$?; echo "$0: Error on line "$LINENO": $BASH_COMMAND"; exit $s' ERR
 
 eval "$(conda shell.bash hook)"
-conda activate /scratch/pawsey1018/edwa0468/software/miniconda3/36b7c7c353af
+conda activate /scratch/$PAWSEY_ACCOUNT/$USER/software/miniconda3/strain_analysis
 
 MAG=$(basename "$SLURM_SUBMIT_DIR")
 echo -e "sample\tcovered_contigs\tcovered_contig_len\treads\tmean_coverage_pct\tweighted_mean_depth" > ${MAG}_coverage_summary.tsv

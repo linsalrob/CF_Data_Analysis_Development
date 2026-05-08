@@ -44,15 +44,7 @@ GenBank file mag\_12.gb.
 0. Create a mamba environment with bcftools and bedtools
 
 ```
-mamba env create -f env.yaml
-```
-
-_Note:_ if you are doing this on Pawsey, do it this way:
-
-```
-TMP=$(for i in {1..12}; do printf "%x" $((RANDOM % 16)); done)
-mamba create -y --prefix=/scratch/pawsey1018/edwa0468/software/miniconda3/$TMP -f env.yaml --channel-priority flexible
-mamba activate /scratch/pawsey1018/edwa0468/software/miniconda3/$TMP
+mamba create -y --prefix=/scratch/$PAWSEY_ACCOUNT/$USER/software/miniconda3/strain_analysis -f env.yaml --channel-priority flexible
 ```
 
 1. Make a sourmash index of your MAG(s) and search against the database.
