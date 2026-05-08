@@ -47,6 +47,44 @@ GenBank file mag\_12.gb.
 mamba env create -f env.yaml
 ```
 
+_Note:_ if you are doing this on Pawsey, do it this way:
+
+```
+TMP=$(for i in {1..12}; do printf "%x" $((RANDOM % 16)); done)
+mamba create -y --prefix=/scratch/pawsey1018/edwa0468/software/miniconda3/$TMP -f env.yaml --channel-priority flexible
+mamba activate /scratch/pawsey1018/edwa0468/software/miniconda3/$TMP
+```
+
+1. Make a sourmash index of your MAG(s) and search against the database.
+
+Check [the sourmash page](https://sourmash.readthedocs.io/en/latest/databases-md/) for the latest GTDB release 31-mers
+and download that, and then update sourmash.slurm with the file.
+
+```
+sbatch sourmash.slurm MAG.fna
+```
+
+2. Download the top hit from the sourmash sketch using [NCBI Datasets](https://www.ncbi.nlm.nih.gov/datasets/docs/v2/reference-docs/data-packages/genome/)
+
+```
+datasets download genome accession GCF_001457615.1 --include gbff
+```
+
+3. Convert the gbff to gff3 and fasta
+
+This python code does both in one go and creates gziped fasta and gff3 files
+
+```
+python /home/edwa0468/GitHubs/CF_Data_Analysis_Development/StrainAnalysis/gbk2gff_fna.py -i  GCF_002209555.1.gbff
+```
+
+This will create the output files `GCF_002209555.1.gff.gz` and `GCF_002209555.1.fna.gz`
+
+
+4. Map the reads in the folder `reads` to the fasta file:
+
+
+
 1. Create a list of the contigs that contribute to the MAG:
 
 ```
@@ -110,7 +148,7 @@ sbatch ../slurm/genotype_counts.slurm
 Convert the GenBank file to a GFF file
 
 ```
-python gbk2gff.py <mag.gbk> <mag.gff>
+python gbk2gff_fna.py <mag.gbk> <mag.gff>
 ```
 
 For example:
