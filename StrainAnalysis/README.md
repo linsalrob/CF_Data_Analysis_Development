@@ -75,21 +75,36 @@ This will create the output files `GCF_002209555.1.gff.gz` and `GCF_002209555.1.
 
 4. Map the reads in the folder `reads` to the fasta file:
 
+In this case, we have short reads in the folder `reads` and long reads in the folder `nanopore`
 
-
-1. Create a list of the contigs that contribute to the MAG:
 
 ```
-zgrep '^>' ../../MixedAssemblies/cross_assembly/bins/2.fna.gz  | sed 's/^>//' | awk '{print $1}' > mag_2.contigs.txt
+REF=GCF_002209555.1.fna.gz
+for F in $(find ../nanopore/ -type f -printf "%f\n"); do sbatch /home/edwa0468/GitHubs/pawsey/slurm/minimap_minion.slurm $REF  ../nanopore/$F bam/${F/.fastq.gz/.bam}; done; 
+for R1 in $(find ../no_human/ -type f -printf "%f\n"); do R2=${R1/R1/R2}; BM=${R1/_R1.fastq.gz/.bam}; sbatch /home/edwa0468/GitHubs/pawsey/slurm/minimap_sr.slurm $REF $R1 $R2 bam/$bam; done
 ```
 
-2. Extract the reads that map to the MAG from each of the bam files
+5. Join all the bam files together
+
+```
+sbatch merge_bam_files.slurm
+```
+
+
+5. Create a list of the contigs that contribute to the MAG:
+
+```
+zgrep '^>'  ../../MixedAssemblies/cross_assembly/bins/2.fna.gz  | sed 's/^>//' | awk '{print $1}' > mag_2.contigs.txt
+zgrep '^>' GCF_002209555.1.fna.gz > `basename $PWD`.contigs.txt
+```
+
+6. Extract the reads that map to the MAG from each of the bam files
 
 ```
 sbatch ../slurm/extract_mapped_reads.slurm
 ```
 
-3. Summarise the number of reads per bam file
+7. Summarise the number of reads per bam file
 
 ```
 sbatch ../slurm/count_tables.slurm
@@ -97,7 +112,7 @@ sbatch ../slurm/count_tables.slurm
 
 ***Output:*** read\_counts.tsv
 
-4. Calculate the coverage per sample
+8. Calculate the coverage per sample
 
 ```
 sbatch ../slurm/coverage.slurm

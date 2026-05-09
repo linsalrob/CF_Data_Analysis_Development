@@ -22,7 +22,7 @@ def convert(gb, gff, fna):
     with opener(gb, "rt") as handle, gzip.open(gff, "wt") as gffout, gzip.open(fna, 'wt') as fnaout:
         gffout.write("##gff-version 3\n")
         for record in SeqIO.parse(handle, "genbank"):
-            fnaout.write(f">{record.id} {record.description}\n{record.seq}")
+            fnaout.write(f">{record.id} {record.description}\n{record.seq}\n")
             for feature in record.features:
                 if feature.type not in {"CDS", "gene", "rRNA", "tRNA", "tmRNA", "ncRNA"}:
                     continue

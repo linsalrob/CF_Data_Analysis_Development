@@ -18,7 +18,7 @@ MAG=$(basename "$SLURM_SUBMIT_DIR")
 
 mkdir -p mapped_reads/${MAG}
 
-for bam in ../../MixedAssemblies/cross_assembly/mapped_reads/merged/*.bam
+for bam in merged/*.bam
 do
     sample=$(basename "$bam" .bam)
 
