@@ -12,10 +12,7 @@ To identify additional samples suitable for strain-level analysis of the mag\_12
 Pseudomonas MAG, reads were extracted from previously merged sample BAM files
 using the list of contigs assigned to mag\_12. For each sample, reads mapping to
 any mag\_12 contig were extracted with samtools view, generating sample-specific
-mag\_12 BAM files. These BAMs were subsequently coordinate-sorted and indexed
-before downstream coverage and variant analyses, because the initial
-region-based extraction could emit records in contig-list order rather than
-BAM-header order.
+mag\_12 BAM files. 
 
 Read recruitment to mag\_12 was quantified for each sample using samtools
 idxstats, summing mapped reads across all mag\_12 contigs. Samples were
@@ -81,7 +78,7 @@ In this case, we have short reads in the folder `reads` and long reads in the fo
 ```
 REF=GCF_002209555.1.fna.gz
 for F in $(find ../nanopore/ -type f -printf "%f\n"); do sbatch /home/edwa0468/GitHubs/pawsey/slurm/minimap_minion.slurm $REF  ../nanopore/$F bam/${F/.fastq.gz/.bam}; done; 
-for R1 in $(find ../no_human/ -type f -printf "%f\n"); do R2=${R1/R1/R2}; BM=${R1/_R1.fastq.gz/.bam}; sbatch /home/edwa0468/GitHubs/pawsey/slurm/minimap_sr.slurm $REF $R1 $R2 bam/$bam; done
+for R1 in $(find ../no_human/ -type f -name '*_R1.fastq.gz' -printf "%f\n"); do R2=${R1/R1/R2}; BM=${R1/_R1.fastq.gz/.bam}; sbatch /home/edwa0468/GitHubs/pawsey/slurm/minimap_sr.slurm $REF ../no_human/$R1 ../no_human/$R2 bam/$BM; done
 ```
 
 5. Join all the bam files together
@@ -182,7 +179,7 @@ We _may_ be able to run several of these:
 ```
 SD=$HOME/GitHubs/CF_Data_Analysis_Development/StrainAnalysis
 
-JOB=$(sbatch --parsable --dependency=afterok:$JOB $SD/merge_bam_files.slurm)
+JOB=$(sbatch --parsable $SD/merge_bam_files.slurm)
 JOB=$(sbatch --parsable --dependency=afterok:$JOB $SD/extract_mapped_reads.slurm)
 JOB=$(sbatch --parsable --dependency=afterok:$JOB $SD/count_tables.slurm)
 JOB=$(sbatch --parsable --dependency=afterok:$JOB $SD/coverage.slurm)
