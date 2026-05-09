@@ -126,6 +126,7 @@ sbatch ../slurm/summarise_coverage.slurm
 
 ***Output:*** coverage\_summary.tsv
 
+
 5. Calculate the variants per genome
 
 Copy the MAG fasta file:
@@ -175,4 +176,18 @@ sbatch ../slurm/extract_discordant_snps.slurm
 
 ```
 tar zcf outputs.tgz read_counts.tsv coverage_summary.tsv genotype_counts.txt
+```
+
+We _may_ be able to run several of these:
+```
+SD=$HOME/GitHubs/CF_Data_Analysis_Development/StrainAnalysis
+
+JOB=$(sbatch --parsable --dependency=afterok:$JOB $SD/merge_bam_files.slurm)
+JOB=$(sbatch --parsable --dependency=afterok:$JOB $SD/extract_mapped_reads.slurm)
+JOB=$(sbatch --parsable --dependency=afterok:$JOB $SD/count_tables.slurm)
+JOB=$(sbatch --parsable --dependency=afterok:$JOB $SD/coverage.slurm)
+JOB=$(sbatch --parsable --dependency=afterok:$JOB $SD/summarise_coverage.slurm)
+JOB=$(sbatch --parsable --dependency=afterok:$JOB $SD/variants.slurm)
+JOB=$(sbatch --parsable --dependency=afterok:$JOB $SD/genotype_counts.slurm)
+JOB=$(sbatch --parsable --dependency=afterok:$JOB $SD/extract_discordant_snps.slurm)
 ```

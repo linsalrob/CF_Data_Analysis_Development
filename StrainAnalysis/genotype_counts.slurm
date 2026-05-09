@@ -20,7 +20,7 @@ do
 	if [[ -e variants/$pwcf/filtered/$pwcf.${MAG}.snps.qual30.dp20.vcf.gz ]]; then
 
 
-		NS=$(find mapped_reads/${MAG}_sorted -name ${pwcf}_*.bam | wc -l);
+		NS=$(find mapped_reads/${MAG} -name ${pwcf}_*.bam | wc -l);
 		LQ=$(bcftools view -H variants/$pwcf/$pwcf.${MAG}.raw.vcf.gz | wc -l)
 		HQ=$(bcftools view -H variants/$pwcf/filtered/$pwcf.${MAG}.snps.qual30.dp20.vcf.gz | wc -l)
 

@@ -23,13 +23,13 @@ mkdir -p variants/${MAG}_adelaide
 bcftools mpileup \
   -f ${MAG}.fna \
   -Ou \
-  mapped_reads/${MAG}_sorted/1128691_20171206_S.${MAG}.sorted.bam \
-  mapped_reads/${MAG}_sorted/639354_20171206_S.${MAG}.sorted.bam \
-  mapped_reads/${MAG}_sorted/1162967_20180116_S.${MAG}.sorted.bam \
-  mapped_reads/${MAG}_sorted/983493_20180123_S.${MAG}.sorted.bam \
-  mapped_reads/${MAG}_sorted/1282052_20180206_S.${MAG}.sorted.bam \
-  mapped_reads/${MAG}_sorted/1593973_20180504_S.${MAG}.sorted.bam \
-  mapped_reads/${MAG}_sorted/895293_20180502_S.${MAG}.sorted.bam \
+  mapped_reads/${MAG}/1128691_20171206_S.${MAG}.bam \
+  mapped_reads/${MAG}/639354_20171206_S.${MAG}.bam \
+  mapped_reads/${MAG}/1162967_20180116_S.${MAG}.bam \
+  mapped_reads/${MAG}/983493_20180123_S.${MAG}.bam \
+  mapped_reads/${MAG}/1282052_20180206_S.${MAG}.bam \
+  mapped_reads/${MAG}/1593973_20180504_S.${MAG}.bam \
+  mapped_reads/${MAG}/895293_20180502_S.${MAG}.bam \
 | bcftools call \
   -mv \
   --ploidy 1 \
