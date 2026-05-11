@@ -15,8 +15,9 @@ eval "$(conda shell.bash hook)"
 conda activate /scratch/$PAWSEY_ACCOUNT/$USER/software/miniconda3/strain_analysis
 
 MAG=$(basename "$SLURM_SUBMIT_DIR")
-for pwcf in $(find variants/ -maxdepth 1 -mindepth 1 -type d -printf "%f\n" | grep -v ${MAG})
+for pwcf in $(find variants/ -maxdepth 1 -mindepth 1 -type d -printf "%f\n")
 do
+	echo $pwcf >&2
 	if [[ -e variants/$pwcf/filtered/$pwcf.${MAG}.snps.qual30.dp20.vcf.gz ]]; then
 
 
