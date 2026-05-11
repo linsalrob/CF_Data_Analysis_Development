@@ -172,7 +172,7 @@ sbatch ../slurm/extract_discordant_snps.slurm
 8. tar the outputs
 
 ```
-tar zcf outputs.tgz read_counts.tsv coverage_summary.tsv genotype_counts.txt
+tar zcf outputs.tgz *_read_counts.tsv *_coverage_summary.tsv *_genotype_counts.txt
 ```
 
 We _may_ be able to run several of these:
